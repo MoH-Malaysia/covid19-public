@@ -10,7 +10,8 @@
 1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
 2) [`cases_state.csv`](/epidemic/cases_state.csv): Daily recorded COVID-19 cases at state level, as of 1200 of date.
 3) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
-2) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
+4) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
+5) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests by type at country level, as of 1200 of date.
 
 ### Vaccination
 
