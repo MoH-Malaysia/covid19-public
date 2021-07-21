@@ -1,19 +1,26 @@
-# Open data on Malaysia's National Covid-​19 Immunisation Programme 
+# Open data on COVID-19 in Malaysia
 
 **We will continually maintain and improve the scope and granularity of data in this repo.**
 + Documentation and data descriptions contained within subfolders. 
-+ To request more data, submit a pull request to add to the [data wishlist](/CONTRIB.md#data-requests).
-+ We are happy to collate work which builds on our data - submit a pull request to add to the [projects list](/CONTRIB.md#share-your-work).
 
 ---
 
-**Vaccination**
-1) [`vax_malaysia.csv`](/vaccination/vax_malaysia.csv): Daily and cumulative vaccination at country level, as at 2359 of date.
-2) [`vax_state.csv`](/vaccination/vax_state.csv): Daily and cumulative vaccination at state level, as at 2359 of date.
+**Epidemic**
 
-**Registration**
-1) [`vaxreg_malaysia.csv`](/registration/vaxreg_malaysia.csv): Cumulative registrations for vaccination at country level, as at 2359 of date.
-2) [`vaxreg_state.csv`](/registration/vaxreg_state.csv): Cumulative registrations vaccination at state level, as at 2359 of date.
+1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
+2) [`cases_state.csv`](/epidemic/cases_state.csv): Daily recorded COVID-19 cases at state level, as of 1200 of date.
+3) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
+2) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
+
+**Vaccination**
+
+MoH works together with MoSTI and the COVID-19 Immunisation Task Force (CITF) to publish open data on Malaysia's vaccination rollout. All relevant data can be found at [this repo](https://github.com/CITF-Malaysia/citf-public).
+
+**MySejahtera**
+
+1) [`checkin_malaysia.csv`](/epidemic/checkin_malaysia.csv): Daily checkins on MySejahtera at country level, as of 2359 of date.
+2) [`checkin_malaysia_time.csv`](/epidemic/checkin_malaysia_time.csv): Time distribution of daily checkins on MySejahtera at country level, as of 2359 of date.
+3) [`trace_malaysia.csv`](/epidemic/trace_malaysia.csv): Daily casual contacts traced and hotspots identified by HIDE, at country level, as of 2359 of date.
 
 **Static data**
 
