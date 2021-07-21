@@ -18,9 +18,9 @@ MoH works together with MoSTI and the COVID-19 Immunisation Task Force (CITF) to
 
 **MySejahtera**
 
-1) [`checkin_malaysia.csv`](/epidemic/checkin_malaysia.csv): Daily checkins on MySejahtera at country level, as of 2359 of date.
-2) [`checkin_malaysia_time.csv`](/epidemic/checkin_malaysia_time.csv): Time distribution of daily checkins on MySejahtera at country level, as of 2359 of date.
-3) [`trace_malaysia.csv`](/epidemic/trace_malaysia.csv): Daily casual contacts traced and hotspots identified by HIDE, at country level, as of 2359 of date.
+1) [`checkin_malaysia.csv`](/mysejahtera/checkin_malaysia.csv): Daily checkins on MySejahtera at country level, as of 2359 of date.
+2) [`checkin_malaysia_time.csv`](/mysejahtera/checkin_malaysia_time.csv): Time distribution of daily checkins on MySejahtera at country level, as of 2359 of date.
+3) [`trace_malaysia.csv`](/mysejahtera/trace_malaysia.csv): Daily casual contacts traced and hotspots identified by HIDE, at country level, as of 2359 of date.
 
 **Static data**
 
