@@ -7,7 +7,10 @@
 
 **Epidemic**
 
-1) 
+1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
+2) [`cases_state.csv`](/epidemic/cases_state.csv): Daily recorded COVID-19 cases at state level, as of 1200 of date.
+3) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
+2) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
 
 **Vaccination**
 
@@ -15,8 +18,10 @@ MoH works together with MoSTI and the COVID-19 Immunisation Task Force (CITF) to
 
 **MySejahtera**
 
-1) 
-2) 
+1) [`checkin_malaysia.csv`](/epidemic/checkin_malaysia.csv): Daily checkins on MySejahtera at country level, as of 2359 of date.
+2) [`checkin_malaysia_time.csv`](/epidemic/checkin_malaysia_time.csv): Time distribution of daily checkins on MySejahtera at country level, as of 2359 of date.
+3) [`checkin_state.csv`](/epidemic/checkin_malaysia_time.csv): Daily checkins on MySejahtera at state level, as of 2359 of date.
+4) [`trace_malaysia.csv`](/epidemic/trace_malaysia.csv): Daily casual contacts traced and hotspots identified by HIDE, at country level, as of 2359 of date.
 
 **Static data**
 
