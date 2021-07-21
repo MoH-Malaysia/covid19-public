@@ -12,7 +12,7 @@
 3) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
 4) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
 5) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests by type at country level, as of 1200 of date.
-6) [`clusters.csv`](/epidemic/clusters.csv): Exhaustive list and detailing of announced clusters, as of 2359 of date of update.
+6) [`clusters.csv`](/epidemic/clusters.csv): Exhaustive list of announced clusters with relevant epidemiological datapoints, as of 2359 of date of update.
 
 ### Vaccination
 
