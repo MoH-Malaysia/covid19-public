@@ -14,7 +14,7 @@
 
 ### Healthcare
 
-1) [`pkrc.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from Covid-19 Low-Risk Quarantine and Treatment Centre (PKRC), with capacity and utilisation as of 2359 of date.
+1) [`pkrc.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from Covid-19 Low-Risk Quarantine and Treatment Centres (PKRC), with capacity and utilisation as of 2359 of date.
 2) [`hospital.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from public hospitals, with capacity and utilisation as of 2359 of date.
 3) [`icu.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from intensive care units (ICU), with capacity and utilisation as of 2359 of date.
 
