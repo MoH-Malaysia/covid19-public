@@ -16,12 +16,29 @@
 
 ### Cases and Testing
 
-1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
-2) `state`: Name of state (present in state file, but not country file)
+1) `date`: yyyy-mm-dd format; data correct as of 1200hrs on that date
+2) `state`: name of state (present in state file, but not country file)
 3) `cases_new`: cases reported in the 24h since the last report
 4) `cluster_x`: cases attributable to clusters under category `x`; possible values for `x` are import, religious, community, highRisk, education, detentionCentre, and workplace; the difference between `cases_new` and the sum of cases attributable to clusters is the number of sporadic cases.
 5) `rtk-ag`: number of tests done using Antigen Rapid Test Kits (RTK-Ag)
 6) `pcr`: number of tests done using Real-time Reverse Transcription Polymerase Chain Reaction (RT-PCR) technology
+
+### Cluster analysis
+
+1) `cluster`
+2) `state` and `district`
+3) `date_announced`
+4) `date_last_onset`
+5) `category`
+6) `status`
+7) `cases_new`
+8) `cases_total`
+9) `cases_active`
+10) `tests`
+11) `icu`
+12) `deaths`
+13) `recovered`
+
 
 ### Healthcare: PKRC
 
@@ -37,4 +54,6 @@
 
 ### Deaths
 
-1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
+1) `date`: yyyy-mm-dd format; data correct as of 1200hrs on that date
+2) `state`: name of state (present in state file, but not country file)
+3) `deaths_new`: deaths due to COVID-19 reported in the 24h since the last report
