@@ -5,14 +5,23 @@
 
 ---
 
-### Epidemic
+### Cases and Testing
 
 1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
 2) [`cases_state.csv`](/epidemic/cases_state.csv): Daily recorded COVID-19 cases at state level, as of 1200 of date.
-3) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
-4) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
-5) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests by type at country level, as of 1200 of date.
-6) [`clusters.csv`](/epidemic/clusters.csv): Exhaustive list of announced clusters with relevant epidemiological datapoints, as of 2359 of date of update.
+3) [`clusters.csv`](/epidemic/clusters.csv): Exhaustive list of announced clusters with relevant epidemiological datapoints, as of 2359 of date of update.
+4) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests by type at country level, as of 1200 of date.
+
+### Healthcare
+
+1) [`pkrc.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from Covid-19 Low-Risk Quarantine and Treatment Centre (PKRC), with capacity and utilisation as of 2359 of date.
+2) [`hospital.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from public hospitals, with capacity and utilisation as of 2359 of date.
+3) [`icu.csv`](/epidemic/cases_malaysia.csv): Inflow and outflow of patients from intensive care units (ICU), with capacity and utilisation as of 2359 of date.
+
+### Deaths
+
+1) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
+2) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
 
 ### Vaccination
 
