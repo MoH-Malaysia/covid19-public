@@ -25,19 +25,19 @@
 
 ### Cluster analysis
 
-1) `cluster`
-2) `state` and `district`
-3) `date_announced`
-4) `date_last_onset`
-5) `category`
-6) `status`
-7) `cases_new`
-8) `cases_total`
-9) `cases_active`
-10) `tests`
-11) `icu`
-12) `deaths`
-13) `recovered`
+1) `cluster`: unique textual identifier of cluster; nomenclature does not necessarily signify address
+2) `state` and `district`: geographical epicentre of cluster, if localised; inter-district and inter-state clusters are possible and present in the dataset
+3) `date_announced`: date of declaration as cluster
+4) `date_last_onset`: most recent date of onset of symptoms for individuals within the cluster. note that this is distinct from the date on which said individual was tested, and the date on which their test result was received; consequently, today's date may not necessarily be present in this column.
+5) `category`: classification as per variable `cluster_x` above
+6) `status`: active or ended
+7) `cases_new`: number of new cases detected within cluster in the 24h since the last report
+8) `cases_total`: total number of cases traced to cluster
+9) `cases_active`: active cases within cluster
+10) `tests`: number of tests carried out on individuals within the cluster; denominator for computing a cluster's current positivity rate
+11) `icu`: number of individuals within the cluster currently under intensive care
+12) `deaths`: number of individuals within the cluster who passed away due to COVID-19
+13) `recovered`: number of individuals within the cluster who tested positive for and subsequently recovered from COVID-19
 
 
 ### Healthcare: PKRC
