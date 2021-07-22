@@ -1,4 +1,4 @@
-date,state,beds,beds_noncrit,admitted_pui,admitted_covid,admitted_total,discharge_pui,discharge_covid,discharge_total,hosp_covid,hosp_pui,hosp_noncovid
+date,state,beds,beds_noncrit,admitted_pui,admitted_covid,admitted_total,discharged_pui,discharged_covid,discharged_total,hosp_covid,hosp_pui,hosp_noncovid
 2020-03-24,Johor,1440,1408,0,0,0,0,0,0,18,9,1
 2020-03-24,Kedah,1218,1183,0,0,0,0,0,0,46,5,12
 2020-03-24,Kelantan,1463,1424,9,6,15,1,0,1,78,58,23
