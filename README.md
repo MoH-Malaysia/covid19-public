@@ -16,7 +16,7 @@
 
 1) [`pkrc.csv`](/epidemic/cases_malaysia.csv): Flow of patients to/out of Covid-19 Quarantine and Treatment Centres (PKRC), with capacity and utilisation as of 2359 of date.
 2) [`hospital.csv`](/epidemic/cases_malaysia.csv): Flow of patients to/out of hospitals, with capacity and utilisation as of 2359 of date.
-3) [`icu.csv`](/epidemic/cases_malaysia.csv): Number of patients occupying intensive care unit (ICU) beds, with capacity as of 2359 of date.
+3) [`icu.csv`](/epidemic/cases_malaysia.csv): Capacity and utilisation of intensive care unit (ICU) beds as of 2359 of date.
 
 ### Deaths
 
