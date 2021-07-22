@@ -48,9 +48,9 @@ _The datasets below have been constructed to provide 3 kinds of insight. First, 
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`: name of state; note that (unlike with other datasets), it is not necessary that there be an observation for every state on every date. for instance, there are no PKRCs in W.P. Kuala Lumpur and W.P Putrajaya.
-3) `beds`: number of available beds (with related medical infrastructure)
-4) `admitted_x`: number of individuals in category `x` admitted, where `x` can be Person-Under-Investigation (PUI), COVID-19 positive, or non-COVID.
-5) `discharged_x`: number of individuals in category `x` discharged
+3) `beds`: total available PKRC beds (with related medical infrastructure)
+4) `admitted_x`: number of individuals in category `x` admitted to PKRCs, where `x` can be Person-Under-Investigation (PUI), COVID-19 positive, or non-COVID
+5) `discharged_x`: number of individuals in category `x` discharged from PKRCs
 6) `pkrc_x`: total number of individuals in category `x` in PKRCs; this is a stock variable altered by flows from admissions and discharges
 
 
@@ -58,35 +58,25 @@ _The datasets below have been constructed to provide 3 kinds of insight. First, 
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`: name of state, with similar qualification on exhaustiveness of date-state combos as PKRC data
-3) `beds`
-4) `beds_noncrit`
-5) `admitted_pui`
-6) `admitted_covid`
-7) `admitted_total`
-8) `discharged_pui`
-9) `discharged_covid`
-10) `discharged_total`
-11) `hosp_covid`
-12) `hosp_pui`
-13) `hosp_noncovid`
+3) `beds`: total available hospital beds (with related medical infrastructure)
+4) `beds_noncrit`: total available hospital beds for non-critical care
+5) `admitted_x`: number of individuals in category `x` admitted to hospitals, where `x` can be Person-Under-Investigation (PUI), COVID-19 positive, or non-COVID
+6) `discharged_x`: number of individuals in category `x` discharged from hospitals
+7) `pkrc_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
 
 
 ### ICU
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`: name of state, with similar qualification on exhaustiveness of date-state combos as PKRC data
-3) `beds_icu`
-4) `beds_icu_rep`
-5) `beds_icu_total`
-6) `beds_icu_covid`
-7) `vent``vent_port`
-8) `icu_covid`
-9) `icu_pui`
-10) `icu_noncovid`
-11) `vent_covid`
-12) `vent_pui`
-13) `vent_sari`
-14) `vent_noncovid`
+3) `beds_icu`: total gazetted ICU beds
+4) `beds_icu_rep`: total beds aside from (3) which are temporarily or permanently designated to be under the care of Anaesthesiology & Critical Care departments
+5) `beds_icu_total`: total critical care beds available (with related medical infrastructure)
+6) `beds_icu_covid`: total critical care beds dedicated for COVID-19
+7) `vent`: total available ventilators
+8) `vent_port`: total available portable ventilators
+9) `icu_x`: total number of individuals in category `x` under intensive care, where `x` can be Person-Under-Investigation (PUI), COVID-19 positive, or non-COVID; this is a stock variable
+10) `vent_x`: total number of individuals in category `x` on mechanical ventilation, where `x` can be Person-Under-Investigation (PUI), COVID-19 positive, or non-COVID; this is a stock variable
 
 
 ### Deaths
