@@ -9,14 +9,13 @@
 ### Variables
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
-2) `state`: Name of state (present in state file, but not country file)
-3) `dose1_daily`: 1st doses delivered between 0000 and 2359 on date
-4) `dose2_daily`: 2nd doses delivered between 0000 and 2359 on date; note that this will not equal the number of people who were fully vaccinated on a given date when Malaysia begins using single-dose vaccines (e.g. CanSino).
-5) `total_daily` = `dose1_daily` + `dose2_daily`
-6) `dose1_cumul` = sum of `dose1_daily` for all T <= `date`
-7) `dose2_cumul` = sum of `dose2_daily` for all T <= `date`
-8) `total_cumul` = `dose1_cumul` + `dose2_cumul`
+2) `checkins`: number of checkins at all locations registered on MySejahtera
+3) `unique_ind`: number of unique accounts which checked in
+4) `unique_loc`: number of unique premises checked into
+5) `i`: in the time density file, checkins are aggregated by half-hour buckets, giving 48 in total; bucket `i` corresponds to the ith half-hour slot of the day. for instance, `i = 0` corresponds to 0000 - 0029; `i = 31` corresponds to 1500 - 1529.
+6) `casual_contacts`: number of casual contacts identified and notified by CPRC's automated contact tracing system
+7) `hide_large`: number of large hotspots identified by CPRC's hotspot identification system
+8) `hide_small`: number of small hotspots identified by CPRC's hotspot identification system
 
 ### Methodology
-+ For the purposes of reporting doses delivered, `total_cumul` = `dose1_cumul` + `dose2_cumul`. However, when counting the number of _unique individuals_ who have been vaccinated, note that `dose2_cumul` is a perfect subset of `dose1_cumul` - everyone who received a 2nd dose also shows up in the 1st dose count. As such, the total number of individuals who have received _at least_ 1 dose is exactly equal to `dose1_cumul`. 
-+ With substantial outreach efforts in areas with poor internet access, vaccinations (which are normally tracked in real time) have to be documented offline (think Excel sheets and paper forms). Given that outreach programs may last days at a time, records of these vaccinations may only be uploaded and consolidated a few days after the day on which they occured. Consequently, we may revise the dataset from time to time if more data is reported for dates already contained within the datasets. These revisions will typically cause vaccination counts to increase, though minor decreases may be observed if there are corrections to dosage dates after they are recorded and published under another day's data.
++ As per the MySejahtera privacy policy, individual-level check-in data is purged after 90 days. These summary statistics are stored only as aggregated totals; MySejahtera does not store the data underlying these stiatistics.
