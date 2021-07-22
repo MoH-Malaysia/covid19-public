@@ -43,14 +43,53 @@
 ### Healthcare: PKRC
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
+2) `state`:
+3) `beds`:
+4) `admitted_pui`:
+5) `admitted_covid`:
+6) `admitted_total`:
+7) `discharge_pui`:
+8) `discharge_covid`:
+9) `discharge_total`:
+10) `pkrc_covid`:
+11) `pkrc_pui`:
+12) `pkrc_noncovid`:
+
 
 ### Healthcare: Hospital
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
+2) `state`
+3) `beds`
+4) `beds_noncrit`
+5) `admitted_pui`
+6) `admitted_covid`
+7) `admitted_total`
+8) `discharge_pui`
+9) `discharge_covid`
+10) `discharge_total`
+11) `hosp_covid`
+12) `hosp_pui`
+13) `hosp_noncovid`
+
 
 ### Healthcare: ICU
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
+2) `state`
+3) `beds_icu`
+4) `beds_icu_rep`
+5) `beds_icu_total`
+6) `beds_icu_covid`
+7) `vent``vent_port`
+8) `icu_covid`
+9) `icu_pui`
+10) `icu_noncovid`
+11) `vent_covid`
+12) `vent_pui`
+13) `vent_sari`
+14) `vent_noncovid`
+
 
 ### Deaths
 
