@@ -1,6 +1,6 @@
 # Open data on COVID-19 in Malaysia
 
-**We will continually maintain and improve the scope and granularity of data in this repo.**
+**The scope and granularity of data in this repo will evolve over time.**
 + Documentation and data descriptions contained within subfolders. 
 
 ---
