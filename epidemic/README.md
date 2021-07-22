@@ -1,40 +1,22 @@
-# Open data on COVID-19 in Malaysia
+## Documentation for MySejahtera datasets
 
-**We will continually maintain and improve the scope and granularity of data in this repo.**
-+ Documentation and data descriptions contained within subfolders. 
+### File naming convention
 
----
+1) `checkin_malaysia.csv`: Static name; file is updated by 1500hrs daily
+2) `checkin_malaysia_time.csv`: Static name; file is updated by 1500hrs daily
+3) `trace_malaysia.csv`: Static name; file is updated by 1500hrs daily
 
-### Cases and Testing
+### Variables
 
-1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
-2) [`cases_state.csv`](/epidemic/cases_state.csv): Daily recorded COVID-19 cases at state level, as of 1200 of date.
-3) [`clusters.csv`](/epidemic/clusters.csv): Exhaustive list of announced clusters with relevant epidemiological datapoints, as of 2359 of date of update.
-4) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests by type at country level, as of 1200 of date.
+1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
+2) `state`: Name of state (present in state file, but not country file)
+3) `dose1_daily`: 1st doses delivered between 0000 and 2359 on date
+4) `dose2_daily`: 2nd doses delivered between 0000 and 2359 on date; note that this will not equal the number of people who were fully vaccinated on a given date when Malaysia begins using single-dose vaccines (e.g. CanSino).
+5) `total_daily` = `dose1_daily` + `dose2_daily`
+6) `dose1_cumul` = sum of `dose1_daily` for all T <= `date`
+7) `dose2_cumul` = sum of `dose2_daily` for all T <= `date`
+8) `total_cumul` = `dose1_cumul` + `dose2_cumul`
 
-### Healthcare
-
-1) [`pkrc.csv`](/epidemic/cases_malaysia.csv): Flow of patients to/out of Covid-19 Quarantine and Treatment Centres (PKRC), with capacity and utilisation as of 2359 of date.
-2) [`hospital.csv`](/epidemic/cases_malaysia.csv): Flow of patients to/out of hospitals, with capacity and utilisation as of 2359 of date.
-3) [`icu.csv`](/epidemic/cases_malaysia.csv): Capacity and utilisation of intensive care unit (ICU) beds as of 2359 of date.
-
-### Deaths
-
-1) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level, as of 1200 of date.
-2) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level, as of 1200 of date.
-
-### Vaccination
-
-MoH collaborates with MoSTI and the COVID-19 Immunisation Task Force (CITF) to publish open data on Malaysia's vaccination rollout. All relevant data can be found at [this repo](https://github.com/CITF-Malaysia/citf-public).
-
-### Mobility and Contact Tracing
-
-1) [`checkin_malaysia.csv`](/mysejahtera/checkin_malaysia.csv): Daily checkins on MySejahtera at country level, as of 2359 of date.
-2) [`checkin_malaysia_time.csv`](/mysejahtera/checkin_malaysia_time.csv): Time distribution of daily checkins on MySejahtera at country level, as of 2359 of date.
-3) [`trace_malaysia.csv`](/mysejahtera/trace_malaysia.csv): Daily casual contacts traced and hotspots identified by HIDE, at country level, as of 2359 of date.
-
-### Static data
-
-1) [`population.csv`](/static/population.csv): Total, adult (18+), and elderly (60+) population at state level.
-
-_Static data will (probably) remain unchanged for the duration of the program, barring an update from the source, e.g. if DOSM makes an update to population estimates. We provide this data here not to supersede the source, but rather to be transparent about the data we use to compute key statistics e.g. the % of the population that is vaccinated. We also hope this ensures synchronisation (across various independent analysts) of key statistics down to the Nth decimal place._
+### Methodology
++ For the purposes of reporting doses delivered, `total_cumul` = `dose1_cumul` + `dose2_cumul`. However, when counting the number of _unique individuals_ who have been vaccinated, note that `dose2_cumul` is a perfect subset of `dose1_cumul` - everyone who received a 2nd dose also shows up in the 1st dose count. As such, the total number of individuals who have received _at least_ 1 dose is exactly equal to `dose1_cumul`. 
++ With substantial outreach efforts in areas with poor internet access, vaccinations (which are normally tracked in real time) have to be documented offline (think Excel sheets and paper forms). Given that outreach programs may last days at a time, records of these vaccinations may only be uploaded and consolidated a few days after the day on which they occured. Consequently, we may revise the dataset from time to time if more data is reported for dates already contained within the datasets. These revisions will typically cause vaccination counts to increase, though minor decreases may be observed if there are corrections to dosage dates after they are recorded and published under another day's data.
