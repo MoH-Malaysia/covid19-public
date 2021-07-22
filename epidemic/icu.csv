@@ -1,4 +1,4 @@
-date,state,bed_icu,bed_icu_rep,bed_icu_total,bed_icu_covid,vent,vent_port,icu_covid,icu_pui,icu_noncovid,vent_covid,vent_pui,vent_sari,vent_noncovid
+date,state,beds_icu,beds_icu_rep,beds_icu_total,beds_icu_covid,vent,vent_port,icu_covid,icu_pui,icu_noncovid,vent_covid,vent_pui,vent_sari,vent_noncovid
 2020-03-24,Johor,10,22,32,10,11,2,0,0,1,0,0,0,0
 2020-03-24,Kedah,35,0,35,16,34,0,2,1,12,1,1,0,0
 2020-03-24,Kelantan,39,0,39,20,42,4,1,0,20,1,0,0,0
