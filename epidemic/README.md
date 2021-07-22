@@ -40,23 +40,21 @@
 13) `recovered`: number of individuals within the cluster who tested positive for and subsequently recovered from COVID-19
 
 
-### Healthcare: PKRC
+### Healthcare 
+
+_The datasets below have been constructed to provide 3 kinds of insight. First, the inflow and outflow of patients from quarantine centres, hospitals, and intensive care is, without any further scaling or context, critical to monitor - especially when clear divergences between infections and healthcare outcomes start to be observed (e.g. due to vaccination). Second, comparing against available capacity (number of beds, intensive care units, ventilators) allows for understanding of the strain exerted by the epidemic on the healthcare system. Third, the inclusion of datapoints on non-Covid patients demonstrates the interactions between the epidemic and broader health outcomes._
+
+### PKRC (COVID-19 Quarantine and Treatment Centre)
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
-2) `state`:
-3) `beds`:
-4) `admitted_pui`:
-5) `admitted_covid`:
-6) `admitted_total`:
-7) `discharge_pui`:
-8) `discharge_covid`:
-9) `discharge_total`:
-10) `pkrc_covid`:
-11) `pkrc_pui`:
-12) `pkrc_noncovid`:
+2) `state`: name of state; note that (unlike with other datasets), it is not necessary that there be an observation for every state on every date. for instance, there are no PKRCs in W.P. Kuala Lumpur and W.P Putrajaya.
+3) `beds`: number of available beds (with related medical infrastructure)
+4) `admitted_x`: number of individuals in category `x` admitted, where `x` can be Person-Under-Investigation (PUI), COVID-19 positive, or non-COVID.
+5) `discharged_x`: number of individuals in category `x` discharged
+6) `pkrc_x`: total number of individuals in category `x` in PKRCs; this is a stock variable altered by inflows (`admitted`) and outflows (`discharged`)
 
 
-### Healthcare: Hospital
+### Hospital
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`
@@ -73,7 +71,7 @@
 13) `hosp_noncovid`
 
 
-### Healthcare: ICU
+### ICU
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`
