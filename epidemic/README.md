@@ -5,7 +5,7 @@
 1) `cases_malaysia.csv`: Static name; file is updated by 2359hrs daily
 2) `cases_state.csv`: Static name; file is updated by 2359hrs daily
 3) `tests_malaysia.csv`: Static name; file is updated by 2359hrs daily
-4) `clusters.csv`: Static name; file is updated by 2359hrs daily
+4) `clusters.csv`: Static name; file is updated (with 1 day lag) by 2359hrs daily
 5) `deaths_malaysia.csv`: Static name; file is updated by 2359hrs daily
 6) `deaths_state.csv`: Static name; file is updated by 2359hrs daily
 7) `pkrc.csv`: Static name; file is updated at least twice weekly
