@@ -18,7 +18,7 @@
 
 1) `date`: yyyy-mm-dd format; data correct as of 1200hrs on that date
 2) `state`: name of state (present in state file, but not country file)
-3) `cases_new`: cases reported in the 24h since the last report
+3) `cases_new`: cases reported in the 24h since the last report (except for 16th March 2020, for which the data is cumulative)
 4) `cluster_x`: cases attributable to clusters under category `x`; possible values for `x` are import, religious, community, highRisk, education, detentionCentre, and workplace; the difference between `cases_new` and the sum of cases attributable to clusters is the number of sporadic cases.
 5) `rtk-ag`: number of tests done using Antigen Rapid Test Kits (RTK-Ag)
 6) `pcr`: number of tests done using Real-time Reverse Transcription Polymerase Chain Reaction (RT-PCR) technology
