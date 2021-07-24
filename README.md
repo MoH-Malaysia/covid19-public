@@ -2,6 +2,7 @@
 
 **The scope and granularity of data in this repo will evolve over time.**
 + Documentation and data descriptions contained within subfolders. 
++ Submit pull requests to [share your work for the community](/CONTRIB.md#share-your-work) or [request more data](/CONTRIB.md#data-requests).
 
 ---
 
