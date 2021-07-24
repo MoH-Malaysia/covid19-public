@@ -26,7 +26,7 @@
 
 ### Vaccination
 
-MoH collaborates with MoSTI and the COVID-19 Immunisation Task Force (CITF) to publish open data on Malaysia's vaccination rollout. All relevant data can be found at [this repo](https://github.com/CITF-Malaysia/citf-public).
+MoH collaborates with MOSTI and the COVID-19 Immunisation Task Force (CITF) to publish open data on Malaysia's vaccination rollout. All relevant data can be found at [this repo](https://github.com/CITF-Malaysia/citf-public).
 
 ### Mobility and Contact Tracing
 
