@@ -4,11 +4,26 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Cases and Testing
 
-1) Recovered cases at national and state level
-2) Cases at district level
-3) Cases in cluster at state level
-4) Testing at state level
-5) Number of cases split by variant at country and state level
+Data fields:
+1) Date
+2) Facet: State/District/Region, Age-Band, Gender, Nationality
+3) New Cases
+   1) New from Clusters
+   2) New from Close Contact Tracing
+   3) New Imported cases
+   4) New from Others
+4) New Recoveries
+5) Active cases
+6) Testing
+   1) PCR
+   2) RTK
+7)  R0/RT values
+8)  Variant of Concern/Interest detected counts
+9)  Cases by severity categories
+10) Individuals tested (as separate from tests performed)
+11) New Clusters (for State/District/Region)
+12) Ended Clusters (for State/District/Region)
+13) Active Clusters (for State/District/Region)
 
 ### Healthcare
 
@@ -16,7 +31,16 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Deaths
 
-1) Granular (anonymised, individual-level) data on deaths, e.g. age, sex, nationality, comorbidities.
+Data fields:
+1) Date
+2) Facet: State/District/Region, Age-Band, Gender, Nationality
+3) New Deaths
+   1) New from Clusters
+   2) New from Close Contact Tracing
+   3) New from Imported
+   4) New from Other
+4) Location of death (hospitals/BID)
+5) Comormidities present
 
 ### Vaccination
 
