@@ -37,4 +37,7 @@ Format: [[Git repo]](https://github.com/MoH-Malaysia/covid19-public)
 [[Live Version]](https://covid-19.moh.gov.my/terkini)
 Daily updates by MoH Malaysia.
 
-1) 
+1) [[Google Data Studio Dashboard]](https://datastudio.google.com/reporting/8ba8d5d5-9a39-4506-af28-7ab8fcd8f8a9)
+An extensive dashboard to be used to monitor the state of the Covid-19 outbreak as well as the progress of vaccination (Malaysia as a whole and by state). Data are manually curated on a daily basis and cross-checked with various official sources for validation and verification purposes. By [aidilsfwn](https://github.com/aidilsfwn)
+
+2) 
