@@ -2,15 +2,17 @@
 
 ## File naming convention
 
-1) `cases_malaysia.csv`: Static name; file is updated by 2359hrs daily
-2) `cases_state.csv`: Static name; file is updated by 2359hrs daily
-3) `tests_malaysia.csv`: Static name; file is updated by 2359hrs daily
-4) `clusters.csv`: Static name; file is updated (with 1 day lag) by 2359hrs daily
-5) `deaths_malaysia.csv`: Static name; file is updated by 2359hrs daily
-6) `deaths_state.csv`: Static name; file is updated by 2359hrs daily
-7) `pkrc.csv`: Static name; file is updated at least twice weekly
-8) `hospital.csv`: Static name; file is updated at least twice weekly
-9) `icu.csv`: Static name; file is updated at least twice weekly
+| Filename | Naming convention | Update frequency |
+| :--- | :---: | :---: |
+|cases_malaysia.csv | Static name | Daily by 2359 |
+| cases_state.csv | Static name | Daily by 2359 |
+| tests_malaysia.csv | Static name | Daily by 2359 |
+| clusters.csv | Static name | Daily by 2359 |
+| deaths_malaysia.csv | Static name | Daily by 2359 |
+| deaths_state.csv | Static name | Daily by 2359 |
+| pkrc.csv| Static name | At least twice weekly |
+| hospital.csv | Static name | At least twice weekly |
+| icu.csv | Static name | At least twice weekly |
 
 ## Variables and Methodology
 
@@ -62,7 +64,7 @@ _The datasets below have been constructed to provide 3 kinds of insight. First, 
 4) `beds_noncrit`: total available hospital beds for non-critical care
 5) `admitted_x`: number of individuals in category `x` admitted to hospitals, where `x` can be suspected/probable, COVID-19 positive, or non-COVID
 6) `discharged_x`: number of individuals in category `x` discharged from hospitals
-7) `pkrc_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
+7) `hosp_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
 
 
 ### ICU
