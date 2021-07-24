@@ -39,3 +39,6 @@ An extensive dashboard to be used to monitor the state of the Covid-19 outbreak 
 2) [Positivity Rate Dashboard](https://datastudio.google.com/s/gIQwV1fDCpg) on Google Data Studio by Koh Wyhow
 
 3) [Malaysia Covid 19 Heatmap](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) by [KhooHaoYit](https://github.com/KhooHaoYit/)
+
+4) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/htzzIusE-Es)
+An interactive mobile friendly dashboard to monitor covid-19 new cases and deaths in Malaysia (and by state). By syafix
