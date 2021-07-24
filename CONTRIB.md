@@ -19,4 +19,5 @@ Format: [[Git repo]](https://github.com/MoH-Malaysia/covid19-public)
 [[Live Version]](https://covid-19.moh.gov.my/terkini)
 Daily updates by MoH Malaysia.
 
-1) 
+1) [Megat Harun](https://github.com/megatharun)
+2)
