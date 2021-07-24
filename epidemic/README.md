@@ -62,7 +62,7 @@ _The datasets below have been constructed to provide 3 kinds of insight. First, 
 4) `beds_noncrit`: total available hospital beds for non-critical care
 5) `admitted_x`: number of individuals in category `x` admitted to hospitals, where `x` can be suspected/probable, COVID-19 positive, or non-COVID
 6) `discharged_x`: number of individuals in category `x` discharged from hospitals
-7) `pkrc_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
+7) `hosp_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
 
 
 ### ICU
