@@ -8,7 +8,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 4) Cases in cluster at state level
 5) Data on those positive but vaccinated
 5) MySejahtera checkins by state
-
+6) Number of cases split by variant at country and state level
 ---
 
 # Share your work!
