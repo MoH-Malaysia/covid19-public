@@ -37,3 +37,5 @@ _If you are using our data, please submit a pull request to add to this list so 
 An extensive dashboard to be used to monitor the state of the Covid-19 outbreak as well as the progress of vaccination (Malaysia as a whole and by state). Data are manually curated on a daily basis and cross-checked with various official sources for validation and verification purposes. By [aidilsfwn](https://github.com/aidilsfwn)
 
 2) [Positivity Rate Dashboard](https://datastudio.google.com/s/gIQwV1fDCpg) on Google Data Studio by Koh Wyhow
+
+3) [Malaysia Covid 19 Heatmap](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) by [KhooHaoYit](https://github.com/KhooHaoYit/)
