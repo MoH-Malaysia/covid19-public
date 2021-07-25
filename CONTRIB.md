@@ -9,7 +9,8 @@ _Please submit a pull request here if you would like to request more data. Our t
 3) Cases in cluster at state level
 4) Testing at state level
 5) Number of cases split by variant at country and state level
-6) Granular (anonymised, individual-level) data of confirmed cases:
+6) Cases and Tests tabulated by age, sex, and date (ideally onset for cases).
+7) Granular (anonymised, individual-level) data of confirmed cases:
    - the date of (suspected) exposure to the virus.
    - the dates of testing and result of RT-PCR.
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
@@ -22,10 +23,12 @@ _Please submit a pull request here if you would like to request more data. Our t
 ### Deaths
 
 1) Granular (anonymised, individual-level) data on deaths, e.g. age, sex, nationality, comorbidities.
+2) Deaths tabulated by age, sex, and occurrence date
 
 ### Vaccination
 
-1) Data on those positive/hospitalised/dead but vaccinated.
+1) Data on those positive/hospitalised/dead but vaccinated
+2) Vaccionations (partial and full) by age, sex, and date.
 
 ### Mobility and Contact Tracing
 
@@ -44,3 +47,6 @@ An extensive dashboard to be used to monitor the state of the Covid-19 outbreak 
 2) [Positivity Rate Dashboard](https://datastudio.google.com/s/gIQwV1fDCpg) on Google Data Studio by Koh Wyhow
 
 3) [Malaysia Covid 19 Heatmap](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) by [KhooHaoYit](https://github.com/KhooHaoYit/)
+
+4) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/htzzIusE-Es)
+An interactive mobile friendly dashboard to monitor covid-19 new cases and deaths in Malaysia (and by state). By syafix
