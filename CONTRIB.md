@@ -12,7 +12,8 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Healthcare
 
-1)
+1) List of PPV (current status)
+2) Number of personnel involves (Volunteers and Non-Volunteers)
 
 ### Deaths
 
