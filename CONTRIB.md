@@ -50,3 +50,6 @@ An extensive dashboard to be used to monitor the state of the Covid-19 outbreak 
 
 4) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/htzzIusE-Es)
 An interactive mobile friendly dashboard to monitor covid-19 new cases and deaths in Malaysia (and by state). By syafix
+
+5) [[Github Repo]](https://github.com/danialsim95/mycovid)
+MYCovid by [Danial Sim](https://github.com/danialsim95). Currently an API which is powered by PHP which obtains the vaccination and epidemic data.
