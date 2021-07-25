@@ -10,6 +10,11 @@ _Please submit a pull request here if you would like to request more data. Our t
 4) Testing at state level
 5) Number of cases split by variant at country and state level
 6) Cases and Tests tabulated by age, sex, and date (ideally onset for cases).
+7) Granular (anonymised, individual-level) data of confirmed cases:
+   - the date of (suspected) exposure to the virus.
+   - the dates of testing and result of RT-PCR.
+   - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
+   - clinical stage of COVID-19/severity.
 
 ### Healthcare
 
