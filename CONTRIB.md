@@ -21,7 +21,8 @@ _Please submit a pull request here if you would like to request more data. Our t
 ### Vaccination
 
 1) Data on those positive/hospitalised/dead but vaccinated
-
+2) Daily vaccination data by vaccination center, e.g. doses provided, vaccine type, location etc..
+   
 ### Mobility and Contact Tracing
 
 1) [added] ~~MySejahtera checkins by state~~
