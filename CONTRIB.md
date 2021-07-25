@@ -9,6 +9,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 3) Cases in cluster at state level
 4) Testing at state level
 5) Number of cases split by variant at country and state level
+6) Number of cases by age
 
 ### Healthcare
 
