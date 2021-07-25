@@ -9,6 +9,11 @@ _Please submit a pull request here if you would like to request more data. Our t
 3) Cases in cluster at state level
 4) Testing at state level
 5) Number of cases split by variant at country and state level
+6) Granular (anonymised, individual-level) data of confirmed cases:
+   - the date of (suspected) exposure to the virus.
+   - the dates of testing and result of RT-PCR.
+   - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
+   - clinical stage of COVID-19/severity.
 
 ### Healthcare
 
@@ -20,7 +25,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Vaccination
 
-1) Data on those positive/hospitalised/dead but vaccinated
+1) Data on those positive/hospitalised/dead but vaccinated.
 
 ### Mobility and Contact Tracing
 
