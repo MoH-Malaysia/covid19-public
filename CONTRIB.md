@@ -42,11 +42,11 @@ _Please submit a pull request here if you would like to request more data. Our t
 _If you are using our data, please submit a pull request to add to this list so the whole community can benefit too._
 
 1) [[Google Data Studio Dashboard]](https://datastudio.google.com/reporting/8ba8d5d5-9a39-4506-af28-7ab8fcd8f8a9)
-An extensive dashboard to be used to monitor the state of the Covid-19 outbreak as well as the progress of vaccination (Malaysia as a whole and by state). Data are manually curated on a daily basis and cross-checked with various official sources for validation and verification purposes. By [aidilsfwn](https://github.com/aidilsfwn)
+An extensive dashboard to be used to monitor the state of the Covid-19 outbreak as well as the progress of vaccination (Malaysia as a whole and by state). Data are manually curated on a daily basis and cross-checked with various official sources for validation and verification purposes. By [aidilsfwn](https://github.com/aidilsfwn).
 
-2) [Positivity Rate Dashboard](https://datastudio.google.com/s/gIQwV1fDCpg) on Google Data Studio by Koh Wyhow
+2) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/gIQwV1fDCpg) Positivity Rate Dashboard. By Koh Wyhow.
 
-3) [Malaysia Covid 19 Heatmap](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) by [KhooHaoYit](https://github.com/KhooHaoYit/)
+3) [[Live site]](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) Malaysia Covid 19 Heatmap by [KhooHaoYit](https://github.com/KhooHaoYit/)
 
 4) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/htzzIusE-Es)
 An interactive mobile friendly dashboard to monitor covid-19 new cases and deaths in Malaysia (and by state). By syafix
