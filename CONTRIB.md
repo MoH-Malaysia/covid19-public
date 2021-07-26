@@ -15,7 +15,7 @@ _Please submit a pull request here if you would like to request more data. Our t
    - the dates of testing and result of RT-PCR.
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
-8) Actual postiive test numbers - numbers might be delayed by a few days
+8) Actual positive test numbers - numbers might be delayed by a few days
   
    
    
@@ -31,7 +31,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 ### Vaccination
 
 1) Data on those positive/hospitalised/dead but vaccinated
-2) Vaccionations (partial and full) by age, sex, and date.
+2) Vaccinations (partial and full) by age, sex, and date.
 
 ### Mobility and Contact Tracing
 
@@ -60,3 +60,5 @@ An interactive mobile friendly dashboard to monitor covid-19 new cases and death
 MYCovid - an API which is powered by PHP which obtains the vaccination and epidemic data. by [Danial Sim](https://github.com/danialsim95).
 
 6) [[Github Repo]](https://github.com/ADIBzTER/covid-my)[[NpmJS]](https://www.npmjs.com/package/covid-my) covid-my is a NodeJS client API for getting Covid-19 data from the official Github repo of MoH Malaysia. By [Adib Zaini](https://github.com/ADIBzTER).
+
+7) [[Github Repo]](https://github.com/wnarifin/covid-19-malaysia)[[Flexdashboard]](https://wnarifin.github.io/covid-19-malaysia/) _Covid-19 Situation in Malaysia_ is a dashboard developed using flexdashboard R package and R Markdown. By [wnarifin](https://github.com/wnarifin/) and Epidemiology Modelling Team.
