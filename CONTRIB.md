@@ -58,3 +58,7 @@ An interactive mobile friendly dashboard to monitor covid-19 new cases and death
 
 5) [[Github Repo]](https://github.com/danialsim95/mycovid)
 MYCovid by [Danial Sim](https://github.com/danialsim95). Currently an API which is powered by PHP which obtains the vaccination and epidemic data.
+
+6) covid-my is a NodeJS client api for getting Covid-19 data from official github repo of Ministry of Health of Malaysia. By [Adib Zaini](https://github.com/ADIBzTER)
+Github Repo: https://github.com/ADIBzTER/covid-my
+NpmJS: https://www.npmjs.com/package/covid-my
