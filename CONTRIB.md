@@ -51,14 +51,12 @@ An extensive dashboard to be used to monitor the state of the Covid-19 outbreak 
 
 2) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/gIQwV1fDCpg) Positivity Rate Dashboard. By Koh Wyhow.
 
-3) [[Live site]](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) Malaysia Covid 19 Heatmap by [KhooHaoYit](https://github.com/KhooHaoYit/)
+3) [[Live site]](https://khoohaoyit.github.io/Covid19%20Malaysia%20Heatmap/root.html) Malaysia Covid 19 Heatmap. By [KhooHaoYit](https://github.com/KhooHaoYit/).
 
 4) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/htzzIusE-Es)
 An interactive mobile friendly dashboard to monitor covid-19 new cases and deaths in Malaysia (and by state). By syafix
 
 5) [[Github Repo]](https://github.com/danialsim95/mycovid)
-MYCovid by [Danial Sim](https://github.com/danialsim95). Currently an API which is powered by PHP which obtains the vaccination and epidemic data.
+MYCovid - an API which is powered by PHP which obtains the vaccination and epidemic data. by [Danial Sim](https://github.com/danialsim95).
 
-6) covid-my is a NodeJS client api for getting Covid-19 data from official github repo of Ministry of Health of Malaysia. By [Adib Zaini](https://github.com/ADIBzTER)
-Github Repo: https://github.com/ADIBzTER/covid-my
-NpmJS: https://www.npmjs.com/package/covid-my
+6) [[Github Repo]](https://github.com/ADIBzTER/covid-my)[[NpmJS]](https://www.npmjs.com/package/covid-my) covid-my is a NodeJS client API for getting Covid-19 data from the official Github repo of MoH Malaysia. By [Adib Zaini](https://github.com/ADIBzTER).
