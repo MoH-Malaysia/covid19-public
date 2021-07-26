@@ -15,7 +15,10 @@ _Please submit a pull request here if you would like to request more data. Our t
    - the dates of testing and result of RT-PCR.
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
-
+8) Actual postiive test numbers - numbers might be delayed by a few days
+  
+   
+   
 ### Healthcare
 
 1)
