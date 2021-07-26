@@ -16,6 +16,7 @@ _Please submit a pull request here if you would like to request more data. Our t
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
 8) Actual postiive test numbers - numbers might be delayed by a few days
+9) Daily positive cases with vaccination history (first&second vaccination appointment, PPV location, vaccine type)
   
    
    
@@ -27,6 +28,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 1) Granular (anonymised, individual-level) data on deaths, e.g. age, sex, nationality, comorbidities.
 2) Deaths tabulated by age, sex, and occurrence date
+3) Daily death cases with vaccination history (first&second vaccination appointment, PPV location, vaccine type)
 
 ### Vaccination
 
