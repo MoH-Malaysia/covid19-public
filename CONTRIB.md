@@ -38,6 +38,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 1) [added] ~~MySejahtera checkins by state~~
 2) Population age group of MySejahtera check-ins, specified on by-state level
 3) Check-in locations categorized (e.g. supermarkets, hospitals) by state
+4) HIDE data/repos
 
 
 ---
