@@ -23,7 +23,7 @@ _Please submit a pull request here if you would like to request more data. Our t
      - Uninked cases
    - Imported cases
      - Cases detected upon arrival in Malaysia
-     - Cases developed the illness during quarantine or isolation
+     - Cases who developed the illness during quarantine or isolation
 
 ### Healthcare
 
