@@ -16,9 +16,15 @@ _Please submit a pull request here if you would like to request more data. Our t
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
 8) Actual positive test numbers - numbers might be delayed by a few days
-  
-   
-   
+9) Breakdown of cases similar to MOH Singapore [(example from 26/7/2021)](https://www.moh.gov.sg/news-highlights/details/update-on-local-covid-19-situation-(26-july-2021))
+   - Locally transmitted cases
+     - Cases linked to previous cases and have already been placed on quarantine
+     - Cases linked to previous cases and were detected through surveillance
+     - Uninked cases
+   - Imported cases
+     - Cases detected upon arrival in Malaysia
+     - Cases developed the illness during quarantine or isolation
+
 ### Healthcare
 
 1)
