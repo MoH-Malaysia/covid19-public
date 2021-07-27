@@ -16,7 +16,7 @@ _Please submit a pull request here if you would like to request more data. Our t
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
 8) Actual positive test numbers - numbers might be delayed by a few days
-  
+9) Number of new cases by those who are unvaccinated, vaccinated with 1 dose, and 2 doses  
    
    
 ### Healthcare
