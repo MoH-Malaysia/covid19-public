@@ -4,7 +4,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Cases and Testing
 
-1) Recovered cases at national and state level
+1) Daily recovered cases at national and state level
 2) Cases at district level
 3) Cases in cluster at state level
 4) Testing at state level
@@ -32,6 +32,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 1) Data on those positive/hospitalised/dead but vaccinated
 2) Vaccinations (partial and full) by age, sex, and date.
+3) Vaccinations categorized by number of jabs needed to complete vaccination (e.g. One dose vaccination / two doses vaccination)
 
 ### Mobility and Contact Tracing
 
