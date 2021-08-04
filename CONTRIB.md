@@ -16,7 +16,7 @@ _Please submit a pull request here if you would like to request more data. Our t
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
 8) Actual positive test numbers - numbers might be delayed by a few days
-  
+9) Cases require hospital/ICU admissions (e.g. include those in waiting list) - to be used to compare against actual hospitalisation, so we can know the actual gap 
    
    
 ### Healthcare
