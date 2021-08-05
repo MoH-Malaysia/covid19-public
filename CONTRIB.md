@@ -62,3 +62,6 @@ MYCovid - an API which is powered by PHP which obtains the vaccination and epide
 6) [[Github Repo]](https://github.com/ADIBzTER/covid-my)[[NpmJS]](https://www.npmjs.com/package/covid-my) covid-my is a NodeJS client API for getting Covid-19 data from the official Github repo of MoH Malaysia. By [Adib Zaini](https://github.com/ADIBzTER).
 
 7) [[Github Repo]](https://github.com/wnarifin/covid-19-malaysia)[[Flexdashboard]](https://wnarifin.github.io/covid-19-malaysia/) _Covid-19 Situation in Malaysia_ is a dashboard developed using flexdashboard R package and R Markdown. By [wnarifin](https://github.com/wnarifin/) and Epidemiology Modelling Team.
+
+8) [[Shiny App]] (https://ket-li-ho.shinyapps.io/malaysia-covid19-updated-daily-based-on-kkm-data-/) Malaysia-COVID-19 Observation (MCO).
+A web-based applicatoin based on Shiny (R programming) that allow public to easily analyse the data provided by KKM. Besides, some data are manually curated based on the announcement from KKM and Dr. Noor Hisham. Application prepared by [Ho Ket Li] 
