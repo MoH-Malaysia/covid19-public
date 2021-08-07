@@ -25,7 +25,9 @@ _Please submit a pull request here if you would like to request more data. Our t
    - Imported cases
      - Cases detected upon arrival in Malaysia
      - Cases who developed the illness during quarantine or isolation
-  
+ 11) Additional columns for RT-PCR test results and RTK-Ag test results separately.
+   - reported cases from RT-PCR test results.
+   - reported caese from RTK-Ag test results.
    
 ### Healthcare
 
