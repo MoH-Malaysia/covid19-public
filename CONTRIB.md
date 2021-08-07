@@ -15,12 +15,19 @@ _Please submit a pull request here if you would like to request more data. Our t
    - the dates of testing and result of RT-PCR.
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
-8) Actual positive test numbers - numbers might be delayed by a few days
-9) Additional columns for RT-PCR test results and RTK-Ag test results separately.
+8) Actual postive test numbers - numbers might be delayed by a few days
+9) Daily positive cases with vaccination history (1st and 2nd dose, location, vaccine type)
+10) Breakdown of cases similar to MOH Singapore [(example from 26/7/2021)](https://www.moh.gov.sg/news-highlights/details/update-on-local-covid-19-situation-(26-july-2021))
+   - Locally transmitted cases
+     - Cases linked to previous cases and have already been placed on quarantine
+     - Cases linked to previous cases and were detected through surveillance
+     - Uninked cases
+   - Imported cases
+     - Cases detected upon arrival in Malaysia
+     - Cases who developed the illness during quarantine or isolation
+ 11) Additional columns for RT-PCR test results and RTK-Ag test results separately.
    - reported cases from RT-PCR test results.
    - reported caese from RTK-Ag test results.
-   
-   
    
 ### Healthcare
 
@@ -30,11 +37,12 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 1) Granular (anonymised, individual-level) data on deaths, e.g. age, sex, nationality, comorbidities.
 2) Deaths tabulated by age, sex, and occurrence date
+3) Daily death cases with vaccination history (first&second vaccination appointment, PPV location, vaccine type)
 
 ### Vaccination
 
 1) Data on those positive/hospitalised/dead but vaccinated
-2) Vaccinations (partial and full) by age, sex, and date.
+2) Vaccinations (partial and full) by age, sex, date and district
 
 ### Mobility and Contact Tracing
 
@@ -65,3 +73,6 @@ MYCovid - an API which is powered by PHP which obtains the vaccination and epide
 6) [[Github Repo]](https://github.com/ADIBzTER/covid-my)[[NpmJS]](https://www.npmjs.com/package/covid-my) covid-my is a NodeJS client API for getting Covid-19 data from the official Github repo of MoH Malaysia. By [Adib Zaini](https://github.com/ADIBzTER).
 
 7) [[Github Repo]](https://github.com/wnarifin/covid-19-malaysia)[[Flexdashboard]](https://wnarifin.github.io/covid-19-malaysia/) _Covid-19 Situation in Malaysia_ is a dashboard developed using flexdashboard R package and R Markdown. By [wnarifin](https://github.com/wnarifin/) and Epidemiology Modelling Team.
+
+8) [[Github Repo]](https://github.com/leeliwei930/moh-my-covid-express-api)
+MOH COVID-19 self hosted NodeJS Restful API server, by [Li Wei Lee](https://techrino.net). A RestFUL API server written in NodeJS to parse the CSV-formatted data into JSON format, allowing for a variety of query via HTTP requests.
