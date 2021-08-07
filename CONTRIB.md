@@ -31,7 +31,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 ### Vaccination
 
 1) Data on those positive/hospitalised/dead but vaccinated
-2) Vaccinations (partial and full) by age, sex, and date.
+2) Vaccinations (partial and full) by age, sex, date and district
 
 ### Mobility and Contact Tracing
 
