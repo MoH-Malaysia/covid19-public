@@ -52,6 +52,7 @@ _Please submit a pull request here if you would like to request more data. Our t
      - Cases detected upon arrival in Malaysia
      - Cases who developed the illness during quarantine or isolation
  9) Breakdown by test type (RTK-Ag or RT-PCR)
+ 10) Cases in Category 1-5
    
 ### Healthcare
 
