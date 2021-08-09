@@ -64,4 +64,4 @@ MYCovid - an API which is powered by PHP which obtains the vaccination and epide
 
 7) [[Github Repo]](https://github.com/wnarifin/covid-19-malaysia)[[Flexdashboard]](https://wnarifin.github.io/covid-19-malaysia/) _Covid-19 Situation in Malaysia_ is a dashboard developed using flexdashboard R package and R Markdown. By [wnarifin](https://github.com/wnarifin/) and Epidemiology Modelling Team.
 
-8) [[Rpubs]](https://rpubs.com/amirmazmi/covid19-my) A simple analysis done in R by Amir Azmi.
+8) [[Rpubs]](https://rpubs.com/amirmazmi/covid19my) A simple analysis done in R by Amir Azmi.
