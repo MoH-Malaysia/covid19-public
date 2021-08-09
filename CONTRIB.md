@@ -73,4 +73,5 @@ _Please submit a pull request here if you would like to request more data. Our t
 1) [added] ~~MySejahtera checkins by state~~
 2) Population age group of MySejahtera check-ins, specified on by-state level
 3) Check-in locations categorized (e.g. supermarkets, hospitals) by state
-
+4) Tracing total of Inter-state & Intra-state Traveling (Count UniqueUserId vs Two and Above location Unique Check-In between State or Mukim. [Group by State, Mukim]).
+5) Tracing total on location checkin (GroupBy Mukim, GPS location that AREA), travel "intensity" of the area for warn public that mukim with high volume of people travel.
