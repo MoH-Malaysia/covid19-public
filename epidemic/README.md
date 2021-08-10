@@ -6,9 +6,9 @@
 | :--- | :---: | :---: |
 | cases_malaysia.csv | Static name | Daily by 2359 (for T-0) |
 | cases_state.csv | Static name | Daily by 2359 (for T-0) |
-| clusters.csv | Static name | Daily by 2359 (for T-1) |
 | deaths_malaysia.csv | Static name | Daily by 2359 (for T-0) |
 | deaths_state.csv | Static name | Daily by 2359 (for T-0) |
+| clusters.csv | Static name | Daily by 2359 (for T-1) |
 | tests_malaysia.csv | Static name | At least twice weekly |
 | pkrc.csv| Static name | At least twice weekly |
 | hospital.csv | Static name | At least twice weekly |
