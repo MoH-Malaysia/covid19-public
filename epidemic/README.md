@@ -50,7 +50,7 @@ _The datasets below have been constructed to provide 3 kinds of insight. First, 
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`: name of state; note that (unlike with other datasets), it is not necessary that there be an observation for every state on every date. for instance, there are no PKRCs in W.P. Kuala Lumpur and W.P Putrajaya.
-3) `beds`: total available PKRC beds (with related medical infrastructure)
+3) `beds`: total PKRC beds (with related medical infrastructure)
 4) `admitted_x`: number of individuals in category `x` admitted to PKRCs, where `x` can be suspected/probable, COVID-19 positive, or non-COVID
 5) `discharged_x`: number of individuals in category `x` discharged from PKRCs
 6) `pkrc_x`: total number of individuals in category `x` in PKRCs; this is a stock variable altered by flows from admissions and discharges
@@ -60,8 +60,9 @@ _The datasets below have been constructed to provide 3 kinds of insight. First, 
 
 1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `state`: name of state, with similar qualification on exhaustiveness of date-state combos as PKRC data
-3) `beds`: total available hospital beds (with related medical infrastructure)
-4) `beds_noncrit`: total available hospital beds for non-critical care
+3) `beds`: total hospital beds (with related medical infrastructure)
+3) `beds_covid`: total beds dedicated for COVID-19
+4) `beds_noncrit`: total hospital beds for non-critical care
 5) `admitted_x`: number of individuals in category `x` admitted to hospitals, where `x` can be suspected/probable, COVID-19 positive, or non-COVID
 6) `discharged_x`: number of individuals in category `x` discharged from hospitals
 7) `hosp_x`: total number of individuals in category `x` in hospitals; this is a stock variable altered by flows from admissions and discharges
