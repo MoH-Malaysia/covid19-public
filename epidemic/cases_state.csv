@@ -1,141 +1,957 @@
 date,state,cases_new
-2020-03-16,Johor,52
-2020-03-16,Kedah,31
-2020-03-16,Kelantan,18
-2020-03-16,Melaka,14
-2020-03-16,Negeri Sembilan,42
-2020-03-16,Pahang,19
-2020-03-16,Perak,18
-2020-03-16,Perlis,8
-2020-03-16,Pulau Pinang,15
-2020-03-16,Sabah,57
-2020-03-16,Sarawak,21
-2020-03-16,Selangor,144
+2020-01-25,Johor,4
+2020-01-25,Kedah,0
+2020-01-25,Kelantan,0
+2020-01-25,Melaka,0
+2020-01-25,Negeri Sembilan,0
+2020-01-25,Pahang,0
+2020-01-25,Pulau Pinang,0
+2020-01-25,Perak,0
+2020-01-25,Perlis,0
+2020-01-25,Sabah,0
+2020-01-25,Sarawak,0
+2020-01-25,Selangor,0
+2020-01-25,Terengganu,0
+2020-01-25,W.P. Kuala Lumpur,0
+2020-01-25,W.P. Labuan,0
+2020-01-25,W.P. Putrajaya,0
+2020-01-26,Johor,0
+2020-01-26,Kedah,0
+2020-01-26,Kelantan,0
+2020-01-26,Melaka,0
+2020-01-26,Negeri Sembilan,0
+2020-01-26,Pahang,0
+2020-01-26,Pulau Pinang,0
+2020-01-26,Perak,0
+2020-01-26,Perlis,0
+2020-01-26,Sabah,0
+2020-01-26,Sarawak,0
+2020-01-26,Selangor,0
+2020-01-26,Terengganu,0
+2020-01-26,W.P. Kuala Lumpur,0
+2020-01-26,W.P. Labuan,0
+2020-01-26,W.P. Putrajaya,0
+2020-01-27,Johor,0
+2020-01-27,Kedah,0
+2020-01-27,Kelantan,0
+2020-01-27,Melaka,0
+2020-01-27,Negeri Sembilan,0
+2020-01-27,Pahang,0
+2020-01-27,Pulau Pinang,0
+2020-01-27,Perak,0
+2020-01-27,Perlis,0
+2020-01-27,Sabah,0
+2020-01-27,Sarawak,0
+2020-01-27,Selangor,0
+2020-01-27,Terengganu,0
+2020-01-27,W.P. Kuala Lumpur,0
+2020-01-27,W.P. Labuan,0
+2020-01-27,W.P. Putrajaya,0
+2020-01-28,Johor,0
+2020-01-28,Kedah,0
+2020-01-28,Kelantan,0
+2020-01-28,Melaka,0
+2020-01-28,Negeri Sembilan,0
+2020-01-28,Pahang,0
+2020-01-28,Pulau Pinang,0
+2020-01-28,Perak,0
+2020-01-28,Perlis,0
+2020-01-28,Sabah,0
+2020-01-28,Sarawak,0
+2020-01-28,Selangor,0
+2020-01-28,Terengganu,0
+2020-01-28,W.P. Kuala Lumpur,0
+2020-01-28,W.P. Labuan,0
+2020-01-28,W.P. Putrajaya,0
+2020-01-29,Johor,2
+2020-01-29,Kedah,1
+2020-01-29,Kelantan,0
+2020-01-29,Melaka,0
+2020-01-29,Negeri Sembilan,0
+2020-01-29,Pahang,0
+2020-01-29,Pulau Pinang,0
+2020-01-29,Perak,0
+2020-01-29,Perlis,0
+2020-01-29,Sabah,0
+2020-01-29,Sarawak,0
+2020-01-29,Selangor,0
+2020-01-29,Terengganu,0
+2020-01-29,W.P. Kuala Lumpur,0
+2020-01-29,W.P. Labuan,0
+2020-01-29,W.P. Putrajaya,0
+2020-01-30,Johor,1
+2020-01-30,Kedah,0
+2020-01-30,Kelantan,0
+2020-01-30,Melaka,0
+2020-01-30,Negeri Sembilan,0
+2020-01-30,Pahang,0
+2020-01-30,Pulau Pinang,0
+2020-01-30,Perak,0
+2020-01-30,Perlis,0
+2020-01-30,Sabah,0
+2020-01-30,Sarawak,0
+2020-01-30,Selangor,0
+2020-01-30,Terengganu,0
+2020-01-30,W.P. Kuala Lumpur,0
+2020-01-30,W.P. Labuan,0
+2020-01-30,W.P. Putrajaya,0
+2020-01-31,Johor,0
+2020-01-31,Kedah,0
+2020-01-31,Kelantan,0
+2020-01-31,Melaka,0
+2020-01-31,Negeri Sembilan,0
+2020-01-31,Pahang,0
+2020-01-31,Pulau Pinang,0
+2020-01-31,Perak,0
+2020-01-31,Perlis,0
+2020-01-31,Sabah,0
+2020-01-31,Sarawak,0
+2020-01-31,Selangor,0
+2020-01-31,Terengganu,0
+2020-01-31,W.P. Kuala Lumpur,0
+2020-01-31,W.P. Labuan,0
+2020-01-31,W.P. Putrajaya,0
+2020-02-01,Johor,0
+2020-02-01,Kedah,0
+2020-02-01,Kelantan,0
+2020-02-01,Melaka,0
+2020-02-01,Negeri Sembilan,0
+2020-02-01,Pahang,0
+2020-02-01,Pulau Pinang,0
+2020-02-01,Perak,0
+2020-02-01,Perlis,0
+2020-02-01,Sabah,0
+2020-02-01,Sarawak,0
+2020-02-01,Selangor,0
+2020-02-01,Terengganu,0
+2020-02-01,W.P. Kuala Lumpur,0
+2020-02-01,W.P. Labuan,0
+2020-02-01,W.P. Putrajaya,0
+2020-02-02,Johor,0
+2020-02-02,Kedah,0
+2020-02-02,Kelantan,0
+2020-02-02,Melaka,0
+2020-02-02,Negeri Sembilan,0
+2020-02-02,Pahang,0
+2020-02-02,Pulau Pinang,0
+2020-02-02,Perak,0
+2020-02-02,Perlis,0
+2020-02-02,Sabah,0
+2020-02-02,Sarawak,0
+2020-02-02,Selangor,0
+2020-02-02,Terengganu,0
+2020-02-02,W.P. Kuala Lumpur,0
+2020-02-02,W.P. Labuan,0
+2020-02-02,W.P. Putrajaya,0
+2020-02-03,Johor,0
+2020-02-03,Kedah,0
+2020-02-03,Kelantan,0
+2020-02-03,Melaka,0
+2020-02-03,Negeri Sembilan,0
+2020-02-03,Pahang,0
+2020-02-03,Pulau Pinang,0
+2020-02-03,Perak,0
+2020-02-03,Perlis,0
+2020-02-03,Sabah,0
+2020-02-03,Sarawak,0
+2020-02-03,Selangor,0
+2020-02-03,Terengganu,0
+2020-02-03,W.P. Kuala Lumpur,0
+2020-02-03,W.P. Labuan,0
+2020-02-03,W.P. Putrajaya,0
+2020-02-04,Johor,0
+2020-02-04,Kedah,0
+2020-02-04,Kelantan,0
+2020-02-04,Melaka,0
+2020-02-04,Negeri Sembilan,0
+2020-02-04,Pahang,0
+2020-02-04,Pulau Pinang,0
+2020-02-04,Perak,0
+2020-02-04,Perlis,0
+2020-02-04,Sabah,0
+2020-02-04,Sarawak,0
+2020-02-04,Selangor,1
+2020-02-04,Terengganu,0
+2020-02-04,W.P. Kuala Lumpur,1
+2020-02-04,W.P. Labuan,0
+2020-02-04,W.P. Putrajaya,0
+2020-02-05,Johor,0
+2020-02-05,Kedah,0
+2020-02-05,Kelantan,0
+2020-02-05,Melaka,0
+2020-02-05,Negeri Sembilan,2
+2020-02-05,Pahang,0
+2020-02-05,Pulau Pinang,0
+2020-02-05,Perak,0
+2020-02-05,Perlis,0
+2020-02-05,Sabah,0
+2020-02-05,Sarawak,0
+2020-02-05,Selangor,0
+2020-02-05,Terengganu,0
+2020-02-05,W.P. Kuala Lumpur,0
+2020-02-05,W.P. Labuan,0
+2020-02-05,W.P. Putrajaya,0
+2020-02-06,Johor,0
+2020-02-06,Kedah,1
+2020-02-06,Kelantan,0
+2020-02-06,Melaka,0
+2020-02-06,Negeri Sembilan,0
+2020-02-06,Pahang,0
+2020-02-06,Pulau Pinang,0
+2020-02-06,Perak,0
+2020-02-06,Perlis,0
+2020-02-06,Sabah,0
+2020-02-06,Sarawak,0
+2020-02-06,Selangor,0
+2020-02-06,Terengganu,0
+2020-02-06,W.P. Kuala Lumpur,1
+2020-02-06,W.P. Labuan,0
+2020-02-06,W.P. Putrajaya,0
+2020-02-07,Johor,1
+2020-02-07,Kedah,0
+2020-02-07,Kelantan,0
+2020-02-07,Melaka,0
+2020-02-07,Negeri Sembilan,0
+2020-02-07,Pahang,0
+2020-02-07,Pulau Pinang,0
+2020-02-07,Perak,0
+2020-02-07,Perlis,0
+2020-02-07,Sabah,0
+2020-02-07,Sarawak,0
+2020-02-07,Selangor,0
+2020-02-07,Terengganu,0
+2020-02-07,W.P. Kuala Lumpur,0
+2020-02-07,W.P. Labuan,0
+2020-02-07,W.P. Putrajaya,0
+2020-02-08,Johor,0
+2020-02-08,Kedah,0
+2020-02-08,Kelantan,0
+2020-02-08,Melaka,0
+2020-02-08,Negeri Sembilan,0
+2020-02-08,Pahang,0
+2020-02-08,Pulau Pinang,0
+2020-02-08,Perak,0
+2020-02-08,Perlis,0
+2020-02-08,Sabah,0
+2020-02-08,Sarawak,0
+2020-02-08,Selangor,0
+2020-02-08,Terengganu,0
+2020-02-08,W.P. Kuala Lumpur,1
+2020-02-08,W.P. Labuan,0
+2020-02-08,W.P. Putrajaya,0
+2020-02-09,Johor,0
+2020-02-09,Kedah,0
+2020-02-09,Kelantan,0
+2020-02-09,Melaka,0
+2020-02-09,Negeri Sembilan,0
+2020-02-09,Pahang,0
+2020-02-09,Pulau Pinang,0
+2020-02-09,Perak,0
+2020-02-09,Perlis,0
+2020-02-09,Sabah,0
+2020-02-09,Sarawak,0
+2020-02-09,Selangor,1
+2020-02-09,Terengganu,0
+2020-02-09,W.P. Kuala Lumpur,0
+2020-02-09,W.P. Labuan,0
+2020-02-09,W.P. Putrajaya,0
+2020-02-10,Johor,0
+2020-02-10,Kedah,0
+2020-02-10,Kelantan,0
+2020-02-10,Melaka,0
+2020-02-10,Negeri Sembilan,0
+2020-02-10,Pahang,0
+2020-02-10,Pulau Pinang,0
+2020-02-10,Perak,0
+2020-02-10,Perlis,0
+2020-02-10,Sabah,0
+2020-02-10,Sarawak,0
+2020-02-10,Selangor,1
+2020-02-10,Terengganu,0
+2020-02-10,W.P. Kuala Lumpur,0
+2020-02-10,W.P. Labuan,0
+2020-02-10,W.P. Putrajaya,0
+2020-02-11,Johor,0
+2020-02-11,Kedah,0
+2020-02-11,Kelantan,0
+2020-02-11,Melaka,0
+2020-02-11,Negeri Sembilan,0
+2020-02-11,Pahang,0
+2020-02-11,Pulau Pinang,0
+2020-02-11,Perak,0
+2020-02-11,Perlis,0
+2020-02-11,Sabah,0
+2020-02-11,Sarawak,0
+2020-02-11,Selangor,0
+2020-02-11,Terengganu,0
+2020-02-11,W.P. Kuala Lumpur,0
+2020-02-11,W.P. Labuan,0
+2020-02-11,W.P. Putrajaya,0
+2020-02-12,Johor,0
+2020-02-12,Kedah,0
+2020-02-12,Kelantan,0
+2020-02-12,Melaka,0
+2020-02-12,Negeri Sembilan,0
+2020-02-12,Pahang,0
+2020-02-12,Pulau Pinang,0
+2020-02-12,Perak,0
+2020-02-12,Perlis,0
+2020-02-12,Sabah,0
+2020-02-12,Sarawak,0
+2020-02-12,Selangor,0
+2020-02-12,Terengganu,0
+2020-02-12,W.P. Kuala Lumpur,0
+2020-02-12,W.P. Labuan,0
+2020-02-12,W.P. Putrajaya,0
+2020-02-13,Johor,0
+2020-02-13,Kedah,0
+2020-02-13,Kelantan,0
+2020-02-13,Melaka,0
+2020-02-13,Negeri Sembilan,0
+2020-02-13,Pahang,0
+2020-02-13,Pulau Pinang,0
+2020-02-13,Perak,0
+2020-02-13,Perlis,0
+2020-02-13,Sabah,0
+2020-02-13,Sarawak,0
+2020-02-13,Selangor,0
+2020-02-13,Terengganu,0
+2020-02-13,W.P. Kuala Lumpur,0
+2020-02-13,W.P. Labuan,0
+2020-02-13,W.P. Putrajaya,0
+2020-02-14,Johor,0
+2020-02-14,Kedah,0
+2020-02-14,Kelantan,0
+2020-02-14,Melaka,0
+2020-02-14,Negeri Sembilan,0
+2020-02-14,Pahang,0
+2020-02-14,Pulau Pinang,0
+2020-02-14,Perak,0
+2020-02-14,Perlis,0
+2020-02-14,Sabah,0
+2020-02-14,Sarawak,0
+2020-02-14,Selangor,0
+2020-02-14,Terengganu,0
+2020-02-14,W.P. Kuala Lumpur,1
+2020-02-14,W.P. Labuan,0
+2020-02-14,W.P. Putrajaya,0
+2020-02-15,Johor,0
+2020-02-15,Kedah,1
+2020-02-15,Kelantan,0
+2020-02-15,Melaka,0
+2020-02-15,Negeri Sembilan,0
+2020-02-15,Pahang,0
+2020-02-15,Pulau Pinang,0
+2020-02-15,Perak,0
+2020-02-15,Perlis,0
+2020-02-15,Sabah,0
+2020-02-15,Sarawak,0
+2020-02-15,Selangor,2
+2020-02-15,Terengganu,0
+2020-02-15,W.P. Kuala Lumpur,0
+2020-02-15,W.P. Labuan,0
+2020-02-15,W.P. Putrajaya,0
+2020-02-16,Johor,0
+2020-02-16,Kedah,0
+2020-02-16,Kelantan,0
+2020-02-16,Melaka,0
+2020-02-16,Negeri Sembilan,0
+2020-02-16,Pahang,0
+2020-02-16,Pulau Pinang,0
+2020-02-16,Perak,0
+2020-02-16,Perlis,0
+2020-02-16,Sabah,0
+2020-02-16,Sarawak,0
+2020-02-16,Selangor,0
+2020-02-16,Terengganu,0
+2020-02-16,W.P. Kuala Lumpur,0
+2020-02-16,W.P. Labuan,0
+2020-02-16,W.P. Putrajaya,0
+2020-02-17,Johor,0
+2020-02-17,Kedah,0
+2020-02-17,Kelantan,0
+2020-02-17,Melaka,0
+2020-02-17,Negeri Sembilan,0
+2020-02-17,Pahang,0
+2020-02-17,Pulau Pinang,0
+2020-02-17,Perak,0
+2020-02-17,Perlis,0
+2020-02-17,Sabah,0
+2020-02-17,Sarawak,0
+2020-02-17,Selangor,0
+2020-02-17,Terengganu,0
+2020-02-17,W.P. Kuala Lumpur,0
+2020-02-17,W.P. Labuan,0
+2020-02-17,W.P. Putrajaya,0
+2020-02-18,Johor,0
+2020-02-18,Kedah,0
+2020-02-18,Kelantan,0
+2020-02-18,Melaka,0
+2020-02-18,Negeri Sembilan,0
+2020-02-18,Pahang,0
+2020-02-18,Pulau Pinang,0
+2020-02-18,Perak,0
+2020-02-18,Perlis,0
+2020-02-18,Sabah,0
+2020-02-18,Sarawak,0
+2020-02-18,Selangor,0
+2020-02-18,Terengganu,0
+2020-02-18,W.P. Kuala Lumpur,0
+2020-02-18,W.P. Labuan,0
+2020-02-18,W.P. Putrajaya,0
+2020-02-19,Johor,0
+2020-02-19,Kedah,0
+2020-02-19,Kelantan,0
+2020-02-19,Melaka,0
+2020-02-19,Negeri Sembilan,0
+2020-02-19,Pahang,0
+2020-02-19,Pulau Pinang,0
+2020-02-19,Perak,0
+2020-02-19,Perlis,0
+2020-02-19,Sabah,0
+2020-02-19,Sarawak,0
+2020-02-19,Selangor,0
+2020-02-19,Terengganu,0
+2020-02-19,W.P. Kuala Lumpur,0
+2020-02-19,W.P. Labuan,0
+2020-02-19,W.P. Putrajaya,0
+2020-02-20,Johor,0
+2020-02-20,Kedah,0
+2020-02-20,Kelantan,0
+2020-02-20,Melaka,0
+2020-02-20,Negeri Sembilan,0
+2020-02-20,Pahang,0
+2020-02-20,Pulau Pinang,0
+2020-02-20,Perak,0
+2020-02-20,Perlis,0
+2020-02-20,Sabah,0
+2020-02-20,Sarawak,0
+2020-02-20,Selangor,0
+2020-02-20,Terengganu,0
+2020-02-20,W.P. Kuala Lumpur,0
+2020-02-20,W.P. Labuan,0
+2020-02-20,W.P. Putrajaya,0
+2020-02-21,Johor,0
+2020-02-21,Kedah,0
+2020-02-21,Kelantan,0
+2020-02-21,Melaka,0
+2020-02-21,Negeri Sembilan,0
+2020-02-21,Pahang,0
+2020-02-21,Pulau Pinang,0
+2020-02-21,Perak,0
+2020-02-21,Perlis,0
+2020-02-21,Sabah,0
+2020-02-21,Sarawak,0
+2020-02-21,Selangor,0
+2020-02-21,Terengganu,0
+2020-02-21,W.P. Kuala Lumpur,0
+2020-02-21,W.P. Labuan,0
+2020-02-21,W.P. Putrajaya,0
+2020-02-22,Johor,0
+2020-02-22,Kedah,0
+2020-02-22,Kelantan,0
+2020-02-22,Melaka,0
+2020-02-22,Negeri Sembilan,0
+2020-02-22,Pahang,0
+2020-02-22,Pulau Pinang,0
+2020-02-22,Perak,0
+2020-02-22,Perlis,0
+2020-02-22,Sabah,0
+2020-02-22,Sarawak,0
+2020-02-22,Selangor,0
+2020-02-22,Terengganu,0
+2020-02-22,W.P. Kuala Lumpur,0
+2020-02-22,W.P. Labuan,0
+2020-02-22,W.P. Putrajaya,0
+2020-02-23,Johor,0
+2020-02-23,Kedah,0
+2020-02-23,Kelantan,0
+2020-02-23,Melaka,0
+2020-02-23,Negeri Sembilan,0
+2020-02-23,Pahang,0
+2020-02-23,Pulau Pinang,0
+2020-02-23,Perak,0
+2020-02-23,Perlis,0
+2020-02-23,Sabah,0
+2020-02-23,Sarawak,0
+2020-02-23,Selangor,0
+2020-02-23,Terengganu,0
+2020-02-23,W.P. Kuala Lumpur,0
+2020-02-23,W.P. Labuan,0
+2020-02-23,W.P. Putrajaya,0
+2020-02-24,Johor,0
+2020-02-24,Kedah,0
+2020-02-24,Kelantan,0
+2020-02-24,Melaka,0
+2020-02-24,Negeri Sembilan,0
+2020-02-24,Pahang,0
+2020-02-24,Pulau Pinang,0
+2020-02-24,Perak,0
+2020-02-24,Perlis,0
+2020-02-24,Sabah,0
+2020-02-24,Sarawak,0
+2020-02-24,Selangor,0
+2020-02-24,Terengganu,0
+2020-02-24,W.P. Kuala Lumpur,0
+2020-02-24,W.P. Labuan,0
+2020-02-24,W.P. Putrajaya,0
+2020-02-25,Johor,0
+2020-02-25,Kedah,0
+2020-02-25,Kelantan,0
+2020-02-25,Melaka,0
+2020-02-25,Negeri Sembilan,0
+2020-02-25,Pahang,0
+2020-02-25,Pulau Pinang,0
+2020-02-25,Perak,0
+2020-02-25,Perlis,0
+2020-02-25,Sabah,0
+2020-02-25,Sarawak,0
+2020-02-25,Selangor,0
+2020-02-25,Terengganu,0
+2020-02-25,W.P. Kuala Lumpur,0
+2020-02-25,W.P. Labuan,0
+2020-02-25,W.P. Putrajaya,0
+2020-02-26,Johor,0
+2020-02-26,Kedah,0
+2020-02-26,Kelantan,0
+2020-02-26,Melaka,0
+2020-02-26,Negeri Sembilan,0
+2020-02-26,Pahang,0
+2020-02-26,Pulau Pinang,0
+2020-02-26,Perak,0
+2020-02-26,Perlis,0
+2020-02-26,Sabah,0
+2020-02-26,Sarawak,0
+2020-02-26,Selangor,0
+2020-02-26,Terengganu,0
+2020-02-26,W.P. Kuala Lumpur,0
+2020-02-26,W.P. Labuan,0
+2020-02-26,W.P. Putrajaya,0
+2020-02-27,Johor,0
+2020-02-27,Kedah,0
+2020-02-27,Kelantan,0
+2020-02-27,Melaka,0
+2020-02-27,Negeri Sembilan,0
+2020-02-27,Pahang,0
+2020-02-27,Pulau Pinang,0
+2020-02-27,Perak,0
+2020-02-27,Perlis,0
+2020-02-27,Sabah,0
+2020-02-27,Sarawak,0
+2020-02-27,Selangor,1
+2020-02-27,Terengganu,0
+2020-02-27,W.P. Kuala Lumpur,0
+2020-02-27,W.P. Labuan,0
+2020-02-27,W.P. Putrajaya,0
+2020-02-28,Johor,0
+2020-02-28,Kedah,0
+2020-02-28,Kelantan,0
+2020-02-28,Melaka,0
+2020-02-28,Negeri Sembilan,0
+2020-02-28,Pahang,0
+2020-02-28,Pulau Pinang,0
+2020-02-28,Perak,0
+2020-02-28,Perlis,0
+2020-02-28,Sabah,0
+2020-02-28,Sarawak,0
+2020-02-28,Selangor,1
+2020-02-28,Terengganu,0
+2020-02-28,W.P. Kuala Lumpur,1
+2020-02-28,W.P. Labuan,0
+2020-02-28,W.P. Putrajaya,0
+2020-02-29,Johor,0
+2020-02-29,Kedah,0
+2020-02-29,Kelantan,0
+2020-02-29,Melaka,0
+2020-02-29,Negeri Sembilan,0
+2020-02-29,Pahang,0
+2020-02-29,Pulau Pinang,0
+2020-02-29,Perak,0
+2020-02-29,Perlis,0
+2020-02-29,Sabah,0
+2020-02-29,Sarawak,0
+2020-02-29,Selangor,4
+2020-02-29,Terengganu,0
+2020-02-29,W.P. Kuala Lumpur,0
+2020-02-29,W.P. Labuan,0
+2020-02-29,W.P. Putrajaya,0
+2020-03-01,Johor,0
+2020-03-01,Kedah,0
+2020-03-01,Kelantan,0
+2020-03-01,Melaka,0
+2020-03-01,Negeri Sembilan,0
+2020-03-01,Pahang,0
+2020-03-01,Pulau Pinang,0
+2020-03-01,Perak,0
+2020-03-01,Perlis,0
+2020-03-01,Sabah,0
+2020-03-01,Sarawak,0
+2020-03-01,Selangor,0
+2020-03-01,Terengganu,0
+2020-03-01,W.P. Kuala Lumpur,0
+2020-03-01,W.P. Labuan,0
+2020-03-01,W.P. Putrajaya,0
+2020-03-02,Johor,0
+2020-03-02,Kedah,0
+2020-03-02,Kelantan,0
+2020-03-02,Melaka,0
+2020-03-02,Negeri Sembilan,0
+2020-03-02,Pahang,0
+2020-03-02,Pulau Pinang,0
+2020-03-02,Perak,0
+2020-03-02,Perlis,0
+2020-03-02,Sabah,0
+2020-03-02,Sarawak,0
+2020-03-02,Selangor,0
+2020-03-02,Terengganu,0
+2020-03-02,W.P. Kuala Lumpur,0
+2020-03-02,W.P. Labuan,0
+2020-03-02,W.P. Putrajaya,0
+2020-03-03,Johor,0
+2020-03-03,Kedah,0
+2020-03-03,Kelantan,0
+2020-03-03,Melaka,0
+2020-03-03,Negeri Sembilan,0
+2020-03-03,Pahang,0
+2020-03-03,Pulau Pinang,0
+2020-03-03,Perak,0
+2020-03-03,Perlis,0
+2020-03-03,Sabah,0
+2020-03-03,Sarawak,0
+2020-03-03,Selangor,6
+2020-03-03,Terengganu,0
+2020-03-03,W.P. Kuala Lumpur,0
+2020-03-03,W.P. Labuan,0
+2020-03-03,W.P. Putrajaya,1
+2020-03-04,Johor,1
+2020-03-04,Kedah,0
+2020-03-04,Kelantan,0
+2020-03-04,Melaka,0
+2020-03-04,Negeri Sembilan,2
+2020-03-04,Pahang,0
+2020-03-04,Pulau Pinang,0
+2020-03-04,Perak,0
+2020-03-04,Perlis,0
+2020-03-04,Sabah,0
+2020-03-04,Sarawak,0
+2020-03-04,Selangor,7
+2020-03-04,Terengganu,0
+2020-03-04,W.P. Kuala Lumpur,3
+2020-03-04,W.P. Labuan,0
+2020-03-04,W.P. Putrajaya,1
+2020-03-05,Johor,0
+2020-03-05,Kedah,0
+2020-03-05,Kelantan,0
+2020-03-05,Melaka,0
+2020-03-05,Negeri Sembilan,0
+2020-03-05,Pahang,0
+2020-03-05,Pulau Pinang,0
+2020-03-05,Perak,0
+2020-03-05,Perlis,0
+2020-03-05,Sabah,0
+2020-03-05,Sarawak,0
+2020-03-05,Selangor,4
+2020-03-05,Terengganu,0
+2020-03-05,W.P. Kuala Lumpur,1
+2020-03-05,W.P. Labuan,0
+2020-03-05,W.P. Putrajaya,0
+2020-03-06,Johor,1
+2020-03-06,Kedah,0
+2020-03-06,Kelantan,0
+2020-03-06,Melaka,0
+2020-03-06,Negeri Sembilan,0
+2020-03-06,Pahang,0
+2020-03-06,Pulau Pinang,1
+2020-03-06,Perak,0
+2020-03-06,Perlis,0
+2020-03-06,Sabah,0
+2020-03-06,Sarawak,0
+2020-03-06,Selangor,21
+2020-03-06,Terengganu,0
+2020-03-06,W.P. Kuala Lumpur,5
+2020-03-06,W.P. Labuan,0
+2020-03-06,W.P. Putrajaya,0
+2020-03-07,Johor,2
+2020-03-07,Kedah,0
+2020-03-07,Kelantan,0
+2020-03-07,Melaka,0
+2020-03-07,Negeri Sembilan,0
+2020-03-07,Pahang,0
+2020-03-07,Pulau Pinang,0
+2020-03-07,Perak,0
+2020-03-07,Perlis,0
+2020-03-07,Sabah,0
+2020-03-07,Sarawak,0
+2020-03-07,Selangor,8
+2020-03-07,Terengganu,0
+2020-03-07,W.P. Kuala Lumpur,0
+2020-03-07,W.P. Labuan,0
+2020-03-07,W.P. Putrajaya,0
+2020-03-08,Johor,0
+2020-03-08,Kedah,0
+2020-03-08,Kelantan,0
+2020-03-08,Melaka,0
+2020-03-08,Negeri Sembilan,0
+2020-03-08,Pahang,0
+2020-03-08,Pulau Pinang,0
+2020-03-08,Perak,0
+2020-03-08,Perlis,0
+2020-03-08,Sabah,0
+2020-03-08,Sarawak,0
+2020-03-08,Selangor,6
+2020-03-08,Terengganu,0
+2020-03-08,W.P. Kuala Lumpur,0
+2020-03-08,W.P. Labuan,0
+2020-03-08,W.P. Putrajaya,0
+2020-03-09,Johor,0
+2020-03-09,Kedah,0
+2020-03-09,Kelantan,0
+2020-03-09,Melaka,0
+2020-03-09,Negeri Sembilan,1
+2020-03-09,Pahang,0
+2020-03-09,Pulau Pinang,0
+2020-03-09,Perak,0
+2020-03-09,Perlis,0
+2020-03-09,Sabah,0
+2020-03-09,Sarawak,0
+2020-03-09,Selangor,11
+2020-03-09,Terengganu,0
+2020-03-09,W.P. Kuala Lumpur,6
+2020-03-09,W.P. Labuan,0
+2020-03-09,W.P. Putrajaya,0
+2020-03-10,Johor,0
+2020-03-10,Kedah,0
+2020-03-10,Kelantan,0
+2020-03-10,Melaka,0
+2020-03-10,Negeri Sembilan,1
+2020-03-10,Pahang,0
+2020-03-10,Pulau Pinang,1
+2020-03-10,Perak,0
+2020-03-10,Perlis,0
+2020-03-10,Sabah,0
+2020-03-10,Sarawak,0
+2020-03-10,Selangor,10
+2020-03-10,Terengganu,0
+2020-03-10,W.P. Kuala Lumpur,0
+2020-03-10,W.P. Labuan,0
+2020-03-10,W.P. Putrajaya,0
+2020-03-11,Johor,3
+2020-03-11,Kedah,0
+2020-03-11,Kelantan,0
+2020-03-11,Melaka,1
+2020-03-11,Negeri Sembilan,2
+2020-03-11,Pahang,1
+2020-03-11,Pulau Pinang,0
+2020-03-11,Perak,0
+2020-03-11,Perlis,0
+2020-03-11,Sabah,0
+2020-03-11,Sarawak,0
+2020-03-11,Selangor,9
+2020-03-11,Terengganu,0
+2020-03-11,W.P. Kuala Lumpur,4
+2020-03-11,W.P. Labuan,0
+2020-03-11,W.P. Putrajaya,0
+2020-03-12,Johor,1
+2020-03-12,Kedah,0
+2020-03-12,Kelantan,0
+2020-03-12,Melaka,0
+2020-03-12,Negeri Sembilan,2
+2020-03-12,Pahang,0
+2020-03-12,Pulau Pinang,0
+2020-03-12,Perak,0
+2020-03-12,Perlis,0
+2020-03-12,Sabah,1
+2020-03-12,Sarawak,0
+2020-03-12,Selangor,3
+2020-03-12,Terengganu,0
+2020-03-12,W.P. Kuala Lumpur,2
+2020-03-12,W.P. Labuan,0
+2020-03-12,W.P. Putrajaya,0
+2020-03-13,Johor,4
+2020-03-13,Kedah,2
+2020-03-13,Kelantan,3
+2020-03-13,Melaka,0
+2020-03-13,Negeri Sembilan,1
+2020-03-13,Pahang,1
+2020-03-13,Pulau Pinang,5
+2020-03-13,Perak,2
+2020-03-13,Perlis,1
+2020-03-13,Sabah,14
+2020-03-13,Sarawak,0
+2020-03-13,Selangor,1
+2020-03-13,Terengganu,0
+2020-03-13,W.P. Kuala Lumpur,3
+2020-03-13,W.P. Labuan,2
+2020-03-13,W.P. Putrajaya,0
+2020-03-14,Johor,2
+2020-03-14,Kedah,0
+2020-03-14,Kelantan,0
+2020-03-14,Melaka,5
+2020-03-14,Negeri Sembilan,8
+2020-03-14,Pahang,0
+2020-03-14,Pulau Pinang,0
+2020-03-14,Perak,0
+2020-03-14,Perlis,1
+2020-03-14,Sabah,11
+2020-03-14,Sarawak,6
+2020-03-14,Selangor,6
+2020-03-14,Terengganu,0
+2020-03-14,W.P. Kuala Lumpur,2
+2020-03-14,W.P. Labuan,0
+2020-03-14,W.P. Putrajaya,0
+2020-03-15,Johor,23
+2020-03-15,Kedah,16
+2020-03-15,Kelantan,3
+2020-03-15,Melaka,7
+2020-03-15,Negeri Sembilan,11
+2020-03-15,Pahang,7
+2020-03-15,Pulau Pinang,6
+2020-03-15,Perak,10
+2020-03-15,Perlis,4
+2020-03-15,Sabah,23
+2020-03-15,Sarawak,14
+2020-03-15,Selangor,18
+2020-03-15,Terengganu,0
+2020-03-15,W.P. Kuala Lumpur,45
+2020-03-15,W.P. Labuan,2
+2020-03-15,W.P. Putrajaya,1
+2020-03-16,Johor,7
+2020-03-16,Kedah,6
+2020-03-16,Kelantan,12
+2020-03-16,Melaka,1
+2020-03-16,Negeri Sembilan,13
+2020-03-16,Pahang,10
+2020-03-16,Pulau Pinang,5
+2020-03-16,Perak,6
+2020-03-16,Perlis,3
+2020-03-16,Sabah,8
+2020-03-16,Sarawak,0
+2020-03-16,Selangor,24
 2020-03-16,Terengganu,4
-2020-03-16,W.P. Kuala Lumpur,106
-2020-03-16,W.P. Labuan,4
-2020-03-16,W.P. Putrajaya,0
+2020-03-16,W.P. Kuala Lumpur,23
+2020-03-16,W.P. Labuan,0
+2020-03-16,W.P. Putrajaya,3
 2020-03-17,Johor,25
-2020-03-17,Kedah,0
-2020-03-17,Kelantan,7
+2020-03-17,Kedah,2
+2020-03-17,Kelantan,6
 2020-03-17,Melaka,3
 2020-03-17,Negeri Sembilan,3
-2020-03-17,Pahang,9
-2020-03-17,Perak,5
+2020-03-17,Pahang,2
+2020-03-17,Pulau Pinang,10
+2020-03-17,Perak,6
 2020-03-17,Perlis,0
-2020-03-17,Pulau Pinang,8
 2020-03-17,Sabah,25
-2020-03-17,Sarawak,8
-2020-03-17,Selangor,17
+2020-03-17,Sarawak,9
+2020-03-17,Selangor,18
 2020-03-17,Terengganu,3
-2020-03-17,W.P. Kuala Lumpur,7
+2020-03-17,W.P. Kuala Lumpur,8
 2020-03-17,W.P. Labuan,0
 2020-03-17,W.P. Putrajaya,0
-2020-03-18,Johor,11
-2020-03-18,Kedah,5
-2020-03-18,Kelantan,5
+2020-03-18,Johor,13
+2020-03-18,Kedah,6
+2020-03-18,Kelantan,6
 2020-03-18,Melaka,1
-2020-03-18,Negeri Sembilan,0
-2020-03-18,Pahang,1
-2020-03-18,Perak,5
+2020-03-18,Negeri Sembilan,1
+2020-03-18,Pahang,11
+2020-03-18,Pulau Pinang,5
+2020-03-18,Perak,7
 2020-03-18,Perlis,0
-2020-03-18,Pulau Pinang,7
 2020-03-18,Sabah,21
 2020-03-18,Sarawak,20
-2020-03-18,Selangor,31
+2020-03-18,Selangor,15
 2020-03-18,Terengganu,3
 2020-03-18,W.P. Kuala Lumpur,6
 2020-03-18,W.P. Labuan,1
-2020-03-18,W.P. Putrajaya,0
+2020-03-18,W.P. Putrajaya,1
 2020-03-19,Johor,13
 2020-03-19,Kedah,4
-2020-03-19,Kelantan,14
+2020-03-19,Kelantan,13
 2020-03-19,Melaka,2
 2020-03-19,Negeri Sembilan,11
-2020-03-19,Pahang,3
-2020-03-19,Perak,7
+2020-03-19,Pahang,0
+2020-03-19,Pulau Pinang,0
+2020-03-19,Perak,5
 2020-03-19,Perlis,1
-2020-03-19,Pulau Pinang,2
 2020-03-19,Sabah,9
 2020-03-19,Sarawak,2
-2020-03-19,Selangor,31
-2020-03-19,Terengganu,1
-2020-03-19,W.P. Kuala Lumpur,4
+2020-03-19,Selangor,42
+2020-03-19,Terengganu,2
+2020-03-19,W.P. Kuala Lumpur,6
 2020-03-19,W.P. Labuan,0
-2020-03-19,W.P. Putrajaya,6
+2020-03-19,W.P. Putrajaya,0
 2020-03-20,Johor,13
 2020-03-20,Kedah,1
-2020-03-20,Kelantan,7
+2020-03-20,Kelantan,8
 2020-03-20,Melaka,2
 2020-03-20,Negeri Sembilan,9
 2020-03-20,Pahang,4
+2020-03-20,Pulau Pinang,5
 2020-03-20,Perak,10
 2020-03-20,Perlis,0
-2020-03-20,Pulau Pinang,5
 2020-03-20,Sabah,7
 2020-03-20,Sarawak,7
-2020-03-20,Selangor,40
-2020-03-20,Terengganu,9
-2020-03-20,W.P. Kuala Lumpur,16
+2020-03-20,Selangor,38
+2020-03-20,Terengganu,8
+2020-03-20,W.P. Kuala Lumpur,18
 2020-03-20,W.P. Labuan,0
 2020-03-20,W.P. Putrajaya,0
-2020-03-21,Johor,15
+2020-03-21,Johor,16
 2020-03-21,Kedah,6
 2020-03-21,Kelantan,10
 2020-03-21,Melaka,0
-2020-03-21,Negeri Sembilan,5
-2020-03-21,Pahang,1
+2020-03-21,Negeri Sembilan,6
+2020-03-21,Pahang,0
+2020-03-21,Pulau Pinang,13
 2020-03-21,Perak,10
 2020-03-21,Perlis,0
-2020-03-21,Pulau Pinang,13
 2020-03-21,Sabah,17
 2020-03-21,Sarawak,10
-2020-03-21,Selangor,29
+2020-03-21,Selangor,27
 2020-03-21,Terengganu,7
-2020-03-21,W.P. Kuala Lumpur,27
+2020-03-21,W.P. Kuala Lumpur,29
 2020-03-21,W.P. Labuan,0
-2020-03-21,W.P. Putrajaya,3
+2020-03-21,W.P. Putrajaya,2
 2020-03-22,Johor,16
 2020-03-22,Kedah,5
 2020-03-22,Kelantan,2
 2020-03-22,Melaka,1
-2020-03-22,Negeri Sembilan,8
+2020-03-22,Negeri Sembilan,6
 2020-03-22,Pahang,3
+2020-03-22,Pulau Pinang,8
 2020-03-22,Perak,11
 2020-03-22,Perlis,0
-2020-03-22,Pulau Pinang,8
 2020-03-22,Sabah,22
 2020-03-22,Sarawak,8
-2020-03-22,Selangor,17
+2020-03-22,Selangor,16
 2020-03-22,Terengganu,5
-2020-03-22,W.P. Kuala Lumpur,17
+2020-03-22,W.P. Kuala Lumpur,18
 2020-03-22,W.P. Labuan,0
-2020-03-22,W.P. Putrajaya,0
-2020-03-23,Johor,13
+2020-03-22,W.P. Putrajaya,2
+2020-03-23,Johor,14
 2020-03-23,Kedah,7
 2020-03-23,Kelantan,8
 2020-03-23,Melaka,2
 2020-03-23,Negeri Sembilan,16
 2020-03-23,Pahang,16
+2020-03-23,Pulau Pinang,8
 2020-03-23,Perak,15
 2020-03-23,Perlis,0
-2020-03-23,Pulau Pinang,8
 2020-03-23,Sabah,11
 2020-03-23,Sarawak,2
-2020-03-23,Selangor,45
+2020-03-23,Selangor,46
 2020-03-23,Terengganu,6
 2020-03-23,W.P. Kuala Lumpur,59
 2020-03-23,W.P. Labuan,0
-2020-03-23,W.P. Putrajaya,4
+2020-03-23,W.P. Putrajaya,2
 2020-03-24,Johor,4
 2020-03-24,Kedah,5
 2020-03-24,Kelantan,7
 2020-03-24,Melaka,6
-2020-03-24,Negeri Sembilan,15
-2020-03-24,Pahang,0
+2020-03-24,Negeri Sembilan,14
+2020-03-24,Pahang,1
+2020-03-24,Pulau Pinang,2
 2020-03-24,Perak,17
 2020-03-24,Perlis,0
-2020-03-24,Pulau Pinang,2
 2020-03-24,Sabah,1
 2020-03-24,Sarawak,5
 2020-03-24,Selangor,27
@@ -144,19 +960,19 @@ date,state,cases_new
 2020-03-24,W.P. Labuan,0
 2020-03-24,W.P. Putrajaya,2
 2020-03-25,Johor,34
-2020-03-25,Kedah,5
+2020-03-25,Kedah,6
 2020-03-25,Kelantan,6
 2020-03-25,Melaka,2
 2020-03-25,Negeri Sembilan,14
-2020-03-25,Pahang,8
+2020-03-25,Pahang,7
+2020-03-25,Pulau Pinang,1
 2020-03-25,Perak,30
 2020-03-25,Perlis,1
-2020-03-25,Pulau Pinang,2
 2020-03-25,Sabah,0
 2020-03-25,Sarawak,2
-2020-03-25,Selangor,54
+2020-03-25,Selangor,53
 2020-03-25,Terengganu,0
-2020-03-25,W.P. Kuala Lumpur,13
+2020-03-25,W.P. Kuala Lumpur,15
 2020-03-25,W.P. Labuan,0
 2020-03-25,W.P. Putrajaya,1
 2020-03-26,Johor,43
@@ -165,14 +981,14 @@ date,state,cases_new
 2020-03-26,Melaka,0
 2020-03-26,Negeri Sembilan,9
 2020-03-26,Pahang,2
+2020-03-26,Pulau Pinang,4
 2020-03-26,Perak,23
 2020-03-26,Perlis,0
-2020-03-26,Pulau Pinang,4
 2020-03-26,Sabah,2
 2020-03-26,Sarawak,10
-2020-03-26,Selangor,75
+2020-03-26,Selangor,77
 2020-03-26,Terengganu,1
-2020-03-26,W.P. Kuala Lumpur,51
+2020-03-26,W.P. Kuala Lumpur,49
 2020-03-26,W.P. Labuan,0
 2020-03-26,W.P. Putrajaya,2
 2020-03-27,Johor,20
@@ -180,15 +996,15 @@ date,state,cases_new
 2020-03-27,Kelantan,4
 2020-03-27,Melaka,0
 2020-03-27,Negeri Sembilan,6
-2020-03-27,Pahang,4
-2020-03-27,Perak,8
-2020-03-27,Perlis,0
+2020-03-27,Pahang,5
 2020-03-27,Pulau Pinang,6
+2020-03-27,Perak,7
+2020-03-27,Perlis,0
 2020-03-27,Sabah,10
 2020-03-27,Sarawak,15
 2020-03-27,Selangor,36
 2020-03-27,Terengganu,2
-2020-03-27,W.P. Kuala Lumpur,2
+2020-03-27,W.P. Kuala Lumpur,16
 2020-03-27,W.P. Labuan,0
 2020-03-27,W.P. Putrajaya,2
 2020-03-28,Johor,26
@@ -197,14 +1013,14 @@ date,state,cases_new
 2020-03-28,Melaka,9
 2020-03-28,Negeri Sembilan,15
 2020-03-28,Pahang,14
+2020-03-28,Pulau Pinang,6
 2020-03-28,Perak,6
 2020-03-28,Perlis,0
-2020-03-28,Pulau Pinang,6
 2020-03-28,Sabah,15
 2020-03-28,Sarawak,8
-2020-03-28,Selangor,33
+2020-03-28,Selangor,34
 2020-03-28,Terengganu,4
-2020-03-28,W.P. Kuala Lumpur,21
+2020-03-28,W.P. Kuala Lumpur,6
 2020-03-28,W.P. Labuan,5
 2020-03-28,W.P. Putrajaya,0
 2020-03-29,Johor,24
@@ -213,9 +1029,9 @@ date,state,cases_new
 2020-03-29,Melaka,1
 2020-03-29,Negeri Sembilan,9
 2020-03-29,Pahang,12
+2020-03-29,Pulau Pinang,1
 2020-03-29,Perak,11
 2020-03-29,Perlis,0
-2020-03-29,Pulau Pinang,1
 2020-03-29,Sabah,0
 2020-03-29,Sarawak,11
 2020-03-29,Selangor,33
@@ -223,31 +1039,31 @@ date,state,cases_new
 2020-03-29,W.P. Kuala Lumpur,28
 2020-03-29,W.P. Labuan,0
 2020-03-29,W.P. Putrajaya,2
-2020-03-30,Johor,24
+2020-03-30,Johor,22
 2020-03-30,Kedah,2
 2020-03-30,Kelantan,4
 2020-03-30,Melaka,7
 2020-03-30,Negeri Sembilan,10
 2020-03-30,Pahang,3
+2020-03-30,Pulau Pinang,1
 2020-03-30,Perak,8
 2020-03-30,Perlis,1
-2020-03-30,Pulau Pinang,1
 2020-03-30,Sabah,4
 2020-03-30,Sarawak,6
-2020-03-30,Selangor,60
+2020-03-30,Selangor,59
 2020-03-30,Terengganu,0
-2020-03-30,W.P. Kuala Lumpur,24
+2020-03-30,W.P. Kuala Lumpur,26
 2020-03-30,W.P. Labuan,0
-2020-03-30,W.P. Putrajaya,2
+2020-03-30,W.P. Putrajaya,3
 2020-03-31,Johor,16
 2020-03-31,Kedah,0
 2020-03-31,Kelantan,4
 2020-03-31,Melaka,2
 2020-03-31,Negeri Sembilan,9
 2020-03-31,Pahang,3
+2020-03-31,Pulau Pinang,6
 2020-03-31,Perak,5
 2020-03-31,Perlis,1
-2020-03-31,Pulau Pinang,6
 2020-03-31,Sabah,5
 2020-03-31,Sarawak,21
 2020-03-31,Selangor,32
@@ -261,9 +1077,9 @@ date,state,cases_new
 2020-04-01,Melaka,11
 2020-04-01,Negeri Sembilan,8
 2020-04-01,Pahang,9
+2020-04-01,Pulau Pinang,2
 2020-04-01,Perak,5
 2020-04-01,Perlis,0
-2020-04-01,Pulau Pinang,2
 2020-04-01,Sabah,3
 2020-04-01,Sarawak,32
 2020-04-01,Selangor,22
@@ -275,27 +1091,27 @@ date,state,cases_new
 2020-04-02,Kedah,1
 2020-04-02,Kelantan,3
 2020-04-02,Melaka,7
-2020-04-02,Negeri Sembilan,18
+2020-04-02,Negeri Sembilan,17
 2020-04-02,Pahang,3
+2020-04-02,Pulau Pinang,2
 2020-04-02,Perak,6
 2020-04-02,Perlis,0
-2020-04-02,Pulau Pinang,2
 2020-04-02,Sabah,1
 2020-04-02,Sarawak,23
-2020-04-02,Selangor,74
+2020-04-02,Selangor,70
 2020-04-02,Terengganu,2
-2020-04-02,W.P. Kuala Lumpur,33
+2020-04-02,W.P. Kuala Lumpur,39
 2020-04-02,W.P. Labuan,0
-2020-04-02,W.P. Putrajaya,8
+2020-04-02,W.P. Putrajaya,7
 2020-04-03,Johor,21
 2020-04-03,Kedah,1
 2020-04-03,Kelantan,0
 2020-04-03,Melaka,3
 2020-04-03,Negeri Sembilan,4
 2020-04-03,Pahang,13
+2020-04-03,Pulau Pinang,0
 2020-04-03,Perak,5
 2020-04-03,Perlis,0
-2020-04-03,Pulau Pinang,0
 2020-04-03,Sabah,5
 2020-04-03,Sarawak,28
 2020-04-03,Selangor,63
@@ -309,30 +1125,30 @@ date,state,cases_new
 2020-04-04,Melaka,2
 2020-04-04,Negeri Sembilan,9
 2020-04-04,Pahang,24
+2020-04-04,Pulau Pinang,1
 2020-04-04,Perak,2
 2020-04-04,Perlis,0
-2020-04-04,Pulau Pinang,1
 2020-04-04,Sabah,10
 2020-04-04,Sarawak,7
-2020-04-04,Selangor,27
+2020-04-04,Selangor,29
 2020-04-04,Terengganu,6
-2020-04-04,W.P. Kuala Lumpur,52
+2020-04-04,W.P. Kuala Lumpur,50
 2020-04-04,W.P. Labuan,1
 2020-04-04,W.P. Putrajaya,1
 2020-04-05,Johor,16
 2020-04-05,Kedah,1
 2020-04-05,Kelantan,2
 2020-04-05,Melaka,14
-2020-04-05,Negeri Sembilan,11
+2020-04-05,Negeri Sembilan,12
 2020-04-05,Pahang,7
+2020-04-05,Pulau Pinang,2
 2020-04-05,Perak,6
 2020-04-05,Perlis,1
-2020-04-05,Pulau Pinang,2
 2020-04-05,Sabah,13
 2020-04-05,Sarawak,15
-2020-04-05,Selangor,53
+2020-04-05,Selangor,50
 2020-04-05,Terengganu,10
-2020-04-05,W.P. Kuala Lumpur,27
+2020-04-05,W.P. Kuala Lumpur,29
 2020-04-05,W.P. Labuan,0
 2020-04-05,W.P. Putrajaya,1
 2020-04-06,Johor,30
@@ -341,9 +1157,9 @@ date,state,cases_new
 2020-04-06,Melaka,10
 2020-04-06,Negeri Sembilan,8
 2020-04-06,Pahang,3
+2020-04-06,Pulau Pinang,0
 2020-04-06,Perak,6
 2020-04-06,Perlis,0
-2020-04-06,Pulau Pinang,0
 2020-04-06,Sabah,2
 2020-04-06,Sarawak,12
 2020-04-06,Selangor,27
@@ -357,9 +1173,9 @@ date,state,cases_new
 2020-04-07,Melaka,4
 2020-04-07,Negeri Sembilan,22
 2020-04-07,Pahang,5
+2020-04-07,Pulau Pinang,1
 2020-04-07,Perak,14
 2020-04-07,Perlis,4
-2020-04-07,Pulau Pinang,1
 2020-04-07,Sabah,1
 2020-04-07,Sarawak,15
 2020-04-07,Selangor,50
@@ -373,9 +1189,9 @@ date,state,cases_new
 2020-04-08,Melaka,13
 2020-04-08,Negeri Sembilan,9
 2020-04-08,Pahang,3
+2020-04-08,Pulau Pinang,6
 2020-04-08,Perak,4
 2020-04-08,Perlis,0
-2020-04-08,Pulau Pinang,6
 2020-04-08,Sabah,7
 2020-04-08,Sarawak,18
 2020-04-08,Selangor,58
@@ -389,28 +1205,28 @@ date,state,cases_new
 2020-04-09,Melaka,3
 2020-04-09,Negeri Sembilan,11
 2020-04-09,Pahang,14
+2020-04-09,Pulau Pinang,0
 2020-04-09,Perak,4
 2020-04-09,Perlis,0
-2020-04-09,Pulau Pinang,0
 2020-04-09,Sabah,0
 2020-04-09,Sarawak,6
-2020-04-09,Selangor,40
+2020-04-09,Selangor,39
 2020-04-09,Terengganu,5
-2020-04-09,W.P. Kuala Lumpur,14
+2020-04-09,W.P. Kuala Lumpur,15
 2020-04-09,W.P. Labuan,0
 2020-04-09,W.P. Putrajaya,2
-2020-04-10,Johor,20
+2020-04-10,Johor,19
 2020-04-10,Kedah,0
 2020-04-10,Kelantan,1
 2020-04-10,Melaka,14
 2020-04-10,Negeri Sembilan,11
 2020-04-10,Pahang,4
+2020-04-10,Pulau Pinang,1
 2020-04-10,Perak,1
 2020-04-10,Perlis,0
-2020-04-10,Pulau Pinang,1
 2020-04-10,Sabah,2
 2020-04-10,Sarawak,15
-2020-04-10,Selangor,30
+2020-04-10,Selangor,31
 2020-04-10,Terengganu,3
 2020-04-10,W.P. Kuala Lumpur,14
 2020-04-10,W.P. Labuan,0
@@ -421,9 +1237,9 @@ date,state,cases_new
 2020-04-11,Melaka,8
 2020-04-11,Negeri Sembilan,17
 2020-04-11,Pahang,27
+2020-04-11,Pulau Pinang,5
 2020-04-11,Perak,1
 2020-04-11,Perlis,0
-2020-04-11,Pulau Pinang,5
 2020-04-11,Sabah,10
 2020-04-11,Sarawak,7
 2020-04-11,Selangor,35
@@ -437,9 +1253,9 @@ date,state,cases_new
 2020-04-12,Melaka,3
 2020-04-12,Negeri Sembilan,9
 2020-04-12,Pahang,11
+2020-04-12,Pulau Pinang,2
 2020-04-12,Perak,1
 2020-04-12,Perlis,0
-2020-04-12,Pulau Pinang,2
 2020-04-12,Sabah,6
 2020-04-12,Sarawak,8
 2020-04-12,Selangor,53
@@ -447,20 +1263,20 @@ date,state,cases_new
 2020-04-12,W.P. Kuala Lumpur,44
 2020-04-12,W.P. Labuan,0
 2020-04-12,W.P. Putrajaya,1
-2020-04-13,Johor,21
+2020-04-13,Johor,20
 2020-04-13,Kedah,0
 2020-04-13,Kelantan,2
 2020-04-13,Melaka,0
 2020-04-13,Negeri Sembilan,42
 2020-04-13,Pahang,0
+2020-04-13,Pulau Pinang,0
 2020-04-13,Perak,3
 2020-04-13,Perlis,0
-2020-04-13,Pulau Pinang,0
 2020-04-13,Sabah,14
 2020-04-13,Sarawak,6
 2020-04-13,Selangor,13
 2020-04-13,Terengganu,4
-2020-04-13,W.P. Kuala Lumpur,27
+2020-04-13,W.P. Kuala Lumpur,28
 2020-04-13,W.P. Labuan,0
 2020-04-13,W.P. Putrajaya,2
 2020-04-14,Johor,8
@@ -469,14 +1285,14 @@ date,state,cases_new
 2020-04-14,Melaka,3
 2020-04-14,Negeri Sembilan,2
 2020-04-14,Pahang,11
-2020-04-14,Perak,3
-2020-04-14,Perlis,1
 2020-04-14,Pulau Pinang,3
+2020-04-14,Perak,3
+2020-04-14,Perlis,0
 2020-04-14,Sabah,5
 2020-04-14,Sarawak,15
-2020-04-14,Selangor,50
+2020-04-14,Selangor,52
 2020-04-14,Terengganu,0
-2020-04-14,W.P. Kuala Lumpur,69
+2020-04-14,W.P. Kuala Lumpur,68
 2020-04-14,W.P. Labuan,0
 2020-04-14,W.P. Putrajaya,0
 2020-04-15,Johor,14
@@ -485,14 +1301,14 @@ date,state,cases_new
 2020-04-15,Melaka,0
 2020-04-15,Negeri Sembilan,1
 2020-04-15,Pahang,17
+2020-04-15,Pulau Pinang,0
 2020-04-15,Perak,0
 2020-04-15,Perlis,0
-2020-04-15,Pulau Pinang,0
 2020-04-15,Sabah,0
 2020-04-15,Sarawak,8
-2020-04-15,Selangor,17
+2020-04-15,Selangor,18
 2020-04-15,Terengganu,0
-2020-04-15,W.P. Kuala Lumpur,27
+2020-04-15,W.P. Kuala Lumpur,26
 2020-04-15,W.P. Labuan,0
 2020-04-15,W.P. Putrajaya,0
 2020-04-16,Johor,13
@@ -501,9 +1317,9 @@ date,state,cases_new
 2020-04-16,Melaka,0
 2020-04-16,Negeri Sembilan,26
 2020-04-16,Pahang,8
+2020-04-16,Pulau Pinang,0
 2020-04-16,Perak,1
 2020-04-16,Perlis,0
-2020-04-16,Pulau Pinang,0
 2020-04-16,Sabah,3
 2020-04-16,Sarawak,16
 2020-04-16,Selangor,13
@@ -517,14 +1333,14 @@ date,state,cases_new
 2020-04-17,Melaka,1
 2020-04-17,Negeri Sembilan,13
 2020-04-17,Pahang,1
+2020-04-17,Pulau Pinang,0
 2020-04-17,Perak,1
 2020-04-17,Perlis,0
-2020-04-17,Pulau Pinang,0
 2020-04-17,Sabah,5
 2020-04-17,Sarawak,10
-2020-04-17,Selangor,9
+2020-04-17,Selangor,10
 2020-04-17,Terengganu,0
-2020-04-17,W.P. Kuala Lumpur,19
+2020-04-17,W.P. Kuala Lumpur,18
 2020-04-17,W.P. Labuan,1
 2020-04-17,W.P. Putrajaya,0
 2020-04-18,Johor,16
@@ -533,9 +1349,9 @@ date,state,cases_new
 2020-04-18,Melaka,0
 2020-04-18,Negeri Sembilan,3
 2020-04-18,Pahang,2
+2020-04-18,Pulau Pinang,0
 2020-04-18,Perak,0
 2020-04-18,Perlis,0
-2020-04-18,Pulau Pinang,0
 2020-04-18,Sabah,10
 2020-04-18,Sarawak,6
 2020-04-18,Selangor,2
@@ -549,14 +1365,14 @@ date,state,cases_new
 2020-04-19,Melaka,37
 2020-04-19,Negeri Sembilan,0
 2020-04-19,Pahang,5
+2020-04-19,Pulau Pinang,0
 2020-04-19,Perak,0
 2020-04-19,Perlis,0
-2020-04-19,Pulau Pinang,0
 2020-04-19,Sabah,3
 2020-04-19,Sarawak,5
-2020-04-19,Selangor,3
+2020-04-19,Selangor,10
 2020-04-19,Terengganu,0
-2020-04-19,W.P. Kuala Lumpur,19
+2020-04-19,W.P. Kuala Lumpur,12
 2020-04-19,W.P. Labuan,0
 2020-04-19,W.P. Putrajaya,9
 2020-04-20,Johor,2
@@ -565,9 +1381,9 @@ date,state,cases_new
 2020-04-20,Melaka,2
 2020-04-20,Negeri Sembilan,3
 2020-04-20,Pahang,2
+2020-04-20,Pulau Pinang,0
 2020-04-20,Perak,0
 2020-04-20,Perlis,0
-2020-04-20,Pulau Pinang,0
 2020-04-20,Sabah,2
 2020-04-20,Sarawak,6
 2020-04-20,Selangor,2
@@ -581,9 +1397,9 @@ date,state,cases_new
 2020-04-21,Melaka,1
 2020-04-21,Negeri Sembilan,1
 2020-04-21,Pahang,8
+2020-04-21,Pulau Pinang,0
 2020-04-21,Perak,0
 2020-04-21,Perlis,0
-2020-04-21,Pulau Pinang,0
 2020-04-21,Sabah,0
 2020-04-21,Sarawak,22
 2020-04-21,Selangor,11
@@ -597,9 +1413,9 @@ date,state,cases_new
 2020-04-22,Melaka,1
 2020-04-22,Negeri Sembilan,2
 2020-04-22,Pahang,6
+2020-04-22,Pulau Pinang,0
 2020-04-22,Perak,0
 2020-04-22,Perlis,0
-2020-04-22,Pulau Pinang,0
 2020-04-22,Sabah,0
 2020-04-22,Sarawak,19
 2020-04-22,Selangor,1
@@ -613,9 +1429,9 @@ date,state,cases_new
 2020-04-23,Melaka,0
 2020-04-23,Negeri Sembilan,20
 2020-04-23,Pahang,1
+2020-04-23,Pulau Pinang,0
 2020-04-23,Perak,0
 2020-04-23,Perlis,0
-2020-04-23,Pulau Pinang,0
 2020-04-23,Sabah,1
 2020-04-23,Sarawak,4
 2020-04-23,Selangor,12
@@ -629,9 +1445,9 @@ date,state,cases_new
 2020-04-24,Melaka,3
 2020-04-24,Negeri Sembilan,2
 2020-04-24,Pahang,1
+2020-04-24,Pulau Pinang,0
 2020-04-24,Perak,0
 2020-04-24,Perlis,0
-2020-04-24,Pulau Pinang,0
 2020-04-24,Sabah,2
 2020-04-24,Sarawak,9
 2020-04-24,Selangor,18
@@ -645,9 +1461,9 @@ date,state,cases_new
 2020-04-25,Melaka,0
 2020-04-25,Negeri Sembilan,0
 2020-04-25,Pahang,1
+2020-04-25,Pulau Pinang,0
 2020-04-25,Perak,0
 2020-04-25,Perlis,0
-2020-04-25,Pulau Pinang,0
 2020-04-25,Sabah,0
 2020-04-25,Sarawak,10
 2020-04-25,Selangor,1
@@ -661,9 +1477,9 @@ date,state,cases_new
 2020-04-26,Melaka,1
 2020-04-26,Negeri Sembilan,1
 2020-04-26,Pahang,0
+2020-04-26,Pulau Pinang,2
 2020-04-26,Perak,0
 2020-04-26,Perlis,0
-2020-04-26,Pulau Pinang,2
 2020-04-26,Sabah,0
 2020-04-26,Sarawak,7
 2020-04-26,Selangor,6
@@ -677,9 +1493,9 @@ date,state,cases_new
 2020-04-27,Melaka,0
 2020-04-27,Negeri Sembilan,1
 2020-04-27,Pahang,0
+2020-04-27,Pulau Pinang,0
 2020-04-27,Perak,1
 2020-04-27,Perlis,0
-2020-04-27,Pulau Pinang,0
 2020-04-27,Sabah,1
 2020-04-27,Sarawak,3
 2020-04-27,Selangor,4
@@ -693,9 +1509,9 @@ date,state,cases_new
 2020-04-28,Melaka,0
 2020-04-28,Negeri Sembilan,1
 2020-04-28,Pahang,0
+2020-04-28,Pulau Pinang,0
 2020-04-28,Perak,0
 2020-04-28,Perlis,0
-2020-04-28,Pulau Pinang,0
 2020-04-28,Sabah,1
 2020-04-28,Sarawak,8
 2020-04-28,Selangor,5
@@ -709,9 +1525,9 @@ date,state,cases_new
 2020-04-29,Melaka,0
 2020-04-29,Negeri Sembilan,72
 2020-04-29,Pahang,5
+2020-04-29,Pulau Pinang,0
 2020-04-29,Perak,0
 2020-04-29,Perlis,0
-2020-04-29,Pulau Pinang,0
 2020-04-29,Sabah,2
 2020-04-29,Sarawak,6
 2020-04-29,Selangor,1
@@ -725,9 +1541,9 @@ date,state,cases_new
 2020-04-30,Melaka,5
 2020-04-30,Negeri Sembilan,5
 2020-04-30,Pahang,1
+2020-04-30,Pulau Pinang,0
 2020-04-30,Perak,0
 2020-04-30,Perlis,0
-2020-04-30,Pulau Pinang,0
 2020-04-30,Sabah,0
 2020-04-30,Sarawak,5
 2020-04-30,Selangor,27
@@ -741,9 +1557,9 @@ date,state,cases_new
 2020-05-01,Melaka,1
 2020-05-01,Negeri Sembilan,0
 2020-05-01,Pahang,3
+2020-05-01,Pulau Pinang,0
 2020-05-01,Perak,0
 2020-05-01,Perlis,0
-2020-05-01,Pulau Pinang,0
 2020-05-01,Sabah,0
 2020-05-01,Sarawak,2
 2020-05-01,Selangor,24
@@ -757,9 +1573,9 @@ date,state,cases_new
 2020-05-02,Melaka,2
 2020-05-02,Negeri Sembilan,8
 2020-05-02,Pahang,8
+2020-05-02,Pulau Pinang,0
 2020-05-02,Perak,0
 2020-05-02,Perlis,0
-2020-05-02,Pulau Pinang,0
 2020-05-02,Sabah,0
 2020-05-02,Sarawak,9
 2020-05-02,Selangor,63
@@ -773,9 +1589,9 @@ date,state,cases_new
 2020-05-03,Melaka,3
 2020-05-03,Negeri Sembilan,71
 2020-05-03,Pahang,0
+2020-05-03,Pulau Pinang,0
 2020-05-03,Perak,0
 2020-05-03,Perlis,0
-2020-05-03,Pulau Pinang,0
 2020-05-03,Sabah,1
 2020-05-03,Sarawak,5
 2020-05-03,Selangor,11
@@ -789,9 +1605,9 @@ date,state,cases_new
 2020-05-04,Melaka,3
 2020-05-04,Negeri Sembilan,6
 2020-05-04,Pahang,0
+2020-05-04,Pulau Pinang,0
 2020-05-04,Perak,0
 2020-05-04,Perlis,0
-2020-05-04,Pulau Pinang,0
 2020-05-04,Sabah,0
 2020-05-04,Sarawak,0
 2020-05-04,Selangor,21
@@ -805,9 +1621,9 @@ date,state,cases_new
 2020-05-05,Melaka,0
 2020-05-05,Negeri Sembilan,0
 2020-05-05,Pahang,0
+2020-05-05,Pulau Pinang,0
 2020-05-05,Perak,0
 2020-05-05,Perlis,0
-2020-05-05,Pulau Pinang,0
 2020-05-05,Sabah,0
 2020-05-05,Sarawak,2
 2020-05-05,Selangor,5
@@ -821,9 +1637,9 @@ date,state,cases_new
 2020-05-06,Melaka,1
 2020-05-06,Negeri Sembilan,2
 2020-05-06,Pahang,0
+2020-05-06,Pulau Pinang,0
 2020-05-06,Perak,0
 2020-05-06,Perlis,0
-2020-05-06,Pulau Pinang,0
 2020-05-06,Sabah,0
 2020-05-06,Sarawak,11
 2020-05-06,Selangor,9
@@ -837,9 +1653,9 @@ date,state,cases_new
 2020-05-07,Melaka,1
 2020-05-07,Negeri Sembilan,0
 2020-05-07,Pahang,0
+2020-05-07,Pulau Pinang,0
 2020-05-07,Perak,0
 2020-05-07,Perlis,0
-2020-05-07,Pulau Pinang,0
 2020-05-07,Sabah,1
 2020-05-07,Sarawak,1
 2020-05-07,Selangor,16
@@ -853,9 +1669,9 @@ date,state,cases_new
 2020-05-08,Melaka,0
 2020-05-08,Negeri Sembilan,53
 2020-05-08,Pahang,1
+2020-05-08,Pulau Pinang,0
 2020-05-08,Perak,0
 2020-05-08,Perlis,0
-2020-05-08,Pulau Pinang,0
 2020-05-08,Sabah,0
 2020-05-08,Sarawak,1
 2020-05-08,Selangor,6
@@ -869,9 +1685,9 @@ date,state,cases_new
 2020-05-09,Melaka,1
 2020-05-09,Negeri Sembilan,28
 2020-05-09,Pahang,0
+2020-05-09,Pulau Pinang,0
 2020-05-09,Perak,0
 2020-05-09,Perlis,0
-2020-05-09,Pulau Pinang,0
 2020-05-09,Sabah,0
 2020-05-09,Sarawak,4
 2020-05-09,Selangor,10
@@ -885,9 +1701,9 @@ date,state,cases_new
 2020-05-10,Melaka,0
 2020-05-10,Negeri Sembilan,45
 2020-05-10,Pahang,2
+2020-05-10,Pulau Pinang,0
 2020-05-10,Perak,2
 2020-05-10,Perlis,0
-2020-05-10,Pulau Pinang,0
 2020-05-10,Sabah,0
 2020-05-10,Sarawak,1
 2020-05-10,Selangor,8
@@ -901,9 +1717,9 @@ date,state,cases_new
 2020-05-11,Melaka,1
 2020-05-11,Negeri Sembilan,16
 2020-05-11,Pahang,4
+2020-05-11,Pulau Pinang,0
 2020-05-11,Perak,0
 2020-05-11,Perlis,0
-2020-05-11,Pulau Pinang,0
 2020-05-11,Sabah,10
 2020-05-11,Sarawak,0
 2020-05-11,Selangor,3
@@ -917,9 +1733,9 @@ date,state,cases_new
 2020-05-12,Melaka,0
 2020-05-12,Negeri Sembilan,0
 2020-05-12,Pahang,0
+2020-05-12,Pulau Pinang,0
 2020-05-12,Perak,0
 2020-05-12,Perlis,0
-2020-05-12,Pulau Pinang,0
 2020-05-12,Sabah,1
 2020-05-12,Sarawak,0
 2020-05-12,Selangor,3
@@ -933,10 +1749,10 @@ date,state,cases_new
 2020-05-13,Melaka,2
 2020-05-13,Negeri Sembilan,22
 2020-05-13,Pahang,3
+2020-05-13,Pulau Pinang,0
 2020-05-13,Perak,0
 2020-05-13,Perlis,0
-2020-05-13,Pulau Pinang,0
-2020-05-13,Sabah,0
+2020-05-13,Sabah,2
 2020-05-13,Sarawak,1
 2020-05-13,Selangor,2
 2020-05-13,Terengganu,0
@@ -949,9 +1765,9 @@ date,state,cases_new
 2020-05-14,Melaka,1
 2020-05-14,Negeri Sembilan,11
 2020-05-14,Pahang,8
+2020-05-14,Pulau Pinang,0
 2020-05-14,Perak,0
 2020-05-14,Perlis,0
-2020-05-14,Pulau Pinang,0
 2020-05-14,Sabah,0
 2020-05-14,Sarawak,0
 2020-05-14,Selangor,1
@@ -965,9 +1781,9 @@ date,state,cases_new
 2020-05-15,Melaka,1
 2020-05-15,Negeri Sembilan,1
 2020-05-15,Pahang,5
+2020-05-15,Pulau Pinang,0
 2020-05-15,Perak,0
 2020-05-15,Perlis,0
-2020-05-15,Pulau Pinang,0
 2020-05-15,Sabah,0
 2020-05-15,Sarawak,0
 2020-05-15,Selangor,14
@@ -981,10 +1797,10 @@ date,state,cases_new
 2020-05-16,Melaka,0
 2020-05-16,Negeri Sembilan,0
 2020-05-16,Pahang,7
+2020-05-16,Pulau Pinang,0
 2020-05-16,Perak,0
 2020-05-16,Perlis,0
-2020-05-16,Pulau Pinang,0
-2020-05-16,Sabah,3
+2020-05-16,Sabah,1
 2020-05-16,Sarawak,0
 2020-05-16,Selangor,1
 2020-05-16,Terengganu,0
@@ -997,9 +1813,9 @@ date,state,cases_new
 2020-05-17,Melaka,0
 2020-05-17,Negeri Sembilan,0
 2020-05-17,Pahang,1
+2020-05-17,Pulau Pinang,0
 2020-05-17,Perak,0
 2020-05-17,Perlis,0
-2020-05-17,Pulau Pinang,0
 2020-05-17,Sabah,0
 2020-05-17,Sarawak,0
 2020-05-17,Selangor,8
@@ -1013,9 +1829,9 @@ date,state,cases_new
 2020-05-18,Melaka,0
 2020-05-18,Negeri Sembilan,0
 2020-05-18,Pahang,0
+2020-05-18,Pulau Pinang,0
 2020-05-18,Perak,0
 2020-05-18,Perlis,0
-2020-05-18,Pulau Pinang,0
 2020-05-18,Sabah,0
 2020-05-18,Sarawak,0
 2020-05-18,Selangor,8
@@ -1029,41 +1845,41 @@ date,state,cases_new
 2020-05-19,Melaka,0
 2020-05-19,Negeri Sembilan,0
 2020-05-19,Pahang,2
+2020-05-19,Pulau Pinang,0
 2020-05-19,Perak,0
 2020-05-19,Perlis,0
-2020-05-19,Pulau Pinang,0
 2020-05-19,Sabah,6
 2020-05-19,Sarawak,0
 2020-05-19,Selangor,6
 2020-05-19,Terengganu,0
 2020-05-19,W.P. Kuala Lumpur,22
 2020-05-19,W.P. Labuan,0
-2020-05-19,W.P. Putrajaya,-1
+2020-05-19,W.P. Putrajaya,0
 2020-05-20,Johor,0
 2020-05-20,Kedah,1
 2020-05-20,Kelantan,1
 2020-05-20,Melaka,0
 2020-05-20,Negeri Sembilan,0
 2020-05-20,Pahang,0
+2020-05-20,Pulau Pinang,0
 2020-05-20,Perak,0
 2020-05-20,Perlis,0
-2020-05-20,Pulau Pinang,0
 2020-05-20,Sabah,1
 2020-05-20,Sarawak,0
 2020-05-20,Selangor,15
 2020-05-20,Terengganu,1
 2020-05-20,W.P. Kuala Lumpur,10
 2020-05-20,W.P. Labuan,0
-2020-05-20,W.P. Putrajaya,3
+2020-05-20,W.P. Putrajaya,2
 2020-05-21,Johor,0
 2020-05-21,Kedah,0
 2020-05-21,Kelantan,0
 2020-05-21,Melaka,0
 2020-05-21,Negeri Sembilan,2
 2020-05-21,Pahang,1
+2020-05-21,Pulau Pinang,0
 2020-05-21,Perak,0
 2020-05-21,Perlis,0
-2020-05-21,Pulau Pinang,0
 2020-05-21,Sabah,0
 2020-05-21,Sarawak,0
 2020-05-21,Selangor,8
@@ -1077,9 +1893,9 @@ date,state,cases_new
 2020-05-22,Melaka,1
 2020-05-22,Negeri Sembilan,13
 2020-05-22,Pahang,2
+2020-05-22,Pulau Pinang,0
 2020-05-22,Perak,0
 2020-05-22,Perlis,0
-2020-05-22,Pulau Pinang,0
 2020-05-22,Sabah,2
 2020-05-22,Sarawak,1
 2020-05-22,Selangor,20
@@ -1093,9 +1909,9 @@ date,state,cases_new
 2020-05-23,Melaka,0
 2020-05-23,Negeri Sembilan,1
 2020-05-23,Pahang,3
+2020-05-23,Pulau Pinang,0
 2020-05-23,Perak,0
 2020-05-23,Perlis,0
-2020-05-23,Pulau Pinang,0
 2020-05-23,Sabah,1
 2020-05-23,Sarawak,0
 2020-05-23,Selangor,37
@@ -1109,9 +1925,9 @@ date,state,cases_new
 2020-05-24,Melaka,0
 2020-05-24,Negeri Sembilan,0
 2020-05-24,Pahang,0
+2020-05-24,Pulau Pinang,0
 2020-05-24,Perak,0
 2020-05-24,Perlis,0
-2020-05-24,Pulau Pinang,0
 2020-05-24,Sabah,2
 2020-05-24,Sarawak,0
 2020-05-24,Selangor,46
@@ -1125,9 +1941,9 @@ date,state,cases_new
 2020-05-25,Melaka,0
 2020-05-25,Negeri Sembilan,0
 2020-05-25,Pahang,0
+2020-05-25,Pulau Pinang,0
 2020-05-25,Perak,0
 2020-05-25,Perlis,0
-2020-05-25,Pulau Pinang,0
 2020-05-25,Sabah,0
 2020-05-25,Sarawak,4
 2020-05-25,Selangor,53
@@ -1141,9 +1957,9 @@ date,state,cases_new
 2020-05-26,Melaka,0
 2020-05-26,Negeri Sembilan,1
 2020-05-26,Pahang,0
+2020-05-26,Pulau Pinang,0
 2020-05-26,Perak,0
 2020-05-26,Perlis,0
-2020-05-26,Pulau Pinang,0
 2020-05-26,Sabah,0
 2020-05-26,Sarawak,0
 2020-05-26,Selangor,9
@@ -1157,9 +1973,9 @@ date,state,cases_new
 2020-05-27,Melaka,0
 2020-05-27,Negeri Sembilan,0
 2020-05-27,Pahang,0
+2020-05-27,Pulau Pinang,0
 2020-05-27,Perak,0
 2020-05-27,Perlis,0
-2020-05-27,Pulau Pinang,0
 2020-05-27,Sabah,1
 2020-05-27,Sarawak,3
 2020-05-27,Selangor,5
@@ -1173,9 +1989,9 @@ date,state,cases_new
 2020-05-28,Melaka,0
 2020-05-28,Negeri Sembilan,0
 2020-05-28,Pahang,1
+2020-05-28,Pulau Pinang,0
 2020-05-28,Perak,0
 2020-05-28,Perlis,0
-2020-05-28,Pulau Pinang,0
 2020-05-28,Sabah,0
 2020-05-28,Sarawak,0
 2020-05-28,Selangor,2
@@ -1189,9 +2005,9 @@ date,state,cases_new
 2020-05-29,Melaka,0
 2020-05-29,Negeri Sembilan,59
 2020-05-29,Pahang,1
+2020-05-29,Pulau Pinang,0
 2020-05-29,Perak,0
 2020-05-29,Perlis,0
-2020-05-29,Pulau Pinang,0
 2020-05-29,Sabah,2
 2020-05-29,Sarawak,0
 2020-05-29,Selangor,28
@@ -1205,9 +2021,9 @@ date,state,cases_new
 2020-05-30,Melaka,2
 2020-05-30,Negeri Sembilan,4
 2020-05-30,Pahang,0
+2020-05-30,Pulau Pinang,0
 2020-05-30,Perak,1
 2020-05-30,Perlis,0
-2020-05-30,Pulau Pinang,0
 2020-05-30,Sabah,0
 2020-05-30,Sarawak,0
 2020-05-30,Selangor,5
@@ -1221,9 +2037,9 @@ date,state,cases_new
 2020-05-31,Melaka,1
 2020-05-31,Negeri Sembilan,2
 2020-05-31,Pahang,15
+2020-05-31,Pulau Pinang,0
 2020-05-31,Perak,0
 2020-05-31,Perlis,0
-2020-05-31,Pulau Pinang,0
 2020-05-31,Sabah,0
 2020-05-31,Sarawak,0
 2020-05-31,Selangor,31
@@ -1237,9 +2053,9 @@ date,state,cases_new
 2020-06-01,Melaka,13
 2020-06-01,Negeri Sembilan,2
 2020-06-01,Pahang,0
+2020-06-01,Pulau Pinang,0
 2020-06-01,Perak,0
 2020-06-01,Perlis,0
-2020-06-01,Pulau Pinang,0
 2020-06-01,Sabah,1
 2020-06-01,Sarawak,0
 2020-06-01,Selangor,11
@@ -1253,9 +2069,9 @@ date,state,cases_new
 2020-06-02,Melaka,1
 2020-06-02,Negeri Sembilan,6
 2020-06-02,Pahang,0
+2020-06-02,Pulau Pinang,0
 2020-06-02,Perak,0
 2020-06-02,Perlis,0
-2020-06-02,Pulau Pinang,0
 2020-06-02,Sabah,1
 2020-06-02,Sarawak,0
 2020-06-02,Selangor,6
@@ -1269,9 +2085,9 @@ date,state,cases_new
 2020-06-03,Melaka,0
 2020-06-03,Negeri Sembilan,36
 2020-06-03,Pahang,0
+2020-06-03,Pulau Pinang,0
 2020-06-03,Perak,0
 2020-06-03,Perlis,0
-2020-06-03,Pulau Pinang,0
 2020-06-03,Sabah,0
 2020-06-03,Sarawak,0
 2020-06-03,Selangor,2
@@ -1285,9 +2101,9 @@ date,state,cases_new
 2020-06-04,Melaka,0
 2020-06-04,Negeri Sembilan,3
 2020-06-04,Pahang,1
+2020-06-04,Pulau Pinang,0
 2020-06-04,Perak,0
 2020-06-04,Perlis,0
-2020-06-04,Pulau Pinang,0
 2020-06-04,Sabah,0
 2020-06-04,Sarawak,0
 2020-06-04,Selangor,2
@@ -1301,9 +2117,9 @@ date,state,cases_new
 2020-06-05,Melaka,1
 2020-06-05,Negeri Sembilan,0
 2020-06-05,Pahang,1
+2020-06-05,Pulau Pinang,0
 2020-06-05,Perak,0
 2020-06-05,Perlis,0
-2020-06-05,Pulau Pinang,0
 2020-06-05,Sabah,3
 2020-06-05,Sarawak,1
 2020-06-05,Selangor,9
@@ -1317,9 +2133,9 @@ date,state,cases_new
 2020-06-06,Melaka,0
 2020-06-06,Negeri Sembilan,5
 2020-06-06,Pahang,0
+2020-06-06,Pulau Pinang,0
 2020-06-06,Perak,0
 2020-06-06,Perlis,0
-2020-06-06,Pulau Pinang,0
 2020-06-06,Sabah,0
 2020-06-06,Sarawak,2
 2020-06-06,Selangor,14
@@ -1333,9 +2149,9 @@ date,state,cases_new
 2020-06-07,Melaka,0
 2020-06-07,Negeri Sembilan,1
 2020-06-07,Pahang,0
+2020-06-07,Pulau Pinang,0
 2020-06-07,Perak,0
 2020-06-07,Perlis,0
-2020-06-07,Pulau Pinang,0
 2020-06-07,Sabah,2
 2020-06-07,Sarawak,0
 2020-06-07,Selangor,12
@@ -1349,9 +2165,9 @@ date,state,cases_new
 2020-06-08,Melaka,1
 2020-06-08,Negeri Sembilan,0
 2020-06-08,Pahang,0
+2020-06-08,Pulau Pinang,0
 2020-06-08,Perak,0
 2020-06-08,Perlis,0
-2020-06-08,Pulau Pinang,0
 2020-06-08,Sabah,2
 2020-06-08,Sarawak,0
 2020-06-08,Selangor,3
@@ -1365,9 +2181,9 @@ date,state,cases_new
 2020-06-09,Melaka,0
 2020-06-09,Negeri Sembilan,0
 2020-06-09,Pahang,0
+2020-06-09,Pulau Pinang,0
 2020-06-09,Perak,0
 2020-06-09,Perlis,0
-2020-06-09,Pulau Pinang,0
 2020-06-09,Sabah,0
 2020-06-09,Sarawak,0
 2020-06-09,Selangor,3
@@ -1381,9 +2197,9 @@ date,state,cases_new
 2020-06-10,Melaka,0
 2020-06-10,Negeri Sembilan,0
 2020-06-10,Pahang,0
+2020-06-10,Pulau Pinang,0
 2020-06-10,Perak,0
 2020-06-10,Perlis,0
-2020-06-10,Pulau Pinang,0
 2020-06-10,Sabah,0
 2020-06-10,Sarawak,1
 2020-06-10,Selangor,0
@@ -1397,9 +2213,9 @@ date,state,cases_new
 2020-06-11,Melaka,11
 2020-06-11,Negeri Sembilan,16
 2020-06-11,Pahang,0
+2020-06-11,Pulau Pinang,0
 2020-06-11,Perak,0
 2020-06-11,Perlis,0
-2020-06-11,Pulau Pinang,0
 2020-06-11,Sabah,0
 2020-06-11,Sarawak,0
 2020-06-11,Selangor,3
@@ -1413,9 +2229,9 @@ date,state,cases_new
 2020-06-12,Melaka,4
 2020-06-12,Negeri Sembilan,4
 2020-06-12,Pahang,0
+2020-06-12,Pulau Pinang,0
 2020-06-12,Perak,0
 2020-06-12,Perlis,0
-2020-06-12,Pulau Pinang,0
 2020-06-12,Sabah,1
 2020-06-12,Sarawak,0
 2020-06-12,Selangor,13
@@ -1429,9 +2245,9 @@ date,state,cases_new
 2020-06-13,Melaka,2
 2020-06-13,Negeri Sembilan,26
 2020-06-13,Pahang,2
+2020-06-13,Pulau Pinang,0
 2020-06-13,Perak,1
 2020-06-13,Perlis,0
-2020-06-13,Pulau Pinang,0
 2020-06-13,Sabah,2
 2020-06-13,Sarawak,0
 2020-06-13,Selangor,7
@@ -1445,9 +2261,9 @@ date,state,cases_new
 2020-06-14,Melaka,1
 2020-06-14,Negeri Sembilan,0
 2020-06-14,Pahang,0
+2020-06-14,Pulau Pinang,0
 2020-06-14,Perak,0
 2020-06-14,Perlis,0
-2020-06-14,Pulau Pinang,0
 2020-06-14,Sabah,0
 2020-06-14,Sarawak,1
 2020-06-14,Selangor,2
@@ -1461,9 +2277,9 @@ date,state,cases_new
 2020-06-15,Melaka,2
 2020-06-15,Negeri Sembilan,32
 2020-06-15,Pahang,0
+2020-06-15,Pulau Pinang,0
 2020-06-15,Perak,0
 2020-06-15,Perlis,0
-2020-06-15,Pulau Pinang,0
 2020-06-15,Sabah,1
 2020-06-15,Sarawak,0
 2020-06-15,Selangor,2
@@ -1477,9 +2293,9 @@ date,state,cases_new
 2020-06-16,Melaka,0
 2020-06-16,Negeri Sembilan,4
 2020-06-16,Pahang,0
+2020-06-16,Pulau Pinang,0
 2020-06-16,Perak,0
 2020-06-16,Perlis,0
-2020-06-16,Pulau Pinang,0
 2020-06-16,Sabah,0
 2020-06-16,Sarawak,3
 2020-06-16,Selangor,1
@@ -1493,9 +2309,9 @@ date,state,cases_new
 2020-06-17,Melaka,0
 2020-06-17,Negeri Sembilan,1
 2020-06-17,Pahang,0
+2020-06-17,Pulau Pinang,0
 2020-06-17,Perak,0
 2020-06-17,Perlis,0
-2020-06-17,Pulau Pinang,0
 2020-06-17,Sabah,2
 2020-06-17,Sarawak,1
 2020-06-17,Selangor,5
@@ -1509,9 +2325,9 @@ date,state,cases_new
 2020-06-18,Melaka,0
 2020-06-18,Negeri Sembilan,0
 2020-06-18,Pahang,0
+2020-06-18,Pulau Pinang,0
 2020-06-18,Perak,1
 2020-06-18,Perlis,0
-2020-06-18,Pulau Pinang,0
 2020-06-18,Sabah,1
 2020-06-18,Sarawak,4
 2020-06-18,Selangor,2
@@ -1525,9 +2341,9 @@ date,state,cases_new
 2020-06-19,Melaka,0
 2020-06-19,Negeri Sembilan,1
 2020-06-19,Pahang,0
+2020-06-19,Pulau Pinang,0
 2020-06-19,Perak,0
 2020-06-19,Perlis,0
-2020-06-19,Pulau Pinang,0
 2020-06-19,Sabah,0
 2020-06-19,Sarawak,1
 2020-06-19,Selangor,3
@@ -1541,9 +2357,9 @@ date,state,cases_new
 2020-06-20,Melaka,0
 2020-06-20,Negeri Sembilan,1
 2020-06-20,Pahang,0
+2020-06-20,Pulau Pinang,0
 2020-06-20,Perak,0
 2020-06-20,Perlis,0
-2020-06-20,Pulau Pinang,0
 2020-06-20,Sabah,1
 2020-06-20,Sarawak,0
 2020-06-20,Selangor,12
@@ -1557,9 +2373,9 @@ date,state,cases_new
 2020-06-21,Melaka,1
 2020-06-21,Negeri Sembilan,6
 2020-06-21,Pahang,0
+2020-06-21,Pulau Pinang,0
 2020-06-21,Perak,0
 2020-06-21,Perlis,0
-2020-06-21,Pulau Pinang,0
 2020-06-21,Sabah,1
 2020-06-21,Sarawak,3
 2020-06-21,Selangor,4
@@ -1573,9 +2389,9 @@ date,state,cases_new
 2020-06-22,Melaka,0
 2020-06-22,Negeri Sembilan,12
 2020-06-22,Pahang,0
+2020-06-22,Pulau Pinang,0
 2020-06-22,Perak,0
 2020-06-22,Perlis,0
-2020-06-22,Pulau Pinang,0
 2020-06-22,Sabah,0
 2020-06-22,Sarawak,0
 2020-06-22,Selangor,2
@@ -1589,9 +2405,9 @@ date,state,cases_new
 2020-06-23,Melaka,0
 2020-06-23,Negeri Sembilan,1
 2020-06-23,Pahang,0
+2020-06-23,Pulau Pinang,0
 2020-06-23,Perak,0
 2020-06-23,Perlis,0
-2020-06-23,Pulau Pinang,0
 2020-06-23,Sabah,2
 2020-06-23,Sarawak,0
 2020-06-23,Selangor,0
@@ -1605,9 +2421,9 @@ date,state,cases_new
 2020-06-24,Melaka,0
 2020-06-24,Negeri Sembilan,0
 2020-06-24,Pahang,0
+2020-06-24,Pulau Pinang,0
 2020-06-24,Perak,0
 2020-06-24,Perlis,0
-2020-06-24,Pulau Pinang,0
 2020-06-24,Sabah,0
 2020-06-24,Sarawak,1
 2020-06-24,Selangor,5
@@ -1621,9 +2437,9 @@ date,state,cases_new
 2020-06-25,Melaka,0
 2020-06-25,Negeri Sembilan,0
 2020-06-25,Pahang,0
+2020-06-25,Pulau Pinang,0
 2020-06-25,Perak,0
 2020-06-25,Perlis,0
-2020-06-25,Pulau Pinang,0
 2020-06-25,Sabah,0
 2020-06-25,Sarawak,0
 2020-06-25,Selangor,2
@@ -1637,9 +2453,9 @@ date,state,cases_new
 2020-06-26,Melaka,0
 2020-06-26,Negeri Sembilan,0
 2020-06-26,Pahang,0
+2020-06-26,Pulau Pinang,0
 2020-06-26,Perak,0
 2020-06-26,Perlis,0
-2020-06-26,Pulau Pinang,0
 2020-06-26,Sabah,0
 2020-06-26,Sarawak,0
 2020-06-26,Selangor,2
@@ -1653,9 +2469,9 @@ date,state,cases_new
 2020-06-27,Melaka,0
 2020-06-27,Negeri Sembilan,1
 2020-06-27,Pahang,0
+2020-06-27,Pulau Pinang,0
 2020-06-27,Perak,0
 2020-06-27,Perlis,0
-2020-06-27,Pulau Pinang,0
 2020-06-27,Sabah,2
 2020-06-27,Sarawak,0
 2020-06-27,Selangor,3
@@ -1667,11 +2483,11 @@ date,state,cases_new
 2020-06-28,Kedah,0
 2020-06-28,Kelantan,0
 2020-06-28,Melaka,0
-2020-06-28,Negeri Sembilan,0
+2020-06-28,Negeri Sembilan,9
 2020-06-28,Pahang,0
+2020-06-28,Pulau Pinang,0
 2020-06-28,Perak,0
 2020-06-28,Perlis,0
-2020-06-28,Pulau Pinang,0
 2020-06-28,Sabah,2
 2020-06-28,Sarawak,1
 2020-06-28,Selangor,5
@@ -1685,9 +2501,9 @@ date,state,cases_new
 2020-06-29,Melaka,0
 2020-06-29,Negeri Sembilan,0
 2020-06-29,Pahang,0
+2020-06-29,Pulau Pinang,0
 2020-06-29,Perak,0
 2020-06-29,Perlis,0
-2020-06-29,Pulau Pinang,0
 2020-06-29,Sabah,1
 2020-06-29,Sarawak,0
 2020-06-29,Selangor,2
@@ -1701,9 +2517,9 @@ date,state,cases_new
 2020-06-30,Melaka,0
 2020-06-30,Negeri Sembilan,0
 2020-06-30,Pahang,0
+2020-06-30,Pulau Pinang,0
 2020-06-30,Perak,0
 2020-06-30,Perlis,0
-2020-06-30,Pulau Pinang,0
 2020-06-30,Sabah,1
 2020-06-30,Sarawak,0
 2020-06-30,Selangor,1
@@ -1717,9 +2533,9 @@ date,state,cases_new
 2020-07-01,Melaka,0
 2020-07-01,Negeri Sembilan,0
 2020-07-01,Pahang,0
+2020-07-01,Pulau Pinang,0
 2020-07-01,Perak,0
 2020-07-01,Perlis,0
-2020-07-01,Pulau Pinang,0
 2020-07-01,Sabah,0
 2020-07-01,Sarawak,0
 2020-07-01,Selangor,1
@@ -1733,9 +2549,9 @@ date,state,cases_new
 2020-07-02,Melaka,0
 2020-07-02,Negeri Sembilan,0
 2020-07-02,Pahang,0
+2020-07-02,Pulau Pinang,0
 2020-07-02,Perak,0
 2020-07-02,Perlis,0
-2020-07-02,Pulau Pinang,0
 2020-07-02,Sabah,1
 2020-07-02,Sarawak,0
 2020-07-02,Selangor,0
@@ -1749,9 +2565,9 @@ date,state,cases_new
 2020-07-03,Melaka,0
 2020-07-03,Negeri Sembilan,0
 2020-07-03,Pahang,0
+2020-07-03,Pulau Pinang,0
 2020-07-03,Perak,0
 2020-07-03,Perlis,0
-2020-07-03,Pulau Pinang,0
 2020-07-03,Sabah,2
 2020-07-03,Sarawak,0
 2020-07-03,Selangor,3
@@ -1763,11 +2579,11 @@ date,state,cases_new
 2020-07-04,Kedah,0
 2020-07-04,Kelantan,0
 2020-07-04,Melaka,0
-2020-07-04,Negeri Sembilan,10
+2020-07-04,Negeri Sembilan,1
 2020-07-04,Pahang,0
+2020-07-04,Pulau Pinang,0
 2020-07-04,Perak,0
 2020-07-04,Perlis,0
-2020-07-04,Pulau Pinang,0
 2020-07-04,Sabah,1
 2020-07-04,Sarawak,0
 2020-07-04,Selangor,7
@@ -1781,9 +2597,9 @@ date,state,cases_new
 2020-07-05,Melaka,0
 2020-07-05,Negeri Sembilan,1
 2020-07-05,Pahang,0
+2020-07-05,Pulau Pinang,0
 2020-07-05,Perak,0
 2020-07-05,Perlis,0
-2020-07-05,Pulau Pinang,0
 2020-07-05,Sabah,2
 2020-07-05,Sarawak,0
 2020-07-05,Selangor,2
@@ -1797,9 +2613,9 @@ date,state,cases_new
 2020-07-06,Melaka,0
 2020-07-06,Negeri Sembilan,0
 2020-07-06,Pahang,0
+2020-07-06,Pulau Pinang,0
 2020-07-06,Perak,0
 2020-07-06,Perlis,0
-2020-07-06,Pulau Pinang,0
 2020-07-06,Sabah,0
 2020-07-06,Sarawak,1
 2020-07-06,Selangor,2
@@ -1813,9 +2629,9 @@ date,state,cases_new
 2020-07-07,Melaka,0
 2020-07-07,Negeri Sembilan,0
 2020-07-07,Pahang,0
+2020-07-07,Pulau Pinang,0
 2020-07-07,Perak,0
 2020-07-07,Perlis,0
-2020-07-07,Pulau Pinang,0
 2020-07-07,Sabah,0
 2020-07-07,Sarawak,0
 2020-07-07,Selangor,3
@@ -1829,9 +2645,9 @@ date,state,cases_new
 2020-07-08,Melaka,0
 2020-07-08,Negeri Sembilan,0
 2020-07-08,Pahang,0
+2020-07-08,Pulau Pinang,0
 2020-07-08,Perak,0
 2020-07-08,Perlis,0
-2020-07-08,Pulau Pinang,0
 2020-07-08,Sabah,0
 2020-07-08,Sarawak,1
 2020-07-08,Selangor,1
@@ -1840,78 +2656,78 @@ date,state,cases_new
 2020-07-08,W.P. Labuan,0
 2020-07-08,W.P. Putrajaya,0
 2020-07-09,Johor,2
-2020-07-09,Kedah,1
+2020-07-09,Kedah,0
 2020-07-09,Kelantan,0
 2020-07-09,Melaka,0
 2020-07-09,Negeri Sembilan,0
 2020-07-09,Pahang,0
+2020-07-09,Pulau Pinang,0
 2020-07-09,Perak,0
 2020-07-09,Perlis,0
-2020-07-09,Pulau Pinang,0
 2020-07-09,Sabah,0
-2020-07-09,Sarawak,2
+2020-07-09,Sarawak,0
 2020-07-09,Selangor,4
 2020-07-09,Terengganu,0
-2020-07-09,W.P. Kuala Lumpur,3
+2020-07-09,W.P. Kuala Lumpur,0
 2020-07-09,W.P. Labuan,0
 2020-07-09,W.P. Putrajaya,0
 2020-07-10,Johor,1
-2020-07-10,Kedah,0
+2020-07-10,Kedah,1
 2020-07-10,Kelantan,0
 2020-07-10,Melaka,0
 2020-07-10,Negeri Sembilan,0
 2020-07-10,Pahang,0
+2020-07-10,Pulau Pinang,0
 2020-07-10,Perak,0
 2020-07-10,Perlis,0
-2020-07-10,Pulau Pinang,0
-2020-07-10,Sabah,1
-2020-07-10,Sarawak,0
+2020-07-10,Sabah,0
+2020-07-10,Sarawak,2
 2020-07-10,Selangor,6
 2020-07-10,Terengganu,0
-2020-07-10,W.P. Kuala Lumpur,0
+2020-07-10,W.P. Kuala Lumpur,3
 2020-07-10,W.P. Labuan,0
 2020-07-10,W.P. Putrajaya,0
 2020-07-11,Johor,2
 2020-07-11,Kedah,0
 2020-07-11,Kelantan,0
-2020-07-11,Melaka,1
+2020-07-11,Melaka,0
 2020-07-11,Negeri Sembilan,0
 2020-07-11,Pahang,0
+2020-07-11,Pulau Pinang,0
 2020-07-11,Perak,0
 2020-07-11,Perlis,0
-2020-07-11,Pulau Pinang,0
-2020-07-11,Sabah,0
+2020-07-11,Sabah,1
 2020-07-11,Sarawak,2
 2020-07-11,Selangor,3
 2020-07-11,Terengganu,0
 2020-07-11,W.P. Kuala Lumpur,0
 2020-07-11,W.P. Labuan,0
-2020-07-11,W.P. Putrajaya,1
+2020-07-11,W.P. Putrajaya,0
 2020-07-12,Johor,0
 2020-07-12,Kedah,0
 2020-07-12,Kelantan,0
-2020-07-12,Melaka,0
+2020-07-12,Melaka,1
 2020-07-12,Negeri Sembilan,0
 2020-07-12,Pahang,0
+2020-07-12,Pulau Pinang,0
 2020-07-12,Perak,0
 2020-07-12,Perlis,0
-2020-07-12,Pulau Pinang,0
 2020-07-12,Sabah,1
 2020-07-12,Sarawak,2
 2020-07-12,Selangor,9
 2020-07-12,Terengganu,0
 2020-07-12,W.P. Kuala Lumpur,0
 2020-07-12,W.P. Labuan,0
-2020-07-12,W.P. Putrajaya,0
+2020-07-12,W.P. Putrajaya,1
 2020-07-13,Johor,0
 2020-07-13,Kedah,1
 2020-07-13,Kelantan,0
 2020-07-13,Melaka,1
 2020-07-13,Negeri Sembilan,0
 2020-07-13,Pahang,0
+2020-07-13,Pulau Pinang,0
 2020-07-13,Perak,0
 2020-07-13,Perlis,0
-2020-07-13,Pulau Pinang,0
 2020-07-13,Sabah,0
 2020-07-13,Sarawak,1
 2020-07-13,Selangor,4
@@ -1925,9 +2741,9 @@ date,state,cases_new
 2020-07-14,Melaka,0
 2020-07-14,Negeri Sembilan,0
 2020-07-14,Pahang,0
+2020-07-14,Pulau Pinang,0
 2020-07-14,Perak,0
 2020-07-14,Perlis,0
-2020-07-14,Pulau Pinang,0
 2020-07-14,Sabah,0
 2020-07-14,Sarawak,0
 2020-07-14,Selangor,1
@@ -1941,9 +2757,9 @@ date,state,cases_new
 2020-07-15,Melaka,0
 2020-07-15,Negeri Sembilan,0
 2020-07-15,Pahang,0
+2020-07-15,Pulau Pinang,0
 2020-07-15,Perak,0
 2020-07-15,Perlis,0
-2020-07-15,Pulau Pinang,0
 2020-07-15,Sabah,0
 2020-07-15,Sarawak,3
 2020-07-15,Selangor,1
@@ -1957,9 +2773,9 @@ date,state,cases_new
 2020-07-16,Melaka,0
 2020-07-16,Negeri Sembilan,0
 2020-07-16,Pahang,0
+2020-07-16,Pulau Pinang,0
 2020-07-16,Perak,0
 2020-07-16,Perlis,0
-2020-07-16,Pulau Pinang,0
 2020-07-16,Sabah,0
 2020-07-16,Sarawak,1
 2020-07-16,Selangor,0
@@ -1973,14 +2789,14 @@ date,state,cases_new
 2020-07-17,Melaka,0
 2020-07-17,Negeri Sembilan,0
 2020-07-17,Pahang,0
+2020-07-17,Pulau Pinang,0
 2020-07-17,Perak,0
 2020-07-17,Perlis,0
-2020-07-17,Pulau Pinang,0
 2020-07-17,Sabah,1
 2020-07-17,Sarawak,10
 2020-07-17,Selangor,4
 2020-07-17,Terengganu,2
-2020-07-17,W.P. Kuala Lumpur,0
+2020-07-17,W.P. Kuala Lumpur,1
 2020-07-17,W.P. Labuan,0
 2020-07-17,W.P. Putrajaya,0
 2020-07-18,Johor,0
@@ -1989,9 +2805,9 @@ date,state,cases_new
 2020-07-18,Melaka,0
 2020-07-18,Negeri Sembilan,0
 2020-07-18,Pahang,0
+2020-07-18,Pulau Pinang,0
 2020-07-18,Perak,0
 2020-07-18,Perlis,0
-2020-07-18,Pulau Pinang,0
 2020-07-18,Sabah,0
 2020-07-18,Sarawak,7
 2020-07-18,Selangor,1
@@ -2005,14 +2821,14 @@ date,state,cases_new
 2020-07-19,Melaka,0
 2020-07-19,Negeri Sembilan,0
 2020-07-19,Pahang,0
+2020-07-19,Pulau Pinang,0
 2020-07-19,Perak,2
 2020-07-19,Perlis,0
-2020-07-19,Pulau Pinang,0
 2020-07-19,Sabah,1
 2020-07-19,Sarawak,6
 2020-07-19,Selangor,4
 2020-07-19,Terengganu,0
-2020-07-19,W.P. Kuala Lumpur,2
+2020-07-19,W.P. Kuala Lumpur,1
 2020-07-19,W.P. Labuan,0
 2020-07-19,W.P. Putrajaya,0
 2020-07-20,Johor,14
@@ -2021,9 +2837,9 @@ date,state,cases_new
 2020-07-20,Melaka,0
 2020-07-20,Negeri Sembilan,1
 2020-07-20,Pahang,0
+2020-07-20,Pulau Pinang,0
 2020-07-20,Perak,0
 2020-07-20,Perlis,0
-2020-07-20,Pulau Pinang,0
 2020-07-20,Sabah,0
 2020-07-20,Sarawak,1
 2020-07-20,Selangor,4
@@ -2037,9 +2853,9 @@ date,state,cases_new
 2020-07-21,Melaka,0
 2020-07-21,Negeri Sembilan,0
 2020-07-21,Pahang,0
+2020-07-21,Pulau Pinang,0
 2020-07-21,Perak,0
 2020-07-21,Perlis,0
-2020-07-21,Pulau Pinang,0
 2020-07-21,Sabah,1
 2020-07-21,Sarawak,11
 2020-07-21,Selangor,2
@@ -2053,9 +2869,9 @@ date,state,cases_new
 2020-07-22,Melaka,0
 2020-07-22,Negeri Sembilan,0
 2020-07-22,Pahang,0
+2020-07-22,Pulau Pinang,0
 2020-07-22,Perak,1
 2020-07-22,Perlis,0
-2020-07-22,Pulau Pinang,0
 2020-07-22,Sabah,0
 2020-07-22,Sarawak,9
 2020-07-22,Selangor,3
@@ -2069,9 +2885,9 @@ date,state,cases_new
 2020-07-23,Melaka,0
 2020-07-23,Negeri Sembilan,0
 2020-07-23,Pahang,1
+2020-07-23,Pulau Pinang,0
 2020-07-23,Perak,0
 2020-07-23,Perlis,0
-2020-07-23,Pulau Pinang,0
 2020-07-23,Sabah,1
 2020-07-23,Sarawak,4
 2020-07-23,Selangor,0
@@ -2079,36 +2895,36 @@ date,state,cases_new
 2020-07-23,W.P. Kuala Lumpur,1
 2020-07-23,W.P. Labuan,0
 2020-07-23,W.P. Putrajaya,0
-2020-07-24,Johor,0
+2020-07-24,Johor,2
 2020-07-24,Kedah,0
 2020-07-24,Kelantan,0
 2020-07-24,Melaka,0
 2020-07-24,Negeri Sembilan,0
 2020-07-24,Pahang,3
+2020-07-24,Pulau Pinang,0
 2020-07-24,Perak,1
 2020-07-24,Perlis,0
-2020-07-24,Pulau Pinang,0
 2020-07-24,Sabah,0
-2020-07-24,Sarawak,0
-2020-07-24,Selangor,0
+2020-07-24,Sarawak,9
+2020-07-24,Selangor,3
 2020-07-24,Terengganu,0
-2020-07-24,W.P. Kuala Lumpur,0
+2020-07-24,W.P. Kuala Lumpur,3
 2020-07-24,W.P. Labuan,0
 2020-07-24,W.P. Putrajaya,0
-2020-07-25,Johor,12
+2020-07-25,Johor,10
 2020-07-25,Kedah,0
 2020-07-25,Kelantan,0
 2020-07-25,Melaka,0
 2020-07-25,Negeri Sembilan,0
 2020-07-25,Pahang,0
+2020-07-25,Pulau Pinang,0
 2020-07-25,Perak,0
 2020-07-25,Perlis,0
-2020-07-25,Pulau Pinang,0
 2020-07-25,Sabah,0
-2020-07-25,Sarawak,17
-2020-07-25,Selangor,6
+2020-07-25,Sarawak,8
+2020-07-25,Selangor,3
 2020-07-25,Terengganu,0
-2020-07-25,W.P. Kuala Lumpur,4
+2020-07-25,W.P. Kuala Lumpur,1
 2020-07-25,W.P. Labuan,1
 2020-07-25,W.P. Putrajaya,0
 2020-07-26,Johor,7
@@ -2117,9 +2933,9 @@ date,state,cases_new
 2020-07-26,Melaka,0
 2020-07-26,Negeri Sembilan,0
 2020-07-26,Pahang,1
+2020-07-26,Pulau Pinang,0
 2020-07-26,Perak,0
 2020-07-26,Perlis,0
-2020-07-26,Pulau Pinang,0
 2020-07-26,Sabah,1
 2020-07-26,Sarawak,1
 2020-07-26,Selangor,0
@@ -2133,9 +2949,9 @@ date,state,cases_new
 2020-07-27,Melaka,0
 2020-07-27,Negeri Sembilan,0
 2020-07-27,Pahang,0
+2020-07-27,Pulau Pinang,0
 2020-07-27,Perak,0
 2020-07-27,Perlis,0
-2020-07-27,Pulau Pinang,0
 2020-07-27,Sabah,4
 2020-07-27,Sarawak,0
 2020-07-27,Selangor,1
@@ -2149,9 +2965,9 @@ date,state,cases_new
 2020-07-28,Melaka,0
 2020-07-28,Negeri Sembilan,0
 2020-07-28,Pahang,0
+2020-07-28,Pulau Pinang,0
 2020-07-28,Perak,0
 2020-07-28,Perlis,0
-2020-07-28,Pulau Pinang,0
 2020-07-28,Sabah,3
 2020-07-28,Sarawak,25
 2020-07-28,Selangor,0
@@ -2159,15 +2975,15 @@ date,state,cases_new
 2020-07-28,W.P. Kuala Lumpur,4
 2020-07-28,W.P. Labuan,1
 2020-07-28,W.P. Putrajaya,0
-2020-07-29,Johor,0
+2020-07-29,Johor,1
 2020-07-29,Kedah,0
 2020-07-29,Kelantan,0
 2020-07-29,Melaka,0
 2020-07-29,Negeri Sembilan,0
 2020-07-29,Pahang,0
+2020-07-29,Pulau Pinang,0
 2020-07-29,Perak,0
 2020-07-29,Perlis,1
-2020-07-29,Pulau Pinang,0
 2020-07-29,Sabah,1
 2020-07-29,Sarawak,2
 2020-07-29,Selangor,2
@@ -2175,15 +2991,15 @@ date,state,cases_new
 2020-07-29,W.P. Kuala Lumpur,6
 2020-07-29,W.P. Labuan,0
 2020-07-29,W.P. Putrajaya,0
-2020-07-30,Johor,2
+2020-07-30,Johor,1
 2020-07-30,Kedah,1
 2020-07-30,Kelantan,0
 2020-07-30,Melaka,0
 2020-07-30,Negeri Sembilan,0
 2020-07-30,Pahang,0
+2020-07-30,Pulau Pinang,0
 2020-07-30,Perak,0
 2020-07-30,Perlis,0
-2020-07-30,Pulau Pinang,0
 2020-07-30,Sabah,4
 2020-07-30,Sarawak,0
 2020-07-30,Selangor,1
@@ -2197,9 +3013,9 @@ date,state,cases_new
 2020-07-31,Melaka,0
 2020-07-31,Negeri Sembilan,1
 2020-07-31,Pahang,0
+2020-07-31,Pulau Pinang,0
 2020-07-31,Perak,0
 2020-07-31,Perlis,0
-2020-07-31,Pulau Pinang,0
 2020-07-31,Sabah,1
 2020-07-31,Sarawak,1
 2020-07-31,Selangor,1
@@ -2213,9 +3029,9 @@ date,state,cases_new
 2020-08-01,Melaka,0
 2020-08-01,Negeri Sembilan,0
 2020-08-01,Pahang,0
+2020-08-01,Pulau Pinang,0
 2020-08-01,Perak,2
 2020-08-01,Perlis,0
-2020-08-01,Pulau Pinang,0
 2020-08-01,Sabah,0
 2020-08-01,Sarawak,0
 2020-08-01,Selangor,6
@@ -2229,9 +3045,9 @@ date,state,cases_new
 2020-08-02,Melaka,0
 2020-08-02,Negeri Sembilan,0
 2020-08-02,Pahang,0
+2020-08-02,Pulau Pinang,0
 2020-08-02,Perak,0
 2020-08-02,Perlis,0
-2020-08-02,Pulau Pinang,0
 2020-08-02,Sabah,2
 2020-08-02,Sarawak,0
 2020-08-02,Selangor,1
@@ -2245,9 +3061,9 @@ date,state,cases_new
 2020-08-03,Melaka,0
 2020-08-03,Negeri Sembilan,0
 2020-08-03,Pahang,0
+2020-08-03,Pulau Pinang,0
 2020-08-03,Perak,0
 2020-08-03,Perlis,0
-2020-08-03,Pulau Pinang,0
 2020-08-03,Sabah,0
 2020-08-03,Sarawak,0
 2020-08-03,Selangor,0
@@ -2261,9 +3077,9 @@ date,state,cases_new
 2020-08-04,Melaka,0
 2020-08-04,Negeri Sembilan,0
 2020-08-04,Pahang,0
+2020-08-04,Pulau Pinang,0
 2020-08-04,Perak,0
 2020-08-04,Perlis,1
-2020-08-04,Pulau Pinang,0
 2020-08-04,Sabah,0
 2020-08-04,Sarawak,0
 2020-08-04,Selangor,0
@@ -2277,9 +3093,9 @@ date,state,cases_new
 2020-08-05,Melaka,0
 2020-08-05,Negeri Sembilan,0
 2020-08-05,Pahang,0
+2020-08-05,Pulau Pinang,0
 2020-08-05,Perak,0
 2020-08-05,Perlis,0
-2020-08-05,Pulau Pinang,0
 2020-08-05,Sabah,2
 2020-08-05,Sarawak,0
 2020-08-05,Selangor,0
@@ -2293,9 +3109,9 @@ date,state,cases_new
 2020-08-06,Melaka,0
 2020-08-06,Negeri Sembilan,2
 2020-08-06,Pahang,0
+2020-08-06,Pulau Pinang,0
 2020-08-06,Perak,0
 2020-08-06,Perlis,0
-2020-08-06,Pulau Pinang,0
 2020-08-06,Sabah,4
 2020-08-06,Sarawak,0
 2020-08-06,Selangor,0
@@ -2309,9 +3125,9 @@ date,state,cases_new
 2020-08-07,Melaka,0
 2020-08-07,Negeri Sembilan,0
 2020-08-07,Pahang,0
+2020-08-07,Pulau Pinang,1
 2020-08-07,Perak,2
 2020-08-07,Perlis,10
-2020-08-07,Pulau Pinang,1
 2020-08-07,Sabah,4
 2020-08-07,Sarawak,1
 2020-08-07,Selangor,2
@@ -2325,9 +3141,9 @@ date,state,cases_new
 2020-08-08,Melaka,0
 2020-08-08,Negeri Sembilan,1
 2020-08-08,Pahang,0
+2020-08-08,Pulau Pinang,0
 2020-08-08,Perak,0
 2020-08-08,Perlis,0
-2020-08-08,Pulau Pinang,0
 2020-08-08,Sabah,0
 2020-08-08,Sarawak,1
 2020-08-08,Selangor,1
@@ -2341,9 +3157,9 @@ date,state,cases_new
 2020-08-09,Melaka,0
 2020-08-09,Negeri Sembilan,0
 2020-08-09,Pahang,0
+2020-08-09,Pulau Pinang,3
 2020-08-09,Perak,0
 2020-08-09,Perlis,0
-2020-08-09,Pulau Pinang,3
 2020-08-09,Sabah,0
 2020-08-09,Sarawak,1
 2020-08-09,Selangor,1
@@ -2357,9 +3173,9 @@ date,state,cases_new
 2020-08-10,Melaka,1
 2020-08-10,Negeri Sembilan,0
 2020-08-10,Pahang,0
+2020-08-10,Pulau Pinang,0
 2020-08-10,Perak,3
 2020-08-10,Perlis,0
-2020-08-10,Pulau Pinang,0
 2020-08-10,Sabah,0
 2020-08-10,Sarawak,0
 2020-08-10,Selangor,4
@@ -2373,9 +3189,9 @@ date,state,cases_new
 2020-08-11,Melaka,0
 2020-08-11,Negeri Sembilan,0
 2020-08-11,Pahang,0
+2020-08-11,Pulau Pinang,0
 2020-08-11,Perak,0
 2020-08-11,Perlis,0
-2020-08-11,Pulau Pinang,0
 2020-08-11,Sabah,1
 2020-08-11,Sarawak,0
 2020-08-11,Selangor,1
@@ -2389,14 +3205,14 @@ date,state,cases_new
 2020-08-12,Melaka,0
 2020-08-12,Negeri Sembilan,0
 2020-08-12,Pahang,0
+2020-08-12,Pulau Pinang,0
 2020-08-12,Perak,0
 2020-08-12,Perlis,0
-2020-08-12,Pulau Pinang,0
 2020-08-12,Sabah,4
 2020-08-12,Sarawak,0
 2020-08-12,Selangor,0
 2020-08-12,Terengganu,0
-2020-08-12,W.P. Kuala Lumpur,4
+2020-08-12,W.P. Kuala Lumpur,3
 2020-08-12,W.P. Labuan,0
 2020-08-12,W.P. Putrajaya,0
 2020-08-13,Johor,0
@@ -2405,9 +3221,9 @@ date,state,cases_new
 2020-08-13,Melaka,0
 2020-08-13,Negeri Sembilan,0
 2020-08-13,Pahang,0
+2020-08-13,Pulau Pinang,0
 2020-08-13,Perak,0
 2020-08-13,Perlis,0
-2020-08-13,Pulau Pinang,0
 2020-08-13,Sabah,0
 2020-08-13,Sarawak,0
 2020-08-13,Selangor,3
@@ -2421,14 +3237,14 @@ date,state,cases_new
 2020-08-14,Melaka,0
 2020-08-14,Negeri Sembilan,0
 2020-08-14,Pahang,0
+2020-08-14,Pulau Pinang,1
 2020-08-14,Perak,0
 2020-08-14,Perlis,0
-2020-08-14,Pulau Pinang,1
 2020-08-14,Sabah,0
 2020-08-14,Sarawak,1
 2020-08-14,Selangor,2
 2020-08-14,Terengganu,0
-2020-08-14,W.P. Kuala Lumpur,3
+2020-08-14,W.P. Kuala Lumpur,4
 2020-08-14,W.P. Labuan,0
 2020-08-14,W.P. Putrajaya,0
 2020-08-15,Johor,1
@@ -2437,9 +3253,9 @@ date,state,cases_new
 2020-08-15,Melaka,0
 2020-08-15,Negeri Sembilan,2
 2020-08-15,Pahang,0
+2020-08-15,Pulau Pinang,2
 2020-08-15,Perak,0
 2020-08-15,Perlis,1
-2020-08-15,Pulau Pinang,2
 2020-08-15,Sabah,0
 2020-08-15,Sarawak,0
 2020-08-15,Selangor,0
@@ -2453,9 +3269,9 @@ date,state,cases_new
 2020-08-16,Melaka,0
 2020-08-16,Negeri Sembilan,0
 2020-08-16,Pahang,0
+2020-08-16,Pulau Pinang,1
 2020-08-16,Perak,0
 2020-08-16,Perlis,0
-2020-08-16,Pulau Pinang,1
 2020-08-16,Sabah,1
 2020-08-16,Sarawak,0
 2020-08-16,Selangor,5
@@ -2469,14 +3285,14 @@ date,state,cases_new
 2020-08-17,Melaka,0
 2020-08-17,Negeri Sembilan,0
 2020-08-17,Pahang,0
+2020-08-17,Pulau Pinang,3
 2020-08-17,Perak,0
 2020-08-17,Perlis,0
-2020-08-17,Pulau Pinang,3
 2020-08-17,Sabah,0
 2020-08-17,Sarawak,0
 2020-08-17,Selangor,1
 2020-08-17,Terengganu,0
-2020-08-17,W.P. Kuala Lumpur,5
+2020-08-17,W.P. Kuala Lumpur,2
 2020-08-17,W.P. Labuan,0
 2020-08-17,W.P. Putrajaya,0
 2020-08-18,Johor,0
@@ -2485,14 +3301,14 @@ date,state,cases_new
 2020-08-18,Melaka,0
 2020-08-18,Negeri Sembilan,0
 2020-08-18,Pahang,0
+2020-08-18,Pulau Pinang,0
 2020-08-18,Perak,0
 2020-08-18,Perlis,0
-2020-08-18,Pulau Pinang,0
 2020-08-18,Sabah,0
 2020-08-18,Sarawak,0
 2020-08-18,Selangor,0
 2020-08-18,Terengganu,0
-2020-08-18,W.P. Kuala Lumpur,1
+2020-08-18,W.P. Kuala Lumpur,4
 2020-08-18,W.P. Labuan,0
 2020-08-18,W.P. Putrajaya,0
 2020-08-19,Johor,1
@@ -2501,9 +3317,9 @@ date,state,cases_new
 2020-08-19,Melaka,0
 2020-08-19,Negeri Sembilan,0
 2020-08-19,Pahang,0
+2020-08-19,Pulau Pinang,4
 2020-08-19,Perak,0
 2020-08-19,Perlis,0
-2020-08-19,Pulau Pinang,4
 2020-08-19,Sabah,0
 2020-08-19,Sarawak,0
 2020-08-19,Selangor,0
@@ -2517,9 +3333,9 @@ date,state,cases_new
 2020-08-20,Melaka,0
 2020-08-20,Negeri Sembilan,0
 2020-08-20,Pahang,0
+2020-08-20,Pulau Pinang,0
 2020-08-20,Perak,0
 2020-08-20,Perlis,0
-2020-08-20,Pulau Pinang,0
 2020-08-20,Sabah,0
 2020-08-20,Sarawak,4
 2020-08-20,Selangor,1
@@ -2528,14 +3344,14 @@ date,state,cases_new
 2020-08-20,W.P. Labuan,0
 2020-08-20,W.P. Putrajaya,0
 2020-08-21,Johor,0
-2020-08-21,Kedah,1
+2020-08-21,Kedah,3
 2020-08-21,Kelantan,0
 2020-08-21,Melaka,0
 2020-08-21,Negeri Sembilan,0
 2020-08-21,Pahang,0
+2020-08-21,Pulau Pinang,0
 2020-08-21,Perak,0
 2020-08-21,Perlis,0
-2020-08-21,Pulau Pinang,0
 2020-08-21,Sabah,0
 2020-08-21,Sarawak,1
 2020-08-21,Selangor,2
@@ -2544,14 +3360,14 @@ date,state,cases_new
 2020-08-21,W.P. Labuan,0
 2020-08-21,W.P. Putrajaya,0
 2020-08-22,Johor,0
-2020-08-22,Kedah,7
+2020-08-22,Kedah,5
 2020-08-22,Kelantan,0
 2020-08-22,Melaka,0
 2020-08-22,Negeri Sembilan,0
 2020-08-22,Pahang,0
+2020-08-22,Pulau Pinang,0
 2020-08-22,Perak,0
 2020-08-22,Perlis,0
-2020-08-22,Pulau Pinang,0
 2020-08-22,Sabah,1
 2020-08-22,Sarawak,1
 2020-08-22,Selangor,0
@@ -2565,12 +3381,12 @@ date,state,cases_new
 2020-08-23,Melaka,0
 2020-08-23,Negeri Sembilan,0
 2020-08-23,Pahang,0
+2020-08-23,Pulau Pinang,0
 2020-08-23,Perak,0
 2020-08-23,Perlis,0
-2020-08-23,Pulau Pinang,0
 2020-08-23,Sabah,0
 2020-08-23,Sarawak,3
-2020-08-23,Selangor,0
+2020-08-23,Selangor,2
 2020-08-23,Terengganu,0
 2020-08-23,W.P. Kuala Lumpur,3
 2020-08-23,W.P. Labuan,0
@@ -2581,9 +3397,9 @@ date,state,cases_new
 2020-08-24,Melaka,0
 2020-08-24,Negeri Sembilan,0
 2020-08-24,Pahang,0
+2020-08-24,Pulau Pinang,0
 2020-08-24,Perak,0
 2020-08-24,Perlis,0
-2020-08-24,Pulau Pinang,0
 2020-08-24,Sabah,0
 2020-08-24,Sarawak,5
 2020-08-24,Selangor,0
@@ -2597,12 +3413,12 @@ date,state,cases_new
 2020-08-25,Melaka,0
 2020-08-25,Negeri Sembilan,0
 2020-08-25,Pahang,0
+2020-08-25,Pulau Pinang,0
 2020-08-25,Perak,0
 2020-08-25,Perlis,1
-2020-08-25,Pulau Pinang,0
 2020-08-25,Sabah,0
 2020-08-25,Sarawak,0
-2020-08-25,Selangor,5
+2020-08-25,Selangor,3
 2020-08-25,Terengganu,0
 2020-08-25,W.P. Kuala Lumpur,0
 2020-08-25,W.P. Labuan,0
@@ -2613,9 +3429,9 @@ date,state,cases_new
 2020-08-26,Melaka,0
 2020-08-26,Negeri Sembilan,0
 2020-08-26,Pahang,0
+2020-08-26,Pulau Pinang,0
 2020-08-26,Perak,0
 2020-08-26,Perlis,0
-2020-08-26,Pulau Pinang,0
 2020-08-26,Sabah,0
 2020-08-26,Sarawak,0
 2020-08-26,Selangor,1
@@ -2629,9 +3445,9 @@ date,state,cases_new
 2020-08-27,Melaka,3
 2020-08-27,Negeri Sembilan,0
 2020-08-27,Pahang,0
+2020-08-27,Pulau Pinang,0
 2020-08-27,Perak,0
 2020-08-27,Perlis,0
-2020-08-27,Pulau Pinang,0
 2020-08-27,Sabah,0
 2020-08-27,Sarawak,0
 2020-08-27,Selangor,2
@@ -2645,9 +3461,9 @@ date,state,cases_new
 2020-08-28,Melaka,0
 2020-08-28,Negeri Sembilan,0
 2020-08-28,Pahang,0
+2020-08-28,Pulau Pinang,0
 2020-08-28,Perak,0
 2020-08-28,Perlis,0
-2020-08-28,Pulau Pinang,0
 2020-08-28,Sabah,0
 2020-08-28,Sarawak,1
 2020-08-28,Selangor,3
@@ -2661,9 +3477,9 @@ date,state,cases_new
 2020-08-29,Melaka,0
 2020-08-29,Negeri Sembilan,0
 2020-08-29,Pahang,0
+2020-08-29,Pulau Pinang,0
 2020-08-29,Perak,0
 2020-08-29,Perlis,0
-2020-08-29,Pulau Pinang,0
 2020-08-29,Sabah,0
 2020-08-29,Sarawak,1
 2020-08-29,Selangor,2
@@ -2677,9 +3493,9 @@ date,state,cases_new
 2020-08-30,Melaka,0
 2020-08-30,Negeri Sembilan,0
 2020-08-30,Pahang,0
+2020-08-30,Pulau Pinang,0
 2020-08-30,Perak,0
 2020-08-30,Perlis,0
-2020-08-30,Pulau Pinang,0
 2020-08-30,Sabah,0
 2020-08-30,Sarawak,1
 2020-08-30,Selangor,1
@@ -2693,9 +3509,9 @@ date,state,cases_new
 2020-08-31,Melaka,0
 2020-08-31,Negeri Sembilan,0
 2020-08-31,Pahang,0
+2020-08-31,Pulau Pinang,0
 2020-08-31,Perak,0
 2020-08-31,Perlis,0
-2020-08-31,Pulau Pinang,0
 2020-08-31,Sabah,0
 2020-08-31,Sarawak,0
 2020-08-31,Selangor,4
@@ -2709,9 +3525,9 @@ date,state,cases_new
 2020-09-01,Melaka,0
 2020-09-01,Negeri Sembilan,0
 2020-09-01,Pahang,0
+2020-09-01,Pulau Pinang,0
 2020-09-01,Perak,0
 2020-09-01,Perlis,0
-2020-09-01,Pulau Pinang,0
 2020-09-01,Sabah,9
 2020-09-01,Sarawak,0
 2020-09-01,Selangor,3
@@ -2725,9 +3541,9 @@ date,state,cases_new
 2020-09-02,Melaka,0
 2020-09-02,Negeri Sembilan,0
 2020-09-02,Pahang,1
+2020-09-02,Pulau Pinang,0
 2020-09-02,Perak,0
 2020-09-02,Perlis,0
-2020-09-02,Pulau Pinang,0
 2020-09-02,Sabah,0
 2020-09-02,Sarawak,0
 2020-09-02,Selangor,1
@@ -2741,9 +3557,9 @@ date,state,cases_new
 2020-09-03,Melaka,0
 2020-09-03,Negeri Sembilan,2
 2020-09-03,Pahang,0
+2020-09-03,Pulau Pinang,0
 2020-09-03,Perak,0
 2020-09-03,Perlis,0
-2020-09-03,Pulau Pinang,0
 2020-09-03,Sabah,6
 2020-09-03,Sarawak,0
 2020-09-03,Selangor,0
@@ -2757,9 +3573,9 @@ date,state,cases_new
 2020-09-04,Melaka,0
 2020-09-04,Negeri Sembilan,1
 2020-09-04,Pahang,0
+2020-09-04,Pulau Pinang,0
 2020-09-04,Perak,0
 2020-09-04,Perlis,0
-2020-09-04,Pulau Pinang,0
 2020-09-04,Sabah,0
 2020-09-04,Sarawak,0
 2020-09-04,Selangor,2
@@ -2773,9 +3589,9 @@ date,state,cases_new
 2020-09-05,Melaka,0
 2020-09-05,Negeri Sembilan,0
 2020-09-05,Pahang,0
+2020-09-05,Pulau Pinang,0
 2020-09-05,Perak,0
 2020-09-05,Perlis,0
-2020-09-05,Pulau Pinang,0
 2020-09-05,Sabah,1
 2020-09-05,Sarawak,0
 2020-09-05,Selangor,0
@@ -2789,9 +3605,9 @@ date,state,cases_new
 2020-09-06,Melaka,0
 2020-09-06,Negeri Sembilan,0
 2020-09-06,Pahang,0
+2020-09-06,Pulau Pinang,1
 2020-09-06,Perak,0
 2020-09-06,Perlis,0
-2020-09-06,Pulau Pinang,1
 2020-09-06,Sabah,2
 2020-09-06,Sarawak,0
 2020-09-06,Selangor,0
@@ -2805,9 +3621,9 @@ date,state,cases_new
 2020-09-07,Melaka,0
 2020-09-07,Negeri Sembilan,0
 2020-09-07,Pahang,0
+2020-09-07,Pulau Pinang,1
 2020-09-07,Perak,0
 2020-09-07,Perlis,0
-2020-09-07,Pulau Pinang,1
 2020-09-07,Sabah,51
 2020-09-07,Sarawak,0
 2020-09-07,Selangor,2
@@ -2821,9 +3637,9 @@ date,state,cases_new
 2020-09-08,Melaka,0
 2020-09-08,Negeri Sembilan,1
 2020-09-08,Pahang,0
+2020-09-08,Pulau Pinang,0
 2020-09-08,Perak,0
 2020-09-08,Perlis,1
-2020-09-08,Pulau Pinang,0
 2020-09-08,Sabah,62
 2020-09-08,Sarawak,0
 2020-09-08,Selangor,9
@@ -2837,9 +3653,9 @@ date,state,cases_new
 2020-09-09,Melaka,0
 2020-09-09,Negeri Sembilan,1
 2020-09-09,Pahang,0
+2020-09-09,Pulau Pinang,0
 2020-09-09,Perak,0
 2020-09-09,Perlis,0
-2020-09-09,Pulau Pinang,0
 2020-09-09,Sabah,4
 2020-09-09,Sarawak,1
 2020-09-09,Selangor,1
@@ -2853,9 +3669,9 @@ date,state,cases_new
 2020-09-10,Melaka,0
 2020-09-10,Negeri Sembilan,0
 2020-09-10,Pahang,0
+2020-09-10,Pulau Pinang,0
 2020-09-10,Perak,0
 2020-09-10,Perlis,0
-2020-09-10,Pulau Pinang,0
 2020-09-10,Sabah,40
 2020-09-10,Sarawak,0
 2020-09-10,Selangor,1
@@ -2869,9 +3685,9 @@ date,state,cases_new
 2020-09-11,Melaka,0
 2020-09-11,Negeri Sembilan,0
 2020-09-11,Pahang,0
+2020-09-11,Pulau Pinang,0
 2020-09-11,Perak,0
 2020-09-11,Perlis,0
-2020-09-11,Pulau Pinang,0
 2020-09-11,Sabah,167
 2020-09-11,Sarawak,0
 2020-09-11,Selangor,1
@@ -2885,9 +3701,9 @@ date,state,cases_new
 2020-09-12,Melaka,0
 2020-09-12,Negeri Sembilan,0
 2020-09-12,Pahang,0
+2020-09-12,Pulau Pinang,0
 2020-09-12,Perak,0
 2020-09-12,Perlis,0
-2020-09-12,Pulau Pinang,0
 2020-09-12,Sabah,49
 2020-09-12,Sarawak,0
 2020-09-12,Selangor,2
@@ -2901,9 +3717,9 @@ date,state,cases_new
 2020-09-13,Melaka,0
 2020-09-13,Negeri Sembilan,0
 2020-09-13,Pahang,0
+2020-09-13,Pulau Pinang,0
 2020-09-13,Perak,0
 2020-09-13,Perlis,0
-2020-09-13,Pulau Pinang,0
 2020-09-13,Sabah,31
 2020-09-13,Sarawak,0
 2020-09-13,Selangor,1
@@ -2917,9 +3733,9 @@ date,state,cases_new
 2020-09-14,Melaka,0
 2020-09-14,Negeri Sembilan,4
 2020-09-14,Pahang,0
+2020-09-14,Pulau Pinang,0
 2020-09-14,Perak,0
 2020-09-14,Perlis,0
-2020-09-14,Pulau Pinang,0
 2020-09-14,Sabah,25
 2020-09-14,Sarawak,0
 2020-09-14,Selangor,0
@@ -2933,9 +3749,9 @@ date,state,cases_new
 2020-09-15,Melaka,0
 2020-09-15,Negeri Sembilan,0
 2020-09-15,Pahang,0
+2020-09-15,Pulau Pinang,0
 2020-09-15,Perak,0
 2020-09-15,Perlis,0
-2020-09-15,Pulau Pinang,0
 2020-09-15,Sabah,13
 2020-09-15,Sarawak,0
 2020-09-15,Selangor,5
@@ -2949,9 +3765,9 @@ date,state,cases_new
 2020-09-16,Melaka,0
 2020-09-16,Negeri Sembilan,0
 2020-09-16,Pahang,0
+2020-09-16,Pulau Pinang,1
 2020-09-16,Perak,0
 2020-09-16,Perlis,0
-2020-09-16,Pulau Pinang,1
 2020-09-16,Sabah,60
 2020-09-16,Sarawak,0
 2020-09-16,Selangor,0
@@ -2965,9 +3781,9 @@ date,state,cases_new
 2020-09-17,Melaka,0
 2020-09-17,Negeri Sembilan,0
 2020-09-17,Pahang,0
+2020-09-17,Pulau Pinang,2
 2020-09-17,Perak,0
 2020-09-17,Perlis,0
-2020-09-17,Pulau Pinang,2
 2020-09-17,Sabah,8
 2020-09-17,Sarawak,1
 2020-09-17,Selangor,3
@@ -2981,9 +3797,9 @@ date,state,cases_new
 2020-09-18,Melaka,0
 2020-09-18,Negeri Sembilan,1
 2020-09-18,Pahang,0
+2020-09-18,Pulau Pinang,0
 2020-09-18,Perak,0
 2020-09-18,Perlis,0
-2020-09-18,Pulau Pinang,0
 2020-09-18,Sabah,91
 2020-09-18,Sarawak,0
 2020-09-18,Selangor,3
@@ -2997,9 +3813,9 @@ date,state,cases_new
 2020-09-19,Melaka,0
 2020-09-19,Negeri Sembilan,0
 2020-09-19,Pahang,0
+2020-09-19,Pulau Pinang,0
 2020-09-19,Perak,0
 2020-09-19,Perlis,0
-2020-09-19,Pulau Pinang,0
 2020-09-19,Sabah,8
 2020-09-19,Sarawak,0
 2020-09-19,Selangor,1
@@ -3013,9 +3829,9 @@ date,state,cases_new
 2020-09-20,Melaka,0
 2020-09-20,Negeri Sembilan,0
 2020-09-20,Pahang,0
+2020-09-20,Pulau Pinang,1
 2020-09-20,Perak,0
 2020-09-20,Perlis,0
-2020-09-20,Pulau Pinang,1
 2020-09-20,Sabah,36
 2020-09-20,Sarawak,0
 2020-09-20,Selangor,4
@@ -3029,9 +3845,9 @@ date,state,cases_new
 2020-09-21,Melaka,0
 2020-09-21,Negeri Sembilan,0
 2020-09-21,Pahang,0
+2020-09-21,Pulau Pinang,0
 2020-09-21,Perak,0
 2020-09-21,Perlis,0
-2020-09-21,Pulau Pinang,0
 2020-09-21,Sabah,49
 2020-09-21,Sarawak,0
 2020-09-21,Selangor,4
@@ -3045,9 +3861,9 @@ date,state,cases_new
 2020-09-22,Melaka,0
 2020-09-22,Negeri Sembilan,0
 2020-09-22,Pahang,0
+2020-09-22,Pulau Pinang,0
 2020-09-22,Perak,0
 2020-09-22,Perlis,0
-2020-09-22,Pulau Pinang,0
 2020-09-22,Sabah,60
 2020-09-22,Sarawak,2
 2020-09-22,Selangor,1
@@ -3061,9 +3877,9 @@ date,state,cases_new
 2020-09-23,Melaka,0
 2020-09-23,Negeri Sembilan,0
 2020-09-23,Pahang,0
+2020-09-23,Pulau Pinang,0
 2020-09-23,Perak,0
 2020-09-23,Perlis,0
-2020-09-23,Pulau Pinang,0
 2020-09-23,Sabah,134
 2020-09-23,Sarawak,0
 2020-09-23,Selangor,2
@@ -3077,9 +3893,9 @@ date,state,cases_new
 2020-09-24,Melaka,0
 2020-09-24,Negeri Sembilan,0
 2020-09-24,Pahang,0
+2020-09-24,Pulau Pinang,0
 2020-09-24,Perak,0
 2020-09-24,Perlis,0
-2020-09-24,Pulau Pinang,0
 2020-09-24,Sabah,63
 2020-09-24,Sarawak,0
 2020-09-24,Selangor,3
@@ -3093,9 +3909,9 @@ date,state,cases_new
 2020-09-25,Melaka,0
 2020-09-25,Negeri Sembilan,0
 2020-09-25,Pahang,1
+2020-09-25,Pulau Pinang,0
 2020-09-25,Perak,0
 2020-09-25,Perlis,0
-2020-09-25,Pulau Pinang,0
 2020-09-25,Sabah,97
 2020-09-25,Sarawak,0
 2020-09-25,Selangor,2
@@ -3109,9 +3925,9 @@ date,state,cases_new
 2020-09-26,Melaka,1
 2020-09-26,Negeri Sembilan,3
 2020-09-26,Pahang,1
+2020-09-26,Pulau Pinang,0
 2020-09-26,Perak,0
 2020-09-26,Perlis,0
-2020-09-26,Pulau Pinang,0
 2020-09-26,Sabah,64
 2020-09-26,Sarawak,1
 2020-09-26,Selangor,2
@@ -3125,9 +3941,9 @@ date,state,cases_new
 2020-09-27,Melaka,1
 2020-09-27,Negeri Sembilan,0
 2020-09-27,Pahang,4
+2020-09-27,Pulau Pinang,0
 2020-09-27,Perak,0
 2020-09-27,Perlis,0
-2020-09-27,Pulau Pinang,0
 2020-09-27,Sabah,124
 2020-09-27,Sarawak,2
 2020-09-27,Selangor,11
@@ -3141,9 +3957,9 @@ date,state,cases_new
 2020-09-28,Melaka,1
 2020-09-28,Negeri Sembilan,1
 2020-09-28,Pahang,0
+2020-09-28,Pulau Pinang,0
 2020-09-28,Perak,0
 2020-09-28,Perlis,0
-2020-09-28,Pulau Pinang,0
 2020-09-28,Sabah,98
 2020-09-28,Sarawak,0
 2020-09-28,Selangor,11
@@ -3157,9 +3973,9 @@ date,state,cases_new
 2020-09-29,Melaka,1
 2020-09-29,Negeri Sembilan,0
 2020-09-29,Pahang,0
+2020-09-29,Pulau Pinang,1
 2020-09-29,Perak,1
 2020-09-29,Perlis,1
-2020-09-29,Pulau Pinang,1
 2020-09-29,Sabah,73
 2020-09-29,Sarawak,3
 2020-09-29,Selangor,15
@@ -3173,9 +3989,9 @@ date,state,cases_new
 2020-09-30,Melaka,0
 2020-09-30,Negeri Sembilan,1
 2020-09-30,Pahang,2
+2020-09-30,Pulau Pinang,1
 2020-09-30,Perak,1
 2020-09-30,Perlis,2
-2020-09-30,Pulau Pinang,1
 2020-09-30,Sabah,35
 2020-09-30,Sarawak,4
 2020-09-30,Selangor,10
@@ -3189,10 +4005,10 @@ date,state,cases_new
 2020-10-01,Melaka,1
 2020-10-01,Negeri Sembilan,0
 2020-10-01,Pahang,1
+2020-10-01,Pulau Pinang,1
 2020-10-01,Perak,0
 2020-10-01,Perlis,2
-2020-10-01,Pulau Pinang,1
-2020-10-01,Sabah,78
+2020-10-01,Sabah,118
 2020-10-01,Sarawak,0
 2020-10-01,Selangor,13
 2020-10-01,Terengganu,2
@@ -3205,10 +4021,10 @@ date,state,cases_new
 2020-10-02,Melaka,0
 2020-10-02,Negeri Sembilan,2
 2020-10-02,Pahang,1
+2020-10-02,Pulau Pinang,0
 2020-10-02,Perak,3
 2020-10-02,Perlis,0
-2020-10-02,Pulau Pinang,0
-2020-10-02,Sabah,153
+2020-10-02,Sabah,113
 2020-10-02,Sarawak,0
 2020-10-02,Selangor,31
 2020-10-02,Terengganu,3
@@ -3221,9 +4037,9 @@ date,state,cases_new
 2020-10-03,Melaka,0
 2020-10-03,Negeri Sembilan,1
 2020-10-03,Pahang,0
+2020-10-03,Pulau Pinang,3
 2020-10-03,Perak,0
 2020-10-03,Perlis,0
-2020-10-03,Pulau Pinang,3
 2020-10-03,Sabah,155
 2020-10-03,Sarawak,3
 2020-10-03,Selangor,32
@@ -3237,9 +4053,9 @@ date,state,cases_new
 2020-10-04,Melaka,0
 2020-10-04,Negeri Sembilan,2
 2020-10-04,Pahang,0
+2020-10-04,Pulau Pinang,1
 2020-10-04,Perak,2
 2020-10-04,Perlis,0
-2020-10-04,Pulau Pinang,1
 2020-10-04,Sabah,126
 2020-10-04,Sarawak,1
 2020-10-04,Selangor,31
@@ -3253,9 +4069,9 @@ date,state,cases_new
 2020-10-05,Melaka,1
 2020-10-05,Negeri Sembilan,1
 2020-10-05,Pahang,1
+2020-10-05,Pulau Pinang,0
 2020-10-05,Perak,2
 2020-10-05,Perlis,0
-2020-10-05,Pulau Pinang,0
 2020-10-05,Sabah,130
 2020-10-05,Sarawak,1
 2020-10-05,Selangor,34
@@ -3269,9 +4085,9 @@ date,state,cases_new
 2020-10-06,Melaka,0
 2020-10-06,Negeri Sembilan,7
 2020-10-06,Pahang,0
+2020-10-06,Pulau Pinang,3
 2020-10-06,Perak,8
 2020-10-06,Perlis,0
-2020-10-06,Pulau Pinang,3
 2020-10-06,Sabah,219
 2020-10-06,Sarawak,3
 2020-10-06,Selangor,39
@@ -3285,9 +4101,9 @@ date,state,cases_new
 2020-10-07,Melaka,0
 2020-10-07,Negeri Sembilan,1
 2020-10-07,Pahang,2
+2020-10-07,Pulau Pinang,7
 2020-10-07,Perak,4
 2020-10-07,Perlis,0
-2020-10-07,Pulau Pinang,7
 2020-10-07,Sabah,282
 2020-10-07,Sarawak,3
 2020-10-07,Selangor,20
@@ -3301,9 +4117,9 @@ date,state,cases_new
 2020-10-08,Melaka,1
 2020-10-08,Negeri Sembilan,2
 2020-10-08,Pahang,1
+2020-10-08,Pulau Pinang,1
 2020-10-08,Perak,5
 2020-10-08,Perlis,0
-2020-10-08,Pulau Pinang,1
 2020-10-08,Sabah,271
 2020-10-08,Sarawak,8
 2020-10-08,Selangor,36
@@ -3317,9 +4133,9 @@ date,state,cases_new
 2020-10-09,Melaka,0
 2020-10-09,Negeri Sembilan,4
 2020-10-09,Pahang,0
+2020-10-09,Pulau Pinang,8
 2020-10-09,Perak,1
 2020-10-09,Perlis,0
-2020-10-09,Pulau Pinang,8
 2020-10-09,Sabah,274
 2020-10-09,Sarawak,10
 2020-10-09,Selangor,24
@@ -3333,9 +4149,9 @@ date,state,cases_new
 2020-10-10,Melaka,1
 2020-10-10,Negeri Sembilan,0
 2020-10-10,Pahang,0
+2020-10-10,Pulau Pinang,3
 2020-10-10,Perak,2
 2020-10-10,Perlis,0
-2020-10-10,Pulau Pinang,3
 2020-10-10,Sabah,277
 2020-10-10,Sarawak,9
 2020-10-10,Selangor,44
@@ -3349,9 +4165,9 @@ date,state,cases_new
 2020-10-11,Melaka,3
 2020-10-11,Negeri Sembilan,0
 2020-10-11,Pahang,0
+2020-10-11,Pulau Pinang,1
 2020-10-11,Perak,1
 2020-10-11,Perlis,0
-2020-10-11,Pulau Pinang,1
 2020-10-11,Sabah,488
 2020-10-11,Sarawak,0
 2020-10-11,Selangor,26
@@ -3365,9 +4181,9 @@ date,state,cases_new
 2020-10-12,Melaka,1
 2020-10-12,Negeri Sembilan,12
 2020-10-12,Pahang,0
+2020-10-12,Pulau Pinang,141
 2020-10-12,Perak,4
 2020-10-12,Perlis,0
-2020-10-12,Pulau Pinang,141
 2020-10-12,Sabah,291
 2020-10-12,Sarawak,1
 2020-10-12,Selangor,69
@@ -3381,9 +4197,9 @@ date,state,cases_new
 2020-10-13,Melaka,0
 2020-10-13,Negeri Sembilan,2
 2020-10-13,Pahang,1
+2020-10-13,Pulau Pinang,23
 2020-10-13,Perak,16
 2020-10-13,Perlis,0
-2020-10-13,Pulau Pinang,23
 2020-10-13,Sabah,443
 2020-10-13,Sarawak,0
 2020-10-13,Selangor,76
@@ -3397,9 +4213,9 @@ date,state,cases_new
 2020-10-14,Melaka,2
 2020-10-14,Negeri Sembilan,1
 2020-10-14,Pahang,0
+2020-10-14,Pulau Pinang,17
 2020-10-14,Perak,3
 2020-10-14,Perlis,0
-2020-10-14,Pulau Pinang,17
 2020-10-14,Sabah,429
 2020-10-14,Sarawak,3
 2020-10-14,Selangor,68
@@ -3413,9 +4229,9 @@ date,state,cases_new
 2020-10-15,Melaka,2
 2020-10-15,Negeri Sembilan,11
 2020-10-15,Pahang,0
+2020-10-15,Pulau Pinang,16
 2020-10-15,Perak,52
 2020-10-15,Perlis,0
-2020-10-15,Pulau Pinang,16
 2020-10-15,Sabah,304
 2020-10-15,Sarawak,4
 2020-10-15,Selangor,150
@@ -3429,9 +4245,9 @@ date,state,cases_new
 2020-10-16,Melaka,3
 2020-10-16,Negeri Sembilan,1
 2020-10-16,Pahang,1
+2020-10-16,Pulau Pinang,33
 2020-10-16,Perak,9
 2020-10-16,Perlis,0
-2020-10-16,Pulau Pinang,33
 2020-10-16,Sabah,489
 2020-10-16,Sarawak,0
 2020-10-16,Selangor,50
@@ -3445,9 +4261,9 @@ date,state,cases_new
 2020-10-17,Melaka,1
 2020-10-17,Negeri Sembilan,1
 2020-10-17,Pahang,0
+2020-10-17,Pulau Pinang,189
 2020-10-17,Perak,4
 2020-10-17,Perlis,0
-2020-10-17,Pulau Pinang,189
 2020-10-17,Sabah,451
 2020-10-17,Sarawak,4
 2020-10-17,Selangor,159
@@ -3461,9 +4277,9 @@ date,state,cases_new
 2020-10-18,Melaka,1
 2020-10-18,Negeri Sembilan,3
 2020-10-18,Pahang,0
+2020-10-18,Pulau Pinang,45
 2020-10-18,Perak,10
 2020-10-18,Perlis,0
-2020-10-18,Pulau Pinang,45
 2020-10-18,Sabah,702
 2020-10-18,Sarawak,5
 2020-10-18,Selangor,77
@@ -3477,9 +4293,9 @@ date,state,cases_new
 2020-10-19,Melaka,16
 2020-10-19,Negeri Sembilan,4
 2020-10-19,Pahang,1
+2020-10-19,Pulau Pinang,26
 2020-10-19,Perak,18
 2020-10-19,Perlis,0
-2020-10-19,Pulau Pinang,26
 2020-10-19,Sabah,643
 2020-10-19,Sarawak,0
 2020-10-19,Selangor,107
@@ -3493,9 +4309,9 @@ date,state,cases_new
 2020-10-20,Melaka,0
 2020-10-20,Negeri Sembilan,6
 2020-10-20,Pahang,0
+2020-10-20,Pulau Pinang,8
 2020-10-20,Perak,9
 2020-10-20,Perlis,0
-2020-10-20,Pulau Pinang,8
 2020-10-20,Sabah,673
 2020-10-20,Sarawak,1
 2020-10-20,Selangor,132
@@ -3509,9 +4325,9 @@ date,state,cases_new
 2020-10-21,Melaka,3
 2020-10-21,Negeri Sembilan,9
 2020-10-21,Pahang,1
+2020-10-21,Pulau Pinang,12
 2020-10-21,Perak,7
 2020-10-21,Perlis,0
-2020-10-21,Pulau Pinang,12
 2020-10-21,Sabah,535
 2020-10-21,Sarawak,0
 2020-10-21,Selangor,116
@@ -3525,9 +4341,9 @@ date,state,cases_new
 2020-10-22,Melaka,3
 2020-10-22,Negeri Sembilan,38
 2020-10-22,Pahang,2
+2020-10-22,Pulau Pinang,10
 2020-10-22,Perak,14
 2020-10-22,Perlis,0
-2020-10-22,Pulau Pinang,10
 2020-10-22,Sabah,578
 2020-10-22,Sarawak,1
 2020-10-22,Selangor,137
@@ -3541,9 +4357,9 @@ date,state,cases_new
 2020-10-23,Melaka,0
 2020-10-23,Negeri Sembilan,37
 2020-10-23,Pahang,1
+2020-10-23,Pulau Pinang,39
 2020-10-23,Perak,4
 2020-10-23,Perlis,0
-2020-10-23,Pulau Pinang,39
 2020-10-23,Sabah,528
 2020-10-23,Sarawak,2
 2020-10-23,Selangor,62
@@ -3557,9 +4373,9 @@ date,state,cases_new
 2020-10-24,Melaka,3
 2020-10-24,Negeri Sembilan,96
 2020-10-24,Pahang,0
+2020-10-24,Pulau Pinang,23
 2020-10-24,Perak,10
 2020-10-24,Perlis,0
-2020-10-24,Pulau Pinang,23
 2020-10-24,Sabah,889
 2020-10-24,Sarawak,8
 2020-10-24,Selangor,76
@@ -3573,9 +4389,9 @@ date,state,cases_new
 2020-10-25,Melaka,0
 2020-10-25,Negeri Sembilan,22
 2020-10-25,Pahang,0
+2020-10-25,Pulau Pinang,97
 2020-10-25,Perak,6
 2020-10-25,Perlis,0
-2020-10-25,Pulau Pinang,97
 2020-10-25,Sabah,533
 2020-10-25,Sarawak,16
 2020-10-25,Selangor,88
@@ -3589,9 +4405,9 @@ date,state,cases_new
 2020-10-26,Melaka,2
 2020-10-26,Negeri Sembilan,25
 2020-10-26,Pahang,0
+2020-10-26,Pulau Pinang,61
 2020-10-26,Perak,8
 2020-10-26,Perlis,0
-2020-10-26,Pulau Pinang,61
 2020-10-26,Sabah,927
 2020-10-26,Sarawak,7
 2020-10-26,Selangor,177
@@ -3605,9 +4421,9 @@ date,state,cases_new
 2020-10-27,Melaka,0
 2020-10-27,Negeri Sembilan,155
 2020-10-27,Pahang,0
+2020-10-27,Pulau Pinang,13
 2020-10-27,Perak,11
 2020-10-27,Perlis,0
-2020-10-27,Pulau Pinang,13
 2020-10-27,Sabah,410
 2020-10-27,Sarawak,16
 2020-10-27,Selangor,126
@@ -3621,9 +4437,9 @@ date,state,cases_new
 2020-10-28,Melaka,0
 2020-10-28,Negeri Sembilan,24
 2020-10-28,Pahang,0
+2020-10-28,Pulau Pinang,19
 2020-10-28,Perak,6
 2020-10-28,Perlis,0
-2020-10-28,Pulau Pinang,19
 2020-10-28,Sabah,546
 2020-10-28,Sarawak,27
 2020-10-28,Selangor,89
@@ -3637,9 +4453,9 @@ date,state,cases_new
 2020-10-29,Melaka,1
 2020-10-29,Negeri Sembilan,43
 2020-10-29,Pahang,1
+2020-10-29,Pulau Pinang,13
 2020-10-29,Perak,5
 2020-10-29,Perlis,0
-2020-10-29,Pulau Pinang,13
 2020-10-29,Sabah,352
 2020-10-29,Sarawak,10
 2020-10-29,Selangor,135
@@ -3653,9 +4469,9 @@ date,state,cases_new
 2020-10-30,Melaka,0
 2020-10-30,Negeri Sembilan,23
 2020-10-30,Pahang,0
+2020-10-30,Pulau Pinang,35
 2020-10-30,Perak,10
 2020-10-30,Perlis,0
-2020-10-30,Pulau Pinang,35
 2020-10-30,Sabah,466
 2020-10-30,Sarawak,16
 2020-10-30,Selangor,150
@@ -3669,9 +4485,9 @@ date,state,cases_new
 2020-10-31,Melaka,0
 2020-10-31,Negeri Sembilan,25
 2020-10-31,Pahang,1
+2020-10-31,Pulau Pinang,2
 2020-10-31,Perak,6
 2020-10-31,Perlis,0
-2020-10-31,Pulau Pinang,2
 2020-10-31,Sabah,529
 2020-10-31,Sarawak,9
 2020-10-31,Selangor,55
@@ -3685,9 +4501,9 @@ date,state,cases_new
 2020-11-01,Melaka,1
 2020-11-01,Negeri Sembilan,8
 2020-11-01,Pahang,0
+2020-11-01,Pulau Pinang,23
 2020-11-01,Perak,5
 2020-11-01,Perlis,0
-2020-11-01,Pulau Pinang,23
 2020-11-01,Sabah,644
 2020-11-01,Sarawak,11
 2020-11-01,Selangor,225
@@ -3701,9 +4517,9 @@ date,state,cases_new
 2020-11-02,Melaka,0
 2020-11-02,Negeri Sembilan,16
 2020-11-02,Pahang,1
+2020-11-02,Pulau Pinang,21
 2020-11-02,Perak,3
 2020-11-02,Perlis,0
-2020-11-02,Pulau Pinang,21
 2020-11-02,Sabah,503
 2020-11-02,Sarawak,14
 2020-11-02,Selangor,129
@@ -3717,9 +4533,9 @@ date,state,cases_new
 2020-11-03,Melaka,1
 2020-11-03,Negeri Sembilan,71
 2020-11-03,Pahang,0
+2020-11-03,Pulau Pinang,35
 2020-11-03,Perak,3
 2020-11-03,Perlis,0
-2020-11-03,Pulau Pinang,35
 2020-11-03,Sabah,678
 2020-11-03,Sarawak,21
 2020-11-03,Selangor,125
@@ -3733,9 +4549,9 @@ date,state,cases_new
 2020-11-04,Melaka,0
 2020-11-04,Negeri Sembilan,44
 2020-11-04,Pahang,0
+2020-11-04,Pulau Pinang,23
 2020-11-04,Perak,6
 2020-11-04,Perlis,0
-2020-11-04,Pulau Pinang,23
 2020-11-04,Sabah,646
 2020-11-04,Sarawak,9
 2020-11-04,Selangor,231
@@ -3749,9 +4565,9 @@ date,state,cases_new
 2020-11-05,Melaka,5
 2020-11-05,Negeri Sembilan,90
 2020-11-05,Pahang,0
+2020-11-05,Pulau Pinang,36
 2020-11-05,Perak,6
 2020-11-05,Perlis,0
-2020-11-05,Pulau Pinang,36
 2020-11-05,Sabah,564
 2020-11-05,Sarawak,6
 2020-11-05,Selangor,180
@@ -3765,9 +4581,9 @@ date,state,cases_new
 2020-11-06,Melaka,2
 2020-11-06,Negeri Sembilan,45
 2020-11-06,Pahang,0
+2020-11-06,Pulau Pinang,192
 2020-11-06,Perak,18
 2020-11-06,Perlis,0
-2020-11-06,Pulau Pinang,192
 2020-11-06,Sabah,1199
 2020-11-06,Sarawak,18
 2020-11-06,Selangor,164
@@ -3781,9 +4597,9 @@ date,state,cases_new
 2020-11-07,Melaka,2
 2020-11-07,Negeri Sembilan,68
 2020-11-07,Pahang,0
+2020-11-07,Pulau Pinang,18
 2020-11-07,Perak,37
 2020-11-07,Perlis,0
-2020-11-07,Pulau Pinang,18
 2020-11-07,Sabah,616
 2020-11-07,Sarawak,25
 2020-11-07,Selangor,247
@@ -3797,9 +4613,9 @@ date,state,cases_new
 2020-11-08,Melaka,5
 2020-11-08,Negeri Sembilan,104
 2020-11-08,Pahang,0
+2020-11-08,Pulau Pinang,18
 2020-11-08,Perak,7
 2020-11-08,Perlis,0
-2020-11-08,Pulau Pinang,18
 2020-11-08,Sabah,524
 2020-11-08,Sarawak,2
 2020-11-08,Selangor,148
@@ -3813,9 +4629,9 @@ date,state,cases_new
 2020-11-09,Melaka,5
 2020-11-09,Negeri Sembilan,260
 2020-11-09,Pahang,0
+2020-11-09,Pulau Pinang,34
 2020-11-09,Perak,51
 2020-11-09,Perlis,0
-2020-11-09,Pulau Pinang,34
 2020-11-09,Sabah,370
 2020-11-09,Sarawak,4
 2020-11-09,Selangor,138
@@ -3829,9 +4645,9 @@ date,state,cases_new
 2020-11-10,Melaka,0
 2020-11-10,Negeri Sembilan,141
 2020-11-10,Pahang,0
+2020-11-10,Pulau Pinang,27
 2020-11-10,Perak,12
 2020-11-10,Perlis,0
-2020-11-10,Pulau Pinang,27
 2020-11-10,Sabah,397
 2020-11-10,Sarawak,6
 2020-11-10,Selangor,236
@@ -3845,9 +4661,9 @@ date,state,cases_new
 2020-11-11,Melaka,6
 2020-11-11,Negeri Sembilan,225
 2020-11-11,Pahang,0
+2020-11-11,Pulau Pinang,26
 2020-11-11,Perak,14
 2020-11-11,Perlis,2
-2020-11-11,Pulau Pinang,26
 2020-11-11,Sabah,259
 2020-11-11,Sarawak,14
 2020-11-11,Selangor,178
@@ -3861,9 +4677,9 @@ date,state,cases_new
 2020-11-12,Melaka,8
 2020-11-12,Negeri Sembilan,240
 2020-11-12,Pahang,0
+2020-11-12,Pulau Pinang,63
 2020-11-12,Perak,9
 2020-11-12,Perlis,0
-2020-11-12,Pulau Pinang,63
 2020-11-12,Sabah,319
 2020-11-12,Sarawak,8
 2020-11-12,Selangor,174
@@ -3877,9 +4693,9 @@ date,state,cases_new
 2020-11-13,Melaka,13
 2020-11-13,Negeri Sembilan,83
 2020-11-13,Pahang,0
+2020-11-13,Pulau Pinang,42
 2020-11-13,Perak,13
 2020-11-13,Perlis,0
-2020-11-13,Pulau Pinang,42
 2020-11-13,Sabah,556
 2020-11-13,Sarawak,13
 2020-11-13,Selangor,364
@@ -3893,9 +4709,9 @@ date,state,cases_new
 2020-11-14,Melaka,6
 2020-11-14,Negeri Sembilan,371
 2020-11-14,Pahang,0
+2020-11-14,Pulau Pinang,34
 2020-11-14,Perak,53
 2020-11-14,Perlis,0
-2020-11-14,Pulau Pinang,34
 2020-11-14,Sabah,391
 2020-11-14,Sarawak,4
 2020-11-14,Selangor,200
@@ -3909,9 +4725,9 @@ date,state,cases_new
 2020-11-15,Melaka,2
 2020-11-15,Negeri Sembilan,48
 2020-11-15,Pahang,0
+2020-11-15,Pulau Pinang,42
 2020-11-15,Perak,21
 2020-11-15,Perlis,1
-2020-11-15,Pulau Pinang,42
 2020-11-15,Sabah,381
 2020-11-15,Sarawak,4
 2020-11-15,Selangor,185
@@ -3925,9 +4741,9 @@ date,state,cases_new
 2020-11-16,Melaka,1
 2020-11-16,Negeri Sembilan,90
 2020-11-16,Pahang,0
+2020-11-16,Pulau Pinang,26
 2020-11-16,Perak,116
 2020-11-16,Perlis,0
-2020-11-16,Pulau Pinang,26
 2020-11-16,Sabah,288
 2020-11-16,Sarawak,1
 2020-11-16,Selangor,151
@@ -3941,9 +4757,9 @@ date,state,cases_new
 2020-11-17,Melaka,2
 2020-11-17,Negeri Sembilan,67
 2020-11-17,Pahang,0
+2020-11-17,Pulau Pinang,33
 2020-11-17,Perak,47
 2020-11-17,Perlis,0
-2020-11-17,Pulau Pinang,33
 2020-11-17,Sabah,499
 2020-11-17,Sarawak,1
 2020-11-17,Selangor,271
@@ -3957,9 +4773,9 @@ date,state,cases_new
 2020-11-18,Melaka,4
 2020-11-18,Negeri Sembilan,31
 2020-11-18,Pahang,0
+2020-11-18,Pulau Pinang,16
 2020-11-18,Perak,16
 2020-11-18,Perlis,0
-2020-11-18,Pulau Pinang,16
 2020-11-18,Sabah,387
 2020-11-18,Sarawak,3
 2020-11-18,Selangor,141
@@ -3973,9 +4789,9 @@ date,state,cases_new
 2020-11-19,Melaka,1
 2020-11-19,Negeri Sembilan,32
 2020-11-19,Pahang,0
+2020-11-19,Pulau Pinang,8
 2020-11-19,Perak,48
 2020-11-19,Perlis,0
-2020-11-19,Pulau Pinang,8
 2020-11-19,Sabah,660
 2020-11-19,Sarawak,8
 2020-11-19,Selangor,407
@@ -3989,9 +4805,9 @@ date,state,cases_new
 2020-11-20,Melaka,2
 2020-11-20,Negeri Sembilan,153
 2020-11-20,Pahang,0
+2020-11-20,Pulau Pinang,25
 2020-11-20,Perak,24
 2020-11-20,Perlis,0
-2020-11-20,Pulau Pinang,25
 2020-11-20,Sabah,512
 2020-11-20,Sarawak,2
 2020-11-20,Selangor,153
@@ -4005,9 +4821,9 @@ date,state,cases_new
 2020-11-21,Melaka,0
 2020-11-21,Negeri Sembilan,121
 2020-11-21,Pahang,0
+2020-11-21,Pulau Pinang,17
 2020-11-21,Perak,29
 2020-11-21,Perlis,0
-2020-11-21,Pulau Pinang,17
 2020-11-21,Sabah,346
 2020-11-21,Sarawak,0
 2020-11-21,Selangor,402
@@ -4021,9 +4837,9 @@ date,state,cases_new
 2020-11-22,Melaka,5
 2020-11-22,Negeri Sembilan,29
 2020-11-22,Pahang,0
+2020-11-22,Pulau Pinang,15
 2020-11-22,Perak,55
 2020-11-22,Perlis,1
-2020-11-22,Pulau Pinang,15
 2020-11-22,Sabah,311
 2020-11-22,Sarawak,0
 2020-11-22,Selangor,603
@@ -4037,9 +4853,9 @@ date,state,cases_new
 2020-11-23,Melaka,0
 2020-11-23,Negeri Sembilan,41
 2020-11-23,Pahang,0
+2020-11-23,Pulau Pinang,12
 2020-11-23,Perak,81
 2020-11-23,Perlis,1
-2020-11-23,Pulau Pinang,12
 2020-11-23,Sabah,289
 2020-11-23,Sarawak,0
 2020-11-23,Selangor,1203
@@ -4053,9 +4869,9 @@ date,state,cases_new
 2020-11-24,Melaka,2
 2020-11-24,Negeri Sembilan,73
 2020-11-24,Pahang,0
+2020-11-24,Pulau Pinang,15
 2020-11-24,Perak,112
 2020-11-24,Perlis,0
-2020-11-24,Pulau Pinang,15
 2020-11-24,Sabah,232
 2020-11-24,Sarawak,1
 2020-11-24,Selangor,1623
@@ -4069,9 +4885,9 @@ date,state,cases_new
 2020-11-25,Melaka,1
 2020-11-25,Negeri Sembilan,318
 2020-11-25,Pahang,2
+2020-11-25,Pulau Pinang,14
 2020-11-25,Perak,80
 2020-11-25,Perlis,0
-2020-11-25,Pulau Pinang,14
 2020-11-25,Sabah,293
 2020-11-25,Sarawak,2
 2020-11-25,Selangor,115
@@ -4085,9 +4901,9 @@ date,state,cases_new
 2020-11-26,Melaka,0
 2020-11-26,Negeri Sembilan,158
 2020-11-26,Pahang,0
+2020-11-26,Pulau Pinang,17
 2020-11-26,Perak,79
 2020-11-26,Perlis,0
-2020-11-26,Pulau Pinang,17
 2020-11-26,Sabah,326
 2020-11-26,Sarawak,4
 2020-11-26,Selangor,161
@@ -4101,9 +4917,9 @@ date,state,cases_new
 2020-11-27,Melaka,0
 2020-11-27,Negeri Sembilan,167
 2020-11-27,Pahang,3
+2020-11-27,Pulau Pinang,64
 2020-11-27,Perak,42
 2020-11-27,Perlis,0
-2020-11-27,Pulau Pinang,64
 2020-11-27,Sabah,441
 2020-11-27,Sarawak,0
 2020-11-27,Selangor,175
@@ -4117,9 +4933,9 @@ date,state,cases_new
 2020-11-28,Melaka,1
 2020-11-28,Negeri Sembilan,41
 2020-11-28,Pahang,0
+2020-11-28,Pulau Pinang,92
 2020-11-28,Perak,167
 2020-11-28,Perlis,0
-2020-11-28,Pulau Pinang,92
 2020-11-28,Sabah,476
 2020-11-28,Sarawak,0
 2020-11-28,Selangor,266
@@ -4133,9 +4949,9 @@ date,state,cases_new
 2020-11-29,Melaka,1
 2020-11-29,Negeri Sembilan,32
 2020-11-29,Pahang,1
+2020-11-29,Pulau Pinang,46
 2020-11-29,Perak,77
 2020-11-29,Perlis,0
-2020-11-29,Pulau Pinang,46
 2020-11-29,Sabah,290
 2020-11-29,Sarawak,0
 2020-11-29,Selangor,238
@@ -4149,9 +4965,9 @@ date,state,cases_new
 2020-11-30,Melaka,0
 2020-11-30,Negeri Sembilan,141
 2020-11-30,Pahang,2
+2020-11-30,Pulau Pinang,60
 2020-11-30,Perak,43
 2020-11-30,Perlis,0
-2020-11-30,Pulau Pinang,60
 2020-11-30,Sabah,326
 2020-11-30,Sarawak,2
 2020-11-30,Selangor,402
@@ -4165,9 +4981,9 @@ date,state,cases_new
 2020-12-01,Melaka,0
 2020-12-01,Negeri Sembilan,146
 2020-12-01,Pahang,0
+2020-12-01,Pulau Pinang,29
 2020-12-01,Perak,13
 2020-12-01,Perlis,0
-2020-12-01,Pulau Pinang,29
 2020-12-01,Sabah,267
 2020-12-01,Sarawak,1
 2020-12-01,Selangor,891
@@ -4181,9 +4997,9 @@ date,state,cases_new
 2020-12-02,Melaka,1
 2020-12-02,Negeri Sembilan,62
 2020-12-02,Pahang,1
+2020-12-02,Pulau Pinang,60
 2020-12-02,Perak,34
 2020-12-02,Perlis,0
-2020-12-02,Pulau Pinang,60
 2020-12-02,Sabah,229
 2020-12-02,Sarawak,0
 2020-12-02,Selangor,249
@@ -4197,9 +5013,9 @@ date,state,cases_new
 2020-12-03,Melaka,2
 2020-12-03,Negeri Sembilan,52
 2020-12-03,Pahang,4
+2020-12-03,Pulau Pinang,43
 2020-12-03,Perak,26
 2020-12-03,Perlis,0
-2020-12-03,Pulau Pinang,43
 2020-12-03,Sabah,310
 2020-12-03,Sarawak,1
 2020-12-03,Selangor,459
@@ -4213,9 +5029,9 @@ date,state,cases_new
 2020-12-04,Melaka,0
 2020-12-04,Negeri Sembilan,15
 2020-12-04,Pahang,15
+2020-12-04,Pulau Pinang,48
 2020-12-04,Perak,47
 2020-12-04,Perlis,1
-2020-12-04,Pulau Pinang,48
 2020-12-04,Sabah,320
 2020-12-04,Sarawak,1
 2020-12-04,Selangor,320
@@ -4229,9 +5045,9 @@ date,state,cases_new
 2020-12-05,Melaka,5
 2020-12-05,Negeri Sembilan,10
 2020-12-05,Pahang,2
+2020-12-05,Pulau Pinang,44
 2020-12-05,Perak,39
 2020-12-05,Perlis,0
-2020-12-05,Pulau Pinang,44
 2020-12-05,Sabah,391
 2020-12-05,Sarawak,1
 2020-12-05,Selangor,221
@@ -4245,9 +5061,9 @@ date,state,cases_new
 2020-12-06,Melaka,3
 2020-12-06,Negeri Sembilan,258
 2020-12-06,Pahang,4
+2020-12-06,Pulau Pinang,31
 2020-12-06,Perak,108
 2020-12-06,Perlis,0
-2020-12-06,Pulau Pinang,31
 2020-12-06,Sabah,250
 2020-12-06,Sarawak,0
 2020-12-06,Selangor,337
@@ -4261,9 +5077,9 @@ date,state,cases_new
 2020-12-07,Melaka,1
 2020-12-07,Negeri Sembilan,541
 2020-12-07,Pahang,1
+2020-12-07,Pulau Pinang,55
 2020-12-07,Perak,54
 2020-12-07,Perlis,0
-2020-12-07,Pulau Pinang,55
 2020-12-07,Sabah,248
 2020-12-07,Sarawak,2
 2020-12-07,Selangor,426
@@ -4277,9 +5093,9 @@ date,state,cases_new
 2020-12-08,Melaka,0
 2020-12-08,Negeri Sembilan,23
 2020-12-08,Pahang,33
+2020-12-08,Pulau Pinang,18
 2020-12-08,Perak,29
 2020-12-08,Perlis,0
-2020-12-08,Pulau Pinang,18
 2020-12-08,Sabah,271
 2020-12-08,Sarawak,2
 2020-12-08,Selangor,417
@@ -4293,9 +5109,9 @@ date,state,cases_new
 2020-12-09,Melaka,2
 2020-12-09,Negeri Sembilan,33
 2020-12-09,Pahang,119
+2020-12-09,Pulau Pinang,29
 2020-12-09,Perak,33
 2020-12-09,Perlis,0
-2020-12-09,Pulau Pinang,29
 2020-12-09,Sabah,203
 2020-12-09,Sarawak,0
 2020-12-09,Selangor,277
@@ -4309,9 +5125,9 @@ date,state,cases_new
 2020-12-10,Melaka,5
 2020-12-10,Negeri Sembilan,67
 2020-12-10,Pahang,45
+2020-12-10,Pulau Pinang,42
 2020-12-10,Perak,115
 2020-12-10,Perlis,0
-2020-12-10,Pulau Pinang,42
 2020-12-10,Sabah,274
 2020-12-10,Sarawak,1
 2020-12-10,Selangor,1428
@@ -4325,9 +5141,9 @@ date,state,cases_new
 2020-12-11,Melaka,5
 2020-12-11,Negeri Sembilan,64
 2020-12-11,Pahang,96
+2020-12-11,Pulau Pinang,34
 2020-12-11,Perak,12
 2020-12-11,Perlis,0
-2020-12-11,Pulau Pinang,34
 2020-12-11,Sabah,532
 2020-12-11,Sarawak,1
 2020-12-11,Selangor,829
@@ -4341,9 +5157,9 @@ date,state,cases_new
 2020-12-12,Melaka,15
 2020-12-12,Negeri Sembilan,49
 2020-12-12,Pahang,79
+2020-12-12,Pulau Pinang,102
 2020-12-12,Perak,62
 2020-12-12,Perlis,0
-2020-12-12,Pulau Pinang,102
 2020-12-12,Sabah,429
 2020-12-12,Sarawak,1
 2020-12-12,Selangor,823
@@ -4357,9 +5173,9 @@ date,state,cases_new
 2020-12-13,Melaka,7
 2020-12-13,Negeri Sembilan,29
 2020-12-13,Pahang,28
+2020-12-13,Pulau Pinang,26
 2020-12-13,Perak,105
 2020-12-13,Perlis,1
-2020-12-13,Pulau Pinang,26
 2020-12-13,Sabah,333
 2020-12-13,Sarawak,0
 2020-12-13,Selangor,435
@@ -4373,9 +5189,9 @@ date,state,cases_new
 2020-12-14,Melaka,1
 2020-12-14,Negeri Sembilan,260
 2020-12-14,Pahang,0
+2020-12-14,Pulau Pinang,31
 2020-12-14,Perak,62
 2020-12-14,Perlis,0
-2020-12-14,Pulau Pinang,31
 2020-12-14,Sabah,283
 2020-12-14,Sarawak,0
 2020-12-14,Selangor,532
@@ -4389,9 +5205,9 @@ date,state,cases_new
 2020-12-15,Melaka,5
 2020-12-15,Negeri Sembilan,67
 2020-12-15,Pahang,8
+2020-12-15,Pulau Pinang,34
 2020-12-15,Perak,110
 2020-12-15,Perlis,0
-2020-12-15,Pulau Pinang,34
 2020-12-15,Sabah,260
 2020-12-15,Sarawak,0
 2020-12-15,Selangor,503
@@ -4405,9 +5221,9 @@ date,state,cases_new
 2020-12-16,Melaka,14
 2020-12-16,Negeri Sembilan,60
 2020-12-16,Pahang,13
+2020-12-16,Pulau Pinang,69
 2020-12-16,Perak,35
 2020-12-16,Perlis,0
-2020-12-16,Pulau Pinang,69
 2020-12-16,Sabah,268
 2020-12-16,Sarawak,0
 2020-12-16,Selangor,481
@@ -4421,9 +5237,9 @@ date,state,cases_new
 2020-12-17,Melaka,98
 2020-12-17,Negeri Sembilan,33
 2020-12-17,Pahang,4
+2020-12-17,Pulau Pinang,80
 2020-12-17,Perak,41
 2020-12-17,Perlis,0
-2020-12-17,Pulau Pinang,80
 2020-12-17,Sabah,184
 2020-12-17,Sarawak,9
 2020-12-17,Selangor,368
@@ -4437,9 +5253,9 @@ date,state,cases_new
 2020-12-18,Melaka,140
 2020-12-18,Negeri Sembilan,174
 2020-12-18,Pahang,6
+2020-12-18,Pulau Pinang,37
 2020-12-18,Perak,65
 2020-12-18,Perlis,0
-2020-12-18,Pulau Pinang,37
 2020-12-18,Sabah,260
 2020-12-18,Sarawak,1
 2020-12-18,Selangor,692
@@ -4453,9 +5269,9 @@ date,state,cases_new
 2020-12-19,Melaka,3
 2020-12-19,Negeri Sembilan,18
 2020-12-19,Pahang,16
+2020-12-19,Pulau Pinang,30
 2020-12-19,Perak,82
 2020-12-19,Perlis,0
-2020-12-19,Pulau Pinang,30
 2020-12-19,Sabah,199
 2020-12-19,Sarawak,2
 2020-12-19,Selangor,401
@@ -4469,9 +5285,9 @@ date,state,cases_new
 2020-12-20,Melaka,1
 2020-12-20,Negeri Sembilan,169
 2020-12-20,Pahang,12
+2020-12-20,Pulau Pinang,30
 2020-12-20,Perak,10
 2020-12-20,Perlis,0
-2020-12-20,Pulau Pinang,30
 2020-12-20,Sabah,196
 2020-12-20,Sarawak,3
 2020-12-20,Selangor,441
@@ -4485,9 +5301,9 @@ date,state,cases_new
 2020-12-21,Melaka,9
 2020-12-21,Negeri Sembilan,58
 2020-12-21,Pahang,12
+2020-12-21,Pulau Pinang,18
 2020-12-21,Perak,21
 2020-12-21,Perlis,0
-2020-12-21,Pulau Pinang,18
 2020-12-21,Sabah,247
 2020-12-21,Sarawak,0
 2020-12-21,Selangor,1204
@@ -4501,9 +5317,9 @@ date,state,cases_new
 2020-12-22,Melaka,9
 2020-12-22,Negeri Sembilan,57
 2020-12-22,Pahang,6
+2020-12-22,Pulau Pinang,23
 2020-12-22,Perak,17
 2020-12-22,Perlis,0
-2020-12-22,Pulau Pinang,23
 2020-12-22,Sabah,252
 2020-12-22,Sarawak,0
 2020-12-22,Selangor,1014
@@ -4517,9 +5333,9 @@ date,state,cases_new
 2020-12-23,Melaka,124
 2020-12-23,Negeri Sembilan,31
 2020-12-23,Pahang,45
+2020-12-23,Pulau Pinang,43
 2020-12-23,Perak,8
 2020-12-23,Perlis,0
-2020-12-23,Pulau Pinang,43
 2020-12-23,Sabah,189
 2020-12-23,Sarawak,4
 2020-12-23,Selangor,535
@@ -4533,9 +5349,9 @@ date,state,cases_new
 2020-12-24,Melaka,76
 2020-12-24,Negeri Sembilan,144
 2020-12-24,Pahang,12
+2020-12-24,Pulau Pinang,37
 2020-12-24,Perak,26
 2020-12-24,Perlis,0
-2020-12-24,Pulau Pinang,37
 2020-12-24,Sabah,249
 2020-12-24,Sarawak,2
 2020-12-24,Selangor,491
@@ -4549,9 +5365,9 @@ date,state,cases_new
 2020-12-25,Melaka,14
 2020-12-25,Negeri Sembilan,89
 2020-12-25,Pahang,11
+2020-12-25,Pulau Pinang,25
 2020-12-25,Perak,55
 2020-12-25,Perlis,0
-2020-12-25,Pulau Pinang,25
 2020-12-25,Sabah,225
 2020-12-25,Sarawak,3
 2020-12-25,Selangor,461
@@ -4565,9 +5381,9 @@ date,state,cases_new
 2020-12-26,Melaka,5
 2020-12-26,Negeri Sembilan,33
 2020-12-26,Pahang,19
+2020-12-26,Pulau Pinang,58
 2020-12-26,Perak,26
 2020-12-26,Perlis,1
-2020-12-26,Pulau Pinang,58
 2020-12-26,Sabah,248
 2020-12-26,Sarawak,6
 2020-12-26,Selangor,710
@@ -4581,9 +5397,9 @@ date,state,cases_new
 2020-12-27,Melaka,23
 2020-12-27,Negeri Sembilan,39
 2020-12-27,Pahang,9
+2020-12-27,Pulau Pinang,37
 2020-12-27,Perak,30
 2020-12-27,Perlis,0
-2020-12-27,Pulau Pinang,37
 2020-12-27,Sabah,186
 2020-12-27,Sarawak,3
 2020-12-27,Selangor,392
@@ -4597,14 +5413,14 @@ date,state,cases_new
 2020-12-28,Melaka,14
 2020-12-28,Negeri Sembilan,160
 2020-12-28,Pahang,11
+2020-12-28,Pulau Pinang,69
 2020-12-28,Perak,47
 2020-12-28,Perlis,0
-2020-12-28,Pulau Pinang,69
 2020-12-28,Sabah,157
 2020-12-28,Sarawak,2
 2020-12-28,Selangor,697
 2020-12-28,Terengganu,3
-2020-12-28,W.P. Kuala Lumpur,196
+2020-12-28,W.P. Kuala Lumpur,194
 2020-12-28,W.P. Labuan,0
 2020-12-28,W.P. Putrajaya,9
 2020-12-29,Johor,110
@@ -4613,14 +5429,14 @@ date,state,cases_new
 2020-12-29,Melaka,9
 2020-12-29,Negeri Sembilan,60
 2020-12-29,Pahang,288
+2020-12-29,Pulau Pinang,57
 2020-12-29,Perak,17
 2020-12-29,Perlis,0
-2020-12-29,Pulau Pinang,57
 2020-12-29,Sabah,230
 2020-12-29,Sarawak,4
 2020-12-29,Selangor,747
 2020-12-29,Terengganu,2
-2020-12-29,W.P. Kuala Lumpur,358
+2020-12-29,W.P. Kuala Lumpur,360
 2020-12-29,W.P. Labuan,0
 2020-12-29,W.P. Putrajaya,2
 2020-12-30,Johor,607
@@ -4629,9 +5445,9 @@ date,state,cases_new
 2020-12-30,Melaka,8
 2020-12-30,Negeri Sembilan,34
 2020-12-30,Pahang,48
+2020-12-30,Pulau Pinang,69
 2020-12-30,Perak,48
 2020-12-30,Perlis,0
-2020-12-30,Pulau Pinang,69
 2020-12-30,Sabah,280
 2020-12-30,Sarawak,1
 2020-12-30,Selangor,472
@@ -4645,9 +5461,9 @@ date,state,cases_new
 2020-12-31,Melaka,239
 2020-12-31,Negeri Sembilan,78
 2020-12-31,Pahang,15
+2020-12-31,Pulau Pinang,92
 2020-12-31,Perak,33
 2020-12-31,Perlis,0
-2020-12-31,Pulau Pinang,92
 2020-12-31,Sabah,299
 2020-12-31,Sarawak,2
 2020-12-31,Selangor,1205
@@ -4661,9 +5477,9 @@ date,state,cases_new
 2021-01-01,Melaka,23
 2021-01-01,Negeri Sembilan,51
 2021-01-01,Pahang,16
+2021-01-01,Pulau Pinang,226
 2021-01-01,Perak,51
 2021-01-01,Perlis,0
-2021-01-01,Pulau Pinang,226
 2021-01-01,Sabah,254
 2021-01-01,Sarawak,8
 2021-01-01,Selangor,776
@@ -4677,9 +5493,9 @@ date,state,cases_new
 2021-01-02,Melaka,95
 2021-01-02,Negeri Sembilan,131
 2021-01-02,Pahang,29
+2021-01-02,Pulau Pinang,288
 2021-01-02,Perak,12
 2021-01-02,Perlis,0
-2021-01-02,Pulau Pinang,288
 2021-01-02,Sabah,259
 2021-01-02,Sarawak,5
 2021-01-02,Selangor,638
@@ -4693,9 +5509,9 @@ date,state,cases_new
 2021-01-03,Melaka,6
 2021-01-03,Negeri Sembilan,72
 2021-01-03,Pahang,21
+2021-01-03,Pulau Pinang,103
 2021-01-03,Perak,75
 2021-01-03,Perlis,0
-2021-01-03,Pulau Pinang,103
 2021-01-03,Sabah,316
 2021-01-03,Sarawak,10
 2021-01-03,Selangor,673
@@ -4709,9 +5525,9 @@ date,state,cases_new
 2021-01-04,Melaka,34
 2021-01-04,Negeri Sembilan,56
 2021-01-04,Pahang,12
+2021-01-04,Pulau Pinang,55
 2021-01-04,Perak,34
 2021-01-04,Perlis,1
-2021-01-04,Pulau Pinang,55
 2021-01-04,Sabah,303
 2021-01-04,Sarawak,8
 2021-01-04,Selangor,687
@@ -4725,9 +5541,9 @@ date,state,cases_new
 2021-01-05,Melaka,21
 2021-01-05,Negeri Sembilan,98
 2021-01-05,Pahang,25
+2021-01-05,Pulau Pinang,60
 2021-01-05,Perak,25
 2021-01-05,Perlis,0
-2021-01-05,Pulau Pinang,60
 2021-01-05,Sabah,383
 2021-01-05,Sarawak,13
 2021-01-05,Selangor,509
@@ -4741,9 +5557,9 @@ date,state,cases_new
 2021-01-06,Melaka,13
 2021-01-06,Negeri Sembilan,125
 2021-01-06,Pahang,11
+2021-01-06,Pulau Pinang,77
 2021-01-06,Perak,34
 2021-01-06,Perlis,0
-2021-01-06,Pulau Pinang,77
 2021-01-06,Sabah,405
 2021-01-06,Sarawak,5
 2021-01-06,Selangor,965
@@ -4757,14 +5573,14 @@ date,state,cases_new
 2021-01-07,Melaka,11
 2021-01-07,Negeri Sembilan,63
 2021-01-07,Pahang,25
+2021-01-07,Pulau Pinang,111
 2021-01-07,Perak,59
 2021-01-07,Perlis,0
-2021-01-07,Pulau Pinang,111
 2021-01-07,Sabah,493
 2021-01-07,Sarawak,14
 2021-01-07,Selangor,706
 2021-01-07,Terengganu,10
-2021-01-07,W.P. Kuala Lumpur,699
+2021-01-07,W.P. Kuala Lumpur,316
 2021-01-07,W.P. Labuan,3
 2021-01-07,W.P. Putrajaya,17
 2021-01-08,Johor,298
@@ -4773,14 +5589,14 @@ date,state,cases_new
 2021-01-08,Melaka,70
 2021-01-08,Negeri Sembilan,88
 2021-01-08,Pahang,28
+2021-01-08,Pulau Pinang,75
 2021-01-08,Perak,80
 2021-01-08,Perlis,3
-2021-01-08,Pulau Pinang,75
 2021-01-08,Sabah,401
 2021-01-08,Sarawak,16
 2021-01-08,Selangor,1086
 2021-01-08,Terengganu,34
-2021-01-08,W.P. Kuala Lumpur,-101
+2021-01-08,W.P. Kuala Lumpur,282
 2021-01-08,W.P. Labuan,6
 2021-01-08,W.P. Putrajaya,20
 2021-01-09,Johor,302
@@ -4789,9 +5605,9 @@ date,state,cases_new
 2021-01-09,Melaka,50
 2021-01-09,Negeri Sembilan,351
 2021-01-09,Pahang,36
+2021-01-09,Pulau Pinang,273
 2021-01-09,Perak,42
 2021-01-09,Perlis,8
-2021-01-09,Pulau Pinang,273
 2021-01-09,Sabah,409
 2021-01-09,Sarawak,55
 2021-01-09,Selangor,564
@@ -4805,9 +5621,9 @@ date,state,cases_new
 2021-01-10,Melaka,35
 2021-01-10,Negeri Sembilan,144
 2021-01-10,Pahang,41
+2021-01-10,Pulau Pinang,189
 2021-01-10,Perak,80
 2021-01-10,Perlis,5
-2021-01-10,Pulau Pinang,189
 2021-01-10,Sabah,403
 2021-01-10,Sarawak,24
 2021-01-10,Selangor,730
@@ -4821,9 +5637,9 @@ date,state,cases_new
 2021-01-11,Melaka,37
 2021-01-11,Negeri Sembilan,102
 2021-01-11,Pahang,46
+2021-01-11,Pulau Pinang,112
 2021-01-11,Perak,51
 2021-01-11,Perlis,3
-2021-01-11,Pulau Pinang,112
 2021-01-11,Sabah,374
 2021-01-11,Sarawak,153
 2021-01-11,Selangor,557
@@ -4837,9 +5653,9 @@ date,state,cases_new
 2021-01-12,Melaka,21
 2021-01-12,Negeri Sembilan,85
 2021-01-12,Pahang,96
+2021-01-12,Pulau Pinang,317
 2021-01-12,Perak,241
 2021-01-12,Perlis,0
-2021-01-12,Pulau Pinang,317
 2021-01-12,Sabah,409
 2021-01-12,Sarawak,146
 2021-01-12,Selangor,1007
@@ -4853,9 +5669,9 @@ date,state,cases_new
 2021-01-13,Melaka,72
 2021-01-13,Negeri Sembilan,106
 2021-01-13,Pahang,143
+2021-01-13,Pulau Pinang,105
 2021-01-13,Perak,61
 2021-01-13,Perlis,1
-2021-01-13,Pulau Pinang,105
 2021-01-13,Sabah,450
 2021-01-13,Sarawak,166
 2021-01-13,Selangor,837
@@ -4869,9 +5685,9 @@ date,state,cases_new
 2021-01-14,Melaka,85
 2021-01-14,Negeri Sembilan,169
 2021-01-14,Pahang,113
+2021-01-14,Pulau Pinang,234
 2021-01-14,Perak,92
 2021-01-14,Perlis,4
-2021-01-14,Pulau Pinang,234
 2021-01-14,Sabah,389
 2021-01-14,Sarawak,180
 2021-01-14,Selangor,1036
@@ -4885,9 +5701,9 @@ date,state,cases_new
 2021-01-15,Melaka,58
 2021-01-15,Negeri Sembilan,70
 2021-01-15,Pahang,70
+2021-01-15,Pulau Pinang,194
 2021-01-15,Perak,74
 2021-01-15,Perlis,0
-2021-01-15,Pulau Pinang,194
 2021-01-15,Sabah,514
 2021-01-15,Sarawak,60
 2021-01-15,Selangor,889
@@ -4901,9 +5717,9 @@ date,state,cases_new
 2021-01-16,Melaka,44
 2021-01-16,Negeri Sembilan,214
 2021-01-16,Pahang,65
+2021-01-16,Pulau Pinang,120
 2021-01-16,Perak,54
 2021-01-16,Perlis,14
-2021-01-16,Pulau Pinang,120
 2021-01-16,Sabah,449
 2021-01-16,Sarawak,69
 2021-01-16,Selangor,1466
@@ -4917,9 +5733,9 @@ date,state,cases_new
 2021-01-17,Melaka,60
 2021-01-17,Negeri Sembilan,236
 2021-01-17,Pahang,61
+2021-01-17,Pulau Pinang,120
 2021-01-17,Perak,107
 2021-01-17,Perlis,13
-2021-01-17,Pulau Pinang,120
 2021-01-17,Sabah,393
 2021-01-17,Sarawak,62
 2021-01-17,Selangor,1314
@@ -4933,9 +5749,9 @@ date,state,cases_new
 2021-01-18,Melaka,156
 2021-01-18,Negeri Sembilan,126
 2021-01-18,Pahang,84
+2021-01-18,Pulau Pinang,145
 2021-01-18,Perak,114
 2021-01-18,Perlis,16
-2021-01-18,Pulau Pinang,145
 2021-01-18,Sabah,432
 2021-01-18,Sarawak,100
 2021-01-18,Selangor,1213
@@ -4949,9 +5765,9 @@ date,state,cases_new
 2021-01-19,Melaka,122
 2021-01-19,Negeri Sembilan,139
 2021-01-19,Pahang,31
+2021-01-19,Pulau Pinang,124
 2021-01-19,Perak,135
 2021-01-19,Perlis,3
-2021-01-19,Pulau Pinang,124
 2021-01-19,Sabah,526
 2021-01-19,Sarawak,156
 2021-01-19,Selangor,1199
@@ -4965,9 +5781,9 @@ date,state,cases_new
 2021-01-20,Melaka,132
 2021-01-20,Negeri Sembilan,176
 2021-01-20,Pahang,52
+2021-01-20,Pulau Pinang,124
 2021-01-20,Perak,170
 2021-01-20,Perlis,3
-2021-01-20,Pulau Pinang,124
 2021-01-20,Sabah,406
 2021-01-20,Sarawak,203
 2021-01-20,Selangor,1391
@@ -4981,9 +5797,9 @@ date,state,cases_new
 2021-01-21,Melaka,106
 2021-01-21,Negeri Sembilan,102
 2021-01-21,Pahang,48
+2021-01-21,Pulau Pinang,171
 2021-01-21,Perak,245
 2021-01-21,Perlis,8
-2021-01-21,Pulau Pinang,171
 2021-01-21,Sabah,401
 2021-01-21,Sarawak,132
 2021-01-21,Selangor,545
@@ -4997,9 +5813,9 @@ date,state,cases_new
 2021-01-22,Melaka,82
 2021-01-22,Negeri Sembilan,197
 2021-01-22,Pahang,61
+2021-01-22,Pulau Pinang,202
 2021-01-22,Perak,138
 2021-01-22,Perlis,13
-2021-01-22,Pulau Pinang,202
 2021-01-22,Sabah,453
 2021-01-22,Sarawak,229
 2021-01-22,Selangor,782
@@ -5013,9 +5829,9 @@ date,state,cases_new
 2021-01-23,Melaka,278
 2021-01-23,Negeri Sembilan,108
 2021-01-23,Pahang,75
+2021-01-23,Pulau Pinang,162
 2021-01-23,Perak,208
 2021-01-23,Perlis,7
-2021-01-23,Pulau Pinang,162
 2021-01-23,Sabah,498
 2021-01-23,Sarawak,193
 2021-01-23,Selangor,1421
@@ -5029,9 +5845,9 @@ date,state,cases_new
 2021-01-24,Melaka,152
 2021-01-24,Negeri Sembilan,160
 2021-01-24,Pahang,63
+2021-01-24,Pulau Pinang,90
 2021-01-24,Perak,46
 2021-01-24,Perlis,3
-2021-01-24,Pulau Pinang,90
 2021-01-24,Sabah,431
 2021-01-24,Sarawak,255
 2021-01-24,Selangor,950
@@ -5045,9 +5861,9 @@ date,state,cases_new
 2021-01-25,Melaka,90
 2021-01-25,Negeri Sembilan,95
 2021-01-25,Pahang,46
+2021-01-25,Pulau Pinang,110
 2021-01-25,Perak,103
 2021-01-25,Perlis,3
-2021-01-25,Pulau Pinang,110
 2021-01-25,Sabah,348
 2021-01-25,Sarawak,120
 2021-01-25,Selangor,1035
@@ -5061,9 +5877,9 @@ date,state,cases_new
 2021-01-26,Melaka,92
 2021-01-26,Negeri Sembilan,129
 2021-01-26,Pahang,15
+2021-01-26,Pulau Pinang,104
 2021-01-26,Perak,58
 2021-01-26,Perlis,2
-2021-01-26,Pulau Pinang,104
 2021-01-26,Sabah,303
 2021-01-26,Sarawak,205
 2021-01-26,Selangor,1295
@@ -5077,9 +5893,9 @@ date,state,cases_new
 2021-01-27,Melaka,63
 2021-01-27,Negeri Sembilan,112
 2021-01-27,Pahang,42
+2021-01-27,Pulau Pinang,101
 2021-01-27,Perak,181
 2021-01-27,Perlis,3
-2021-01-27,Pulau Pinang,101
 2021-01-27,Sabah,295
 2021-01-27,Sarawak,70
 2021-01-27,Selangor,822
@@ -5093,9 +5909,9 @@ date,state,cases_new
 2021-01-28,Melaka,73
 2021-01-28,Negeri Sembilan,48
 2021-01-28,Pahang,72
+2021-01-28,Pulau Pinang,99
 2021-01-28,Perak,94
 2021-01-28,Perlis,9
-2021-01-28,Pulau Pinang,99
 2021-01-28,Sabah,282
 2021-01-28,Sarawak,171
 2021-01-28,Selangor,1577
@@ -5109,9 +5925,9 @@ date,state,cases_new
 2021-01-29,Melaka,74
 2021-01-29,Negeri Sembilan,69
 2021-01-29,Pahang,67
+2021-01-29,Pulau Pinang,99
 2021-01-29,Perak,73
 2021-01-29,Perlis,3
-2021-01-29,Pulau Pinang,99
 2021-01-29,Sabah,288
 2021-01-29,Sarawak,179
 2021-01-29,Selangor,3126
@@ -5125,9 +5941,9 @@ date,state,cases_new
 2021-01-30,Melaka,42
 2021-01-30,Negeri Sembilan,158
 2021-01-30,Pahang,51
+2021-01-30,Pulau Pinang,101
 2021-01-30,Perak,112
 2021-01-30,Perlis,0
-2021-01-30,Pulau Pinang,101
 2021-01-30,Sabah,263
 2021-01-30,Sarawak,191
 2021-01-30,Selangor,3285
@@ -5141,9 +5957,9 @@ date,state,cases_new
 2021-01-31,Melaka,153
 2021-01-31,Negeri Sembilan,42
 2021-01-31,Pahang,74
+2021-01-31,Pulau Pinang,69
 2021-01-31,Perak,63
 2021-01-31,Perlis,5
-2021-01-31,Pulau Pinang,69
 2021-01-31,Sabah,298
 2021-01-31,Sarawak,135
 2021-01-31,Selangor,2460
@@ -5157,9 +5973,9 @@ date,state,cases_new
 2021-02-01,Melaka,85
 2021-02-01,Negeri Sembilan,91
 2021-02-01,Pahang,54
+2021-02-01,Pulau Pinang,119
 2021-02-01,Perak,193
 2021-02-01,Perlis,0
-2021-02-01,Pulau Pinang,119
 2021-02-01,Sabah,276
 2021-02-01,Sarawak,105
 2021-02-01,Selangor,1362
@@ -5173,9 +5989,9 @@ date,state,cases_new
 2021-02-02,Melaka,62
 2021-02-02,Negeri Sembilan,79
 2021-02-02,Pahang,63
+2021-02-02,Pulau Pinang,85
 2021-02-02,Perak,84
 2021-02-02,Perlis,1
-2021-02-02,Pulau Pinang,85
 2021-02-02,Sabah,276
 2021-02-02,Sarawak,121
 2021-02-02,Selangor,1145
@@ -5189,9 +6005,9 @@ date,state,cases_new
 2021-02-03,Melaka,53
 2021-02-03,Negeri Sembilan,133
 2021-02-03,Pahang,66
+2021-02-03,Pulau Pinang,122
 2021-02-03,Perak,106
 2021-02-03,Perlis,0
-2021-02-03,Pulau Pinang,122
 2021-02-03,Sabah,190
 2021-02-03,Sarawak,148
 2021-02-03,Selangor,1572
@@ -5205,9 +6021,9 @@ date,state,cases_new
 2021-02-04,Melaka,238
 2021-02-04,Negeri Sembilan,100
 2021-02-04,Pahang,78
+2021-02-04,Pulau Pinang,157
 2021-02-04,Perak,163
 2021-02-04,Perlis,0
-2021-02-04,Pulau Pinang,157
 2021-02-04,Sabah,175
 2021-02-04,Sarawak,270
 2021-02-04,Selangor,2056
@@ -5221,9 +6037,9 @@ date,state,cases_new
 2021-02-05,Melaka,141
 2021-02-05,Negeri Sembilan,116
 2021-02-05,Pahang,51
+2021-02-05,Pulau Pinang,149
 2021-02-05,Perak,92
 2021-02-05,Perlis,1
-2021-02-05,Pulau Pinang,149
 2021-02-05,Sabah,196
 2021-02-05,Sarawak,178
 2021-02-05,Selangor,1228
@@ -5237,9 +6053,9 @@ date,state,cases_new
 2021-02-06,Melaka,329
 2021-02-06,Negeri Sembilan,133
 2021-02-06,Pahang,48
+2021-02-06,Pulau Pinang,211
 2021-02-06,Perak,36
 2021-02-06,Perlis,4
-2021-02-06,Pulau Pinang,211
 2021-02-06,Sabah,233
 2021-02-06,Sarawak,185
 2021-02-06,Selangor,1481
@@ -5253,9 +6069,9 @@ date,state,cases_new
 2021-02-07,Melaka,313
 2021-02-07,Negeri Sembilan,92
 2021-02-07,Pahang,34
+2021-02-07,Pulau Pinang,250
 2021-02-07,Perak,71
 2021-02-07,Perlis,2
-2021-02-07,Pulau Pinang,250
 2021-02-07,Sabah,160
 2021-02-07,Sarawak,219
 2021-02-07,Selangor,1606
@@ -5269,9 +6085,9 @@ date,state,cases_new
 2021-02-08,Melaka,344
 2021-02-08,Negeri Sembilan,104
 2021-02-08,Pahang,28
+2021-02-08,Pulau Pinang,209
 2021-02-08,Perak,72
 2021-02-08,Perlis,4
-2021-02-08,Pulau Pinang,209
 2021-02-08,Sabah,169
 2021-02-08,Sarawak,84
 2021-02-08,Selangor,1196
@@ -5285,9 +6101,9 @@ date,state,cases_new
 2021-02-09,Melaka,203
 2021-02-09,Negeri Sembilan,99
 2021-02-09,Pahang,32
+2021-02-09,Pulau Pinang,119
 2021-02-09,Perak,40
 2021-02-09,Perlis,0
-2021-02-09,Pulau Pinang,119
 2021-02-09,Sabah,180
 2021-02-09,Sarawak,111
 2021-02-09,Selangor,862
@@ -5301,9 +6117,9 @@ date,state,cases_new
 2021-02-10,Melaka,92
 2021-02-10,Negeri Sembilan,157
 2021-02-10,Pahang,14
+2021-02-10,Pulau Pinang,59
 2021-02-10,Perak,42
 2021-02-10,Perlis,0
-2021-02-10,Pulau Pinang,59
 2021-02-10,Sabah,132
 2021-02-10,Sarawak,135
 2021-02-10,Selangor,1757
@@ -5317,9 +6133,9 @@ date,state,cases_new
 2021-02-11,Melaka,101
 2021-02-11,Negeri Sembilan,89
 2021-02-11,Pahang,21
+2021-02-11,Pulau Pinang,144
 2021-02-11,Perak,82
 2021-02-11,Perlis,4
-2021-02-11,Pulau Pinang,144
 2021-02-11,Sabah,142
 2021-02-11,Sarawak,184
 2021-02-11,Selangor,1082
@@ -5333,9 +6149,9 @@ date,state,cases_new
 2021-02-12,Melaka,45
 2021-02-12,Negeri Sembilan,118
 2021-02-12,Pahang,30
+2021-02-12,Pulau Pinang,149
 2021-02-12,Perak,99
 2021-02-12,Perlis,0
-2021-02-12,Pulau Pinang,149
 2021-02-12,Sabah,118
 2021-02-12,Sarawak,83
 2021-02-12,Selangor,1214
@@ -5349,9 +6165,9 @@ date,state,cases_new
 2021-02-13,Melaka,50
 2021-02-13,Negeri Sembilan,58
 2021-02-13,Pahang,13
+2021-02-13,Pulau Pinang,138
 2021-02-13,Perak,121
 2021-02-13,Perlis,2
-2021-02-13,Pulau Pinang,138
 2021-02-13,Sabah,101
 2021-02-13,Sarawak,152
 2021-02-13,Selangor,1345
@@ -5365,9 +6181,9 @@ date,state,cases_new
 2021-02-14,Melaka,11
 2021-02-14,Negeri Sembilan,40
 2021-02-14,Pahang,10
+2021-02-14,Pulau Pinang,56
 2021-02-14,Perak,85
 2021-02-14,Perlis,0
-2021-02-14,Pulau Pinang,56
 2021-02-14,Sabah,116
 2021-02-14,Sarawak,161
 2021-02-14,Selangor,1103
@@ -5381,9 +6197,9 @@ date,state,cases_new
 2021-02-15,Melaka,14
 2021-02-15,Negeri Sembilan,145
 2021-02-15,Pahang,15
+2021-02-15,Pulau Pinang,91
 2021-02-15,Perak,83
 2021-02-15,Perlis,0
-2021-02-15,Pulau Pinang,91
 2021-02-15,Sabah,97
 2021-02-15,Sarawak,246
 2021-02-15,Selangor,910
@@ -5397,9 +6213,9 @@ date,state,cases_new
 2021-02-16,Melaka,14
 2021-02-16,Negeri Sembilan,64
 2021-02-16,Pahang,19
+2021-02-16,Pulau Pinang,72
 2021-02-16,Perak,69
 2021-02-16,Perlis,0
-2021-02-16,Pulau Pinang,72
 2021-02-16,Sabah,132
 2021-02-16,Sarawak,193
 2021-02-16,Selangor,1300
@@ -5413,9 +6229,9 @@ date,state,cases_new
 2021-02-17,Melaka,20
 2021-02-17,Negeri Sembilan,233
 2021-02-17,Pahang,14
+2021-02-17,Pulau Pinang,92
 2021-02-17,Perak,99
 2021-02-17,Perlis,0
-2021-02-17,Pulau Pinang,92
 2021-02-17,Sabah,94
 2021-02-17,Sarawak,200
 2021-02-17,Selangor,1382
@@ -5429,9 +6245,9 @@ date,state,cases_new
 2021-02-18,Melaka,38
 2021-02-18,Negeri Sembilan,81
 2021-02-18,Pahang,52
+2021-02-18,Pulau Pinang,116
 2021-02-18,Perak,198
 2021-02-18,Perlis,6
-2021-02-18,Pulau Pinang,116
 2021-02-18,Sabah,114
 2021-02-18,Sarawak,200
 2021-02-18,Selangor,1013
@@ -5445,9 +6261,9 @@ date,state,cases_new
 2021-02-19,Melaka,26
 2021-02-19,Negeri Sembilan,191
 2021-02-19,Pahang,26
+2021-02-19,Pulau Pinang,188
 2021-02-19,Perak,155
 2021-02-19,Perlis,0
-2021-02-19,Pulau Pinang,188
 2021-02-19,Sabah,101
 2021-02-19,Sarawak,199
 2021-02-19,Selangor,978
@@ -5461,9 +6277,9 @@ date,state,cases_new
 2021-02-20,Melaka,32
 2021-02-20,Negeri Sembilan,89
 2021-02-20,Pahang,42
+2021-02-20,Pulau Pinang,87
 2021-02-20,Perak,108
 2021-02-20,Perlis,3
-2021-02-20,Pulau Pinang,87
 2021-02-20,Sabah,109
 2021-02-20,Sarawak,134
 2021-02-20,Selangor,1001
@@ -5477,9 +6293,9 @@ date,state,cases_new
 2021-02-21,Melaka,65
 2021-02-21,Negeri Sembilan,122
 2021-02-21,Pahang,9
+2021-02-21,Pulau Pinang,127
 2021-02-21,Perak,1215
 2021-02-21,Perlis,0
-2021-02-21,Pulau Pinang,127
 2021-02-21,Sabah,85
 2021-02-21,Sarawak,185
 2021-02-21,Selangor,868
@@ -5493,9 +6309,9 @@ date,state,cases_new
 2021-02-22,Melaka,14
 2021-02-22,Negeri Sembilan,64
 2021-02-22,Pahang,7
+2021-02-22,Pulau Pinang,135
 2021-02-22,Perak,148
 2021-02-22,Perlis,4
-2021-02-22,Pulau Pinang,135
 2021-02-22,Sabah,110
 2021-02-22,Sarawak,221
 2021-02-22,Selangor,910
@@ -5509,9 +6325,9 @@ date,state,cases_new
 2021-02-23,Melaka,22
 2021-02-23,Negeri Sembilan,100
 2021-02-23,Pahang,11
+2021-02-23,Pulau Pinang,155
 2021-02-23,Perak,308
 2021-02-23,Perlis,0
-2021-02-23,Pulau Pinang,155
 2021-02-23,Sabah,94
 2021-02-23,Sarawak,133
 2021-02-23,Selangor,932
@@ -5525,9 +6341,9 @@ date,state,cases_new
 2021-02-24,Melaka,26
 2021-02-24,Negeri Sembilan,1392
 2021-02-24,Pahang,8
+2021-02-24,Pulau Pinang,95
 2021-02-24,Perak,188
 2021-02-24,Perlis,0
-2021-02-24,Pulau Pinang,95
 2021-02-24,Sabah,105
 2021-02-24,Sarawak,353
 2021-02-24,Selangor,581
@@ -5541,9 +6357,9 @@ date,state,cases_new
 2021-02-25,Melaka,22
 2021-02-25,Negeri Sembilan,62
 2021-02-25,Pahang,19
+2021-02-25,Pulau Pinang,162
 2021-02-25,Perak,120
 2021-02-25,Perlis,1
-2021-02-25,Pulau Pinang,162
 2021-02-25,Sabah,93
 2021-02-25,Sarawak,219
 2021-02-25,Selangor,666
@@ -5557,9 +6373,9 @@ date,state,cases_new
 2021-02-26,Melaka,13
 2021-02-26,Negeri Sembilan,68
 2021-02-26,Pahang,21
+2021-02-26,Pulau Pinang,93
 2021-02-26,Perak,545
 2021-02-26,Perlis,4
-2021-02-26,Pulau Pinang,93
 2021-02-26,Sabah,129
 2021-02-26,Sarawak,250
 2021-02-26,Selangor,633
@@ -5573,9 +6389,9 @@ date,state,cases_new
 2021-02-27,Melaka,17
 2021-02-27,Negeri Sembilan,74
 2021-02-27,Pahang,8
+2021-02-27,Pulau Pinang,155
 2021-02-27,Perak,305
 2021-02-27,Perlis,0
-2021-02-27,Pulau Pinang,155
 2021-02-27,Sabah,157
 2021-02-27,Sarawak,255
 2021-02-27,Selangor,862
@@ -5589,9 +6405,9 @@ date,state,cases_new
 2021-02-28,Melaka,10
 2021-02-28,Negeri Sembilan,65
 2021-02-28,Pahang,11
+2021-02-28,Pulau Pinang,105
 2021-02-28,Perak,287
 2021-02-28,Perlis,0
-2021-02-28,Pulau Pinang,105
 2021-02-28,Sabah,134
 2021-02-28,Sarawak,171
 2021-02-28,Selangor,914
@@ -5605,9 +6421,9 @@ date,state,cases_new
 2021-03-01,Melaka,8
 2021-03-01,Negeri Sembilan,167
 2021-03-01,Pahang,8
+2021-03-01,Pulau Pinang,85
 2021-03-01,Perak,144
 2021-03-01,Perlis,1
-2021-03-01,Pulau Pinang,85
 2021-03-01,Sabah,104
 2021-03-01,Sarawak,220
 2021-03-01,Selangor,453
@@ -5621,9 +6437,9 @@ date,state,cases_new
 2021-03-02,Melaka,11
 2021-03-02,Negeri Sembilan,115
 2021-03-02,Pahang,3
+2021-03-02,Pulau Pinang,106
 2021-03-02,Perak,63
 2021-03-02,Perlis,0
-2021-03-02,Pulau Pinang,106
 2021-03-02,Sabah,53
 2021-03-02,Sarawak,159
 2021-03-02,Selangor,672
@@ -5637,9 +6453,9 @@ date,state,cases_new
 2021-03-03,Melaka,36
 2021-03-03,Negeri Sembilan,24
 2021-03-03,Pahang,36
+2021-03-03,Pulau Pinang,90
 2021-03-03,Perak,136
 2021-03-03,Perlis,0
-2021-03-03,Pulau Pinang,90
 2021-03-03,Sabah,95
 2021-03-03,Sarawak,139
 2021-03-03,Selangor,640
@@ -5653,9 +6469,9 @@ date,state,cases_new
 2021-03-04,Melaka,3
 2021-03-04,Negeri Sembilan,91
 2021-03-04,Pahang,13
+2021-03-04,Pulau Pinang,337
 2021-03-04,Perak,101
 2021-03-04,Perlis,1
-2021-03-04,Pulau Pinang,337
 2021-03-04,Sabah,78
 2021-03-04,Sarawak,361
 2021-03-04,Selangor,630
@@ -5669,9 +6485,9 @@ date,state,cases_new
 2021-03-05,Melaka,10
 2021-03-05,Negeri Sembilan,77
 2021-03-05,Pahang,38
+2021-03-05,Pulau Pinang,119
 2021-03-05,Perak,109
 2021-03-05,Perlis,1
-2021-03-05,Pulau Pinang,119
 2021-03-05,Sabah,97
 2021-03-05,Sarawak,250
 2021-03-05,Selangor,794
@@ -5685,9 +6501,9 @@ date,state,cases_new
 2021-03-06,Melaka,10
 2021-03-06,Negeri Sembilan,89
 2021-03-06,Pahang,17
+2021-03-06,Pulau Pinang,84
 2021-03-06,Perak,68
 2021-03-06,Perlis,0
-2021-03-06,Pulau Pinang,84
 2021-03-06,Sabah,74
 2021-03-06,Sarawak,221
 2021-03-06,Selangor,826
@@ -5701,9 +6517,9 @@ date,state,cases_new
 2021-03-07,Melaka,3
 2021-03-07,Negeri Sembilan,48
 2021-03-07,Pahang,12
+2021-03-07,Pulau Pinang,172
 2021-03-07,Perak,48
 2021-03-07,Perlis,24
-2021-03-07,Pulau Pinang,172
 2021-03-07,Sabah,99
 2021-03-07,Sarawak,201
 2021-03-07,Selangor,746
@@ -5717,9 +6533,9 @@ date,state,cases_new
 2021-03-08,Melaka,4
 2021-03-08,Negeri Sembilan,89
 2021-03-08,Pahang,3
+2021-03-08,Pulau Pinang,76
 2021-03-08,Perak,49
 2021-03-08,Perlis,17
-2021-03-08,Pulau Pinang,76
 2021-03-08,Sabah,71
 2021-03-08,Sarawak,252
 2021-03-08,Selangor,726
@@ -5733,9 +6549,9 @@ date,state,cases_new
 2021-03-09,Melaka,0
 2021-03-09,Negeri Sembilan,45
 2021-03-09,Pahang,2
+2021-03-09,Pulau Pinang,143
 2021-03-09,Perak,34
 2021-03-09,Perlis,1
-2021-03-09,Pulau Pinang,143
 2021-03-09,Sabah,64
 2021-03-09,Sarawak,163
 2021-03-09,Selangor,464
@@ -5749,9 +6565,9 @@ date,state,cases_new
 2021-03-10,Melaka,11
 2021-03-10,Negeri Sembilan,10
 2021-03-10,Pahang,1
+2021-03-10,Pulau Pinang,99
 2021-03-10,Perak,83
 2021-03-10,Perlis,7
-2021-03-10,Pulau Pinang,99
 2021-03-10,Sabah,54
 2021-03-10,Sarawak,199
 2021-03-10,Selangor,561
@@ -5765,9 +6581,9 @@ date,state,cases_new
 2021-03-11,Melaka,71
 2021-03-11,Negeri Sembilan,79
 2021-03-11,Pahang,7
+2021-03-11,Pulau Pinang,169
 2021-03-11,Perak,69
 2021-03-11,Perlis,2
-2021-03-11,Pulau Pinang,169
 2021-03-11,Sabah,61
 2021-03-11,Sarawak,168
 2021-03-11,Selangor,712
@@ -5781,9 +6597,9 @@ date,state,cases_new
 2021-03-12,Melaka,25
 2021-03-12,Negeri Sembilan,32
 2021-03-12,Pahang,4
+2021-03-12,Pulau Pinang,132
 2021-03-12,Perak,44
 2021-03-12,Perlis,25
-2021-03-12,Pulau Pinang,132
 2021-03-12,Sabah,57
 2021-03-12,Sarawak,173
 2021-03-12,Selangor,751
@@ -5797,9 +6613,9 @@ date,state,cases_new
 2021-03-13,Melaka,2
 2021-03-13,Negeri Sembilan,6
 2021-03-13,Pahang,8
+2021-03-13,Pulau Pinang,178
 2021-03-13,Perak,72
 2021-03-13,Perlis,29
-2021-03-13,Pulau Pinang,178
 2021-03-13,Sabah,71
 2021-03-13,Sarawak,222
 2021-03-13,Selangor,551
@@ -5813,9 +6629,9 @@ date,state,cases_new
 2021-03-14,Melaka,4
 2021-03-14,Negeri Sembilan,21
 2021-03-14,Pahang,5
+2021-03-14,Pulau Pinang,154
 2021-03-14,Perak,101
 2021-03-14,Perlis,0
-2021-03-14,Pulau Pinang,154
 2021-03-14,Sabah,39
 2021-03-14,Sarawak,178
 2021-03-14,Selangor,577
@@ -5829,9 +6645,9 @@ date,state,cases_new
 2021-03-15,Melaka,2
 2021-03-15,Negeri Sembilan,80
 2021-03-15,Pahang,17
+2021-03-15,Pulau Pinang,142
 2021-03-15,Perak,37
 2021-03-15,Perlis,0
-2021-03-15,Pulau Pinang,142
 2021-03-15,Sabah,29
 2021-03-15,Sarawak,251
 2021-03-15,Selangor,379
@@ -5845,9 +6661,9 @@ date,state,cases_new
 2021-03-16,Melaka,1
 2021-03-16,Negeri Sembilan,17
 2021-03-16,Pahang,2
+2021-03-16,Pulau Pinang,175
 2021-03-16,Perak,24
 2021-03-16,Perlis,0
-2021-03-16,Pulau Pinang,175
 2021-03-16,Sabah,38
 2021-03-16,Sarawak,183
 2021-03-16,Selangor,323
@@ -5861,9 +6677,9 @@ date,state,cases_new
 2021-03-17,Melaka,20
 2021-03-17,Negeri Sembilan,46
 2021-03-17,Pahang,3
+2021-03-17,Pulau Pinang,69
 2021-03-17,Perak,36
 2021-03-17,Perlis,1
-2021-03-17,Pulau Pinang,69
 2021-03-17,Sabah,31
 2021-03-17,Sarawak,225
 2021-03-17,Selangor,499
@@ -5877,9 +6693,9 @@ date,state,cases_new
 2021-03-18,Melaka,8
 2021-03-18,Negeri Sembilan,23
 2021-03-18,Pahang,14
+2021-03-18,Pulau Pinang,104
 2021-03-18,Perak,39
 2021-03-18,Perlis,0
-2021-03-18,Pulau Pinang,104
 2021-03-18,Sabah,73
 2021-03-18,Sarawak,303
 2021-03-18,Selangor,353
@@ -5893,9 +6709,9 @@ date,state,cases_new
 2021-03-19,Melaka,54
 2021-03-19,Negeri Sembilan,41
 2021-03-19,Pahang,13
+2021-03-19,Pulau Pinang,182
 2021-03-19,Perak,100
 2021-03-19,Perlis,0
-2021-03-19,Pulau Pinang,182
 2021-03-19,Sabah,33
 2021-03-19,Sarawak,407
 2021-03-19,Selangor,348
@@ -5909,9 +6725,9 @@ date,state,cases_new
 2021-03-20,Melaka,18
 2021-03-20,Negeri Sembilan,25
 2021-03-20,Pahang,3
+2021-03-20,Pulau Pinang,328
 2021-03-20,Perak,37
 2021-03-20,Perlis,0
-2021-03-20,Pulau Pinang,328
 2021-03-20,Sabah,102
 2021-03-20,Sarawak,154
 2021-03-20,Selangor,652
@@ -5925,9 +6741,9 @@ date,state,cases_new
 2021-03-21,Melaka,10
 2021-03-21,Negeri Sembilan,22
 2021-03-21,Pahang,11
+2021-03-21,Pulau Pinang,205
 2021-03-21,Perak,55
 2021-03-21,Perlis,5
-2021-03-21,Pulau Pinang,205
 2021-03-21,Sabah,50
 2021-03-21,Sarawak,276
 2021-03-21,Selangor,356
@@ -5941,9 +6757,9 @@ date,state,cases_new
 2021-03-22,Melaka,12
 2021-03-22,Negeri Sembilan,41
 2021-03-22,Pahang,42
+2021-03-22,Pulau Pinang,88
 2021-03-22,Perak,39
 2021-03-22,Perlis,0
-2021-03-22,Pulau Pinang,88
 2021-03-22,Sabah,36
 2021-03-22,Sarawak,124
 2021-03-22,Selangor,403
@@ -5957,9 +6773,9 @@ date,state,cases_new
 2021-03-23,Melaka,45
 2021-03-23,Negeri Sembilan,10
 2021-03-23,Pahang,38
+2021-03-23,Pulau Pinang,100
 2021-03-23,Perak,4
 2021-03-23,Perlis,0
-2021-03-23,Pulau Pinang,100
 2021-03-23,Sabah,60
 2021-03-23,Sarawak,140
 2021-03-23,Selangor,625
@@ -5973,9 +6789,9 @@ date,state,cases_new
 2021-03-24,Melaka,52
 2021-03-24,Negeri Sembilan,59
 2021-03-24,Pahang,43
+2021-03-24,Pulau Pinang,99
 2021-03-24,Perak,42
 2021-03-24,Perlis,0
-2021-03-24,Pulau Pinang,99
 2021-03-24,Sabah,45
 2021-03-24,Sarawak,141
 2021-03-24,Selangor,490
@@ -5989,9 +6805,9 @@ date,state,cases_new
 2021-03-25,Melaka,32
 2021-03-25,Negeri Sembilan,49
 2021-03-25,Pahang,10
+2021-03-25,Pulau Pinang,113
 2021-03-25,Perak,71
 2021-03-25,Perlis,0
-2021-03-25,Pulau Pinang,113
 2021-03-25,Sabah,70
 2021-03-25,Sarawak,308
 2021-03-25,Selangor,356
@@ -6005,9 +6821,9 @@ date,state,cases_new
 2021-03-26,Melaka,19
 2021-03-26,Negeri Sembilan,12
 2021-03-26,Pahang,6
+2021-03-26,Pulau Pinang,137
 2021-03-26,Perak,28
 2021-03-26,Perlis,2
-2021-03-26,Pulau Pinang,137
 2021-03-26,Sabah,51
 2021-03-26,Sarawak,213
 2021-03-26,Selangor,478
@@ -6021,9 +6837,9 @@ date,state,cases_new
 2021-03-27,Melaka,36
 2021-03-27,Negeri Sembilan,43
 2021-03-27,Pahang,30
+2021-03-27,Pulau Pinang,125
 2021-03-27,Perak,9
 2021-03-27,Perlis,0
-2021-03-27,Pulau Pinang,125
 2021-03-27,Sabah,64
 2021-03-27,Sarawak,267
 2021-03-27,Selangor,283
@@ -6037,9 +6853,9 @@ date,state,cases_new
 2021-03-28,Melaka,5
 2021-03-28,Negeri Sembilan,9
 2021-03-28,Pahang,32
+2021-03-28,Pulau Pinang,212
 2021-03-28,Perak,23
 2021-03-28,Perlis,0
-2021-03-28,Pulau Pinang,212
 2021-03-28,Sabah,38
 2021-03-28,Sarawak,426
 2021-03-28,Selangor,256
@@ -6053,9 +6869,9 @@ date,state,cases_new
 2021-03-29,Melaka,8
 2021-03-29,Negeri Sembilan,18
 2021-03-29,Pahang,5
+2021-03-29,Pulau Pinang,164
 2021-03-29,Perak,5
 2021-03-29,Perlis,0
-2021-03-29,Pulau Pinang,164
 2021-03-29,Sabah,34
 2021-03-29,Sarawak,192
 2021-03-29,Selangor,219
@@ -6069,9 +6885,9 @@ date,state,cases_new
 2021-03-30,Melaka,6
 2021-03-30,Negeri Sembilan,39
 2021-03-30,Pahang,16
+2021-03-30,Pulau Pinang,194
 2021-03-30,Perak,44
 2021-03-30,Perlis,1
-2021-03-30,Pulau Pinang,194
 2021-03-30,Sabah,41
 2021-03-30,Sarawak,153
 2021-03-30,Selangor,401
@@ -6085,9 +6901,9 @@ date,state,cases_new
 2021-03-31,Melaka,41
 2021-03-31,Negeri Sembilan,32
 2021-03-31,Pahang,36
+2021-03-31,Pulau Pinang,200
 2021-03-31,Perak,31
 2021-03-31,Perlis,1
-2021-03-31,Pulau Pinang,200
 2021-03-31,Sabah,69
 2021-03-31,Sarawak,176
 2021-03-31,Selangor,661
@@ -6101,9 +6917,9 @@ date,state,cases_new
 2021-04-01,Melaka,9
 2021-04-01,Negeri Sembilan,34
 2021-04-01,Pahang,14
+2021-04-01,Pulau Pinang,190
 2021-04-01,Perak,31
 2021-04-01,Perlis,0
-2021-04-01,Pulau Pinang,190
 2021-04-01,Sabah,86
 2021-04-01,Sarawak,238
 2021-04-01,Selangor,237
@@ -6117,9 +6933,9 @@ date,state,cases_new
 2021-04-02,Melaka,22
 2021-04-02,Negeri Sembilan,31
 2021-04-02,Pahang,57
+2021-04-02,Pulau Pinang,139
 2021-04-02,Perak,14
 2021-04-02,Perlis,1
-2021-04-02,Pulau Pinang,139
 2021-04-02,Sabah,63
 2021-04-02,Sarawak,217
 2021-04-02,Selangor,455
@@ -6133,9 +6949,9 @@ date,state,cases_new
 2021-04-03,Melaka,20
 2021-04-03,Negeri Sembilan,25
 2021-04-03,Pahang,35
+2021-04-03,Pulau Pinang,92
 2021-04-03,Perak,494
 2021-04-03,Perlis,0
-2021-04-03,Pulau Pinang,92
 2021-04-03,Sabah,73
 2021-04-03,Sarawak,290
 2021-04-03,Selangor,352
@@ -6149,9 +6965,9 @@ date,state,cases_new
 2021-04-04,Melaka,15
 2021-04-04,Negeri Sembilan,20
 2021-04-04,Pahang,11
+2021-04-04,Pulau Pinang,185
 2021-04-04,Perak,24
 2021-04-04,Perlis,1
-2021-04-04,Pulau Pinang,185
 2021-04-04,Sabah,68
 2021-04-04,Sarawak,419
 2021-04-04,Selangor,343
@@ -6165,9 +6981,9 @@ date,state,cases_new
 2021-04-05,Melaka,25
 2021-04-05,Negeri Sembilan,12
 2021-04-05,Pahang,37
+2021-04-05,Pulau Pinang,133
 2021-04-05,Perak,8
 2021-04-05,Perlis,2
-2021-04-05,Pulau Pinang,133
 2021-04-05,Sabah,65
 2021-04-05,Sarawak,225
 2021-04-05,Selangor,327
@@ -6181,9 +6997,9 @@ date,state,cases_new
 2021-04-06,Melaka,7
 2021-04-06,Negeri Sembilan,14
 2021-04-06,Pahang,11
+2021-04-06,Pulau Pinang,110
 2021-04-06,Perak,61
 2021-04-06,Perlis,0
-2021-04-06,Pulau Pinang,110
 2021-04-06,Sabah,112
 2021-04-06,Sarawak,385
 2021-04-06,Selangor,242
@@ -6197,9 +7013,9 @@ date,state,cases_new
 2021-04-07,Melaka,13
 2021-04-07,Negeri Sembilan,30
 2021-04-07,Pahang,23
+2021-04-07,Pulau Pinang,93
 2021-04-07,Perak,24
 2021-04-07,Perlis,0
-2021-04-07,Pulau Pinang,93
 2021-04-07,Sabah,60
 2021-04-07,Sarawak,332
 2021-04-07,Selangor,294
@@ -6213,9 +7029,9 @@ date,state,cases_new
 2021-04-08,Melaka,11
 2021-04-08,Negeri Sembilan,12
 2021-04-08,Pahang,12
+2021-04-08,Pulau Pinang,162
 2021-04-08,Perak,24
 2021-04-08,Perlis,1
-2021-04-08,Pulau Pinang,162
 2021-04-08,Sabah,106
 2021-04-08,Sarawak,211
 2021-04-08,Selangor,374
@@ -6229,9 +7045,9 @@ date,state,cases_new
 2021-04-09,Melaka,34
 2021-04-09,Negeri Sembilan,40
 2021-04-09,Pahang,19
+2021-04-09,Pulau Pinang,176
 2021-04-09,Perak,29
 2021-04-09,Perlis,0
-2021-04-09,Pulau Pinang,176
 2021-04-09,Sabah,139
 2021-04-09,Sarawak,555
 2021-04-09,Selangor,403
@@ -6245,9 +7061,9 @@ date,state,cases_new
 2021-04-10,Melaka,6
 2021-04-10,Negeri Sembilan,28
 2021-04-10,Pahang,13
+2021-04-10,Pulau Pinang,101
 2021-04-10,Perak,46
 2021-04-10,Perlis,2
-2021-04-10,Pulau Pinang,101
 2021-04-10,Sabah,131
 2021-04-10,Sarawak,296
 2021-04-10,Selangor,415
@@ -6261,9 +7077,9 @@ date,state,cases_new
 2021-04-11,Melaka,59
 2021-04-11,Negeri Sembilan,40
 2021-04-11,Pahang,22
+2021-04-11,Pulau Pinang,113
 2021-04-11,Perak,50
 2021-04-11,Perlis,0
-2021-04-11,Pulau Pinang,113
 2021-04-11,Sabah,127
 2021-04-11,Sarawak,443
 2021-04-11,Selangor,535
@@ -6277,9 +7093,9 @@ date,state,cases_new
 2021-04-12,Melaka,11
 2021-04-12,Negeri Sembilan,63
 2021-04-12,Pahang,32
+2021-04-12,Pulau Pinang,112
 2021-04-12,Perak,21
 2021-04-12,Perlis,2
-2021-04-12,Pulau Pinang,112
 2021-04-12,Sabah,109
 2021-04-12,Sarawak,351
 2021-04-12,Selangor,303
@@ -6293,9 +7109,9 @@ date,state,cases_new
 2021-04-13,Melaka,17
 2021-04-13,Negeri Sembilan,29
 2021-04-13,Pahang,14
+2021-04-13,Pulau Pinang,92
 2021-04-13,Perak,36
 2021-04-13,Perlis,0
-2021-04-13,Pulau Pinang,92
 2021-04-13,Sabah,117
 2021-04-13,Sarawak,607
 2021-04-13,Selangor,483
@@ -6309,9 +7125,9 @@ date,state,cases_new
 2021-04-14,Melaka,6
 2021-04-14,Negeri Sembilan,51
 2021-04-14,Pahang,13
+2021-04-14,Pulau Pinang,92
 2021-04-14,Perak,56
 2021-04-14,Perlis,3
-2021-04-14,Pulau Pinang,92
 2021-04-14,Sabah,142
 2021-04-14,Sarawak,489
 2021-04-14,Selangor,517
@@ -6325,9 +7141,9 @@ date,state,cases_new
 2021-04-15,Melaka,53
 2021-04-15,Negeri Sembilan,34
 2021-04-15,Pahang,34
+2021-04-15,Pulau Pinang,134
 2021-04-15,Perak,51
 2021-04-15,Perlis,1
-2021-04-15,Pulau Pinang,134
 2021-04-15,Sabah,202
 2021-04-15,Sarawak,512
 2021-04-15,Selangor,459
@@ -6341,9 +7157,9 @@ date,state,cases_new
 2021-04-16,Melaka,28
 2021-04-16,Negeri Sembilan,53
 2021-04-16,Pahang,47
+2021-04-16,Pulau Pinang,91
 2021-04-16,Perak,49
 2021-04-16,Perlis,2
-2021-04-16,Pulau Pinang,91
 2021-04-16,Sabah,143
 2021-04-16,Sarawak,960
 2021-04-16,Selangor,590
@@ -6357,9 +7173,9 @@ date,state,cases_new
 2021-04-17,Melaka,9
 2021-04-17,Negeri Sembilan,89
 2021-04-17,Pahang,20
+2021-04-17,Pulau Pinang,116
 2021-04-17,Perak,42
 2021-04-17,Perlis,1
-2021-04-17,Pulau Pinang,116
 2021-04-17,Sabah,163
 2021-04-17,Sarawak,512
 2021-04-17,Selangor,751
@@ -6373,9 +7189,9 @@ date,state,cases_new
 2021-04-18,Melaka,15
 2021-04-18,Negeri Sembilan,42
 2021-04-18,Pahang,15
+2021-04-18,Pulau Pinang,84
 2021-04-18,Perak,35
 2021-04-18,Perlis,3
-2021-04-18,Pulau Pinang,84
 2021-04-18,Sabah,112
 2021-04-18,Sarawak,508
 2021-04-18,Selangor,431
@@ -6389,9 +7205,9 @@ date,state,cases_new
 2021-04-19,Melaka,27
 2021-04-19,Negeri Sembilan,91
 2021-04-19,Pahang,32
+2021-04-19,Pulau Pinang,91
 2021-04-19,Perak,43
 2021-04-19,Perlis,1
-2021-04-19,Pulau Pinang,91
 2021-04-19,Sabah,125
 2021-04-19,Sarawak,589
 2021-04-19,Selangor,457
@@ -6405,9 +7221,9 @@ date,state,cases_new
 2021-04-20,Melaka,19
 2021-04-20,Negeri Sembilan,17
 2021-04-20,Pahang,17
+2021-04-20,Pulau Pinang,92
 2021-04-20,Perak,34
 2021-04-20,Perlis,3
-2021-04-20,Pulau Pinang,92
 2021-04-20,Sabah,82
 2021-04-20,Sarawak,600
 2021-04-20,Selangor,539
@@ -6421,9 +7237,9 @@ date,state,cases_new
 2021-04-21,Melaka,63
 2021-04-21,Negeri Sembilan,24
 2021-04-21,Pahang,81
+2021-04-21,Pulau Pinang,111
 2021-04-21,Perak,38
 2021-04-21,Perlis,1
-2021-04-21,Pulau Pinang,111
 2021-04-21,Sabah,172
 2021-04-21,Sarawak,429
 2021-04-21,Selangor,526
@@ -6437,9 +7253,9 @@ date,state,cases_new
 2021-04-22,Melaka,42
 2021-04-22,Negeri Sembilan,55
 2021-04-22,Pahang,29
+2021-04-22,Pulau Pinang,144
 2021-04-22,Perak,49
 2021-04-22,Perlis,0
-2021-04-22,Pulau Pinang,144
 2021-04-22,Sabah,160
 2021-04-22,Sarawak,474
 2021-04-22,Selangor,633
@@ -6453,9 +7269,9 @@ date,state,cases_new
 2021-04-23,Melaka,42
 2021-04-23,Negeri Sembilan,105
 2021-04-23,Pahang,39
+2021-04-23,Pulau Pinang,89
 2021-04-23,Perak,45
 2021-04-23,Perlis,0
-2021-04-23,Pulau Pinang,89
 2021-04-23,Sabah,82
 2021-04-23,Sarawak,717
 2021-04-23,Selangor,748
@@ -6469,9 +7285,9 @@ date,state,cases_new
 2021-04-24,Melaka,30
 2021-04-24,Negeri Sembilan,27
 2021-04-24,Pahang,22
+2021-04-24,Pulau Pinang,134
 2021-04-24,Perak,54
 2021-04-24,Perlis,1
-2021-04-24,Pulau Pinang,134
 2021-04-24,Sabah,132
 2021-04-24,Sarawak,570
 2021-04-24,Selangor,768
@@ -6485,9 +7301,9 @@ date,state,cases_new
 2021-04-25,Melaka,42
 2021-04-25,Negeri Sembilan,57
 2021-04-25,Pahang,33
+2021-04-25,Pulau Pinang,117
 2021-04-25,Perak,64
 2021-04-25,Perlis,1
-2021-04-25,Pulau Pinang,117
 2021-04-25,Sabah,121
 2021-04-25,Sarawak,595
 2021-04-25,Selangor,751
@@ -6501,9 +7317,9 @@ date,state,cases_new
 2021-04-26,Melaka,34
 2021-04-26,Negeri Sembilan,112
 2021-04-26,Pahang,34
+2021-04-26,Pulau Pinang,123
 2021-04-26,Perak,45
 2021-04-26,Perlis,0
-2021-04-26,Pulau Pinang,123
 2021-04-26,Sabah,88
 2021-04-26,Sarawak,615
 2021-04-26,Selangor,762
@@ -6517,9 +7333,9 @@ date,state,cases_new
 2021-04-27,Melaka,33
 2021-04-27,Negeri Sembilan,39
 2021-04-27,Pahang,35
+2021-04-27,Pulau Pinang,115
 2021-04-27,Perak,38
 2021-04-27,Perlis,1
-2021-04-27,Pulau Pinang,115
 2021-04-27,Sabah,82
 2021-04-27,Sarawak,432
 2021-04-27,Selangor,750
@@ -6533,9 +7349,9 @@ date,state,cases_new
 2021-04-28,Melaka,42
 2021-04-28,Negeri Sembilan,61
 2021-04-28,Pahang,15
+2021-04-28,Pulau Pinang,98
 2021-04-28,Perak,69
 2021-04-28,Perlis,1
-2021-04-28,Pulau Pinang,98
 2021-04-28,Sabah,87
 2021-04-28,Sarawak,416
 2021-04-28,Selangor,1019
@@ -6549,9 +7365,9 @@ date,state,cases_new
 2021-04-29,Melaka,43
 2021-04-29,Negeri Sembilan,111
 2021-04-29,Pahang,92
+2021-04-29,Pulau Pinang,158
 2021-04-29,Perak,91
 2021-04-29,Perlis,1
-2021-04-29,Pulau Pinang,158
 2021-04-29,Sabah,131
 2021-04-29,Sarawak,522
 2021-04-29,Selangor,1083
@@ -6565,9 +7381,9 @@ date,state,cases_new
 2021-04-30,Melaka,55
 2021-04-30,Negeri Sembilan,136
 2021-04-30,Pahang,54
+2021-04-30,Pulau Pinang,250
 2021-04-30,Perak,118
 2021-04-30,Perlis,5
-2021-04-30,Pulau Pinang,250
 2021-04-30,Sabah,89
 2021-04-30,Sarawak,760
 2021-04-30,Selangor,1265
@@ -6581,9 +7397,9 @@ date,state,cases_new
 2021-05-01,Melaka,54
 2021-05-01,Negeri Sembilan,89
 2021-05-01,Pahang,47
+2021-05-01,Pulau Pinang,133
 2021-05-01,Perak,64
 2021-05-01,Perlis,0
-2021-05-01,Pulau Pinang,133
 2021-05-01,Sabah,64
 2021-05-01,Sarawak,445
 2021-05-01,Selangor,759
@@ -6597,9 +7413,9 @@ date,state,cases_new
 2021-05-02,Melaka,61
 2021-05-02,Negeri Sembilan,73
 2021-05-02,Pahang,45
+2021-05-02,Pulau Pinang,145
 2021-05-02,Perak,77
 2021-05-02,Perlis,4
-2021-05-02,Pulau Pinang,145
 2021-05-02,Sabah,115
 2021-05-02,Sarawak,587
 2021-05-02,Selangor,1200
@@ -6613,9 +7429,9 @@ date,state,cases_new
 2021-05-03,Melaka,95
 2021-05-03,Negeri Sembilan,97
 2021-05-03,Pahang,55
+2021-05-03,Pulau Pinang,194
 2021-05-03,Perak,59
 2021-05-03,Perlis,0
-2021-05-03,Pulau Pinang,194
 2021-05-03,Sabah,57
 2021-05-03,Sarawak,356
 2021-05-03,Selangor,637
@@ -6629,9 +7445,9 @@ date,state,cases_new
 2021-05-04,Melaka,52
 2021-05-04,Negeri Sembilan,95
 2021-05-04,Pahang,41
+2021-05-04,Pulau Pinang,167
 2021-05-04,Perak,117
 2021-05-04,Perlis,0
-2021-05-04,Pulau Pinang,167
 2021-05-04,Sabah,89
 2021-05-04,Sarawak,620
 2021-05-04,Selangor,675
@@ -6645,9 +7461,9 @@ date,state,cases_new
 2021-05-05,Melaka,43
 2021-05-05,Negeri Sembilan,76
 2021-05-05,Pahang,49
+2021-05-05,Pulau Pinang,195
 2021-05-05,Perak,65
 2021-05-05,Perlis,1
-2021-05-05,Pulau Pinang,195
 2021-05-05,Sabah,50
 2021-05-05,Sarawak,419
 2021-05-05,Selangor,1548
@@ -6661,9 +7477,9 @@ date,state,cases_new
 2021-05-06,Melaka,82
 2021-05-06,Negeri Sembilan,85
 2021-05-06,Pahang,97
+2021-05-06,Pulau Pinang,305
 2021-05-06,Perak,137
 2021-05-06,Perlis,3
-2021-05-06,Pulau Pinang,305
 2021-05-06,Sabah,69
 2021-05-06,Sarawak,391
 2021-05-06,Selangor,1137
@@ -6677,9 +7493,9 @@ date,state,cases_new
 2021-05-07,Melaka,74
 2021-05-07,Negeri Sembilan,188
 2021-05-07,Pahang,78
+2021-05-07,Pulau Pinang,313
 2021-05-07,Perak,148
 2021-05-07,Perlis,4
-2021-05-07,Pulau Pinang,313
 2021-05-07,Sabah,153
 2021-05-07,Sarawak,750
 2021-05-07,Selangor,1424
@@ -6693,9 +7509,9 @@ date,state,cases_new
 2021-05-08,Melaka,100
 2021-05-08,Negeri Sembilan,98
 2021-05-08,Pahang,99
+2021-05-08,Pulau Pinang,363
 2021-05-08,Perak,108
 2021-05-08,Perlis,1
-2021-05-08,Pulau Pinang,363
 2021-05-08,Sabah,63
 2021-05-08,Sarawak,479
 2021-05-08,Selangor,1722
@@ -6709,9 +7525,9 @@ date,state,cases_new
 2021-05-09,Melaka,66
 2021-05-09,Negeri Sembilan,205
 2021-05-09,Pahang,100
+2021-05-09,Pulau Pinang,280
 2021-05-09,Perak,80
 2021-05-09,Perlis,1
-2021-05-09,Pulau Pinang,280
 2021-05-09,Sabah,61
 2021-05-09,Sarawak,454
 2021-05-09,Selangor,1278
@@ -6725,9 +7541,9 @@ date,state,cases_new
 2021-05-10,Melaka,88
 2021-05-10,Negeri Sembilan,144
 2021-05-10,Pahang,77
+2021-05-10,Pulau Pinang,245
 2021-05-10,Perak,119
 2021-05-10,Perlis,3
-2021-05-10,Pulau Pinang,245
 2021-05-10,Sabah,96
 2021-05-10,Sarawak,649
 2021-05-10,Selangor,1149
@@ -6741,9 +7557,9 @@ date,state,cases_new
 2021-05-11,Melaka,79
 2021-05-11,Negeri Sembilan,126
 2021-05-11,Pahang,85
+2021-05-11,Pulau Pinang,187
 2021-05-11,Perak,140
 2021-05-11,Perlis,0
-2021-05-11,Pulau Pinang,187
 2021-05-11,Sabah,50
 2021-05-11,Sarawak,512
 2021-05-11,Selangor,1328
@@ -6757,9 +7573,9 @@ date,state,cases_new
 2021-05-12,Melaka,110
 2021-05-12,Negeri Sembilan,122
 2021-05-12,Pahang,63
+2021-05-12,Pulau Pinang,259
 2021-05-12,Perak,172
 2021-05-12,Perlis,1
-2021-05-12,Pulau Pinang,259
 2021-05-12,Sabah,70
 2021-05-12,Sarawak,405
 2021-05-12,Selangor,2082
@@ -6773,9 +7589,9 @@ date,state,cases_new
 2021-05-13,Melaka,67
 2021-05-13,Negeri Sembilan,100
 2021-05-13,Pahang,56
+2021-05-13,Pulau Pinang,395
 2021-05-13,Perak,302
 2021-05-13,Perlis,0
-2021-05-13,Pulau Pinang,395
 2021-05-13,Sabah,76
 2021-05-13,Sarawak,395
 2021-05-13,Selangor,1783
@@ -6789,9 +7605,9 @@ date,state,cases_new
 2021-05-14,Melaka,107
 2021-05-14,Negeri Sembilan,124
 2021-05-14,Pahang,178
+2021-05-14,Pulau Pinang,266
 2021-05-14,Perak,147
 2021-05-14,Perlis,5
-2021-05-14,Pulau Pinang,266
 2021-05-14,Sabah,53
 2021-05-14,Sarawak,533
 2021-05-14,Selangor,1269
@@ -6805,9 +7621,9 @@ date,state,cases_new
 2021-05-15,Melaka,97
 2021-05-15,Negeri Sembilan,190
 2021-05-15,Pahang,116
+2021-05-15,Pulau Pinang,338
 2021-05-15,Perak,182
 2021-05-15,Perlis,2
-2021-05-15,Pulau Pinang,338
 2021-05-15,Sabah,60
 2021-05-15,Sarawak,324
 2021-05-15,Selangor,1507
@@ -6821,9 +7637,9 @@ date,state,cases_new
 2021-05-16,Melaka,122
 2021-05-16,Negeri Sembilan,70
 2021-05-16,Pahang,159
+2021-05-16,Pulau Pinang,187
 2021-05-16,Perak,115
 2021-05-16,Perlis,2
-2021-05-16,Pulau Pinang,187
 2021-05-16,Sabah,87
 2021-05-16,Sarawak,405
 2021-05-16,Selangor,1275
@@ -6837,9 +7653,9 @@ date,state,cases_new
 2021-05-17,Melaka,80
 2021-05-17,Negeri Sembilan,243
 2021-05-17,Pahang,139
+2021-05-17,Pulau Pinang,159
 2021-05-17,Perak,203
 2021-05-17,Perlis,0
-2021-05-17,Pulau Pinang,159
 2021-05-17,Sabah,60
 2021-05-17,Sarawak,433
 2021-05-17,Selangor,1650
@@ -6853,9 +7669,9 @@ date,state,cases_new
 2021-05-18,Melaka,127
 2021-05-18,Negeri Sembilan,149
 2021-05-18,Pahang,152
+2021-05-18,Pulau Pinang,220
 2021-05-18,Perak,160
 2021-05-18,Perlis,2
-2021-05-18,Pulau Pinang,220
 2021-05-18,Sabah,95
 2021-05-18,Sarawak,512
 2021-05-18,Selangor,1743
@@ -6869,9 +7685,9 @@ date,state,cases_new
 2021-05-19,Melaka,122
 2021-05-19,Negeri Sembilan,189
 2021-05-19,Pahang,150
+2021-05-19,Pulau Pinang,183
 2021-05-19,Perak,220
 2021-05-19,Perlis,6
-2021-05-19,Pulau Pinang,183
 2021-05-19,Sabah,160
 2021-05-19,Sarawak,323
 2021-05-19,Selangor,2251
@@ -6885,9 +7701,9 @@ date,state,cases_new
 2021-05-20,Melaka,212
 2021-05-20,Negeri Sembilan,291
 2021-05-20,Pahang,157
+2021-05-20,Pulau Pinang,362
 2021-05-20,Perak,248
 2021-05-20,Perlis,8
-2021-05-20,Pulau Pinang,362
 2021-05-20,Sabah,245
 2021-05-20,Sarawak,608
 2021-05-20,Selangor,2277
@@ -6901,9 +7717,9 @@ date,state,cases_new
 2021-05-21,Melaka,165
 2021-05-21,Negeri Sembilan,370
 2021-05-21,Pahang,161
+2021-05-21,Pulau Pinang,302
 2021-05-21,Perak,382
 2021-05-21,Perlis,3
-2021-05-21,Pulau Pinang,302
 2021-05-21,Sabah,144
 2021-05-21,Sarawak,612
 2021-05-21,Selangor,2163
@@ -6917,9 +7733,9 @@ date,state,cases_new
 2021-05-22,Melaka,175
 2021-05-22,Negeri Sembilan,396
 2021-05-22,Pahang,227
+2021-05-22,Pulau Pinang,359
 2021-05-22,Perak,276
 2021-05-22,Perlis,18
-2021-05-22,Pulau Pinang,359
 2021-05-22,Sabah,189
 2021-05-22,Sarawak,749
 2021-05-22,Selangor,1647
@@ -6933,9 +7749,9 @@ date,state,cases_new
 2021-05-23,Melaka,209
 2021-05-23,Negeri Sembilan,434
 2021-05-23,Pahang,263
+2021-05-23,Pulau Pinang,372
 2021-05-23,Perak,279
 2021-05-23,Perlis,8
-2021-05-23,Pulau Pinang,372
 2021-05-23,Sabah,136
 2021-05-23,Sarawak,663
 2021-05-23,Selangor,2235
@@ -6949,9 +7765,9 @@ date,state,cases_new
 2021-05-24,Melaka,329
 2021-05-24,Negeri Sembilan,329
 2021-05-24,Pahang,257
+2021-05-24,Pulau Pinang,384
 2021-05-24,Perak,231
 2021-05-24,Perlis,7
-2021-05-24,Pulau Pinang,384
 2021-05-24,Sabah,184
 2021-05-24,Sarawak,530
 2021-05-24,Selangor,2049
@@ -6965,9 +7781,9 @@ date,state,cases_new
 2021-05-25,Melaka,258
 2021-05-25,Negeri Sembilan,410
 2021-05-25,Pahang,211
+2021-05-25,Pulau Pinang,380
 2021-05-25,Perak,218
 2021-05-25,Perlis,8
-2021-05-25,Pulau Pinang,380
 2021-05-25,Sabah,266
 2021-05-25,Sarawak,513
 2021-05-25,Selangor,2642
@@ -6981,9 +7797,9 @@ date,state,cases_new
 2021-05-26,Melaka,230
 2021-05-26,Negeri Sembilan,370
 2021-05-26,Pahang,171
+2021-05-26,Pulau Pinang,420
 2021-05-26,Perak,264
 2021-05-26,Perlis,8
-2021-05-26,Pulau Pinang,420
 2021-05-26,Sabah,229
 2021-05-26,Sarawak,640
 2021-05-26,Selangor,2455
@@ -6997,9 +7813,9 @@ date,state,cases_new
 2021-05-27,Melaka,234
 2021-05-27,Negeri Sembilan,353
 2021-05-27,Pahang,238
+2021-05-27,Pulau Pinang,365
 2021-05-27,Perak,228
 2021-05-27,Perlis,6
-2021-05-27,Pulau Pinang,365
 2021-05-27,Sabah,217
 2021-05-27,Sarawak,772
 2021-05-27,Selangor,2675
@@ -7013,9 +7829,9 @@ date,state,cases_new
 2021-05-28,Melaka,380
 2021-05-28,Negeri Sembilan,520
 2021-05-28,Pahang,254
+2021-05-28,Pulau Pinang,421
 2021-05-28,Perak,405
 2021-05-28,Perlis,8
-2021-05-28,Pulau Pinang,421
 2021-05-28,Sabah,308
 2021-05-28,Sarawak,698
 2021-05-28,Selangor,2052
@@ -7029,9 +7845,9 @@ date,state,cases_new
 2021-05-29,Melaka,340
 2021-05-29,Negeri Sembilan,898
 2021-05-29,Pahang,216
+2021-05-29,Pulau Pinang,345
 2021-05-29,Perak,272
 2021-05-29,Perlis,19
-2021-05-29,Pulau Pinang,345
 2021-05-29,Sabah,265
 2021-05-29,Sarawak,726
 2021-05-29,Selangor,2836
@@ -7045,9 +7861,9 @@ date,state,cases_new
 2021-05-30,Melaka,202
 2021-05-30,Negeri Sembilan,468
 2021-05-30,Pahang,239
+2021-05-30,Pulau Pinang,248
 2021-05-30,Perak,212
 2021-05-30,Perlis,7
-2021-05-30,Pulau Pinang,248
 2021-05-30,Sabah,190
 2021-05-30,Sarawak,513
 2021-05-30,Selangor,2477
@@ -7061,9 +7877,9 @@ date,state,cases_new
 2021-05-31,Melaka,352
 2021-05-31,Negeri Sembilan,253
 2021-05-31,Pahang,219
+2021-05-31,Pulau Pinang,328
 2021-05-31,Perak,255
 2021-05-31,Perlis,12
-2021-05-31,Pulau Pinang,328
 2021-05-31,Sabah,207
 2021-05-31,Sarawak,654
 2021-05-31,Selangor,2111
@@ -7077,9 +7893,9 @@ date,state,cases_new
 2021-06-01,Melaka,249
 2021-06-01,Negeri Sembilan,397
 2021-06-01,Pahang,190
+2021-06-01,Pulau Pinang,400
 2021-06-01,Perak,387
 2021-06-01,Perlis,0
-2021-06-01,Pulau Pinang,400
 2021-06-01,Sabah,318
 2021-06-01,Sarawak,703
 2021-06-01,Selangor,2068
@@ -7093,9 +7909,9 @@ date,state,cases_new
 2021-06-02,Melaka,209
 2021-06-02,Negeri Sembilan,586
 2021-06-02,Pahang,237
+2021-06-02,Pulau Pinang,407
 2021-06-02,Perak,224
 2021-06-02,Perlis,7
-2021-06-02,Pulau Pinang,407
 2021-06-02,Sabah,254
 2021-06-02,Sarawak,588
 2021-06-02,Selangor,2728
@@ -7109,9 +7925,9 @@ date,state,cases_new
 2021-06-03,Melaka,322
 2021-06-03,Negeri Sembilan,576
 2021-06-03,Pahang,135
+2021-06-03,Pulau Pinang,303
 2021-06-03,Perak,384
 2021-06-03,Perlis,5
-2021-06-03,Pulau Pinang,303
 2021-06-03,Sabah,203
 2021-06-03,Sarawak,594
 2021-06-03,Selangor,3125
@@ -7125,9 +7941,9 @@ date,state,cases_new
 2021-06-04,Melaka,234
 2021-06-04,Negeri Sembilan,709
 2021-06-04,Pahang,146
+2021-06-04,Pulau Pinang,376
 2021-06-04,Perak,371
 2021-06-04,Perlis,8
-2021-06-04,Pulau Pinang,376
 2021-06-04,Sabah,287
 2021-06-04,Sarawak,706
 2021-06-04,Selangor,2612
@@ -7141,9 +7957,9 @@ date,state,cases_new
 2021-06-05,Melaka,206
 2021-06-05,Negeri Sembilan,843
 2021-06-05,Pahang,286
+2021-06-05,Pulau Pinang,370
 2021-06-05,Perak,252
 2021-06-05,Perlis,4
-2021-06-05,Pulau Pinang,370
 2021-06-05,Sabah,259
 2021-06-05,Sarawak,651
 2021-06-05,Selangor,2509
@@ -7157,9 +7973,9 @@ date,state,cases_new
 2021-06-06,Melaka,225
 2021-06-06,Negeri Sembilan,556
 2021-06-06,Pahang,155
+2021-06-06,Pulau Pinang,271
 2021-06-06,Perak,174
 2021-06-06,Perlis,2
-2021-06-06,Pulau Pinang,271
 2021-06-06,Sabah,305
 2021-06-06,Sarawak,600
 2021-06-06,Selangor,2178
@@ -7173,9 +7989,9 @@ date,state,cases_new
 2021-06-07,Melaka,178
 2021-06-07,Negeri Sembilan,571
 2021-06-07,Pahang,99
+2021-06-07,Pulau Pinang,153
 2021-06-07,Perak,177
 2021-06-07,Perlis,1
-2021-06-07,Pulau Pinang,153
 2021-06-07,Sabah,336
 2021-06-07,Sarawak,703
 2021-06-07,Selangor,1374
@@ -7189,9 +8005,9 @@ date,state,cases_new
 2021-06-08,Melaka,314
 2021-06-08,Negeri Sembilan,505
 2021-06-08,Pahang,157
+2021-06-08,Pulau Pinang,185
 2021-06-08,Perak,225
 2021-06-08,Perlis,1
-2021-06-08,Pulau Pinang,185
 2021-06-08,Sabah,350
 2021-06-08,Sarawak,707
 2021-06-08,Selangor,1524
@@ -7205,9 +8021,9 @@ date,state,cases_new
 2021-06-09,Melaka,150
 2021-06-09,Negeri Sembilan,507
 2021-06-09,Pahang,232
+2021-06-09,Pulau Pinang,194
 2021-06-09,Perak,175
 2021-06-09,Perlis,4
-2021-06-09,Pulau Pinang,194
 2021-06-09,Sabah,232
 2021-06-09,Sarawak,419
 2021-06-09,Selangor,2291
@@ -7221,9 +8037,9 @@ date,state,cases_new
 2021-06-10,Melaka,184
 2021-06-10,Negeri Sembilan,593
 2021-06-10,Pahang,112
+2021-06-10,Pulau Pinang,166
 2021-06-10,Perak,143
 2021-06-10,Perlis,3
-2021-06-10,Pulau Pinang,166
 2021-06-10,Sabah,233
 2021-06-10,Sarawak,631
 2021-06-10,Selangor,1510
@@ -7237,9 +8053,9 @@ date,state,cases_new
 2021-06-11,Melaka,170
 2021-06-11,Negeri Sembilan,685
 2021-06-11,Pahang,89
+2021-06-11,Pulau Pinang,205
 2021-06-11,Perak,161
 2021-06-11,Perlis,2
-2021-06-11,Pulau Pinang,205
 2021-06-11,Sabah,309
 2021-06-11,Sarawak,699
 2021-06-11,Selangor,2558
@@ -7253,9 +8069,9 @@ date,state,cases_new
 2021-06-12,Melaka,178
 2021-06-12,Negeri Sembilan,618
 2021-06-12,Pahang,121
+2021-06-12,Pulau Pinang,198
 2021-06-12,Perak,218
 2021-06-12,Perlis,5
-2021-06-12,Pulau Pinang,198
 2021-06-12,Sabah,378
 2021-06-12,Sarawak,569
 2021-06-12,Selangor,1582
@@ -7269,12 +8085,12 @@ date,state,cases_new
 2021-06-13,Melaka,145
 2021-06-13,Negeri Sembilan,331
 2021-06-13,Pahang,78
+2021-06-13,Pulau Pinang,256
 2021-06-13,Perak,121
 2021-06-13,Perlis,5
-2021-06-13,Pulau Pinang,256
 2021-06-13,Sabah,335
 2021-06-13,Sarawak,544
-2021-06-13,Selangor,2000
+2021-06-13,Selangor,1973
 2021-06-13,Terengganu,46
 2021-06-13,W.P. Kuala Lumpur,462
 2021-06-13,W.P. Labuan,158
@@ -7285,12 +8101,12 @@ date,state,cases_new
 2021-06-14,Melaka,119
 2021-06-14,Negeri Sembilan,323
 2021-06-14,Pahang,61
+2021-06-14,Pulau Pinang,214
 2021-06-14,Perak,136
 2021-06-14,Perlis,1
-2021-06-14,Pulau Pinang,214
 2021-06-14,Sabah,273
 2021-06-14,Sarawak,744
-2021-06-14,Selangor,1496
+2021-06-14,Selangor,1523
 2021-06-14,Terengganu,86
 2021-06-14,W.P. Kuala Lumpur,503
 2021-06-14,W.P. Labuan,113
@@ -7301,9 +8117,9 @@ date,state,cases_new
 2021-06-15,Melaka,155
 2021-06-15,Negeri Sembilan,396
 2021-06-15,Pahang,32
+2021-06-15,Pulau Pinang,124
 2021-06-15,Perak,68
 2021-06-15,Perlis,1
-2021-06-15,Pulau Pinang,124
 2021-06-15,Sabah,230
 2021-06-15,Sarawak,718
 2021-06-15,Selangor,1996
@@ -7317,9 +8133,9 @@ date,state,cases_new
 2021-06-16,Melaka,152
 2021-06-16,Negeri Sembilan,607
 2021-06-16,Pahang,57
+2021-06-16,Pulau Pinang,99
 2021-06-16,Perak,66
 2021-06-16,Perlis,8
-2021-06-16,Pulau Pinang,99
 2021-06-16,Sabah,184
 2021-06-16,Sarawak,570
 2021-06-16,Selangor,1914
@@ -7333,9 +8149,9 @@ date,state,cases_new
 2021-06-17,Melaka,184
 2021-06-17,Negeri Sembilan,1086
 2021-06-17,Pahang,54
+2021-06-17,Pulau Pinang,97
 2021-06-17,Perak,30
 2021-06-17,Perlis,0
-2021-06-17,Pulau Pinang,97
 2021-06-17,Sabah,248
 2021-06-17,Sarawak,559
 2021-06-17,Selangor,1858
@@ -7349,9 +8165,9 @@ date,state,cases_new
 2021-06-18,Melaka,223
 2021-06-18,Negeri Sembilan,870
 2021-06-18,Pahang,79
+2021-06-18,Pulau Pinang,122
 2021-06-18,Perak,357
 2021-06-18,Perlis,2
-2021-06-18,Pulau Pinang,122
 2021-06-18,Sabah,199
 2021-06-18,Sarawak,536
 2021-06-18,Selangor,2095
@@ -7365,9 +8181,9 @@ date,state,cases_new
 2021-06-19,Melaka,134
 2021-06-19,Negeri Sembilan,770
 2021-06-19,Pahang,56
+2021-06-19,Pulau Pinang,167
 2021-06-19,Perak,245
 2021-06-19,Perlis,0
-2021-06-19,Pulau Pinang,167
 2021-06-19,Sabah,201
 2021-06-19,Sarawak,569
 2021-06-19,Selangor,2111
@@ -7381,9 +8197,9 @@ date,state,cases_new
 2021-06-20,Melaka,183
 2021-06-20,Negeri Sembilan,693
 2021-06-20,Pahang,77
+2021-06-20,Pulau Pinang,114
 2021-06-20,Perak,205
 2021-06-20,Perlis,2
-2021-06-20,Pulau Pinang,114
 2021-06-20,Sabah,163
 2021-06-20,Sarawak,661
 2021-06-20,Selangor,1680
@@ -7397,9 +8213,9 @@ date,state,cases_new
 2021-06-21,Melaka,205
 2021-06-21,Negeri Sembilan,437
 2021-06-21,Pahang,50
+2021-06-21,Pulau Pinang,84
 2021-06-21,Perak,453
 2021-06-21,Perlis,0
-2021-06-21,Pulau Pinang,84
 2021-06-21,Sabah,166
 2021-06-21,Sarawak,682
 2021-06-21,Selangor,1346
@@ -7413,9 +8229,9 @@ date,state,cases_new
 2021-06-22,Melaka,167
 2021-06-22,Negeri Sembilan,585
 2021-06-22,Pahang,131
+2021-06-22,Pulau Pinang,195
 2021-06-22,Perak,68
 2021-06-22,Perlis,2
-2021-06-22,Pulau Pinang,195
 2021-06-22,Sabah,193
 2021-06-22,Sarawak,507
 2021-06-22,Selangor,1566
@@ -7429,9 +8245,9 @@ date,state,cases_new
 2021-06-23,Melaka,180
 2021-06-23,Negeri Sembilan,677
 2021-06-23,Pahang,245
+2021-06-23,Pulau Pinang,159
 2021-06-23,Perak,75
 2021-06-23,Perlis,1
-2021-06-23,Pulau Pinang,159
 2021-06-23,Sabah,129
 2021-06-23,Sarawak,577
 2021-06-23,Selangor,2001
@@ -7445,9 +8261,9 @@ date,state,cases_new
 2021-06-24,Melaka,247
 2021-06-24,Negeri Sembilan,781
 2021-06-24,Pahang,162
+2021-06-24,Pulau Pinang,108
 2021-06-24,Perak,120
 2021-06-24,Perlis,5
-2021-06-24,Pulau Pinang,108
 2021-06-24,Sabah,203
 2021-06-24,Sarawak,581
 2021-06-24,Selangor,2072
@@ -7461,9 +8277,9 @@ date,state,cases_new
 2021-06-25,Melaka,223
 2021-06-25,Negeri Sembilan,658
 2021-06-25,Pahang,139
+2021-06-25,Pulau Pinang,270
 2021-06-25,Perak,72
 2021-06-25,Perlis,0
-2021-06-25,Pulau Pinang,270
 2021-06-25,Sabah,156
 2021-06-25,Sarawak,673
 2021-06-25,Selangor,2187
@@ -7477,9 +8293,9 @@ date,state,cases_new
 2021-06-26,Melaka,355
 2021-06-26,Negeri Sembilan,741
 2021-06-26,Pahang,220
+2021-06-26,Pulau Pinang,160
 2021-06-26,Perak,137
 2021-06-26,Perlis,4
-2021-06-26,Pulau Pinang,160
 2021-06-26,Sabah,189
 2021-06-26,Sarawak,491
 2021-06-26,Selangor,2108
@@ -7493,9 +8309,9 @@ date,state,cases_new
 2021-06-27,Melaka,380
 2021-06-27,Negeri Sembilan,501
 2021-06-27,Pahang,118
+2021-06-27,Pulau Pinang,138
 2021-06-27,Perak,229
 2021-06-27,Perlis,0
-2021-06-27,Pulau Pinang,138
 2021-06-27,Sabah,190
 2021-06-27,Sarawak,513
 2021-06-27,Selangor,2212
@@ -7509,9 +8325,9 @@ date,state,cases_new
 2021-06-28,Melaka,183
 2021-06-28,Negeri Sembilan,629
 2021-06-28,Pahang,111
+2021-06-28,Pulau Pinang,88
 2021-06-28,Perak,400
 2021-06-28,Perlis,5
-2021-06-28,Pulau Pinang,88
 2021-06-28,Sabah,258
 2021-06-28,Sarawak,409
 2021-06-28,Selangor,1989
@@ -7525,9 +8341,9 @@ date,state,cases_new
 2021-06-29,Melaka,252
 2021-06-29,Negeri Sembilan,700
 2021-06-29,Pahang,250
+2021-06-29,Pulau Pinang,115
 2021-06-29,Perak,184
 2021-06-29,Perlis,0
-2021-06-29,Pulau Pinang,115
 2021-06-29,Sabah,178
 2021-06-29,Sarawak,242
 2021-06-29,Selangor,2299
@@ -7541,9 +8357,9 @@ date,state,cases_new
 2021-06-30,Melaka,223
 2021-06-30,Negeri Sembilan,644
 2021-06-30,Pahang,210
+2021-06-30,Pulau Pinang,131
 2021-06-30,Perak,137
 2021-06-30,Perlis,5
-2021-06-30,Pulau Pinang,131
 2021-06-30,Sabah,242
 2021-06-30,Sarawak,376
 2021-06-30,Selangor,2836
@@ -7557,9 +8373,9 @@ date,state,cases_new
 2021-07-01,Melaka,311
 2021-07-01,Negeri Sembilan,692
 2021-07-01,Pahang,195
+2021-07-01,Pulau Pinang,174
 2021-07-01,Perak,149
 2021-07-01,Perlis,1
-2021-07-01,Pulau Pinang,174
 2021-07-01,Sabah,232
 2021-07-01,Sarawak,544
 2021-07-01,Selangor,2885
@@ -7573,9 +8389,9 @@ date,state,cases_new
 2021-07-02,Melaka,202
 2021-07-02,Negeri Sembilan,606
 2021-07-02,Pahang,329
+2021-07-02,Pulau Pinang,351
 2021-07-02,Perak,182
 2021-07-02,Perlis,0
-2021-07-02,Pulau Pinang,351
 2021-07-02,Sabah,230
 2021-07-02,Sarawak,440
 2021-07-02,Selangor,2907
@@ -7589,9 +8405,9 @@ date,state,cases_new
 2021-07-03,Melaka,345
 2021-07-03,Negeri Sembilan,699
 2021-07-03,Pahang,200
+2021-07-03,Pulau Pinang,142
 2021-07-03,Perak,101
 2021-07-03,Perlis,2
-2021-07-03,Pulau Pinang,142
 2021-07-03,Sabah,322
 2021-07-03,Sarawak,361
 2021-07-03,Selangor,3047
@@ -7605,9 +8421,9 @@ date,state,cases_new
 2021-07-04,Melaka,290
 2021-07-04,Negeri Sembilan,531
 2021-07-04,Pahang,95
+2021-07-04,Pulau Pinang,173
 2021-07-04,Perak,384
 2021-07-04,Perlis,0
-2021-07-04,Pulau Pinang,173
 2021-07-04,Sabah,228
 2021-07-04,Sarawak,365
 2021-07-04,Selangor,2262
@@ -7621,9 +8437,9 @@ date,state,cases_new
 2021-07-05,Melaka,206
 2021-07-05,Negeri Sembilan,523
 2021-07-05,Pahang,312
+2021-07-05,Pulau Pinang,157
 2021-07-05,Perak,249
 2021-07-05,Perlis,0
-2021-07-05,Pulau Pinang,157
 2021-07-05,Sabah,263
 2021-07-05,Sarawak,424
 2021-07-05,Selangor,2610
@@ -7637,9 +8453,9 @@ date,state,cases_new
 2021-07-06,Melaka,230
 2021-07-06,Negeri Sembilan,698
 2021-07-06,Pahang,180
+2021-07-06,Pulau Pinang,185
 2021-07-06,Perak,94
 2021-07-06,Perlis,2
-2021-07-06,Pulau Pinang,185
 2021-07-06,Sabah,225
 2021-07-06,Sarawak,286
 2021-07-06,Selangor,3260
@@ -7653,9 +8469,9 @@ date,state,cases_new
 2021-07-07,Melaka,358
 2021-07-07,Negeri Sembilan,788
 2021-07-07,Pahang,258
+2021-07-07,Pulau Pinang,140
 2021-07-07,Perak,187
 2021-07-07,Perlis,2
-2021-07-07,Pulau Pinang,140
 2021-07-07,Sabah,244
 2021-07-07,Sarawak,289
 2021-07-07,Selangor,3119
@@ -7669,9 +8485,9 @@ date,state,cases_new
 2021-07-08,Melaka,183
 2021-07-08,Negeri Sembilan,897
 2021-07-08,Pahang,152
+2021-07-08,Pulau Pinang,237
 2021-07-08,Perak,543
 2021-07-08,Perlis,1
-2021-07-08,Pulau Pinang,237
 2021-07-08,Sabah,279
 2021-07-08,Sarawak,281
 2021-07-08,Selangor,4152
@@ -7685,9 +8501,9 @@ date,state,cases_new
 2021-07-09,Melaka,222
 2021-07-09,Negeri Sembilan,899
 2021-07-09,Pahang,214
+2021-07-09,Pulau Pinang,142
 2021-07-09,Perak,241
 2021-07-09,Perlis,1
-2021-07-09,Pulau Pinang,142
 2021-07-09,Sabah,323
 2021-07-09,Sarawak,406
 2021-07-09,Selangor,4400
@@ -7701,9 +8517,9 @@ date,state,cases_new
 2021-07-10,Melaka,835
 2021-07-10,Negeri Sembilan,638
 2021-07-10,Pahang,247
+2021-07-10,Pulau Pinang,180
 2021-07-10,Perak,145
 2021-07-10,Perlis,4
-2021-07-10,Pulau Pinang,180
 2021-07-10,Sabah,251
 2021-07-10,Sarawak,352
 2021-07-10,Selangor,4277
@@ -7717,9 +8533,9 @@ date,state,cases_new
 2021-07-11,Melaka,278
 2021-07-11,Negeri Sembilan,541
 2021-07-11,Pahang,300
+2021-07-11,Pulau Pinang,243
 2021-07-11,Perak,207
 2021-07-11,Perlis,1
-2021-07-11,Pulau Pinang,243
 2021-07-11,Sabah,271
 2021-07-11,Sarawak,270
 2021-07-11,Selangor,4682
@@ -7733,9 +8549,9 @@ date,state,cases_new
 2021-07-12,Melaka,411
 2021-07-12,Negeri Sembilan,794
 2021-07-12,Pahang,314
+2021-07-12,Pulau Pinang,231
 2021-07-12,Perak,168
 2021-07-12,Perlis,0
-2021-07-12,Pulau Pinang,231
 2021-07-12,Sabah,298
 2021-07-12,Sarawak,235
 2021-07-12,Selangor,4308
@@ -7749,9 +8565,9 @@ date,state,cases_new
 2021-07-13,Melaka,323
 2021-07-13,Negeri Sembilan,1033
 2021-07-13,Pahang,321
+2021-07-13,Pulau Pinang,234
 2021-07-13,Perak,329
 2021-07-13,Perlis,0
-2021-07-13,Pulau Pinang,234
 2021-07-13,Sabah,239
 2021-07-13,Sarawak,472
 2021-07-13,Selangor,5263
@@ -7765,9 +8581,9 @@ date,state,cases_new
 2021-07-14,Melaka,526
 2021-07-14,Negeri Sembilan,1537
 2021-07-14,Pahang,400
+2021-07-14,Pulau Pinang,210
 2021-07-14,Perak,164
 2021-07-14,Perlis,3
-2021-07-14,Pulau Pinang,210
 2021-07-14,Sabah,286
 2021-07-14,Sarawak,289
 2021-07-14,Selangor,5051
@@ -7781,9 +8597,9 @@ date,state,cases_new
 2021-07-15,Melaka,484
 2021-07-15,Negeri Sembilan,1603
 2021-07-15,Pahang,222
+2021-07-15,Pulau Pinang,509
 2021-07-15,Perak,344
 2021-07-15,Perlis,3
-2021-07-15,Pulau Pinang,509
 2021-07-15,Sabah,370
 2021-07-15,Sarawak,363
 2021-07-15,Selangor,6120
@@ -7797,9 +8613,9 @@ date,state,cases_new
 2021-07-16,Melaka,575
 2021-07-16,Negeri Sembilan,1619
 2021-07-16,Pahang,382
+2021-07-16,Pulau Pinang,376
 2021-07-16,Perak,299
 2021-07-16,Perlis,7
-2021-07-16,Pulau Pinang,376
 2021-07-16,Sabah,326
 2021-07-16,Sarawak,423
 2021-07-16,Selangor,5512
@@ -7813,9 +8629,9 @@ date,state,cases_new
 2021-07-17,Melaka,569
 2021-07-17,Negeri Sembilan,1280
 2021-07-17,Pahang,317
+2021-07-17,Pulau Pinang,396
 2021-07-17,Perak,428
 2021-07-17,Perlis,1
-2021-07-17,Pulau Pinang,396
 2021-07-17,Sabah,647
 2021-07-17,Sarawak,388
 2021-07-17,Selangor,4985
@@ -7829,9 +8645,9 @@ date,state,cases_new
 2021-07-18,Melaka,289
 2021-07-18,Negeri Sembilan,771
 2021-07-18,Pahang,369
+2021-07-18,Pulau Pinang,295
 2021-07-18,Perak,407
 2021-07-18,Perlis,5
-2021-07-18,Pulau Pinang,295
 2021-07-18,Sabah,666
 2021-07-18,Sarawak,261
 2021-07-18,Selangor,4828
@@ -7845,9 +8661,9 @@ date,state,cases_new
 2021-07-19,Melaka,474
 2021-07-19,Negeri Sembilan,1340
 2021-07-19,Pahang,475
+2021-07-19,Pulau Pinang,426
 2021-07-19,Perak,324
 2021-07-19,Perlis,1
-2021-07-19,Pulau Pinang,426
 2021-07-19,Sabah,651
 2021-07-19,Sarawak,301
 2021-07-19,Selangor,4404
@@ -7861,9 +8677,9 @@ date,state,cases_new
 2021-07-20,Melaka,309
 2021-07-20,Negeri Sembilan,970
 2021-07-20,Pahang,288
+2021-07-20,Pulau Pinang,460
 2021-07-20,Perak,295
 2021-07-20,Perlis,2
-2021-07-20,Pulau Pinang,460
 2021-07-20,Sabah,657
 2021-07-20,Sarawak,351
 2021-07-20,Selangor,5524
@@ -7877,9 +8693,9 @@ date,state,cases_new
 2021-07-21,Melaka,453
 2021-07-21,Negeri Sembilan,745
 2021-07-21,Pahang,603
+2021-07-21,Pulau Pinang,362
 2021-07-21,Perak,274
 2021-07-21,Perlis,2
-2021-07-21,Pulau Pinang,362
 2021-07-21,Sabah,474
 2021-07-21,Sarawak,261
 2021-07-21,Selangor,5550
@@ -7893,9 +8709,9 @@ date,state,cases_new
 2021-07-22,Melaka,353
 2021-07-22,Negeri Sembilan,711
 2021-07-22,Pahang,261
+2021-07-22,Pulau Pinang,371
 2021-07-22,Perak,284
 2021-07-22,Perlis,6
-2021-07-22,Pulau Pinang,371
 2021-07-22,Sabah,497
 2021-07-22,Sarawak,644
 2021-07-22,Selangor,6049
@@ -7909,9 +8725,9 @@ date,state,cases_new
 2021-07-23,Melaka,452
 2021-07-23,Negeri Sembilan,682
 2021-07-23,Pahang,457
+2021-07-23,Pulau Pinang,530
 2021-07-23,Perak,415
 2021-07-23,Perlis,3
-2021-07-23,Pulau Pinang,530
 2021-07-23,Sabah,516
 2021-07-23,Sarawak,461
 2021-07-23,Selangor,7672
@@ -7925,9 +8741,9 @@ date,state,cases_new
 2021-07-24,Melaka,631
 2021-07-24,Negeri Sembilan,625
 2021-07-24,Pahang,406
+2021-07-24,Pulau Pinang,505
 2021-07-24,Perak,469
 2021-07-24,Perlis,7
-2021-07-24,Pulau Pinang,505
 2021-07-24,Sabah,712
 2021-07-24,Sarawak,261
 2021-07-24,Selangor,7351
@@ -7941,9 +8757,9 @@ date,state,cases_new
 2021-07-25,Melaka,370
 2021-07-25,Negeri Sembilan,513
 2021-07-25,Pahang,424
+2021-07-25,Pulau Pinang,573
 2021-07-25,Perak,609
 2021-07-25,Perlis,10
-2021-07-25,Pulau Pinang,573
 2021-07-25,Sabah,818
 2021-07-25,Sarawak,407
 2021-07-25,Selangor,8500
@@ -7957,9 +8773,9 @@ date,state,cases_new
 2021-07-26,Melaka,373
 2021-07-26,Negeri Sembilan,452
 2021-07-26,Pahang,386
+2021-07-26,Pulau Pinang,402
 2021-07-26,Perak,590
 2021-07-26,Perlis,2
-2021-07-26,Pulau Pinang,402
 2021-07-26,Sabah,720
 2021-07-26,Sarawak,356
 2021-07-26,Selangor,6508
@@ -7973,9 +8789,9 @@ date,state,cases_new
 2021-07-27,Melaka,674
 2021-07-27,Negeri Sembilan,669
 2021-07-27,Pahang,403
+2021-07-27,Pulau Pinang,618
 2021-07-27,Perak,583
 2021-07-27,Perlis,2
-2021-07-27,Pulau Pinang,618
 2021-07-27,Sabah,741
 2021-07-27,Sarawak,405
 2021-07-27,Selangor,6616
@@ -7989,9 +8805,9 @@ date,state,cases_new
 2021-07-28,Melaka,531
 2021-07-28,Negeri Sembilan,863
 2021-07-28,Pahang,429
+2021-07-28,Pulau Pinang,760
 2021-07-28,Perak,406
 2021-07-28,Perlis,3
-2021-07-28,Pulau Pinang,760
 2021-07-28,Sabah,913
 2021-07-28,Sarawak,464
 2021-07-28,Selangor,7171
@@ -8005,9 +8821,9 @@ date,state,cases_new
 2021-07-29,Melaka,416
 2021-07-29,Negeri Sembilan,884
 2021-07-29,Pahang,638
+2021-07-29,Pulau Pinang,554
 2021-07-29,Perak,596
 2021-07-29,Perlis,10
-2021-07-29,Pulau Pinang,554
 2021-07-29,Sabah,776
 2021-07-29,Sarawak,582
 2021-07-29,Selangor,7163
@@ -8021,9 +8837,9 @@ date,state,cases_new
 2021-07-30,Melaka,581
 2021-07-30,Negeri Sembilan,1079
 2021-07-30,Pahang,540
+2021-07-30,Pulau Pinang,689
 2021-07-30,Perak,810
 2021-07-30,Perlis,13
-2021-07-30,Pulau Pinang,689
 2021-07-30,Sabah,1066
 2021-07-30,Sarawak,450
 2021-07-30,Selangor,6092
@@ -8037,9 +8853,9 @@ date,state,cases_new
 2021-07-31,Melaka,697
 2021-07-31,Negeri Sembilan,929
 2021-07-31,Pahang,653
+2021-07-31,Pulau Pinang,713
 2021-07-31,Perak,775
 2021-07-31,Perlis,16
-2021-07-31,Pulau Pinang,713
 2021-07-31,Sabah,1035
 2021-07-31,Sarawak,485
 2021-07-31,Selangor,6400
@@ -8053,9 +8869,9 @@ date,state,cases_new
 2021-08-01,Melaka,686
 2021-08-01,Negeri Sembilan,809
 2021-08-01,Pahang,676
+2021-08-01,Pulau Pinang,752
 2021-08-01,Perak,693
 2021-08-01,Perlis,21
-2021-08-01,Pulau Pinang,752
 2021-08-01,Sabah,1002
 2021-08-01,Sarawak,578
 2021-08-01,Selangor,6326
@@ -8085,9 +8901,9 @@ date,state,cases_new
 2021-08-03,Melaka,508
 2021-08-03,Negeri Sembilan,816
 2021-08-03,Pahang,628
+2021-08-03,Pulau Pinang,798
 2021-08-03,Perak,967
 2021-08-03,Perlis,7
-2021-08-03,Pulau Pinang,798
 2021-08-03,Sabah,1010
 2021-08-03,Sarawak,494
 2021-08-03,Selangor,5836
@@ -8191,3 +9007,99 @@ date,state,cases_new
 2021-08-09,W.P. Kuala Lumpur,1567
 2021-08-09,W.P. Labuan,8
 2021-08-09,W.P. Putrajaya,66
+2021-08-10,Johor,1344
+2021-08-10,Kedah,1830
+2021-08-10,Kelantan,1030
+2021-08-10,Melaka,578
+2021-08-10,Negeri Sembilan,564
+2021-08-10,Pahang,539
+2021-08-10,Perak,953
+2021-08-10,Perlis,24
+2021-08-10,Pulau Pinang,743
+2021-08-10,Sabah,1383
+2021-08-10,Sarawak,836
+2021-08-10,Selangor,7338
+2021-08-10,Terengganu,378
+2021-08-10,W.P. Kuala Lumpur,2374
+2021-08-10,W.P. Labuan,1
+2021-08-10,W.P. Putrajaya,76
+2021-08-11,Johor,1693
+2021-08-11,Kedah,1534
+2021-08-11,Kelantan,1284
+2021-08-11,Melaka,636
+2021-08-11,Negeri Sembilan,1015
+2021-08-11,Pahang,585
+2021-08-11,Perak,828
+2021-08-11,Perlis,29
+2021-08-11,Pulau Pinang,1385
+2021-08-11,Sabah,1514
+2021-08-11,Sarawak,634
+2021-08-11,Selangor,6921
+2021-08-11,Terengganu,613
+2021-08-11,W.P. Kuala Lumpur,2065
+2021-08-11,W.P. Labuan,3
+2021-08-11,W.P. Putrajaya,41
+2021-08-12,Johor,1706
+2021-08-12,Kedah,2143
+2021-08-12,Kelantan,972
+2021-08-12,Melaka,494
+2021-08-12,Negeri Sembilan,899
+2021-08-12,Pahang,629
+2021-08-12,Perak,930
+2021-08-12,Perlis,23
+2021-08-12,Pulau Pinang,1229
+2021-08-12,Sabah,2052
+2021-08-12,Sarawak,1216
+2021-08-12,Selangor,6278
+2021-08-12,Terengganu,594
+2021-08-12,W.P. Kuala Lumpur,2436
+2021-08-12,W.P. Labuan,11
+2021-08-12,W.P. Putrajaya,56
+2021-08-13,Johor,1485
+2021-08-13,Kedah,1807
+2021-08-13,Kelantan,1088
+2021-08-13,Melaka,723
+2021-08-13,Negeri Sembilan,974
+2021-08-13,Pahang,572
+2021-08-13,Perak,940
+2021-08-13,Perlis,50
+2021-08-13,Pulau Pinang,1316
+2021-08-13,Sabah,1654
+2021-08-13,Sarawak,715
+2021-08-13,Selangor,7449
+2021-08-13,Terengganu,440
+2021-08-13,W.P. Kuala Lumpur,2183
+2021-08-13,W.P. Labuan,6
+2021-08-13,W.P. Putrajaya,66
+2021-08-14,Johor,1425
+2021-08-14,Kedah,1796
+2021-08-14,Kelantan,1370
+2021-08-14,Melaka,521
+2021-08-14,Negeri Sembilan,727
+2021-08-14,Pahang,794
+2021-08-14,Perak,1003
+2021-08-14,Perlis,61
+2021-08-14,Pulau Pinang,1251
+2021-08-14,Sabah,1752
+2021-08-14,Sarawak,725
+2021-08-14,Selangor,6606
+2021-08-14,Terengganu,560
+2021-08-14,W.P. Kuala Lumpur,2028
+2021-08-14,W.P. Labuan,0
+2021-08-14,W.P. Putrajaya,51
+2021-08-15,Johor,1508
+2021-08-15,Kedah,1596
+2021-08-15,Kelantan,1025
+2021-08-15,Melaka,631
+2021-08-15,Negeri Sembilan,698
+2021-08-15,Pahang,926
+2021-08-15,Perak,1069
+2021-08-15,Perlis,21
+2021-08-15,Pulau Pinang,1111
+2021-08-15,Sabah,1665
+2021-08-15,Sarawak,963
+2021-08-15,Selangor,7307
+2021-08-15,Terengganu,534
+2021-08-15,W.P. Kuala Lumpur,1442
+2021-08-15,W.P. Labuan,3
+2021-08-15,W.P. Putrajaya,47
