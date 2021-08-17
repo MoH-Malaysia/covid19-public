@@ -24,7 +24,7 @@ MYCovid - an API which is powered by PHP which obtains the vaccination and epide
 9) [[Github Repo]](https://github.com/leeliwei930/moh-my-covid-express-api)
 MOH COVID-19 self hosted NodeJS Restful API server, by [Li Wei Lee](https://techrino.net). A RestFUL API server written in NodeJS to parse the CSV-formatted data into JSON format, allowing for a variety of query via HTTP requests.
 
-11) [[GoogleSheetsPage]](https://docs.google.com/spreadsheets/d/e/2PACX-1vRoUYwjfj1vAWWQX7ODa4rk98WWBlZy7iIZfoP3f6jBUwLwXLrYj6FY1mF_4KZWJ6AyNlmSPHLaGDnP/pubhtml?gid=1287425960&single=true)
+11) [[GoogleSheetsPage]](https://bit.ly/3AJewSu)
 Charts tracking ICU bed numbers and usage per state, by [MrBarbie](https://github.com/MrBarbie). A collection of Google Sheets charts for each state/territory tracking ICU bed numbers and usage from MOH data.
 ---
 
