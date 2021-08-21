@@ -51,11 +51,11 @@ _Please submit a pull request here if you would like to request more data. Our t
    - Imported cases
      - Cases detected upon arrival in Malaysia
      - Cases who developed the illness during quarantine or isolation
- 9) Breakdown by test type (RTK-Ag or RT-PCR)
+ 9) Breakdown by test type (RTK-Ag or RT-PCR) 
    
 ### Healthcare
 
-1)
+1) Active cases by clinical stage
 
 ### Deaths
 
