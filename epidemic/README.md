@@ -13,6 +13,7 @@
 | hospital.csv | Static name |  Daily by 2359 (for T-1) |
 | icu.csv | Static name |  Daily by 2359 (for T-1) |
 | tests_malaysia.csv | Static name | At least twice weekly |
+| tests_state.csv | Static name | At least twice weekly |
 
 ## Variables and Methodology
 
