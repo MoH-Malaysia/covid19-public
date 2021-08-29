@@ -11,7 +11,8 @@
 1) [`cases_malaysia.csv`](/epidemic/cases_malaysia.csv): Daily recorded COVID-19 cases at country level, as of 1200 of date.
 2) [`cases_state.csv`](/epidemic/cases_state.csv): Daily recorded COVID-19 cases at state level, as of 1200 of date.
 3) [`clusters.csv`](/epidemic/clusters.csv): Exhaustive list of announced clusters with relevant epidemiological datapoints, as of 2359 of date of update.
-4) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests (note: not necessarily unique individuals) by type at country level, as of 1200 of date.
+4) [`tests_malaysia.csv`](/epidemic/tests_malaysia.csv): Daily tests (note: not necessarily unique individuals) by type at country level, as of 2359 of date.
+4) [`tests_state.csv`](/epidemic/tests_malaysia.csv): Daily tests (note: not necessarily unique individuals) by type at state level, as of 2359 of date.
 
 ### Healthcare
 
