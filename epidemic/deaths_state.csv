@@ -3742,7 +3742,7 @@ date,state,deaths_new,deaths_bid
 2020-11-05,Terengganu,0,
 2020-11-05,W.P. Kuala Lumpur,0,
 2020-11-05,W.P. Labuan,0,
-2020-11-05,W.P. Putrajaya,0,
+2020-11-05,W.P. Putrajaya,0,0
 2020-11-06,Johor,0,0
 2020-11-06,Kedah,1,0
 2020-11-06,Kelantan,0,0
@@ -8479,3 +8479,115 @@ date,state,deaths_new,deaths_bid
 2021-08-28,W.P. Kuala Lumpur,26,4
 2021-08-28,W.P. Labuan,0,0
 2021-08-28,W.P. Putrajaya,0,0
+2021-08-29,Johor,50,5
+2021-08-29,Kedah,5,0
+2021-08-29,Kelantan,7,2
+2021-08-29,Melaka,2,0
+2021-08-29,Negeri Sembilan,4,3
+2021-08-29,Pahang,4,0
+2021-08-29,Perak,8,0
+2021-08-29,Perlis,2,0
+2021-08-29,Pulau Pinang,16,7
+2021-08-29,Sabah,46,22
+2021-08-29,Sarawak,2,0
+2021-08-29,Selangor,110,8
+2021-08-29,Terengganu,7,0
+2021-08-29,W.P. Kuala Lumpur,22,4
+2021-08-29,W.P. Labuan,0,0
+2021-08-29,W.P. Putrajaya,0,0
+2021-08-30,Johor,47,1
+2021-08-30,Kedah,36,0
+2021-08-30,Kelantan,7,0
+2021-08-30,Melaka,5,0
+2021-08-30,Negeri Sembilan,5,1
+2021-08-30,Pahang,7,1
+2021-08-30,Perak,12,0
+2021-08-30,Perlis,1,0
+2021-08-30,Pulau Pinang,23,5
+2021-08-30,Sabah,42,12
+2021-08-30,Sarawak,5,0
+2021-08-30,Selangor,81,30
+2021-08-30,Terengganu,11,0
+2021-08-30,W.P. Kuala Lumpur,13,3
+2021-08-30,W.P. Labuan,0,0
+2021-08-30,W.P. Putrajaya,0,0
+2021-08-31,Johor,52,7
+2021-08-31,Kedah,11,0
+2021-08-31,Kelantan,9,1
+2021-08-31,Melaka,5,1
+2021-08-31,Negeri Sembilan,3,0
+2021-08-31,Pahang,7,2
+2021-08-31,Perak,3,0
+2021-08-31,Perlis,1,0
+2021-08-31,Pulau Pinang,12,1
+2021-08-31,Sabah,15,9
+2021-08-31,Sarawak,1,0
+2021-08-31,Selangor,139,67
+2021-08-31,Terengganu,2,0
+2021-08-31,W.P. Kuala Lumpur,21,10
+2021-08-31,W.P. Labuan,0,0
+2021-08-31,W.P. Putrajaya,1,0
+2021-09-01,Johor,37,3
+2021-09-01,Kedah,22,0
+2021-09-01,Kelantan,4,0
+2021-09-01,Melaka,9,0
+2021-09-01,Negeri Sembilan,3,0
+2021-09-01,Pahang,3,0
+2021-09-01,Perak,18,4
+2021-09-01,Perlis,2,0
+2021-09-01,Pulau Pinang,13,1
+2021-09-01,Sabah,38,17
+2021-09-01,Sarawak,7,0
+2021-09-01,Selangor,110,37
+2021-09-01,Terengganu,3,1
+2021-09-01,W.P. Kuala Lumpur,9,2
+2021-09-01,W.P. Labuan,0,0
+2021-09-01,W.P. Putrajaya,0,0
+2021-09-02,Johor,40,12
+2021-09-02,Kedah,16,0
+2021-09-02,Kelantan,6,0
+2021-09-02,Melaka,13,0
+2021-09-02,Negeri Sembilan,4,0
+2021-09-02,Pahang,0,0
+2021-09-02,Perak,9,4
+2021-09-02,Perlis,1,0
+2021-09-02,Pulau Pinang,39,14
+2021-09-02,Sabah,33,12
+2021-09-02,Sarawak,8,2
+2021-09-02,Selangor,61,33
+2021-09-02,Terengganu,3,1
+2021-09-02,W.P. Kuala Lumpur,16,2
+2021-09-02,W.P. Labuan,0,0
+2021-09-02,W.P. Putrajaya,0,0
+2021-09-03,Johor,37,14
+2021-09-03,Kedah,21,0
+2021-09-03,Kelantan,11,3
+2021-09-03,Melaka,11,5
+2021-09-03,Negeri Sembilan,0,0
+2021-09-03,Pahang,4,0
+2021-09-03,Perak,15,3
+2021-09-03,Perlis,0,0
+2021-09-03,Pulau Pinang,38,3
+2021-09-03,Sabah,35,18
+2021-09-03,Sarawak,6,4
+2021-09-03,Selangor,148,41
+2021-09-03,Terengganu,2,1
+2021-09-03,W.P. Kuala Lumpur,2,1
+2021-09-03,W.P. Labuan,0,0
+2021-09-03,W.P. Putrajaya,0,0
+2021-09-04,Johor,51,6
+2021-09-04,Kedah,20,0
+2021-09-04,Kelantan,7,0
+2021-09-04,Melaka,5,3
+2021-09-04,Negeri Sembilan,13,3
+2021-09-04,Pahang,3,2
+2021-09-04,Perak,9,1
+2021-09-04,Perlis,2,0
+2021-09-04,Pulau Pinang,19,4
+2021-09-04,Sabah,55,29
+2021-09-04,Sarawak,2,1
+2021-09-04,Selangor,152,48
+2021-09-04,Terengganu,0,0
+2021-09-04,W.P. Kuala Lumpur,24,7
+2021-09-04,W.P. Labuan,0,0
+2021-09-04,W.P. Putrajaya,0,0
