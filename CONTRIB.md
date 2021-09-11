@@ -44,7 +44,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Vaccination
 
-+ Request for (cumul_partial by vaxtype by age group data)  & (cumul_full by vaxtype by age group data) for better understanding each vaccines type effectiveness in different age group of Malaysia
++ Request for data on (cumul_partial by vaxtype by age group) & (cumul_full by vaxtype by age group) for data analysis, for better understanding each vaccines type effectiveness in different age group of Malaysia
 
 ### Mobility and Contact Tracing
 
