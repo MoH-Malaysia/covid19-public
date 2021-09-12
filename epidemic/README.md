@@ -4,14 +4,14 @@
 
 | Filename | Naming convention | Update frequency |
 | :--- | :---: | :---: |
-| cases_malaysia.csv | Static name | Daily by 2359 (for T-0) |
-| cases_state.csv | Static name | Daily by 2359 (for T-0) |
-| deaths_malaysia.csv | Static name | Daily by 2359 (for T-0) |
-| deaths_state.csv | Static name | Daily by 2359 (for T-0) |
-| clusters.csv | Static name | Daily by 2359 (for T-1) |
-| pkrc.csv| Static name |  Daily by 2359 (for T-1) |
-| hospital.csv | Static name |  Daily by 2359 (for T-1) |
-| icu.csv | Static name |  Daily by 2359 (for T-1) |
+| cases_malaysia.csv | Static name | Daily by 0200 (for T-0) |
+| cases_state.csv | Static name | Daily by 0200 (for T-0) |
+| deaths_malaysia.csv | Static name | Daily by 0200 (for T-0) |
+| deaths_state.csv | Static name | Daily by 0200 (for T-0) |
+| clusters.csv | Static name | Daily by 0200 (for T-0) |
+| pkrc.csv| Static name |  Daily by 0200 (for T-0) |
+| hospital.csv | Static name |  Daily by 0200 (for T-0) |
+| icu.csv | Static name |  Daily by 0200 (for T-0) |
 | tests_malaysia.csv | Static name | At least twice weekly |
 | tests_state.csv | Static name | At least twice weekly |
 
