@@ -2338,7 +2338,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2020-08-10,Johor,0,0,0,0
 2020-08-10,Kedah,0,0,0,0
 2020-08-10,Kelantan,0,0,0,0
-2020-08-10,Melaka,0,0,0,0
+2020-08-10,Melaka,0,1,0,0
 2020-08-10,Negeri Sembilan,0,0,0,0
 2020-08-10,Pahang,0,0,0,0
 2020-08-10,Perak,0,0,0,0
@@ -5011,7 +5011,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-01-24,Kedah,0,0,0,0
 2021-01-24,Kelantan,0,1,0,0
 2021-01-24,Melaka,1,0,0,0
-2021-01-24,Negeri Sembilan,0,1,0,0
+2021-01-24,Negeri Sembilan,0,2,0,0
 2021-01-24,Pahang,0,0,0,0
 2021-01-24,Perak,0,1,0,0
 2021-01-24,Perlis,0,0,0,0
@@ -5242,9 +5242,9 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-02-07,Pulau Pinang,1,0,0,0
 2021-02-07,Sabah,3,2,1,0
 2021-02-07,Sarawak,2,1,0,0
-2021-02-07,Selangor,4,4,1,0
+2021-02-07,Selangor,4,2,1,0
 2021-02-07,Terengganu,0,0,0,0
-2021-02-07,W.P. Kuala Lumpur,3,2,1,0
+2021-02-07,W.P. Kuala Lumpur,3,1,1,0
 2021-02-07,W.P. Labuan,0,0,0,0
 2021-02-07,W.P. Putrajaya,0,0,0,0
 2021-02-08,Johor,2,3,0,0
@@ -5258,7 +5258,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-02-08,Pulau Pinang,1,0,0,0
 2021-02-08,Sabah,3,7,2,3
 2021-02-08,Sarawak,3,4,0,0
-2021-02-08,Selangor,7,5,0,1
+2021-02-08,Selangor,7,6,0,2
 2021-02-08,Terengganu,0,0,0,0
 2021-02-08,W.P. Kuala Lumpur,3,2,2,1
 2021-02-08,W.P. Labuan,0,0,0,0
@@ -5690,9 +5690,9 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-03-07,Pulau Pinang,0,2,0,0
 2021-03-07,Sabah,0,0,0,0
 2021-03-07,Sarawak,0,0,0,0
-2021-03-07,Selangor,2,2,0,0
+2021-03-07,Selangor,2,1,0,0
 2021-03-07,Terengganu,0,1,0,0
-2021-03-07,W.P. Kuala Lumpur,0,1,0,0
+2021-03-07,W.P. Kuala Lumpur,0,0,0,0
 2021-03-07,W.P. Labuan,0,0,0,0
 2021-03-07,W.P. Putrajaya,0,0,0,0
 2021-03-08,Johor,2,2,0,1
@@ -6186,9 +6186,9 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-04-07,Pulau Pinang,0,0,0,0
 2021-04-07,Sabah,0,1,0,0
 2021-04-07,Sarawak,2,1,0,0
-2021-04-07,Selangor,0,1,0,0
+2021-04-07,Selangor,0,0,0,0
 2021-04-07,Terengganu,0,0,0,0
-2021-04-07,W.P. Kuala Lumpur,1,1,0,0
+2021-04-07,W.P. Kuala Lumpur,1,0,0,0
 2021-04-07,W.P. Labuan,0,0,0,0
 2021-04-07,W.P. Putrajaya,0,0,0,0
 2021-04-08,Johor,0,1,0,1
@@ -6202,7 +6202,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-04-08,Pulau Pinang,0,0,0,0
 2021-04-08,Sabah,1,0,0,0
 2021-04-08,Sarawak,1,1,0,0
-2021-04-08,Selangor,2,1,0,0
+2021-04-08,Selangor,2,2,0,1
 2021-04-08,Terengganu,0,0,0,0
 2021-04-08,W.P. Kuala Lumpur,0,0,0,0
 2021-04-08,W.P. Labuan,0,0,0,0
@@ -6995,7 +6995,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-05-28,Kedah,5,8,0,1
 2021-05-28,Kelantan,2,7,1,1
 2021-05-28,Melaka,3,6,0,2
-2021-05-28,Negeri Sembilan,8,7,0,2
+2021-05-28,Negeri Sembilan,8,8,0,3
 2021-05-28,Pahang,0,3,0,0
 2021-05-28,Perak,3,2,0,0
 2021-05-28,Perlis,0,0,0,0
@@ -7155,14 +7155,14 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-07,Kedah,5,1,0,0
 2021-06-07,Kelantan,4,7,1,1
 2021-06-07,Melaka,1,2,0,0
-2021-06-07,Negeri Sembilan,11,10,0,0
+2021-06-07,Negeri Sembilan,11,11,0,0
 2021-06-07,Pahang,0,0,0,0
 2021-06-07,Perak,4,4,0,0
 2021-06-07,Perlis,0,0,0,0
 2021-06-07,Pulau Pinang,1,1,0,0
 2021-06-07,Sabah,1,3,0,0
 2021-06-07,Sarawak,4,4,1,0
-2021-06-07,Selangor,23,25,2,3
+2021-06-07,Selangor,23,22,2,3
 2021-06-07,Terengganu,1,2,0,0
 2021-06-07,W.P. Kuala Lumpur,8,7,2,4
 2021-06-07,W.P. Labuan,2,5,0,0
@@ -7178,16 +7178,16 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-08,Pulau Pinang,0,2,0,0
 2021-06-08,Sabah,1,1,1,0
 2021-06-08,Sarawak,1,2,0,0
-2021-06-08,Selangor,18,27,3,7
+2021-06-08,Selangor,18,30,3,10
 2021-06-08,Terengganu,3,1,0,0
 2021-06-08,W.P. Kuala Lumpur,8,8,0,1
 2021-06-08,W.P. Labuan,7,3,0,1
 2021-06-08,W.P. Putrajaya,0,0,0,0
 2021-06-09,Johor,18,17,1,0
-2021-06-09,Kedah,5,4,0,0
+2021-06-09,Kedah,5,5,0,0
 2021-06-09,Kelantan,7,2,1,1
 2021-06-09,Melaka,3,3,0,0
-2021-06-09,Negeri Sembilan,3,10,0,0
+2021-06-09,Negeri Sembilan,3,11,0,0
 2021-06-09,Pahang,0,4,0,0
 2021-06-09,Perak,2,2,0,1
 2021-06-09,Perlis,0,0,0,0
@@ -7283,7 +7283,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-15,Kedah,3,6,0,0
 2021-06-15,Kelantan,3,1,0,0
 2021-06-15,Melaka,1,2,0,0
-2021-06-15,Negeri Sembilan,8,11,1,2
+2021-06-15,Negeri Sembilan,8,13,1,2
 2021-06-15,Pahang,3,1,0,0
 2021-06-15,Perak,1,1,0,1
 2021-06-15,Perlis,0,0,0,0
@@ -7320,7 +7320,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-17,Perak,1,1,0,0
 2021-06-17,Perlis,0,0,0,0
 2021-06-17,Pulau Pinang,1,0,0,0
-2021-06-17,Sabah,4,4,1,1
+2021-06-17,Sabah,4,5,1,2
 2021-06-17,Sarawak,2,7,0,0
 2021-06-17,Selangor,20,29,0,4
 2021-06-17,Terengganu,1,1,0,0
@@ -7347,7 +7347,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-19,Kedah,1,3,0,1
 2021-06-19,Kelantan,2,3,0,1
 2021-06-19,Melaka,1,1,0,1
-2021-06-19,Negeri Sembilan,7,12,1,1
+2021-06-19,Negeri Sembilan,7,13,1,2
 2021-06-19,Pahang,6,1,2,0
 2021-06-19,Perak,1,0,0,0
 2021-06-19,Perlis,0,0,0,0
@@ -7379,7 +7379,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-21,Kedah,3,0,0,0
 2021-06-21,Kelantan,4,1,1,0
 2021-06-21,Melaka,1,3,1,0
-2021-06-21,Negeri Sembilan,9,14,0,1
+2021-06-21,Negeri Sembilan,9,15,0,2
 2021-06-21,Pahang,0,1,0,0
 2021-06-21,Perak,0,0,0,0
 2021-06-21,Perlis,0,1,0,0
@@ -7411,7 +7411,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-23,Kedah,1,2,1,0
 2021-06-23,Kelantan,6,2,1,0
 2021-06-23,Melaka,1,1,0,0
-2021-06-23,Negeri Sembilan,7,10,0,0
+2021-06-23,Negeri Sembilan,7,11,0,0
 2021-06-23,Pahang,0,2,0,0
 2021-06-23,Perak,2,1,0,0
 2021-06-23,Perlis,1,0,0,0
@@ -7537,7 +7537,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-06-30,W.P. Putrajaya,0,1,0,0
 2021-07-01,Johor,6,8,0,2
 2021-07-01,Kedah,0,3,0,0
-2021-07-01,Kelantan,0,1,0,0
+2021-07-01,Kelantan,0,2,0,1
 2021-07-01,Melaka,4,2,0,1
 2021-07-01,Negeri Sembilan,6,12,0,2
 2021-07-01,Pahang,2,5,0,1
@@ -7555,16 +7555,16 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-02,Kedah,1,2,0,0
 2021-07-02,Kelantan,2,0,0,0
 2021-07-02,Melaka,1,5,1,1
-2021-07-02,Negeri Sembilan,13,15,0,0
+2021-07-02,Negeri Sembilan,13,16,0,0
 2021-07-02,Pahang,4,5,0,0
 2021-07-02,Perak,0,0,0,0
 2021-07-02,Perlis,0,0,0,0
 2021-07-02,Pulau Pinang,2,0,1,0
 2021-07-02,Sabah,5,2,1,0
 2021-07-02,Sarawak,4,1,1,0
-2021-07-02,Selangor,29,51,6,15
+2021-07-02,Selangor,29,53,6,15
 2021-07-02,Terengganu,0,0,0,0
-2021-07-02,W.P. Kuala Lumpur,5,11,0,1
+2021-07-02,W.P. Kuala Lumpur,5,12,0,1
 2021-07-02,W.P. Labuan,3,0,3,0
 2021-07-02,W.P. Putrajaya,0,0,0,0
 2021-07-03,Johor,6,6,0,1
@@ -7578,9 +7578,9 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-03,Pulau Pinang,0,1,0,0
 2021-07-03,Sabah,1,1,1,1
 2021-07-03,Sarawak,1,1,0,0
-2021-07-03,Selangor,51,54,6,8
+2021-07-03,Selangor,51,55,6,8
 2021-07-03,Terengganu,0,1,0,1
-2021-07-03,W.P. Kuala Lumpur,21,13,4,2
+2021-07-03,W.P. Kuala Lumpur,21,14,4,2
 2021-07-03,W.P. Labuan,1,1,0,0
 2021-07-03,W.P. Putrajaya,0,1,0,0
 2021-07-04,Johor,3,5,0,0
@@ -7594,16 +7594,16 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-04,Pulau Pinang,2,1,0,0
 2021-07-04,Sabah,0,0,0,0
 2021-07-04,Sarawak,1,0,0,0
-2021-07-04,Selangor,24,55,4,8
+2021-07-04,Selangor,24,56,4,8
 2021-07-04,Terengganu,1,0,1,0
-2021-07-04,W.P. Kuala Lumpur,11,16,2,2
+2021-07-04,W.P. Kuala Lumpur,11,17,2,2
 2021-07-04,W.P. Labuan,0,1,0,0
 2021-07-04,W.P. Putrajaya,0,0,0,0
 2021-07-05,Johor,7,3,1,0
 2021-07-05,Kedah,4,3,0,0
 2021-07-05,Kelantan,3,0,0,0
 2021-07-05,Melaka,8,2,1,0
-2021-07-05,Negeri Sembilan,10,14,0,2
+2021-07-05,Negeri Sembilan,10,15,0,3
 2021-07-05,Pahang,4,3,0,0
 2021-07-05,Perak,0,0,0,0
 2021-07-05,Perlis,0,0,0,0
@@ -7619,14 +7619,14 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-06,Kedah,2,1,0,0
 2021-07-06,Kelantan,6,0,0,0
 2021-07-06,Melaka,3,7,0,1
-2021-07-06,Negeri Sembilan,12,16,0,1
+2021-07-06,Negeri Sembilan,12,15,0,1
 2021-07-06,Pahang,4,2,1,1
 2021-07-06,Perak,1,2,1,0
 2021-07-06,Perlis,0,0,0,0
 2021-07-06,Pulau Pinang,1,0,0,0
 2021-07-06,Sabah,1,1,1,0
 2021-07-06,Sarawak,2,2,0,0
-2021-07-06,Selangor,43,45,2,5
+2021-07-06,Selangor,43,48,2,5
 2021-07-06,Terengganu,0,1,0,0
 2021-07-06,W.P. Kuala Lumpur,18,14,6,2
 2021-07-06,W.P. Labuan,1,0,1,0
@@ -7651,14 +7651,14 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-08,Kedah,0,1,0,0
 2021-07-08,Kelantan,4,1,0,0
 2021-07-08,Melaka,8,11,1,0
-2021-07-08,Negeri Sembilan,8,13,0,3
+2021-07-08,Negeri Sembilan,8,11,0,3
 2021-07-08,Pahang,3,6,0,0
 2021-07-08,Perak,3,3,0,0
 2021-07-08,Perlis,0,0,0,0
 2021-07-08,Pulau Pinang,2,2,0,1
 2021-07-08,Sabah,3,1,0,0
 2021-07-08,Sarawak,4,1,0,0
-2021-07-08,Selangor,63,78,14,19
+2021-07-08,Selangor,63,81,14,22
 2021-07-08,Terengganu,1,2,0,0
 2021-07-08,W.P. Kuala Lumpur,24,15,4,4
 2021-07-08,W.P. Labuan,1,0,0,0
@@ -7674,7 +7674,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-09,Pulau Pinang,0,2,0,1
 2021-07-09,Sabah,0,1,0,0
 2021-07-09,Sarawak,3,1,0,0
-2021-07-09,Selangor,28,98,5,14
+2021-07-09,Selangor,28,96,5,14
 2021-07-09,Terengganu,2,1,0,0
 2021-07-09,W.P. Kuala Lumpur,17,26,2,5
 2021-07-09,W.P. Labuan,1,2,0,0
@@ -7683,14 +7683,14 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-10,Kedah,5,5,0,0
 2021-07-10,Kelantan,1,2,0,1
 2021-07-10,Melaka,4,5,0,1
-2021-07-10,Negeri Sembilan,5,8,0,1
+2021-07-10,Negeri Sembilan,5,10,0,3
 2021-07-10,Pahang,6,2,0,0
 2021-07-10,Perak,0,0,0,0
 2021-07-10,Perlis,0,0,0,0
 2021-07-10,Pulau Pinang,2,2,1,2
 2021-07-10,Sabah,0,0,0,0
 2021-07-10,Sarawak,0,4,0,2
-2021-07-10,Selangor,50,79,7,8
+2021-07-10,Selangor,50,81,7,10
 2021-07-10,Terengganu,0,0,0,0
 2021-07-10,W.P. Kuala Lumpur,5,20,0,12
 2021-07-10,W.P. Labuan,1,1,0,0
@@ -7715,23 +7715,23 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-12,Kedah,3,3,0,1
 2021-07-12,Kelantan,1,0,1,0
 2021-07-12,Melaka,4,7,0,1
-2021-07-12,Negeri Sembilan,14,15,0,3
+2021-07-12,Negeri Sembilan,14,16,0,4
 2021-07-12,Pahang,7,4,0,1
 2021-07-12,Perak,1,2,0,0
 2021-07-12,Perlis,0,0,0,0
 2021-07-12,Pulau Pinang,2,3,1,2
 2021-07-12,Sabah,2,2,0,2
 2021-07-12,Sarawak,1,0,1,0
-2021-07-12,Selangor,46,77,6,20
+2021-07-12,Selangor,46,79,6,22
 2021-07-12,Terengganu,0,0,0,0
-2021-07-12,W.P. Kuala Lumpur,16,29,5,11
+2021-07-12,W.P. Kuala Lumpur,16,30,5,11
 2021-07-12,W.P. Labuan,0,0,0,0
 2021-07-12,W.P. Putrajaya,0,0,0,0
 2021-07-13,Johor,6,7,0,0
-2021-07-13,Kedah,7,11,0,4
+2021-07-13,Kedah,7,12,0,4
 2021-07-13,Kelantan,1,0,1,0
 2021-07-13,Melaka,10,6,3,1
-2021-07-13,Negeri Sembilan,13,17,0,1
+2021-07-13,Negeri Sembilan,13,18,0,1
 2021-07-13,Pahang,3,1,0,0
 2021-07-13,Perak,2,5,0,0
 2021-07-13,Perlis,0,0,0,0
@@ -7770,7 +7770,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-15,Pulau Pinang,1,3,0,1
 2021-07-15,Sabah,2,2,0,1
 2021-07-15,Sarawak,4,1,1,1
-2021-07-15,Selangor,45,102,3,19
+2021-07-15,Selangor,45,103,3,20
 2021-07-15,Terengganu,0,2,0,1
 2021-07-15,W.P. Kuala Lumpur,23,27,9,1
 2021-07-15,W.P. Labuan,1,1,1,0
@@ -7843,7 +7843,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-20,Kedah,8,15,5,4
 2021-07-20,Kelantan,0,1,0,0
 2021-07-20,Melaka,9,13,3,0
-2021-07-20,Negeri Sembilan,5,6,0,0
+2021-07-20,Negeri Sembilan,5,7,0,1
 2021-07-20,Pahang,7,9,0,1
 2021-07-20,Perak,5,3,0,1
 2021-07-20,Perlis,0,0,0,0
@@ -7859,7 +7859,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-21,Kedah,12,14,0,2
 2021-07-21,Kelantan,2,0,1,0
 2021-07-21,Melaka,16,18,1,2
-2021-07-21,Negeri Sembilan,7,21,0,3
+2021-07-21,Negeri Sembilan,7,22,0,3
 2021-07-21,Pahang,6,6,0,1
 2021-07-21,Perak,2,3,0,0
 2021-07-21,Perlis,0,0,0,0
@@ -7898,7 +7898,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-23,Pulau Pinang,2,7,0,1
 2021-07-23,Sabah,1,6,0,3
 2021-07-23,Sarawak,3,2,0,0
-2021-07-23,Selangor,65,117,6,20
+2021-07-23,Selangor,65,118,6,21
 2021-07-23,Terengganu,1,1,0,0
 2021-07-23,W.P. Kuala Lumpur,17,42,1,13
 2021-07-23,W.P. Labuan,1,0,0,0
@@ -7907,7 +7907,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-24,Kedah,17,25,0,8
 2021-07-24,Kelantan,0,3,0,1
 2021-07-24,Melaka,7,13,4,2
-2021-07-24,Negeri Sembilan,15,22,3,0
+2021-07-24,Negeri Sembilan,15,23,3,1
 2021-07-24,Pahang,16,8,2,0
 2021-07-24,Perak,0,3,0,0
 2021-07-24,Perlis,0,0,0,0
@@ -7936,7 +7936,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-25,W.P. Labuan,1,0,1,0
 2021-07-25,W.P. Putrajaya,0,0,0,0
 2021-07-26,Johor,24,25,4,2
-2021-07-26,Kedah,19,12,0,2
+2021-07-26,Kedah,19,13,0,3
 2021-07-26,Kelantan,0,2,0,1
 2021-07-26,Melaka,18,10,2,1
 2021-07-26,Negeri Sembilan,14,10,0,0
@@ -7978,13 +7978,13 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-28,Pulau Pinang,5,5,1,1
 2021-07-28,Sabah,9,10,2,3
 2021-07-28,Sarawak,0,0,0,0
-2021-07-28,Selangor,40,119,3,26
+2021-07-28,Selangor,40,121,3,28
 2021-07-28,Terengganu,0,7,0,1
 2021-07-28,W.P. Kuala Lumpur,14,31,4,5
 2021-07-28,W.P. Labuan,0,0,0,0
 2021-07-28,W.P. Putrajaya,0,0,0,0
 2021-07-29,Johor,17,21,0,0
-2021-07-29,Kedah,17,14,0,0
+2021-07-29,Kedah,17,15,0,1
 2021-07-29,Kelantan,2,2,0,0
 2021-07-29,Melaka,10,15,2,4
 2021-07-29,Negeri Sembilan,8,8,0,1
@@ -7994,13 +7994,13 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-29,Pulau Pinang,9,4,4,1
 2021-07-29,Sabah,8,7,5,2
 2021-07-29,Sarawak,0,0,0,0
-2021-07-29,Selangor,71,125,13,35
+2021-07-29,Selangor,71,127,13,37
 2021-07-29,Terengganu,8,5,2,1
 2021-07-29,W.P. Kuala Lumpur,20,32,2,7
 2021-07-29,W.P. Labuan,0,0,0,0
 2021-07-29,W.P. Putrajaya,0,0,0,0
 2021-07-30,Johor,15,24,1,3
-2021-07-30,Kedah,12,24,0,7
+2021-07-30,Kedah,12,25,0,8
 2021-07-30,Kelantan,2,3,1,1
 2021-07-30,Melaka,17,17,0,5
 2021-07-30,Negeri Sembilan,15,13,0,2
@@ -8016,7 +8016,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-30,W.P. Labuan,0,0,0,0
 2021-07-30,W.P. Putrajaya,0,0,0,0
 2021-07-31,Johor,30,27,0,1
-2021-07-31,Kedah,18,20,0,3
+2021-07-31,Kedah,18,21,0,4
 2021-07-31,Kelantan,1,5,1,2
 2021-07-31,Melaka,4,10,1,2
 2021-07-31,Negeri Sembilan,23,16,0,2
@@ -8026,13 +8026,13 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-07-31,Pulau Pinang,7,5,1,0
 2021-07-31,Sabah,9,11,4,7
 2021-07-31,Sarawak,3,0,0,0
-2021-07-31,Selangor,52,111,3,29
+2021-07-31,Selangor,52,112,3,30
 2021-07-31,Terengganu,3,2,1,1
 2021-07-31,W.P. Kuala Lumpur,9,44,0,11
 2021-07-31,W.P. Labuan,0,0,0,0
 2021-07-31,W.P. Putrajaya,0,0,0,0
 2021-08-01,Johor,14,29,0,2
-2021-08-01,Kedah,10,20,0,5
+2021-08-01,Kedah,10,21,0,6
 2021-08-01,Kelantan,4,3,1,0
 2021-08-01,Melaka,10,14,2,0
 2021-08-01,Negeri Sembilan,14,11,1,2
@@ -8042,7 +8042,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-01,Pulau Pinang,6,11,1,1
 2021-08-01,Sabah,7,7,2,3
 2021-08-01,Sarawak,0,2,0,0
-2021-08-01,Selangor,55,139,4,50
+2021-08-01,Selangor,55,140,4,51
 2021-08-01,Terengganu,3,4,1,0
 2021-08-01,W.P. Kuala Lumpur,25,39,5,14
 2021-08-01,W.P. Labuan,0,0,0,0
@@ -8052,19 +8052,19 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-02,Kelantan,4,6,2,1
 2021-08-02,Melaka,9,8,6,0
 2021-08-02,Negeri Sembilan,7,16,0,2
-2021-08-02,Pahang,8,6,3,1
+2021-08-02,Pahang,8,7,3,1
 2021-08-02,Perak,6,9,1,0
 2021-08-02,Perlis,1,1,0,0
 2021-08-02,Pulau Pinang,0,8,0,2
 2021-08-02,Sabah,3,7,0,4
 2021-08-02,Sarawak,0,1,0,0
-2021-08-02,Selangor,105,148,7,32
+2021-08-02,Selangor,105,156,7,40
 2021-08-02,Terengganu,4,7,2,0
 2021-08-02,W.P. Kuala Lumpur,41,48,0,18
 2021-08-02,W.P. Labuan,1,2,0,0
 2021-08-02,W.P. Putrajaya,0,0,0,0
 2021-08-03,Johor,24,20,0,3
-2021-08-03,Kedah,13,20,0,4
+2021-08-03,Kedah,13,21,0,5
 2021-08-03,Kelantan,3,1,0,0
 2021-08-03,Melaka,8,9,3,1
 2021-08-03,Negeri Sembilan,8,18,0,4
@@ -8074,13 +8074,13 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-03,Pulau Pinang,15,11,2,2
 2021-08-03,Sabah,12,8,8,1
 2021-08-03,Sarawak,2,1,0,1
-2021-08-03,Selangor,88,154,20,37
+2021-08-03,Selangor,88,160,20,44
 2021-08-03,Terengganu,7,1,0,0
 2021-08-03,W.P. Kuala Lumpur,1,42,0,11
 2021-08-03,W.P. Labuan,1,0,0,0
 2021-08-03,W.P. Putrajaya,0,0,0,0
 2021-08-04,Johor,25,28,2,5
-2021-08-04,Kedah,8,23,0,2
+2021-08-04,Kedah,8,24,0,3
 2021-08-04,Kelantan,3,3,0,2
 2021-08-04,Melaka,24,5,0,0
 2021-08-04,Negeri Sembilan,9,12,0,1
@@ -8090,13 +8090,13 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-04,Pulau Pinang,3,5,0,0
 2021-08-04,Sabah,6,9,4,6
 2021-08-04,Sarawak,0,0,0,0
-2021-08-04,Selangor,91,123,8,22
+2021-08-04,Selangor,91,126,8,25
 2021-08-04,Terengganu,4,4,0,0
 2021-08-04,W.P. Kuala Lumpur,74,56,5,28
 2021-08-04,W.P. Labuan,0,0,0,0
 2021-08-04,W.P. Putrajaya,0,0,0,0
 2021-08-05,Johor,27,40,3,2
-2021-08-05,Kedah,18,22,0,3
+2021-08-05,Kedah,18,23,0,4
 2021-08-05,Kelantan,1,1,0,0
 2021-08-05,Melaka,9,16,3,3
 2021-08-05,Negeri Sembilan,7,8,0,0
@@ -8106,32 +8106,32 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-05,Pulau Pinang,9,9,1,3
 2021-08-05,Sabah,9,9,3,6
 2021-08-05,Sarawak,2,0,1,0
-2021-08-05,Selangor,45,129,9,24
+2021-08-05,Selangor,45,134,9,28
 2021-08-05,Terengganu,1,0,0,0
-2021-08-05,W.P. Kuala Lumpur,24,31,1,8
+2021-08-05,W.P. Kuala Lumpur,24,32,1,9
 2021-08-05,W.P. Labuan,0,0,0,0
 2021-08-05,W.P. Putrajaya,0,0,0,0
 2021-08-06,Johor,32,34,2,5
-2021-08-06,Kedah,22,22,0,2
+2021-08-06,Kedah,22,24,0,4
 2021-08-06,Kelantan,0,5,0,0
 2021-08-06,Melaka,4,11,0,3
-2021-08-06,Negeri Sembilan,14,11,1,1
-2021-08-06,Pahang,6,8,1,0
+2021-08-06,Negeri Sembilan,14,11,1,2
+2021-08-06,Pahang,6,9,1,0
 2021-08-06,Perak,3,13,0,1
 2021-08-06,Perlis,0,1,0,0
 2021-08-06,Pulau Pinang,2,13,0,3
 2021-08-06,Sabah,5,14,3,4
 2021-08-06,Sarawak,0,3,0,2
-2021-08-06,Selangor,51,131,16,33
+2021-08-06,Selangor,51,132,16,34
 2021-08-06,Terengganu,4,7,0,1
-2021-08-06,W.P. Kuala Lumpur,17,38,1,12
+2021-08-06,W.P. Kuala Lumpur,17,37,1,11
 2021-08-06,W.P. Labuan,0,0,0,0
 2021-08-06,W.P. Putrajaya,0,1,0,0
 2021-08-07,Johor,28,29,2,2
 2021-08-07,Kedah,17,13,0,2
 2021-08-07,Kelantan,5,5,0,2
 2021-08-07,Melaka,8,11,1,3
-2021-08-07,Negeri Sembilan,5,15,0,1
+2021-08-07,Negeri Sembilan,5,16,0,1
 2021-08-07,Pahang,1,8,0,1
 2021-08-07,Perak,6,8,0,0
 2021-08-07,Perlis,1,0,0,0
@@ -8144,7 +8144,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-07,W.P. Labuan,0,0,0,0
 2021-08-07,W.P. Putrajaya,0,1,0,0
 2021-08-08,Johor,14,33,2,8
-2021-08-08,Kedah,7,23,0,3
+2021-08-08,Kedah,7,24,0,4
 2021-08-08,Kelantan,1,6,0,1
 2021-08-08,Melaka,20,6,3,0
 2021-08-08,Negeri Sembilan,5,10,0,2
@@ -8154,31 +8154,31 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-08,Pulau Pinang,15,9,3,0
 2021-08-08,Sabah,5,17,2,8
 2021-08-08,Sarawak,0,1,0,0
-2021-08-08,Selangor,222,99,67,15
+2021-08-08,Selangor,222,105,67,21
 2021-08-08,Terengganu,5,4,1,0
 2021-08-08,W.P. Kuala Lumpur,41,35,7,14
 2021-08-08,W.P. Labuan,0,0,0,0
 2021-08-08,W.P. Putrajaya,2,0,0,0
-2021-08-09,Johor,24,30,1,2
+2021-08-09,Johor,24,31,1,2
 2021-08-09,Kedah,20,16,0,1
 2021-08-09,Kelantan,4,3,3,1
 2021-08-09,Melaka,8,10,2,1
 2021-08-09,Negeri Sembilan,14,5,0,1
 2021-08-09,Pahang,16,1,1,0
 2021-08-09,Perak,2,8,1,2
-2021-08-09,Perlis,1,0,0,0
+2021-08-09,Perlis,1,1,0,0
 2021-08-09,Pulau Pinang,12,14,2,5
 2021-08-09,Sabah,11,22,0,8
 2021-08-09,Sarawak,1,1,0,0
-2021-08-09,Selangor,77,110,2,22
+2021-08-09,Selangor,77,109,2,22
 2021-08-09,Terengganu,5,8,1,0
 2021-08-09,W.P. Kuala Lumpur,17,38,3,11
 2021-08-09,W.P. Labuan,0,0,0,0
 2021-08-09,W.P. Putrajaya,0,0,0,0
 2021-08-10,Johor,20,58,3,9
-2021-08-10,Kedah,3,20,0,4
+2021-08-10,Kedah,3,21,0,5
 2021-08-10,Kelantan,0,13,0,2
-2021-08-10,Melaka,8,17,1,2
+2021-08-10,Melaka,8,16,1,2
 2021-08-10,Negeri Sembilan,5,20,0,4
 2021-08-10,Pahang,0,5,0,0
 2021-08-10,Perak,14,10,2,4
@@ -8186,9 +8186,9 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-10,Pulau Pinang,10,30,1,9
 2021-08-10,Sabah,12,32,5,15
 2021-08-10,Sarawak,3,2,1,1
-2021-08-10,Selangor,87,122,8,35
+2021-08-10,Selangor,87,129,8,42
 2021-08-10,Terengganu,2,3,0,1
-2021-08-10,W.P. Kuala Lumpur,37,20,13,7
+2021-08-10,W.P. Kuala Lumpur,37,18,13,5
 2021-08-10,W.P. Labuan,0,0,0,0
 2021-08-10,W.P. Putrajaya,0,0,0,0
 2021-08-11,Johor,16,28,1,2
@@ -8202,39 +8202,39 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-11,Pulau Pinang,7,13,2,4
 2021-08-11,Sabah,13,15,4,7
 2021-08-11,Sarawak,0,4,0,0
-2021-08-11,Selangor,79,77,3,20
+2021-08-11,Selangor,79,81,3,24
 2021-08-11,Terengganu,8,5,0,0
 2021-08-11,W.P. Kuala Lumpur,41,23,3,11
 2021-08-11,W.P. Labuan,0,0,0,0
 2021-08-11,W.P. Putrajaya,0,0,0,0
 2021-08-12,Johor,52,31,2,2
-2021-08-12,Kedah,19,18,0,2
+2021-08-12,Kedah,19,19,0,3
 2021-08-12,Kelantan,4,4,0,2
 2021-08-12,Melaka,10,13,2,1
-2021-08-12,Negeri Sembilan,7,7,0,0
+2021-08-12,Negeri Sembilan,7,8,0,1
 2021-08-12,Pahang,8,5,0,0
 2021-08-12,Perak,9,11,0,0
 2021-08-12,Perlis,0,0,0,0
 2021-08-12,Pulau Pinang,10,18,2,7
 2021-08-12,Sabah,28,18,10,5
 2021-08-12,Sarawak,4,2,0,1
-2021-08-12,Selangor,119,88,40,13
+2021-08-12,Selangor,119,92,40,17
 2021-08-12,Terengganu,4,3,0,0
 2021-08-12,W.P. Kuala Lumpur,44,30,37,8
 2021-08-12,W.P. Labuan,0,0,0,0
 2021-08-12,W.P. Putrajaya,0,0,0,0
 2021-08-13,Johor,26,34,2,1
-2021-08-13,Kedah,14,18,1,0
+2021-08-13,Kedah,14,20,1,1
 2021-08-13,Kelantan,5,5,2,1
 2021-08-13,Melaka,11,9,1,2
 2021-08-13,Negeri Sembilan,18,11,0,2
-2021-08-13,Pahang,2,3,0,0
+2021-08-13,Pahang,2,4,0,0
 2021-08-13,Perak,3,10,1,0
 2021-08-13,Perlis,0,0,0,0
 2021-08-13,Pulau Pinang,6,12,2,0
 2021-08-13,Sabah,15,10,7,0
 2021-08-13,Sarawak,0,3,0,0
-2021-08-13,Selangor,108,62,33,5
+2021-08-13,Selangor,108,63,33,6
 2021-08-13,Terengganu,3,6,0,0
 2021-08-13,W.P. Kuala Lumpur,66,23,47,6
 2021-08-13,W.P. Labuan,0,0,0,0
@@ -8244,23 +8244,23 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-14,Kelantan,2,5,1,0
 2021-08-14,Melaka,8,12,1,1
 2021-08-14,Negeri Sembilan,16,3,0,1
-2021-08-14,Pahang,1,4,0,1
+2021-08-14,Pahang,1,6,0,1
 2021-08-14,Perak,18,11,0,0
 2021-08-14,Perlis,0,0,0,0
 2021-08-14,Pulau Pinang,2,15,0,3
 2021-08-14,Sabah,10,21,5,8
 2021-08-14,Sarawak,1,5,0,1
-2021-08-14,Selangor,77,53,30,14
+2021-08-14,Selangor,77,54,30,15
 2021-08-14,Terengganu,5,1,1,1
-2021-08-14,W.P. Kuala Lumpur,56,20,19,8
+2021-08-14,W.P. Kuala Lumpur,56,18,19,6
 2021-08-14,W.P. Labuan,0,0,0,0
 2021-08-14,W.P. Putrajaya,0,0,0,0
 2021-08-15,Johor,44,42,4,6
-2021-08-15,Kedah,15,21,0,2
-2021-08-15,Kelantan,3,12,1,2
+2021-08-15,Kedah,15,22,0,2
+2021-08-15,Kelantan,3,13,1,2
 2021-08-15,Melaka,6,13,0,2
 2021-08-15,Negeri Sembilan,5,5,0,1
-2021-08-15,Pahang,4,7,0,1
+2021-08-15,Pahang,4,8,0,2
 2021-08-15,Perak,13,13,2,3
 2021-08-15,Perlis,0,0,0,0
 2021-08-15,Pulau Pinang,24,16,9,3
@@ -8276,11 +8276,11 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-16,Kelantan,9,6,0,0
 2021-08-16,Melaka,16,12,4,1
 2021-08-16,Negeri Sembilan,5,8,0,1
-2021-08-16,Pahang,0,10,0,1
+2021-08-16,Pahang,0,11,0,1
 2021-08-16,Perak,10,19,1,1
 2021-08-16,Perlis,0,1,0,0
 2021-08-16,Pulau Pinang,19,14,5,5
-2021-08-16,Sabah,15,24,5,11
+2021-08-16,Sabah,15,25,5,11
 2021-08-16,Sarawak,5,1,1,0
 2021-08-16,Selangor,101,64,26,11
 2021-08-16,Terengganu,3,8,0,0
@@ -8288,7 +8288,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-16,W.P. Labuan,0,0,0,0
 2021-08-16,W.P. Putrajaya,0,0,0,0
 2021-08-17,Johor,41,35,7,3
-2021-08-17,Kedah,9,16,0,5
+2021-08-17,Kedah,9,19,0,8
 2021-08-17,Kelantan,7,7,1,2
 2021-08-17,Melaka,19,10,1,1
 2021-08-17,Negeri Sembilan,9,2,1,1
@@ -8298,7 +8298,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-17,Pulau Pinang,8,16,3,2
 2021-08-17,Sabah,15,20,6,10
 2021-08-17,Sarawak,2,3,0,0
-2021-08-17,Selangor,90,68,5,13
+2021-08-17,Selangor,90,69,5,14
 2021-08-17,Terengganu,5,4,0,0
 2021-08-17,W.P. Kuala Lumpur,47,15,19,4
 2021-08-17,W.P. Labuan,0,0,0,0
@@ -8314,7 +8314,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-18,Pulau Pinang,15,17,2,5
 2021-08-18,Sabah,18,23,9,7
 2021-08-18,Sarawak,2,5,0,2
-2021-08-18,Selangor,74,62,6,9
+2021-08-18,Selangor,74,65,6,12
 2021-08-18,Terengganu,5,8,1,2
 2021-08-18,W.P. Kuala Lumpur,24,23,5,7
 2021-08-18,W.P. Labuan,0,0,0,0
@@ -8324,7 +8324,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-19,Kelantan,5,5,0,0
 2021-08-19,Melaka,8,8,1,1
 2021-08-19,Negeri Sembilan,4,6,2,1
-2021-08-19,Pahang,8,7,1,3
+2021-08-19,Pahang,8,8,1,3
 2021-08-19,Perak,1,9,0,2
 2021-08-19,Perlis,0,0,0,0
 2021-08-19,Pulau Pinang,8,20,1,5
@@ -8335,7 +8335,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-19,W.P. Kuala Lumpur,23,15,4,4
 2021-08-19,W.P. Labuan,0,0,0,0
 2021-08-19,W.P. Putrajaya,0,0,0,0
-2021-08-20,Johor,23,38,3,4
+2021-08-20,Johor,23,39,3,4
 2021-08-20,Kedah,9,30,0,5
 2021-08-20,Kelantan,3,5,0,0
 2021-08-20,Melaka,0,4,0,0
@@ -8353,7 +8353,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-20,W.P. Putrajaya,0,0,0,0
 2021-08-21,Johor,14,53,2,10
 2021-08-21,Kedah,23,23,0,2
-2021-08-21,Kelantan,0,6,0,2
+2021-08-21,Kelantan,0,7,0,2
 2021-08-21,Melaka,18,7,3,2
 2021-08-21,Negeri Sembilan,11,2,2,0
 2021-08-21,Pahang,5,3,0,0
@@ -8363,12 +8363,12 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-21,Sabah,27,22,12,11
 2021-08-21,Sarawak,2,4,0,3
 2021-08-21,Selangor,78,55,8,12
-2021-08-21,Terengganu,0,0,0,0
+2021-08-21,Terengganu,0,1,0,0
 2021-08-21,W.P. Kuala Lumpur,17,18,2,6
 2021-08-21,W.P. Labuan,0,0,0,0
 2021-08-21,W.P. Putrajaya,1,0,0,0
 2021-08-22,Johor,64,45,11,6
-2021-08-22,Kedah,11,24,0,4
+2021-08-22,Kedah,11,30,0,10
 2021-08-22,Kelantan,9,4,1,0
 2021-08-22,Melaka,3,10,0,2
 2021-08-22,Negeri Sembilan,3,5,0,1
@@ -8384,8 +8384,8 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-22,W.P. Labuan,0,0,0,0
 2021-08-22,W.P. Putrajaya,0,0,0,0
 2021-08-23,Johor,53,37,4,10
-2021-08-23,Kedah,9,20,0,0
-2021-08-23,Kelantan,9,7,0,2
+2021-08-23,Kedah,9,21,0,0
+2021-08-23,Kelantan,9,9,0,2
 2021-08-23,Melaka,6,8,1,1
 2021-08-23,Negeri Sembilan,11,9,7,0
 2021-08-23,Pahang,7,6,1,0
@@ -8400,7 +8400,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-23,W.P. Labuan,0,0,0,0
 2021-08-23,W.P. Putrajaya,0,0,0,0
 2021-08-24,Johor,41,25,10,5
-2021-08-24,Kedah,32,11,0,4
+2021-08-24,Kedah,32,13,0,6
 2021-08-24,Kelantan,3,3,1,2
 2021-08-24,Melaka,3,10,0,0
 2021-08-24,Negeri Sembilan,12,1,6,1
@@ -8410,20 +8410,20 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-24,Pulau Pinang,23,5,11,5
 2021-08-24,Sabah,17,31,8,15
 2021-08-24,Sarawak,2,6,0,3
-2021-08-24,Selangor,36,39,2,11
+2021-08-24,Selangor,36,40,2,11
 2021-08-24,Terengganu,5,3,0,0
 2021-08-24,W.P. Kuala Lumpur,10,8,0,3
 2021-08-24,W.P. Labuan,0,0,0,0
 2021-08-24,W.P. Putrajaya,0,0,0,0
 2021-08-25,Johor,39,39,8,7
-2021-08-25,Kedah,19,18,0,0
-2021-08-25,Kelantan,5,11,3,2
+2021-08-25,Kedah,19,19,0,0
+2021-08-25,Kelantan,5,13,3,3
 2021-08-25,Melaka,4,4,1,0
 2021-08-25,Negeri Sembilan,12,5,8,0
 2021-08-25,Pahang,5,9,0,1
 2021-08-25,Perak,9,4,0,2
 2021-08-25,Perlis,0,0,0,0
-2021-08-25,Pulau Pinang,18,30,5,7
+2021-08-25,Pulau Pinang,18,31,5,7
 2021-08-25,Sabah,23,28,12,12
 2021-08-25,Sarawak,6,1,1,1
 2021-08-25,Selangor,105,44,25,5
@@ -8432,7 +8432,7 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-25,W.P. Labuan,0,0,0,0
 2021-08-25,W.P. Putrajaya,0,0,0,0
 2021-08-26,Johor,48,35,10,4
-2021-08-26,Kedah,15,21,0,1
+2021-08-26,Kedah,15,23,0,3
 2021-08-26,Kelantan,9,11,2,3
 2021-08-26,Melaka,33,10,1,0
 2021-08-26,Negeri Sembilan,20,6,11,1
@@ -8447,27 +8447,27 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-26,W.P. Kuala Lumpur,61,6,35,1
 2021-08-26,W.P. Labuan,0,0,0,0
 2021-08-26,W.P. Putrajaya,0,0,0,0
-2021-08-27,Johor,37,49,7,5
-2021-08-27,Kedah,20,15,0,2
-2021-08-27,Kelantan,8,9,1,2
+2021-08-27,Johor,37,50,7,5
+2021-08-27,Kedah,20,17,0,4
+2021-08-27,Kelantan,8,10,1,3
 2021-08-27,Melaka,6,10,0,2
 2021-08-27,Negeri Sembilan,13,2,8,0
 2021-08-27,Pahang,8,7,0,1
-2021-08-27,Perak,15,9,5,1
+2021-08-27,Perak,15,8,5,1
 2021-08-27,Perlis,2,1,0,0
 2021-08-27,Pulau Pinang,38,17,10,5
 2021-08-27,Sabah,41,32,17,14
 2021-08-27,Sarawak,3,6,1,1
-2021-08-27,Selangor,103,44,16,4
+2021-08-27,Selangor,103,46,16,5
 2021-08-27,Terengganu,5,3,1,0
 2021-08-27,W.P. Kuala Lumpur,39,12,33,5
 2021-08-27,W.P. Labuan,0,0,0,0
 2021-08-27,W.P. Putrajaya,0,0,0,0
-2021-08-28,Johor,46,50,7,5
-2021-08-28,Kedah,18,14,0,2
+2021-08-28,Johor,46,51,7,5
+2021-08-28,Kedah,18,16,0,3
 2021-08-28,Kelantan,2,1,0,0
 2021-08-28,Melaka,13,4,0,0
-2021-08-28,Negeri Sembilan,3,2,0,0
+2021-08-28,Negeri Sembilan,3,3,0,1
 2021-08-28,Pahang,6,3,0,1
 2021-08-28,Perak,7,11,1,2
 2021-08-28,Perlis,1,0,0,0
@@ -8480,8 +8480,8 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-28,W.P. Labuan,0,0,0,0
 2021-08-28,W.P. Putrajaya,0,0,0,0
 2021-08-29,Johor,50,48,5,7
-2021-08-29,Kedah,5,24,0,3
-2021-08-29,Kelantan,7,7,2,3
+2021-08-29,Kedah,5,27,0,6
+2021-08-29,Kelantan,7,9,2,3
 2021-08-29,Melaka,2,3,0,1
 2021-08-29,Negeri Sembilan,4,3,3,0
 2021-08-29,Pahang,4,4,0,0
@@ -8496,10 +8496,10 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-29,W.P. Labuan,0,0,0,0
 2021-08-29,W.P. Putrajaya,0,0,0,0
 2021-08-30,Johor,47,50,1,11
-2021-08-30,Kedah,36,25,0,4
+2021-08-30,Kedah,36,26,0,5
 2021-08-30,Kelantan,7,8,0,2
 2021-08-30,Melaka,5,9,0,1
-2021-08-30,Negeri Sembilan,5,5,1,0
+2021-08-30,Negeri Sembilan,5,6,1,0
 2021-08-30,Pahang,7,7,1,0
 2021-08-30,Perak,12,9,0,1
 2021-08-30,Perlis,1,2,0,0
@@ -8511,64 +8511,64 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-08-30,W.P. Kuala Lumpur,12,6,3,2
 2021-08-30,W.P. Labuan,0,0,0,0
 2021-08-30,W.P. Putrajaya,0,0,0,0
-2021-08-31,Johor,52,39,7,10
+2021-08-31,Johor,52,40,7,10
 2021-08-31,Kedah,11,20,0,2
 2021-08-31,Kelantan,9,11,1,2
 2021-08-31,Melaka,5,5,1,0
-2021-08-31,Negeri Sembilan,3,4,0,1
+2021-08-31,Negeri Sembilan,3,5,0,2
 2021-08-31,Pahang,7,2,2,1
 2021-08-31,Perak,3,15,0,3
 2021-08-31,Perlis,1,1,0,0
 2021-08-31,Pulau Pinang,12,21,1,7
-2021-08-31,Sabah,15,48,9,19
+2021-08-31,Sabah,15,49,9,19
 2021-08-31,Sarawak,1,5,0,1
 2021-08-31,Selangor,139,37,67,2
 2021-08-31,Terengganu,2,3,0,1
 2021-08-31,W.P. Kuala Lumpur,21,11,10,3
 2021-08-31,W.P. Labuan,0,0,0,0
 2021-08-31,W.P. Putrajaya,1,0,0,0
-2021-09-01,Johor,37,44,3,6
+2021-09-01,Johor,37,45,3,6
 2021-09-01,Kedah,22,17,0,1
 2021-09-01,Kelantan,4,8,0,0
 2021-09-01,Melaka,9,4,0,1
-2021-09-01,Negeri Sembilan,3,5,0,3
+2021-09-01,Negeri Sembilan,3,6,0,4
 2021-09-01,Pahang,3,6,0,1
 2021-09-01,Perak,18,13,4,0
 2021-09-01,Perlis,2,1,0,0
 2021-09-01,Pulau Pinang,13,31,1,6
-2021-09-01,Sabah,38,32,17,14
+2021-09-01,Sabah,38,33,17,14
 2021-09-01,Sarawak,7,10,0,1
-2021-09-01,Selangor,110,36,37,8
+2021-09-01,Selangor,110,37,37,9
 2021-09-01,Terengganu,3,6,1,1
 2021-09-01,W.P. Kuala Lumpur,9,15,2,3
 2021-09-01,W.P. Labuan,0,0,0,0
 2021-09-01,W.P. Putrajaya,0,0,0,0
 2021-09-02,Johor,40,53,12,8
 2021-09-02,Kedah,16,16,0,0
-2021-09-02,Kelantan,6,10,0,4
+2021-09-02,Kelantan,6,11,0,4
 2021-09-02,Melaka,13,3,0,0
 2021-09-02,Negeri Sembilan,4,1,0,1
 2021-09-02,Pahang,0,2,0,1
-2021-09-02,Perak,9,8,4,1
+2021-09-02,Perak,9,9,4,1
 2021-09-02,Perlis,1,2,0,0
 2021-09-02,Pulau Pinang,39,20,14,7
-2021-09-02,Sabah,33,35,12,13
+2021-09-02,Sabah,33,36,12,13
 2021-09-02,Sarawak,8,6,2,2
 2021-09-02,Selangor,61,28,33,3
 2021-09-02,Terengganu,3,3,1,0
-2021-09-02,W.P. Kuala Lumpur,16,8,2,2
+2021-09-02,W.P. Kuala Lumpur,16,9,2,2
 2021-09-02,W.P. Labuan,0,0,0,0
 2021-09-02,W.P. Putrajaya,0,0,0,0
 2021-09-03,Johor,37,49,14,6
 2021-09-03,Kedah,21,21,0,1
-2021-09-03,Kelantan,11,3,3,0
+2021-09-03,Kelantan,11,4,3,0
 2021-09-03,Melaka,11,2,5,0
 2021-09-03,Negeri Sembilan,0,2,0,1
 2021-09-03,Pahang,4,2,0,0
 2021-09-03,Perak,15,7,3,1
 2021-09-03,Perlis,0,2,0,0
 2021-09-03,Pulau Pinang,38,23,3,6
-2021-09-03,Sabah,35,31,18,12
+2021-09-03,Sabah,35,33,18,12
 2021-09-03,Sarawak,6,7,4,0
 2021-09-03,Selangor,148,20,41,7
 2021-09-03,Terengganu,2,1,1,0
@@ -8576,146 +8576,162 @@ date,state,deaths_new,deaths_new_dod,deaths_bid,deaths_bid_dod
 2021-09-03,W.P. Labuan,0,0,0,0
 2021-09-03,W.P. Putrajaya,0,0,0,0
 2021-09-04,Johor,51,42,6,6
-2021-09-04,Kedah,20,20,0,1
-2021-09-04,Kelantan,7,5,0,0
+2021-09-04,Kedah,20,21,0,2
+2021-09-04,Kelantan,7,7,0,0
 2021-09-04,Melaka,5,7,3,1
 2021-09-04,Negeri Sembilan,13,2,3,0
 2021-09-04,Pahang,3,3,2,0
 2021-09-04,Perak,9,11,1,2
 2021-09-04,Perlis,2,2,0,0
 2021-09-04,Pulau Pinang,19,25,4,7
-2021-09-04,Sabah,55,41,29,14
+2021-09-04,Sabah,55,44,29,14
 2021-09-04,Sarawak,2,9,1,2
-2021-09-04,Selangor,152,9,48,2
+2021-09-04,Selangor,152,10,48,2
 2021-09-04,Terengganu,0,4,0,1
 2021-09-04,W.P. Kuala Lumpur,24,6,7,2
 2021-09-04,W.P. Labuan,0,0,0,0
 2021-09-04,W.P. Putrajaya,0,0,0,0
-2021-09-05,Johor,38,41,2,7
-2021-09-05,Kedah,19,23,0,2
-2021-09-05,Kelantan,10,7,8,1
+2021-09-05,Johor,38,43,2,7
+2021-09-05,Kedah,19,24,0,2
+2021-09-05,Kelantan,10,9,8,1
 2021-09-05,Melaka,7,6,0,0
-2021-09-05,Negeri Sembilan,6,5,2,1
+2021-09-05,Negeri Sembilan,6,4,2,1
 2021-09-05,Pahang,4,3,0,0
-2021-09-05,Perak,8,10,1,1
+2021-09-05,Perak,8,12,1,1
 2021-09-05,Perlis,3,1,0,0
 2021-09-05,Pulau Pinang,20,30,9,4
-2021-09-05,Sabah,33,32,19,10
+2021-09-05,Sabah,33,34,19,12
 2021-09-05,Sarawak,12,5,2,2
-2021-09-05,Selangor,171,9,63,1
+2021-09-05,Selangor,171,13,63,2
 2021-09-05,Terengganu,1,4,0,0
 2021-09-05,W.P. Kuala Lumpur,4,5,1,0
 2021-09-05,W.P. Labuan,0,0,0,0
 2021-09-05,W.P. Putrajaya,0,0,0,0
 2021-09-06,Johor,63,43,9,5
-2021-09-06,Kedah,14,19,0,2
-2021-09-06,Kelantan,8,10,4,2
+2021-09-06,Kedah,14,18,0,2
+2021-09-06,Kelantan,8,13,4,2
 2021-09-06,Melaka,6,4,0,3
-2021-09-06,Negeri Sembilan,9,5,0,2
+2021-09-06,Negeri Sembilan,9,6,0,2
 2021-09-06,Pahang,6,4,0,0
 2021-09-06,Perak,5,14,3,2
 2021-09-06,Perlis,2,2,0,0
-2021-09-06,Pulau Pinang,20,26,6,6
-2021-09-06,Sabah,31,27,9,9
+2021-09-06,Pulau Pinang,20,27,6,6
+2021-09-06,Sabah,31,28,9,9
 2021-09-06,Sarawak,17,5,9,0
-2021-09-06,Selangor,66,10,36,4
+2021-09-06,Selangor,66,15,36,7
 2021-09-06,Terengganu,7,5,1,0
 2021-09-06,W.P. Kuala Lumpur,18,7,4,3
 2021-09-06,W.P. Labuan,0,0,0,0
 2021-09-06,W.P. Putrajaya,0,0,0,0
-2021-09-07,Johor,53,29,9,3
+2021-09-07,Johor,53,31,9,3
 2021-09-07,Kedah,43,17,22,3
-2021-09-07,Kelantan,14,3,6,0
+2021-09-07,Kelantan,14,4,6,1
 2021-09-07,Melaka,10,4,2,2
-2021-09-07,Negeri Sembilan,3,2,0,0
+2021-09-07,Negeri Sembilan,3,3,0,0
 2021-09-07,Pahang,5,7,0,1
-2021-09-07,Perak,20,13,0,2
+2021-09-07,Perak,20,14,0,2
 2021-09-07,Perlis,2,2,0,0
-2021-09-07,Pulau Pinang,34,28,4,10
-2021-09-07,Sabah,45,18,11,8
+2021-09-07,Pulau Pinang,34,29,4,10
+2021-09-07,Sabah,45,24,11,9
 2021-09-07,Sarawak,5,10,1,3
-2021-09-07,Selangor,56,8,38,1
+2021-09-07,Selangor,56,12,38,1
 2021-09-07,Terengganu,12,3,0,0
 2021-09-07,W.P. Kuala Lumpur,9,2,0,1
 2021-09-07,W.P. Labuan,0,0,0,0
 2021-09-07,W.P. Putrajaya,0,0,0,0
-2021-09-08,Johor,64,24,18,5
-2021-09-08,Kedah,52,8,11,1
-2021-09-08,Kelantan,17,4,6,0
+2021-09-08,Johor,65,31,18,6
+2021-09-08,Kedah,52,12,11,2
+2021-09-08,Kelantan,17,7,6,0
 2021-09-08,Melaka,8,3,2,1
 2021-09-08,Negeri Sembilan,29,2,0,1
 2021-09-08,Pahang,4,4,0,0
-2021-09-08,Perak,7,10,0,4
-2021-09-08,Perlis,1,2,0,0
-2021-09-08,Pulau Pinang,5,30,4,11
-2021-09-08,Sabah,54,26,26,13
+2021-09-08,Perak,6,10,0,4
+2021-09-08,Perlis,1,1,0,0
+2021-09-08,Pulau Pinang,5,31,4,12
+2021-09-08,Sabah,54,30,26,13
 2021-09-08,Sarawak,10,10,2,1
-2021-09-08,Selangor,67,12,17,3
+2021-09-08,Selangor,67,19,17,6
 2021-09-08,Terengganu,9,5,0,1
-2021-09-08,W.P. Kuala Lumpur,34,4,16,2
+2021-09-08,W.P. Kuala Lumpur,34,8,16,6
 2021-09-08,W.P. Labuan,0,0,0,0
 2021-09-08,W.P. Putrajaya,0,0,0,0
-2021-09-09,Johor,48,12,6,3
-2021-09-09,Kedah,44,11,0,1
-2021-09-09,Kelantan,11,3,1,1
-2021-09-09,Melaka,17,5,2,1
-2021-09-09,Negeri Sembilan,11,2,5,0
+2021-09-09,Johor,49,28,6,3
+2021-09-09,Kedah,44,13,0,1
+2021-09-09,Kelantan,11,6,1,2
+2021-09-09,Melaka,17,7,2,1
+2021-09-09,Negeri Sembilan,10,3,5,0
 2021-09-09,Pahang,4,6,1,0
 2021-09-09,Perak,5,11,3,0
 2021-09-09,Perlis,2,0,0,0
-2021-09-09,Pulau Pinang,47,19,11,1
-2021-09-09,Sabah,22,19,9,13
-2021-09-09,Sarawak,9,3,2,1
-2021-09-09,Selangor,71,12,2,1
+2021-09-09,Pulau Pinang,47,26,11,7
+2021-09-09,Sabah,22,24,9,16
+2021-09-09,Sarawak,9,4,2,2
+2021-09-09,Selangor,71,20,2,4
 2021-09-09,Terengganu,5,2,1,1
-2021-09-09,W.P. Kuala Lumpur,27,3,12,0
+2021-09-09,W.P. Kuala Lumpur,27,5,12,1
 2021-09-09,W.P. Labuan,0,0,0,0
 2021-09-09,W.P. Putrajaya,0,0,0,0
-2021-09-10,Johor,28,8,4,2
-2021-09-10,Kedah,85,3,56,0
-2021-09-10,Kelantan,9,1,1,0
+2021-09-10,Johor,28,13,4,3
+2021-09-10,Kedah,85,8,56,0
+2021-09-10,Kelantan,9,6,1,1
 2021-09-10,Melaka,2,3,1,0
 2021-09-10,Negeri Sembilan,3,3,0,0
-2021-09-10,Pahang,12,4,0,0
-2021-09-10,Perak,17,14,2,2
+2021-09-10,Pahang,12,5,0,0
+2021-09-10,Perak,17,20,2,3
 2021-09-10,Perlis,1,1,0,0
-2021-09-10,Pulau Pinang,38,16,12,0
-2021-09-10,Sabah,28,11,15,1
+2021-09-10,Pulau Pinang,38,20,12,3
+2021-09-10,Sabah,28,16,15,5
 2021-09-10,Sarawak,4,7,0,0
-2021-09-10,Selangor,97,5,9,2
-2021-09-10,Terengganu,5,3,0,0
-2021-09-10,W.P. Kuala Lumpur,12,1,2,0
+2021-09-10,Selangor,97,9,9,3
+2021-09-10,Terengganu,5,4,0,0
+2021-09-10,W.P. Kuala Lumpur,12,3,2,1
 2021-09-10,W.P. Labuan,0,0,0,0
 2021-09-10,W.P. Putrajaya,0,0,0,0
-2021-09-11,Johor,10,3,7,0
-2021-09-11,Kedah,49,2,33,0
-2021-09-11,Kelantan,11,0,3,0
-2021-09-11,Melaka,9,0,1,0
-2021-09-11,Negeri Sembilan,15,6,4,0
-2021-09-11,Pahang,6,2,1,0
-2021-09-11,Perak,28,3,4,0
+2021-09-11,Johor,10,11,7,3
+2021-09-11,Kedah,49,3,33,0
+2021-09-11,Kelantan,11,3,3,1
+2021-09-11,Melaka,9,6,1,1
+2021-09-11,Negeri Sembilan,15,8,4,0
+2021-09-11,Pahang,6,4,1,1
+2021-09-11,Perak,28,4,4,0
 2021-09-11,Perlis,1,2,0,0
-2021-09-11,Pulau Pinang,27,0,8,0
-2021-09-11,Sabah,53,5,20,0
-2021-09-11,Sarawak,10,2,3,0
-2021-09-11,Selangor,359,2,2,0
-2021-09-11,Terengganu,6,2,1,0
-2021-09-11,W.P. Kuala Lumpur,8,3,1,0
+2021-09-11,Pulau Pinang,27,17,8,1
+2021-09-11,Sabah,53,8,20,0
+2021-09-11,Sarawak,10,3,3,0
+2021-09-11,Selangor,359,8,2,1
+2021-09-11,Terengganu,6,3,1,0
+2021-09-11,W.P. Kuala Lumpur,8,4,1,0
 2021-09-11,W.P. Labuan,0,0,0,0
 2021-09-11,W.P. Putrajaya,0,0,0,0
-2021-09-12,Johor,16,2,3,0
+2021-09-12,Johor,16,10,3,0
 2021-09-12,Kedah,36,0,29,0
-2021-09-12,Kelantan,13,0,1,0
-2021-09-12,Melaka,2,0,1,0
-2021-09-12,Negeri Sembilan,29,0,10,0
-2021-09-12,Pahang,7,0,5,0
-2021-09-12,Perak,11,0,3,0
+2021-09-12,Kelantan,13,2,1,1
+2021-09-12,Melaka,2,2,1,0
+2021-09-12,Negeri Sembilan,29,3,10,0
+2021-09-12,Pahang,7,3,5,0
+2021-09-12,Perak,11,2,3,0
 2021-09-12,Perlis,2,0,0,0
-2021-09-12,Pulau Pinang,16,0,0,0
-2021-09-12,Sabah,84,1,35,0
-2021-09-12,Sarawak,9,0,3,0
-2021-09-12,Selangor,45,1,12,0
-2021-09-12,Terengganu,4,0,0,0
-2021-09-12,W.P. Kuala Lumpur,18,0,4,0
+2021-09-12,Pulau Pinang,16,1,0,0
+2021-09-12,Sabah,84,4,35,0
+2021-09-12,Sarawak,9,3,3,0
+2021-09-12,Selangor,45,2,12,0
+2021-09-12,Terengganu,4,2,0,0
+2021-09-12,W.P. Kuala Lumpur,18,1,4,0
 2021-09-12,W.P. Labuan,0,0,0,0
 2021-09-12,W.P. Putrajaya,0,0,0,0
+2021-09-13,Johor,52,0,5,0
+2021-09-13,Kedah,54,0,36,0
+2021-09-13,Kelantan,36,0,8,0
+2021-09-13,Melaka,13,3,1,0
+2021-09-13,Negeri Sembilan,29,0,14,0
+2021-09-13,Pahang,15,1,2,0
+2021-09-13,Perak,13,0,1,0
+2021-09-13,Perlis,0,0,0,0
+2021-09-13,Pulau Pinang,33,0,11,0
+2021-09-13,Sabah,39,0,11,0
+2021-09-13,Sarawak,5,0,1,0
+2021-09-13,Selangor,111,0,84,0
+2021-09-13,Terengganu,5,0,0,0
+2021-09-13,W.P. Kuala Lumpur,8,0,2,0
+2021-09-13,W.P. Labuan,0,0,0,0
+2021-09-13,W.P. Putrajaya,0,0,0,0
