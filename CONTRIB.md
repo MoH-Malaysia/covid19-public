@@ -24,6 +24,8 @@ MYCovid - an API which is powered by PHP which obtains the vaccination and epide
 + [[Github Repo]](https://github.com/leeliwei930/moh-my-covid-express-api)
 MOH COVID-19 self hosted NodeJS Restful API server, by [Li Wei Lee](https://techrino.net). A RestFUL API server written in NodeJS to parse the CSV-formatted data into JSON format, allowing for a variety of query via HTTP requests.
 
++ [[Github Repo]](https://github.com/drxyzw/WuhanCoronavirus-Malaysia/)[[Dashboard]](https://drxyzw.github.io/WuhanCoronavirus-Malaysia/) Analyses of case numbers and their trajectory over time both nationside and by state. Effective reproduction number Rt of whole Malaysia and each state by [drxyzw](https://github.com/drxyzw/).
+
 ---
 
 # Data Requests
