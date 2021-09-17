@@ -7218,6 +7218,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-12,2021-06-17,,,,Selangor,59,1,0,1,1
 2021-07-12,2021-07-11,,,,Selangor,50,1,0,1,1
 2021-07-12,2021-07-05,,,,Selangor,48,0,0,1,1
+2021-07-12,2021-06-22,2021-06-13,,Sinovac,Selangor,63,1,0,1,1
 2021-07-12,2021-06-30,,,,Selangor,23,0,0,1,1
 2021-07-12,2021-07-12,,,,Selangor,61,0,1,0,1
 2021-07-12,2021-06-22,2021-06-05,,AstraZeneca,W.P. Kuala Lumpur,57,0,0,1,1
@@ -15367,6 +15368,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-12,2021-08-12,2021-07-01,2021-07-22,Sinovac,Selangor,52,0,1,0,1
 2021-08-12,2021-08-12,,,,Selangor,45,0,1,0,1
 2021-08-12,2021-08-12,2021-07-02,,Pfizer,Selangor,64,1,0,1,1
+2021-08-12,2021-07-25,2021-07-06,,Sinovac,Selangor,76,0,0,1,1
 2021-08-12,2021-08-02,,,,Terengganu,69,0,0,1,1
 2021-08-12,2021-07-20,2021-07-13,,Sinovac,Terengganu,59,0,0,1,1
 2021-08-12,2021-07-28,2021-07-26,,Pfizer,Terengganu,52,0,0,1,1
@@ -22352,5 +22354,3 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-15,2021-09-09,,,,Terengganu,71,0,0,1,1
 2021-09-15,2021-09-07,,,,W.P. Kuala Lumpur,58,0,0,1,0
 2021-09-16,2021-09-03,2021-06-01,,Pfizer,Perlis,66,1,0,1,1
-2021-12-07,2021-06-22,2021-06-13,,Sinovac,Selangor,63,1,0,1,1
-2021-12-08,2021-07-25,2021-07-06,,Sinovac,Selangor,76,0,0,1,1
