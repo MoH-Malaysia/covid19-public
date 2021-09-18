@@ -5791,7 +5791,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-02,2021-07-02,,,,Melaka,60,0,1,1,1
 2021-07-02,2021-06-28,2021-06-23,,Pfizer,Melaka,66,1,0,1,1
 2021-07-02,2021-06-26,,,,Melaka,88,0,0,1,1
-2021-07-02,2021-06-19,2021-06-10,,Sinovac,Melaka,60,1,0,1,1
 2021-07-02,2021-06-27,2021-06-23,,Sinovac,Negeri Sembilan,79,0,0,1,1
 2021-07-02,2021-06-14,,,,Negeri Sembilan,68,1,0,1,1
 2021-07-02,2021-06-23,,,,Negeri Sembilan,72,1,0,1,1
@@ -5983,6 +5982,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-03,2021-06-19,,,,Selangor,64,1,0,1,1
 2021-07-03,2021-07-03,,,,Selangor,54,1,0,1,1
 2021-07-03,2021-06-29,2021-06-08,2021-06-29,Sinovac,Selangor,48,1,0,1,1
+2021-07-03,2021-06-26,,,,Selangor,69,0,0,1,1
 2021-07-03,2021-07-03,,,,Terengganu,76,0,1,1,1
 2021-07-03,2021-06-24,2021-06-23,,AstraZeneca,W.P. Kuala Lumpur,73,0,0,1,1
 2021-07-03,2021-06-24,,,,W.P. Kuala Lumpur,71,0,0,1,0
@@ -6296,6 +6296,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-06,2021-06-29,,,,Selangor,75,0,0,1,1
 2021-07-06,2021-06-26,,,,Selangor,74,1,0,1,1
 2021-07-06,2021-07-04,,,,Selangor,52,0,0,0,1
+2021-07-06,2021-06-29,,,,Selangor,43,1,0,1,1
 2021-07-06,2021-07-05,,,,Terengganu,42,1,0,1,1
 2021-07-06,2021-06-28,2021-06-15,,Sinovac,W.P. Kuala Lumpur,60,0,0,1,1
 2021-07-06,2021-07-06,2021-06-14,,Sinovac,W.P. Kuala Lumpur,75,0,0,1,1
@@ -6591,6 +6592,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-08,2021-07-08,,,,Selangor,58,1,1,0,1
 2021-07-08,2021-06-28,,,,Selangor,60,1,0,1,1
 2021-07-08,2021-07-01,,,,Selangor,54,1,0,1,1
+2021-07-08,2021-07-08,,,,Selangor,39,0,0,1,0
+2021-07-08,2021-07-08,,,,Selangor,50,0,0,0,1
 2021-07-08,2021-07-06,2021-06-03,2021-06-24,Sinovac,Terengganu,61,0,0,1,1
 2021-07-08,2021-07-07,2021-06-29,,Sinovac,Terengganu,48,0,0,1,1
 2021-07-08,2021-06-28,2021-06-11,,Sinovac,W.P. Kuala Lumpur,64,1,0,1,1
@@ -6755,6 +6758,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-09,2021-07-09,,,,Selangor,69,0,1,0,0
 2021-07-09,2021-07-01,,,,Selangor,55,0,0,1,1
 2021-07-09,2021-07-09,,,,Selangor,23,1,1,1,1
+2021-07-09,2021-07-09,,,,Selangor,52,1,0,1,1
 2021-07-09,2021-06-26,,,,Terengganu,42,0,0,1,1
 2021-07-09,2021-06-25,,,,W.P. Kuala Lumpur,83,0,0,1,0
 2021-07-09,2021-06-25,,,,W.P. Kuala Lumpur,85,0,0,1,1
@@ -6910,6 +6914,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-10,2021-07-01,2021-06-19,,Pfizer,Selangor,64,1,0,1,1
 2021-07-10,2021-07-10,,,,Selangor,72,0,0,1,1
 2021-07-10,2021-07-03,,,,Selangor,44,1,0,1,1
+2021-07-10,2021-06-12,,,,Selangor,56,0,0,1,1
 2021-07-10,2021-06-25,,,,W.P. Kuala Lumpur,87,0,0,1,0
 2021-07-10,2021-06-29,,,,W.P. Kuala Lumpur,57,0,0,1,1
 2021-07-10,2021-07-10,2021-06-07,2021-06-28,Sinovac,W.P. Kuala Lumpur,87,1,1,1,1
@@ -7074,6 +7079,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-11,2021-07-11,,,,Selangor,40,1,0,1,1
 2021-07-11,2021-06-30,,,,Selangor,98,0,0,1,1
 2021-07-11,2021-06-29,,,,Selangor,50,1,0,0,1
+2021-07-11,2021-07-06,2021-06-23,,AstraZeneca,Selangor,33,0,1,1,1
 2021-07-11,2021-07-06,2021-05-28,2021-06-18,Sinovac,W.P. Kuala Lumpur,70,1,0,1,0
 2021-07-11,2021-07-07,,,,W.P. Kuala Lumpur,49,0,0,0,1
 2021-07-11,2021-06-30,,,,W.P. Kuala Lumpur,79,0,1,1,0
@@ -7204,6 +7210,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-12,2021-07-11,2021-06-06,2021-06-27,Sinovac,Selangor,58,0,0,1,0
 2021-07-12,2021-07-12,2021-06-28,,Sinovac,Selangor,61,1,1,1,1
 2021-07-12,2021-07-12,2021-06-18,,Pfizer,Selangor,73,1,0,1,1
+2021-07-12,2021-07-12,,,,Selangor,45,1,1,1,0
 2021-07-12,2021-07-12,2021-07-02,,Sinovac,Selangor,54,1,1,1,1
 2021-07-12,2021-07-12,,,,Selangor,49,1,0,1,1
 2021-07-12,2021-07-12,2021-06-22,,Sinovac,Selangor,62,0,0,1,1
@@ -7273,7 +7280,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-12,2021-07-12,,,,W.P. Kuala Lumpur,56,0,1,1,0
 2021-07-12,2021-07-12,2021-06-24,,Sinovac,W.P. Kuala Lumpur,50,1,1,1,0
 2021-07-12,2021-07-12,,,,W.P. Kuala Lumpur,49,0,1,0,0
-2021-07-12,2021-07-12,,,,W.P. Kuala Lumpur,45,1,1,1,0
 2021-07-12,2021-07-12,,,,W.P. Kuala Lumpur,37,0,1,0,0
 2021-07-12,2021-07-12,,,,W.P. Kuala Lumpur,55,1,0,1,1
 2021-07-12,2021-06-20,,,,W.P. Kuala Lumpur,47,1,0,1,1
@@ -7599,6 +7605,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-14,2021-07-14,,,,Selangor,47,0,1,0,1
 2021-07-14,2021-07-04,,,,Selangor,70,0,0,1,1
 2021-07-14,2021-07-14,,,,Selangor,69,1,1,1,1
+2021-07-14,2021-07-11,2021-06-27,,Sinovac,Selangor,56,1,1,1,1
 2021-07-14,2021-07-06,2021-07-01,,Sinovac,Terengganu,87,0,0,1,1
 2021-07-14,2021-07-14,2021-06-03,2021-06-24,Sinovac,W.P. Kuala Lumpur,67,1,0,1,0
 2021-07-14,2021-06-21,,,,W.P. Kuala Lumpur,57,0,0,1,1
@@ -7808,6 +7815,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-15,2021-07-10,2021-06-02,2021-06-23,Sinovac,Selangor,87,0,0,1,1
 2021-07-15,2021-07-09,2021-06-19,,Sinovac,Selangor,81,0,0,1,1
 2021-07-15,2021-07-08,,,,Selangor,34,1,0,0,1
+2021-07-15,2021-07-15,,,,Selangor,47,0,1,1,1
 2021-07-15,2021-07-11,,,,Terengganu,57,1,0,1,1
 2021-07-15,2021-07-15,,,,Terengganu,39,0,1,1,0
 2021-07-15,2021-06-29,,,,W.P. Kuala Lumpur,61,1,0,1,1
@@ -8006,6 +8014,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-16,2021-07-08,2021-06-01,,AstraZeneca,Selangor,28,1,0,1,1
 2021-07-16,2021-07-07,2021-07-02,,Pfizer,Selangor,55,0,0,1,1
 2021-07-16,2021-07-16,,,,Selangor,58,1,0,1,1
+2021-07-16,2021-07-16,,,,Selangor,54,1,0,0,1
 2021-07-16,2021-07-15,,,,Terengganu,70,1,0,1,0
 2021-07-16,2021-07-16,,,,Terengganu,52,1,1,1,1
 2021-07-16,2021-06-25,,,,W.P. Kuala Lumpur,82,0,0,1,1
@@ -8072,7 +8081,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-17,2021-06-29,,,,Kelantan,58,1,0,1,1
 2021-07-17,2021-07-05,,,,Kelantan,46,1,0,1,1
 2021-07-17,2021-06-28,,,,Melaka,82,0,0,1,1
-2021-07-17,2021-06-28,,,,Melaka,47,1,0,1,1
 2021-07-17,2021-07-13,,,,Melaka,44,1,0,1,1
 2021-07-17,2021-06-29,,,,Melaka,61,0,0,1,0
 2021-07-17,2021-07-11,2021-06-26,,Sinovac,Melaka,77,0,0,1,1
@@ -8244,6 +8252,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-17,2021-07-08,,,,Selangor,41,1,0,0,0
 2021-07-17,2021-07-13,,,,Selangor,57,0,0,1,1
 2021-07-17,2021-07-17,,,,Selangor,57,0,0,1,0
+2021-07-17,2021-07-16,,,,Selangor,56,0,1,1,1
+2021-07-17,2021-07-17,,,,Selangor,56,0,1,1,0
+2021-07-17,2021-07-17,2021-07-06,,Sinovac,Selangor,46,0,0,1,1
 2021-07-17,2021-07-15,,,,W.P. Kuala Lumpur,73,1,0,1,1
 2021-07-17,2021-06-30,,,,W.P. Kuala Lumpur,80,1,0,1,0
 2021-07-17,2021-07-07,2021-06-01,2021-06-22,Sinovac,W.P. Kuala Lumpur,68,1,0,1,0
@@ -8430,7 +8441,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-18,2021-07-18,,,,Selangor,52,1,1,0,0
 2021-07-18,2021-07-12,,,,Selangor,54,0,0,1,1
 2021-07-18,2021-07-18,2021-06-16,,AstraZeneca,Selangor,88,1,0,1,1
-2021-07-18,2021-07-18,,,,Selangor,60,1,0,1,1
 2021-07-18,2021-06-19,,,,Selangor,64,1,0,1,1
 2021-07-18,2021-07-04,2021-06-12,,Sinovac,Selangor,62,0,0,1,1
 2021-07-18,2021-07-03,,,,Selangor,61,0,0,1,0
@@ -8471,6 +8481,12 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-18,2021-07-18,,,,Selangor,59,1,0,1,1
 2021-07-18,2021-07-18,,,,Selangor,78,1,1,1,1
 2021-07-18,2021-07-18,,,,Selangor,76,1,1,1,1
+2021-07-18,2021-07-03,,,,Selangor,52,1,0,1,1
+2021-07-18,2021-07-13,2021-07-10,,Pfizer,Selangor,61,1,0,1,1
+2021-07-18,2021-07-18,2021-07-07,,Sinovac,Selangor,68,1,0,1,1
+2021-07-18,2021-07-18,,,,Selangor,55,1,0,1,1
+2021-07-18,2021-07-18,,,,Selangor,41,1,0,1,1
+2021-07-18,2021-07-18,,,,Selangor,50,0,0,0,1
 2021-07-18,2021-07-14,,,,Terengganu,70,1,0,1,1
 2021-07-18,2021-07-06,,,,Terengganu,50,1,0,1,1
 2021-07-18,2021-07-16,,,,Terengganu,74,1,0,1,1
@@ -8651,6 +8667,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-19,2021-07-14,,,,Selangor,54,1,0,1,1
 2021-07-19,2021-07-19,,,,Selangor,80,1,1,1,1
 2021-07-19,2021-06-21,,,,Selangor,46,1,0,1,0
+2021-07-19,2021-07-19,2021-07-01,,Pfizer,Selangor,72,1,1,1,1
 2021-07-19,2021-07-09,2021-06-17,,Sinovac,Selangor,59,0,0,1,0
 2021-07-19,2021-07-19,2021-06-21,,AstraZeneca,Selangor,57,0,0,1,1
 2021-07-19,2021-06-28,,,,Selangor,47,0,0,1,1
@@ -8665,6 +8682,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-19,2021-07-09,,,,Selangor,53,1,0,1,0
 2021-07-19,2021-07-11,,,,Selangor,55,1,0,1,1
 2021-07-19,2021-07-11,,,,Selangor,26,1,0,1,1
+2021-07-19,2021-07-01,2021-06-12,,Sinovac,Selangor,52,1,0,1,0
+2021-07-19,2021-07-05,,,,Selangor,59,1,0,1,1
 2021-07-19,2021-07-16,,,,Terengganu,54,0,0,1,1
 2021-07-19,2021-07-06,2021-07-01,,Sinovac,Terengganu,75,0,0,1,1
 2021-07-19,2021-07-07,,,,Terengganu,69,0,0,1,0
@@ -8700,7 +8719,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-19,2021-07-08,,,,W.P. Kuala Lumpur,85,0,0,1,1
 2021-07-19,2021-07-19,,,,W.P. Kuala Lumpur,45,0,0,1,0
 2021-07-19,2021-07-19,2021-06-09,,AstraZeneca,W.P. Kuala Lumpur,62,1,0,1,1
-2021-07-19,2021-07-19,2021-07-01,,Pfizer,W.P. Kuala Lumpur,72,1,1,1,1
 2021-07-20,2021-07-14,2021-06-15,2021-07-06,Pfizer,Johor,68,1,0,1,1
 2021-07-20,2021-07-17,,,,Johor,66,1,0,1,1
 2021-07-20,2021-07-16,,,,Johor,41,1,0,1,1
@@ -8897,6 +8915,11 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-20,2021-07-06,,,,Selangor,54,0,0,1,1
 2021-07-20,2021-07-05,,,,Selangor,72,1,0,1,1
 2021-07-20,2021-07-10,,,,Selangor,53,0,1,1,1
+2021-07-20,2021-07-14,,,,Selangor,87,1,0,1,1
+2021-07-20,2021-07-20,,,,Selangor,32,0,0,1,1
+2021-07-20,2021-07-20,,,,Selangor,54,0,1,1,1
+2021-07-20,2021-07-20,,,,Selangor,55,1,0,0,1
+2021-07-20,2021-07-20,,,,Selangor,32,1,0,0,1
 2021-07-20,2021-07-16,,,,Terengganu,62,0,0,1,1
 2021-07-20,2021-07-11,,,,Terengganu,90,1,0,1,0
 2021-07-20,2021-07-20,,,,Terengganu,70,1,1,1,1
@@ -9109,6 +9132,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-21,2021-07-21,2021-07-02,,Pfizer,Selangor,63,0,1,1,0
 2021-07-21,2021-07-21,,,,Selangor,56,1,1,1,0
 2021-07-21,2021-07-21,,,,Selangor,54,0,1,1,0
+2021-07-21,2021-07-21,,,,Selangor,47,0,1,0,0
 2021-07-21,2021-07-21,,,,Selangor,50,1,0,1,1
 2021-07-21,2021-07-21,,,,Selangor,41,0,1,1,0
 2021-07-21,2021-07-11,,,,Selangor,43,0,1,1,0
@@ -9164,6 +9188,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-21,2021-07-15,2021-06-10,2021-07-01,Sinovac,Selangor,67,1,0,1,1
 2021-07-21,2021-07-21,,,,Selangor,60,0,0,1,1
 2021-07-21,2021-07-15,,,,Selangor,43,1,0,1,1
+2021-07-21,2021-07-14,,,,Selangor,72,1,0,1,1
+2021-07-21,2021-07-21,,,,Selangor,40,1,1,1,1
 2021-07-21,2021-07-10,,,,Terengganu,70,1,0,1,0
 2021-07-21,2021-07-16,,,,W.P. Kuala Lumpur,83,0,0,1,1
 2021-07-21,2021-07-06,,,,W.P. Kuala Lumpur,30,0,0,1,1
@@ -9191,7 +9217,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,50,1,1,0,0
 2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,46,1,0,0,0
 2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,49,0,1,0,0
-2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,47,0,1,0,0
 2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,49,0,1,0,0
 2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,57,1,1,1,0
 2021-07-21,2021-07-21,,,,W.P. Kuala Lumpur,82,1,1,1,0
@@ -9415,6 +9440,14 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-22,2021-06-23,,,,Selangor,58,0,0,1,1
 2021-07-22,2021-07-22,2021-06-25,,Sinovac,Selangor,67,1,0,1,1
 2021-07-22,2021-07-22,2021-07-07,,Sinovac,Selangor,60,1,0,1,1
+2021-07-22,2021-07-18,2021-07-09,,Pfizer,Selangor,50,0,0,1,1
+2021-07-22,2021-07-15,2021-07-09,,Sinovac,Selangor,56,1,0,1,1
+2021-07-22,2021-07-19,,,,Selangor,52,1,0,1,1
+2021-07-22,2021-07-19,,,,Selangor,61,1,0,1,1
+2021-07-22,2021-07-22,2021-06-24,,Sinovac,Selangor,71,1,0,1,1
+2021-07-22,2021-07-22,2021-07-09,,Sinovac,Selangor,69,0,0,1,1
+2021-07-22,2021-07-22,,,,Selangor,46,1,1,1,1
+2021-07-22,2021-07-22,,,,Selangor,0,0,1,1,1
 2021-07-22,2021-07-04,,,,Terengganu,51,1,0,0,0
 2021-07-22,2021-07-07,2021-06-22,2021-07-13,Pfizer,Terengganu,69,1,0,1,1
 2021-07-22,2021-07-19,,,,Terengganu,80,1,0,1,1
@@ -9662,6 +9695,10 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-23,2021-07-23,,,,Selangor,43,1,1,0,1
 2021-07-23,2021-07-23,,,,Selangor,45,1,1,1,1
 2021-07-23,2021-07-23,,,,Selangor,44,0,1,0,1
+2021-07-23,2021-07-23,,,,Selangor,66,0,0,1,1
+2021-07-23,2021-07-22,2021-07-02,,Pfizer,Selangor,55,0,0,1,1
+2021-07-23,2021-07-23,,,,Selangor,37,1,0,1,1
+2021-07-23,2021-07-23,,,,Selangor,55,0,1,0,1
 2021-07-23,2021-07-23,,,,Terengganu,39,0,0,0,1
 2021-07-23,2021-07-05,,,,W.P. Kuala Lumpur,42,0,0,1,1
 2021-07-23,2021-07-23,2021-06-22,,Sinovac,W.P. Kuala Lumpur,62,1,0,1,0
@@ -9939,6 +9976,11 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-24,2021-07-21,2021-07-06,,Sinovac,Selangor,56,0,0,1,1
 2021-07-24,2021-07-24,,,,Selangor,76,1,0,1,1
 2021-07-24,2021-07-24,,,,Selangor,60,0,0,1,1
+2021-07-24,2021-07-05,,,,Selangor,71,1,0,1,1
+2021-07-24,2021-07-15,,,,Selangor,62,0,0,1,1
+2021-07-24,2021-07-23,2021-07-01,,Sinovac,Selangor,66,1,0,1,1
+2021-07-24,2021-07-24,2021-07-05,,Sinovac,Selangor,66,0,0,1,1
+2021-07-24,2021-07-18,,,,Selangor,33,1,0,0,1
 2021-07-24,2021-07-20,2021-07-02,,Sinovac,Terengganu,38,1,0,1,1
 2021-07-24,2021-07-18,,,,Terengganu,59,0,0,1,1
 2021-07-24,2021-07-23,,,,Terengganu,57,1,0,1,1
@@ -10234,6 +10276,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-25,2021-07-19,,,,Selangor,55,1,1,1,1
 2021-07-25,2021-07-20,2021-07-14,,Sinovac,Selangor,50,1,0,1,1
 2021-07-25,2021-07-25,,,,Selangor,17,1,0,0,0
+2021-07-25,2021-07-16,2021-07-12,,Sinovac,Selangor,61,0,0,1,1
 2021-07-25,2021-07-16,,,,W.P. Kuala Lumpur,75,1,0,1,1
 2021-07-25,2021-07-08,2021-06-19,,AstraZeneca,W.P. Kuala Lumpur,62,0,0,1,1
 2021-07-25,2021-07-06,,,,W.P. Kuala Lumpur,38,0,0,1,1
@@ -10469,6 +10512,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-26,2021-07-22,2021-05-27,2021-06-17,Sinovac,Selangor,70,1,0,1,1
 2021-07-26,2021-07-21,2021-06-23,,Sinovac,Selangor,67,0,0,1,1
 2021-07-26,2021-07-22,2021-07-01,,AstraZeneca,Selangor,68,0,0,1,1
+2021-07-26,2021-07-02,2021-06-20,,Sinovac,Selangor,61,0,0,1,1
 2021-07-26,2021-07-22,,,,Terengganu,47,0,0,1,0
 2021-07-26,2021-07-25,,,,Terengganu,65,1,0,1,0
 2021-07-26,2021-07-25,2021-07-09,,Sinovac,Terengganu,41,0,0,1,1
@@ -10721,6 +10765,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-27,2021-07-27,,,,Selangor,47,1,0,1,1
 2021-07-27,2021-07-21,2021-07-09,,Pfizer,Selangor,71,1,0,1,0
 2021-07-27,2021-07-24,,,,Selangor,73,1,0,1,1
+2021-07-27,2021-07-15,,,,Selangor,70,0,0,1,0
 2021-07-27,2021-07-10,,,,Terengganu,65,1,0,1,1
 2021-07-27,2021-07-22,,,,Terengganu,71,1,0,1,1
 2021-07-27,2021-07-25,2021-07-05,,Sinovac,Terengganu,73,0,0,1,1
@@ -11007,6 +11052,11 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-28,2021-07-19,,,,Selangor,49,0,0,1,1
 2021-07-28,2021-07-19,,,,Selangor,53,0,0,1,1
 2021-07-28,2021-07-17,,,,Selangor,40,1,0,0,1
+2021-07-28,2021-07-21,2021-07-05,,Sinovac,Selangor,82,1,0,1,1
+2021-07-28,2021-07-26,2021-06-11,2021-07-02,Sinovac,Selangor,66,1,0,1,1
+2021-07-28,2021-07-24,2021-07-17,,Sinovac,Selangor,56,1,1,1,1
+2021-07-28,2021-07-17,,,,Selangor,77,1,0,1,1
+2021-07-28,2021-07-28,,,,Selangor,46,1,1,0,1
 2021-07-28,2021-07-16,,,,Terengganu,55,1,0,1,1
 2021-07-28,2021-07-23,2021-07-01,,Sinovac,Terengganu,66,0,0,1,1
 2021-07-28,2021-07-28,,,,Terengganu,88,1,1,1,1
@@ -11270,6 +11320,10 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-29,2021-07-20,,,,Selangor,77,1,0,1,1
 2021-07-29,2021-07-24,,,,Selangor,75,1,0,1,1
 2021-07-29,2021-07-21,,,,Selangor,45,1,0,0,1
+2021-07-29,2021-07-08,,,,Selangor,60,0,0,1,1
+2021-07-29,2021-07-23,2021-06-25,2021-07-16,Sinovac,Selangor,65,0,1,1,1
+2021-07-29,2021-07-28,,,,Selangor,58,0,0,1,1
+2021-07-29,2021-07-22,,,,Selangor,34,1,0,0,1
 2021-07-29,2021-07-28,2021-04-27,2021-05-19,Pfizer,Terengganu,63,1,0,1,1
 2021-07-29,2021-07-18,2021-07-05,,Pfizer,Terengganu,58,0,0,1,1
 2021-07-29,2021-07-27,2021-07-12,,Pfizer,Terengganu,69,0,0,1,1
@@ -11355,6 +11409,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-30,2021-07-27,,,,Kedah,68,1,1,1,0
 2021-07-30,2021-07-28,,,,Kedah,38,1,1,1,0
 2021-07-30,2021-07-29,,,,Kedah,46,1,1,1,1
+2021-07-30,2021-07-21,,,,Kedah,41,1,0,1,1
 2021-07-30,2021-07-29,,,,Kedah,45,1,1,0,0
 2021-07-30,2021-07-28,2021-07-24,,Pfizer,Kedah,73,0,1,1,0
 2021-07-30,2021-07-22,2021-07-04,,Sinovac,Kedah,64,0,0,1,1
@@ -11566,6 +11621,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-30,2021-07-20,2021-07-19,,Pfizer,Selangor,58,1,0,1,1
 2021-07-30,2021-07-30,,,,Selangor,52,1,0,1,1
 2021-07-30,2021-07-30,,,,Selangor,46,1,0,1,1
+2021-07-30,2021-07-13,2021-07-02,,AstraZeneca,Selangor,52,0,0,1,0
+2021-07-30,2021-07-30,,,,Selangor,62,0,0,1,1
 2021-07-30,2021-07-24,,,,Terengganu,59,0,0,1,1
 2021-07-30,2021-07-19,,,,Terengganu,46,0,0,1,1
 2021-07-30,2021-07-30,,,,Terengganu,38,0,1,1,1
@@ -11703,6 +11760,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-31,2021-07-25,,,,Pahang,53,1,1,1,0
 2021-07-31,2021-07-31,,,,Pahang,82,0,0,1,1
 2021-07-31,2021-07-31,,,,Pahang,73,1,0,1,1
+2021-07-31,2021-07-31,,,,Pahang,70,1,0,1,1
 2021-07-31,2021-07-27,2021-07-05,,Sinovac,Perak,62,0,0,1,1
 2021-07-31,2021-07-27,2021-06-21,2021-07-12,Sinovac,Perak,63,0,0,1,1
 2021-07-31,2021-07-30,,,,Perak,55,1,0,1,1
@@ -11781,6 +11839,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-31,2021-07-31,2021-07-19,,Pfizer,Selangor,89,0,1,1,0
 2021-07-31,2021-07-31,2021-06-24,,AstraZeneca,Selangor,72,0,0,1,1
 2021-07-31,2021-07-26,,,,Selangor,68,0,0,1,1
+2021-07-31,2021-07-31,2021-07-08,,Sinovac,Selangor,61,0,1,1,0
 2021-07-31,2021-07-31,,,,Selangor,74,0,0,1,1
 2021-07-31,2021-07-25,,,,Selangor,97,1,1,1,0
 2021-07-31,2021-07-29,2021-07-12,,Sinovac,Selangor,28,1,0,1,0
@@ -11796,6 +11855,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-31,2021-07-31,,,,Selangor,32,1,1,0,0
 2021-07-31,2021-07-31,2021-07-12,,Sinovac,Selangor,29,1,1,1,1
 2021-07-31,2021-07-31,,,,Selangor,64,1,0,1,1
+2021-07-31,2021-07-31,,,,Selangor,50,0,1,0,0
+2021-07-31,2021-07-31,,,,Selangor,42,1,1,0,0
 2021-07-31,2021-07-31,2021-06-26,2021-07-17,Sinovac,Selangor,57,1,0,1,1
 2021-07-31,2021-07-29,,,,Selangor,59,0,0,1,1
 2021-07-31,2021-07-31,2021-07-24,,Sinovac,Selangor,50,1,0,1,1
@@ -11877,16 +11938,13 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-07-31,2021-07-24,2021-07-18,,Sinovac,W.P. Kuala Lumpur,33,0,0,1,0
 2021-07-31,2021-07-27,2021-07-22,,Pfizer,W.P. Kuala Lumpur,52,0,0,0,1
 2021-07-31,2021-07-31,2021-07-15,,Sinovac,W.P. Kuala Lumpur,36,1,0,0,0
-2021-07-31,2021-07-31,2021-07-08,,Sinovac,W.P. Kuala Lumpur,61,0,1,1,0
 2021-07-31,2021-07-31,2021-07-10,,Sinovac,W.P. Kuala Lumpur,47,1,0,1,0
 2021-07-31,2021-07-30,,,,W.P. Kuala Lumpur,83,0,1,1,1
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,45,0,1,0,0
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,48,0,0,0,0
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,56,0,1,0,0
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,67,0,1,0,0
-2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,50,0,1,0,0
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,49,1,1,0,0
-2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,42,1,1,0,0
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,64,1,1,1,0
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,36,1,1,1,1
 2021-07-31,2021-07-31,,,,W.P. Kuala Lumpur,85,0,0,1,1
@@ -12149,6 +12207,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-01,2021-07-30,,,,Selangor,40,1,0,0,1
 2021-08-01,2021-08-01,,,,Selangor,41,1,0,1,1
 2021-08-01,2021-08-01,,,,Selangor,36,0,1,0,1
+2021-08-01,2021-07-18,,,,Selangor,34,0,0,0,1
 2021-08-01,2021-07-14,,,,Terengganu,49,1,0,1,1
 2021-08-01,2021-07-26,,,,Terengganu,54,1,0,1,0
 2021-08-01,2021-07-28,2021-06-30,2021-07-21,Sinovac,Terengganu,64,1,0,1,1
@@ -12253,6 +12312,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-02,2021-07-24,2021-07-07,,Sinovac,Kedah,64,1,0,1,1
 2021-08-02,2021-07-31,2021-07-20,,AstraZeneca,Kedah,50,1,0,1,0
 2021-08-02,2021-07-19,,,,Kedah,48,0,0,1,1
+2021-08-02,2021-07-30,,,,Kedah,43,0,0,0,1
 2021-08-02,2021-08-01,,,,Kelantan,78,1,0,1,1
 2021-08-02,2021-07-25,,,,Kelantan,81,0,0,1,1
 2021-08-02,2021-08-02,2021-06-30,2021-07-21,Sinovac,Kelantan,77,1,0,1,1
@@ -12266,6 +12326,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-02,2021-07-26,2021-07-09,,Sinovac,Melaka,57,1,0,1,1
 2021-08-02,2021-07-21,,,,Melaka,54,0,0,1,1
 2021-08-02,2021-07-20,2021-07-14,,Pfizer,Melaka,64,0,0,1,1
+2021-08-02,2021-07-12,2021-07-08,,Sinovac,Melaka,60,1,0,1,0
 2021-08-02,2021-07-17,2021-07-13,,Sinovac,Melaka,60,1,0,1,0
 2021-08-02,2021-07-12,2021-07-10,,Sinovac,Negeri Sembilan,60,0,0,1,1
 2021-08-02,2021-07-18,,,,Negeri Sembilan,46,0,0,1,1
@@ -12480,6 +12541,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-02,2021-07-21,,,,Selangor,61,1,0,1,1
 2021-08-02,2021-08-02,,,,Selangor,66,1,1,1,1
 2021-08-02,2021-08-02,,,,Selangor,38,1,1,1,1
+2021-08-02,2021-07-28,2021-07-25,,AstraZeneca,Selangor,56,0,0,1,0
+2021-08-02,2021-08-02,,,,Selangor,22,1,1,1,1
 2021-08-02,2021-07-17,2021-07-05,,Sinovac,Terengganu,66,1,0,1,0
 2021-08-02,2021-07-23,,,,Terengganu,57,1,0,1,1
 2021-08-02,2021-07-27,2021-07-11,,Sinovac,Terengganu,78,1,0,1,1
@@ -12807,6 +12870,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-03,2021-08-03,,,,Selangor,45,0,1,1,1
 2021-08-03,2021-08-03,2021-07-19,,AstraZeneca,Selangor,69,1,0,1,1
 2021-08-03,2021-08-03,2021-07-02,2021-07-23,Sinovac,Selangor,52,1,1,1,1
+2021-08-03,2021-07-31,,,,Selangor,52,1,1,1,1
+2021-08-03,2021-08-03,2021-07-21,,Pfizer,Selangor,51,1,0,1,1
+2021-08-03,2021-08-03,,,,Selangor,60,0,1,0,1
 2021-08-03,2021-07-27,,,,Terengganu,34,0,0,1,0
 2021-08-03,2021-07-25,2021-06-23,2021-07-14,Sinovac,W.P. Kuala Lumpur,77,0,0,1,1
 2021-08-03,2021-08-01,2021-06-11,2021-07-02,Sinovac,W.P. Kuala Lumpur,54,1,0,1,1
@@ -13088,6 +13154,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-04,2021-07-31,,,,Selangor,65,0,0,1,1
 2021-08-04,2021-08-03,,,,Selangor,35,1,0,1,1
 2021-08-04,2021-07-31,2021-06-27,2021-07-18,Sinovac,Selangor,66,0,0,1,1
+2021-08-04,2021-07-31,2021-07-22,,Pfizer,Selangor,52,1,0,1,0
+2021-08-04,2021-08-04,2021-07-14,,Sinovac,Selangor,60,1,1,1,1
 2021-08-04,2021-07-28,,,,Terengganu,81,0,0,1,1
 2021-08-04,2021-07-19,2021-07-10,,Sinovac,Terengganu,39,0,0,1,0
 2021-08-04,2021-07-28,2021-06-26,2021-07-17,Sinovac,Terengganu,57,1,0,1,1
@@ -13410,6 +13478,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-05,2021-07-31,,,,Selangor,97,0,0,1,1
 2021-08-05,2021-07-20,,,,Selangor,56,1,0,1,1
 2021-08-05,2021-08-05,,,,Selangor,47,0,0,1,1
+2021-08-05,2021-07-27,,,,Selangor,37,0,1,1,1
+2021-08-05,2021-08-04,2021-07-08,2021-07-29,Sinovac,Selangor,46,1,0,1,1
 2021-08-05,2021-07-24,,,,W.P. Kuala Lumpur,72,0,0,1,1
 2021-08-05,2021-07-27,2021-07-09,,Pfizer,W.P. Kuala Lumpur,64,1,0,1,0
 2021-08-05,2021-07-27,2021-07-05,,Sinovac,W.P. Kuala Lumpur,49,1,0,1,0
@@ -13722,6 +13792,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-06,2021-07-31,,,,Selangor,68,1,0,1,1
 2021-08-06,2021-08-06,2021-07-23,,Sinovac,Selangor,39,0,1,0,1
 2021-08-06,2021-08-04,,,,Selangor,59,1,0,1,1
+2021-08-06,2021-08-03,,,,Selangor,50,1,0,1,1
+2021-08-06,2021-08-06,,,,Selangor,53,0,0,1,1
 2021-08-06,2021-07-28,2021-07-10,,Sinovac,Terengganu,47,1,0,1,0
 2021-08-06,2021-08-06,2021-08-01,,Pfizer,Terengganu,54,0,1,1,1
 2021-08-06,2021-07-27,2021-07-04,,Sinovac,Terengganu,68,1,0,1,1
@@ -13766,6 +13838,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-06,2021-08-06,2021-05-18,2021-07-20,AstraZeneca,W.P. Kuala Lumpur,83,0,0,1,1
 2021-08-06,2021-08-06,,,,W.P. Kuala Lumpur,74,0,1,1,1
 2021-08-06,2021-08-06,,,,W.P. Kuala Lumpur,39,0,1,1,1
+2021-08-06,2021-07-30,,,,W.P. Kuala Lumpur,75,1,0,1,1
 2021-08-06,2021-08-06,2021-07-12,,Pfizer,W.P. Putrajaya,63,1,0,1,0
 2021-08-07,2021-07-28,,,,Johor,80,0,0,1,1
 2021-08-07,2021-08-01,2021-07-25,,Pfizer,Johor,64,1,0,1,1
@@ -14027,6 +14100,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-07,2021-08-03,2021-07-19,,Pfizer,Selangor,56,0,0,1,0
 2021-08-07,2021-08-07,,,,Selangor,82,0,0,1,1
 2021-08-07,2021-08-07,,,,Selangor,36,0,0,0,1
+2021-08-07,2021-07-14,2021-07-06,,Sinovac,Selangor,47,1,0,1,1
+2021-08-07,2021-08-03,,,,Selangor,67,0,0,1,1
 2021-08-07,2021-08-05,,,,Terengganu,84,0,0,1,1
 2021-08-07,2021-08-06,,,,Terengganu,48,1,0,1,1
 2021-08-07,2021-08-07,2021-07-04,2021-07-25,Sinovac,Terengganu,66,0,1,1,1
@@ -14328,6 +14403,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-08,2021-07-14,,,,Selangor,62,1,0,1,1
 2021-08-08,2021-08-08,,,,Selangor,51,1,0,0,1
 2021-08-08,2021-08-08,,,,Selangor,51,1,0,0,1
+2021-08-08,2021-08-08,2021-06-22,2021-07-13,Sinovac,Selangor,82,0,1,1,1
+2021-08-08,2021-08-07,2021-07-21,,Pfizer,Selangor,84,1,0,1,1
 2021-08-08,2021-08-02,2021-07-27,,Pfizer,Terengganu,51,1,0,1,1
 2021-08-08,2021-08-08,,,,Terengganu,57,1,0,1,1
 2021-08-08,2021-07-28,,,,Terengganu,21,1,0,1,1
@@ -14367,6 +14444,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-08,2021-07-29,2021-07-23,,Sinovac,W.P. Kuala Lumpur,43,1,0,1,1
 2021-08-08,2021-08-08,2021-07-07,2021-07-28,Sinovac,W.P. Kuala Lumpur,76,1,1,1,0
 2021-08-08,2021-08-08,,,,W.P. Kuala Lumpur,81,1,0,1,0
+2021-08-08,2021-08-08,,,,W.P. Kuala Lumpur,88,1,0,1,0
 2021-08-09,2021-07-29,,,,Johor,56,0,0,1,1
 2021-08-09,2021-08-02,2021-07-18,,Sinovac,Johor,72,0,0,1,1
 2021-08-09,2021-07-14,,,,Johor,63,1,0,1,1
@@ -14601,6 +14679,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-09,2021-08-05,,,,Selangor,78,0,1,1,0
 2021-08-09,2021-08-09,2021-07-23,,Sinovac,Selangor,43,1,0,1,1
 2021-08-09,2021-08-09,,,,Selangor,49,0,0,0,1
+2021-08-09,2021-07-17,2021-06-17,2021-07-08,Sinovac,Selangor,65,0,0,1,0
+2021-08-09,2021-08-06,2021-07-21,,Sinovac,Selangor,55,1,0,1,0
+2021-08-09,2021-08-06,2021-07-17,,Sinovac,Selangor,61,1,0,1,1
 2021-08-09,2021-07-30,,,,Terengganu,65,0,0,1,1
 2021-08-09,2021-07-13,,,,Terengganu,53,1,0,1,1
 2021-08-09,2021-07-27,,,,Terengganu,49,1,0,1,1
@@ -14973,6 +15054,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-10,2021-08-10,2021-08-02,,Sinovac,Selangor,35,1,1,0,0
 2021-08-10,2021-08-05,,,,Selangor,50,0,0,0,0
 2021-08-10,2021-08-10,,,,Selangor,80,0,1,0,0
+2021-08-10,2021-08-10,2021-07-26,,Pfizer,Selangor,77,0,1,1,1
 2021-08-10,2021-07-21,,,,Selangor,55,1,0,1,0
 2021-08-10,2021-07-27,,,,Selangor,69,0,0,1,1
 2021-08-10,2021-07-27,2021-06-27,,Sinovac,Selangor,45,1,0,1,1
@@ -14996,6 +15078,12 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-10,2021-08-07,2021-07-28,,Sinovac,Selangor,48,1,0,1,1
 2021-08-10,2021-08-07,,,,Selangor,86,1,0,1,1
 2021-08-10,2021-08-10,,,,Selangor,53,1,0,1,1
+2021-08-10,2021-07-21,,,,Selangor,57,0,0,1,1
+2021-08-10,2021-08-04,2021-07-24,,Sinovac,Selangor,29,0,0,1,1
+2021-08-10,2021-08-02,,,,Selangor,55,0,1,1,1
+2021-08-10,2021-08-09,,,,Selangor,45,1,1,1,1
+2021-08-10,2021-08-10,2021-07-14,,Sinovac,Selangor,60,1,0,1,1
+2021-08-10,2021-08-06,,,,Selangor,38,1,1,0,1
 2021-08-10,2021-08-01,2021-06-23,,Pfizer,Terengganu,80,1,0,1,1
 2021-08-10,2021-08-10,,,,Terengganu,71,0,1,1,1
 2021-08-10,2021-07-30,,,,Terengganu,68,0,0,1,1
@@ -15015,7 +15103,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-10,2021-08-01,,,,W.P. Kuala Lumpur,36,1,0,0,0
 2021-08-10,2021-08-10,,,,W.P. Kuala Lumpur,86,0,0,1,1
 2021-08-10,2021-08-10,,,,W.P. Kuala Lumpur,67,0,0,1,1
-2021-08-10,2021-08-10,2021-07-26,,Pfizer,W.P. Kuala Lumpur,77,0,1,1,1
 2021-08-10,2021-08-10,,,,W.P. Kuala Lumpur,91,0,0,1,1
 2021-08-11,2021-07-26,,,,Johor,36,1,0,1,1
 2021-08-11,2021-08-02,,,,Johor,51,0,0,1,1
@@ -15237,6 +15324,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-11,2021-08-11,,,,Selangor,65,0,0,1,1
 2021-08-11,2021-07-30,,,,Selangor,59,1,0,0,1
 2021-08-11,2021-08-11,,,,Selangor,62,1,1,0,1
+2021-08-11,2021-08-07,2021-07-07,2021-07-28,Sinovac,Selangor,67,1,0,1,1
+2021-08-11,2021-08-11,2021-07-26,,Pfizer,Selangor,61,1,1,1,1
+2021-08-11,2021-08-09,,,,Selangor,60,1,0,0,1
 2021-08-11,2021-08-07,2021-05-30,2021-06-20,Sinovac,Terengganu,89,1,0,1,1
 2021-08-11,2021-07-28,,,,Terengganu,37,0,0,1,1
 2021-08-11,2021-07-30,,,,Terengganu,51,0,0,1,1
@@ -15307,7 +15397,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-12,2021-08-10,,,,Kedah,80,0,0,1,1
 2021-08-12,2021-08-12,2021-07-26,,Sinovac,Kedah,26,0,0,1,0
 2021-08-12,2021-08-12,2021-07-29,,Sinovac,Kedah,27,0,0,1,1
-2021-08-12,2021-07-31,,,,Kedah,77,1,0,1,1
+2021-08-12,2021-08-01,,,,Kedah,77,1,0,1,1
 2021-08-12,2021-08-03,,,,Kedah,70,0,1,1,0
 2021-08-12,2021-08-04,,,,Kedah,64,1,0,1,1
 2021-08-12,2021-08-07,2021-07-30,,Pfizer,Kedah,57,0,0,1,1
@@ -15497,6 +15587,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-12,2021-08-12,2021-07-02,,Pfizer,Selangor,64,1,0,1,1
 2021-08-12,2021-07-25,2021-07-06,,Sinovac,Selangor,76,0,0,1,1
 2021-08-12,2021-08-09,,,,Selangor,81,0,0,1,1
+2021-08-12,2021-08-09,,,,Selangor,16,1,0,1,1
+2021-08-12,2021-08-05,2021-07-24,,Sinovac,Selangor,65,0,0,1,1
+2021-08-12,2021-08-12,,,,Selangor,43,1,1,1,1
 2021-08-12,2021-08-02,,,,Terengganu,69,0,0,1,1
 2021-08-12,2021-07-20,2021-07-13,,Sinovac,Terengganu,59,0,0,1,1
 2021-08-12,2021-07-28,2021-07-26,,Pfizer,Terengganu,52,0,0,1,1
@@ -15718,6 +15811,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-13,2021-08-13,,,,Selangor,39,0,1,0,0
 2021-08-13,2021-08-13,2021-07-26,,Sinovac,Selangor,44,1,1,0,1
 2021-08-13,2021-08-11,,,,Selangor,50,1,0,0,0
+2021-08-13,2021-08-01,,,,Selangor,55,0,0,1,1
+2021-08-13,2021-08-05,2021-07-06,,AstraZeneca,Selangor,62,1,0,1,1
+2021-08-13,2021-08-10,2021-07-19,2021-08-09,Sinovac,Selangor,67,1,0,1,1
 2021-08-13,2021-08-03,2021-07-01,2021-07-22,Sinovac,Terengganu,74,0,0,1,0
 2021-08-13,2021-08-03,,,,Terengganu,42,1,0,1,1
 2021-08-13,2021-07-16,2021-05-27,2021-06-17,Sinovac,Terengganu,61,0,0,1,1
@@ -15951,6 +16047,12 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-14,2021-08-14,2021-06-29,,AstraZeneca,Selangor,73,1,0,1,1
 2021-08-14,2021-08-14,2021-06-26,,AstraZeneca,Selangor,68,0,0,1,1
 2021-08-14,2021-08-14,2021-08-02,,Sinovac,Selangor,32,1,1,0,0
+2021-08-14,2021-07-26,2021-07-05,,Sinovac,Selangor,61,1,0,1,0
+2021-08-14,2021-08-06,2021-07-21,,Pfizer,Selangor,62,1,0,1,0
+2021-08-14,2021-08-14,,,,Selangor,41,0,1,1,0
+2021-08-14,2021-08-07,2021-08-01,,Sinovac,Selangor,47,1,1,0,1
+2021-08-14,2021-08-14,,,,Selangor,34,1,1,0,1
+2021-08-14,2021-07-08,2021-07-05,,Sinovac,Selangor,48,0,0,0,1
 2021-08-14,2021-08-14,,,,Terengganu,90,0,1,1,1
 2021-08-14,2021-08-06,,,,W.P. Kuala Lumpur,47,0,0,0,0
 2021-08-14,2021-08-14,2021-06-25,2021-07-16,Sinovac,W.P. Kuala Lumpur,83,0,0,1,0
@@ -16186,6 +16288,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-15,2021-08-15,2021-08-01,,Pfizer,Selangor,27,0,1,1,0
 2021-08-15,2021-08-11,2021-07-30,,Sinovac,Selangor,42,1,0,1,1
 2021-08-15,2021-08-05,2021-07-05,2021-07-26,Pfizer,Selangor,82,1,0,1,0
+2021-08-15,2021-08-15,2021-06-18,2021-07-09,Sinovac,Selangor,81,1,0,1,1
+2021-08-15,2021-08-15,2021-07-27,,Pfizer,Selangor,47,1,1,0,1
 2021-08-15,2021-07-30,,,,Terengganu,22,0,0,1,1
 2021-08-15,2021-08-06,,,,Terengganu,86,0,0,1,1
 2021-08-15,2021-08-04,2021-06-10,,AstraZeneca,W.P. Kuala Lumpur,69,1,0,1,1
@@ -16437,6 +16541,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-16,2021-08-05,2021-05-20,2021-06-10,Sinovac,Selangor,49,0,0,1,1
 2021-08-16,2021-08-16,,,,Selangor,42,0,0,1,0
 2021-08-16,2021-08-16,2021-07-26,,Pfizer,Selangor,67,1,0,0,1
+2021-08-16,2021-08-16,2021-07-20,,Pfizer,Selangor,54,0,0,1,0
+2021-08-16,2021-08-16,,,,Selangor,73,0,0,1,1
 2021-08-16,2021-08-12,,,,Terengganu,36,0,0,1,1
 2021-08-16,2021-08-12,,,,Terengganu,85,0,0,1,1
 2021-08-16,2021-07-28,,,,Terengganu,62,1,0,1,1
@@ -16522,6 +16628,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-17,2021-08-02,2021-06-30,2021-07-21,Sinovac,Kedah,78,0,0,1,1
 2021-08-17,2021-08-10,2021-06-06,2021-06-27,Sinovac,Kedah,65,0,0,1,1
 2021-08-17,2021-07-27,2021-07-14,,Sinovac,Kedah,59,1,0,1,1
+2021-08-17,2021-08-09,,,,Kedah,35,0,0,1,0
 2021-08-17,2021-08-04,,,,Kelantan,71,0,0,1,1
 2021-08-17,2021-08-03,,,,Kelantan,65,0,0,1,1
 2021-08-17,2021-08-14,,,,Kelantan,65,1,0,1,1
@@ -16639,6 +16746,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-17,2021-07-27,2021-07-19,,Sinovac,Selangor,55,1,0,1,0
 2021-08-17,2021-08-01,,,,Selangor,50,0,0,0,0
 2021-08-17,2021-08-11,,,,Selangor,47,0,0,0,1
+2021-08-17,2021-07-18,,,,Selangor,60,1,0,1,1
 2021-08-17,2021-08-17,2021-07-19,2021-08-09,Sinovac,Selangor,71,1,0,1,1
 2021-08-17,2021-08-17,,,,Selangor,40,1,1,0,1
 2021-08-17,2021-08-17,,,,Selangor,52,1,1,0,0
@@ -17154,6 +17262,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-19,2021-08-19,,,,Selangor,57,0,1,0,1
 2021-08-19,2021-08-19,,,,Selangor,44,1,1,0,1
 2021-08-19,2021-08-19,2021-07-20,,Sinovac,Selangor,55,1,0,1,1
+2021-08-19,2021-08-19,,,,Selangor,39,0,1,1,0
 2021-08-19,2021-08-16,,,,Terengganu,54,0,0,1,1
 2021-08-19,2021-07-24,,,,Terengganu,33,0,0,1,1
 2021-08-19,2021-08-14,,,,W.P. Kuala Lumpur,69,0,0,1,1
@@ -17305,7 +17414,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-20,2021-08-19,,,,Sabah,67,1,0,1,1
 2021-08-20,2021-08-19,,,,Sabah,74,0,0,1,1
 2021-08-20,2021-08-09,2021-07-13,,Sinovac,Sarawak,90,1,0,1,0
-2021-08-20,2021-08-15,,,,Sarawak,11,0,0,1,0
 2021-08-20,2021-08-05,2021-06-09,,AstraZeneca,Selangor,83,0,0,1,1
 2021-08-20,2021-08-18,2021-07-23,,Sinovac,Selangor,49,0,0,1,0
 2021-08-20,2021-08-13,,,,Selangor,49,1,1,1,0
@@ -17356,6 +17464,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-20,2021-08-20,2021-07-23,,Sinovac,Selangor,44,1,1,0,1
 2021-08-20,2021-08-07,,,,Selangor,53,0,0,1,1
 2021-08-20,2021-08-20,,,,Selangor,36,0,0,1,1
+2021-08-20,2021-08-20,,,,Selangor,86,1,1,0,1
 2021-08-20,2021-08-09,2021-07-14,,Sinovac,Selangor,60,1,0,1,0
 2021-08-20,2021-08-10,2021-07-12,2021-08-02,Sinovac,Selangor,51,0,0,1,1
 2021-08-20,2021-08-11,2021-07-30,,Pfizer,Selangor,51,0,0,1,1
@@ -17371,6 +17480,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-20,2021-08-20,,,,Selangor,70,1,1,1,0
 2021-08-20,2021-08-20,2021-08-02,,Sinovac,Selangor,33,0,1,0,0
 2021-08-20,2021-08-20,,,,Selangor,55,1,1,1,1
+2021-08-20,2021-08-20,2021-07-15,2021-08-05,Sinovac,Selangor,50,1,0,1,1
 2021-08-20,2021-08-11,,,,Terengganu,73,0,0,1,1
 2021-08-20,2021-08-20,2021-06-25,,Sinovac,W.P. Kuala Lumpur,86,1,0,1,1
 2021-08-20,2021-08-20,,,,W.P. Kuala Lumpur,84,0,0,1,1
@@ -17386,7 +17496,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-20,2021-07-22,,,,W.P. Kuala Lumpur,54,1,0,1,1
 2021-08-20,2021-08-17,2021-07-07,2021-07-28,Sinovac,W.P. Kuala Lumpur,91,1,1,1,1
 2021-08-20,2021-08-12,,,,W.P. Kuala Lumpur,39,1,1,0,1
-2021-08-20,2021-08-20,,,,W.P. Kuala Lumpur,86,1,1,0,1
 2021-08-21,2021-08-05,2021-05-22,2021-06-12,Sinovac,Johor,72,1,0,1,1
 2021-08-21,2021-08-05,,,,Johor,39,0,0,1,1
 2021-08-21,2021-08-09,2021-07-14,2021-08-04,Sinovac,Johor,60,0,0,1,1
@@ -17535,7 +17644,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-21,2021-08-16,,,,Sabah,79,1,0,0,0
 2021-08-21,2021-08-21,,,,Sabah,88,1,1,1,1
 2021-08-21,2021-08-21,2021-06-14,2021-07-05,Sinovac,Sarawak,86,1,0,1,0
-2021-08-21,2021-08-21,2021-04-25,,Pfizer,Sarawak,60,1,1,1,1
 2021-08-21,2021-08-21,2021-06-27,2021-07-18,Sinovac,Sarawak,45,1,1,1,1
 2021-08-21,2021-08-21,,,,Sarawak,66,0,1,1,1
 2021-08-21,2021-08-10,2021-07-07,2021-07-28,Sinovac,Selangor,76,0,0,1,1
@@ -17855,6 +17963,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-22,2021-08-22,2021-07-26,2021-08-16,Sinovac,Selangor,31,1,1,1,1
 2021-08-22,2021-08-20,2021-07-23,,Pfizer,Selangor,63,1,0,1,1
 2021-08-22,2021-08-22,2021-07-18,2021-08-08,Sinovac,Selangor,37,1,1,0,1
+2021-08-22,2021-08-08,,,,Selangor,18,0,0,1,1
 2021-08-22,2021-08-14,2021-06-20,2021-07-11,Pfizer,Terengganu,78,0,0,1,1
 2021-08-22,2021-08-19,,,,Terengganu,55,1,0,1,0
 2021-08-22,2021-08-15,2021-07-25,,Pfizer,Terengganu,66,1,0,1,1
@@ -18032,6 +18141,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-23,2021-08-16,2021-05-10,2021-05-31,Pfizer,Sabah,80,1,0,1,1
 2021-08-23,2021-08-07,2021-07-13,2021-08-03,Sinovac,Sarawak,75,1,0,1,1
 2021-08-23,2021-08-17,,,,Sarawak,70,1,0,1,1
+2021-08-23,2021-08-23,2021-07-31,,Pfizer,Sarawak,78,1,1,1,0
 2021-08-23,2021-08-15,,,,Sarawak,62,1,0,1,1
 2021-08-23,2021-08-12,2021-07-07,,AstraZeneca,Selangor,30,0,0,1,1
 2021-08-23,2021-08-18,2021-07-05,2021-07-26,Sinovac,Selangor,77,1,0,1,1
@@ -18104,6 +18214,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-23,2021-08-23,,,,Selangor,54,1,1,0,0
 2021-08-23,2021-07-24,,,,Selangor,36,0,0,1,1
 2021-08-23,2021-08-23,,,,Selangor,38,0,1,0,0
+2021-08-23,2021-08-08,2021-07-22,,Sinovac,Selangor,34,1,0,1,1
 2021-08-23,2021-08-13,,,,Terengganu,65,0,0,1,1
 2021-08-23,2021-08-02,,,,Terengganu,68,1,0,1,1
 2021-08-23,2021-08-05,,,,Terengganu,49,0,0,1,1
@@ -18450,6 +18561,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-25,2021-08-25,2021-08-08,,Pending VMS sync,Sabah,74,1,1,1,0
 2021-08-25,2021-08-17,,,,Sabah,74,1,0,1,1
 2021-08-25,2021-08-20,,,,Sabah,85,0,0,1,1
+2021-08-25,2021-08-23,2021-06-07,2021-07-27,AstraZeneca,Sarawak,85,0,0,1,1
 2021-08-25,2021-08-25,,,,Sarawak,81,1,1,1,1
 2021-08-25,2021-08-09,2021-07-31,,Sinovac,Selangor,38,1,0,1,1
 2021-08-25,2021-08-18,,,,Selangor,70,1,0,1,1
@@ -18497,6 +18609,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-25,2021-08-19,,,,Selangor,84,0,0,1,0
 2021-08-25,2021-08-25,2021-07-25,,AstraZeneca,Selangor,64,1,0,1,1
 2021-08-25,2021-08-25,,,,Selangor,70,1,0,1,1
+2021-08-25,2021-08-25,,,,Selangor,63,0,1,1,1
 2021-08-25,2021-08-15,,,,Terengganu,41,1,0,1,1
 2021-08-25,2021-08-13,2021-08-07,,AstraZeneca,Terengganu,59,0,1,1,0
 2021-08-25,2021-08-12,,,,Terengganu,62,1,0,1,0
@@ -18980,6 +19093,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-27,2021-08-05,,,,Selangor,46,1,0,0,0
 2021-08-27,2021-08-27,,,,Selangor,48,1,0,0,0
 2021-08-27,2021-08-27,2021-06-21,2021-07-12,Sinovac,Selangor,69,1,1,1,1
+2021-08-27,2021-08-27,2021-08-17,,Pfizer,Selangor,57,0,1,1,1
 2021-08-27,2021-08-22,,,,Terengganu,70,1,0,1,0
 2021-08-27,2021-08-24,,,,Terengganu,86,0,0,1,1
 2021-08-27,2021-08-20,,,,Terengganu,59,1,0,1,1
@@ -19139,7 +19253,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-28,2021-08-28,,,,Sabah,42,1,1,0,0
 2021-08-28,2021-08-24,,,,Sabah,63,1,0,1,1
 2021-08-28,2021-08-28,,,,Sabah,81,1,1,1,1
-2021-08-28,2021-08-28,,,,Sabah,51,0,1,0,1
 2021-08-28,2021-08-28,,,,Sabah,62,0,1,0,0
 2021-08-28,2021-08-20,,,,Sabah,82,0,1,1,0
 2021-08-28,2021-08-27,2021-08-08,,Pfizer,Sabah,82,0,1,0,0
@@ -19191,6 +19304,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-28,2021-08-28,,,,Selangor,46,0,1,0,1
 2021-08-28,2021-08-28,,,,Selangor,35,1,1,1,0
 2021-08-28,2021-08-28,,,,Selangor,53,0,1,0,0
+2021-08-28,2021-08-18,2021-08-02,,Sinovac,Selangor,50,1,1,0,0
 2021-08-28,2021-08-15,,,,Selangor,58,1,0,0,0
 2021-08-28,2021-07-26,,,,Selangor,48,0,0,1,1
 2021-08-28,2021-08-12,2021-08-09,,Pfizer,Selangor,66,0,0,1,0
@@ -19203,6 +19317,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-28,2021-08-25,,,,Selangor,58,1,0,1,1
 2021-08-28,2021-08-21,,,,Selangor,62,1,1,1,1
 2021-08-28,2021-08-19,,,,Selangor,53,0,0,0,0
+2021-08-28,2021-08-22,,,,Selangor,73,0,0,1,1
 2021-08-28,2021-08-21,,,,Terengganu,70,0,0,1,1
 2021-08-28,2021-08-26,2021-08-23,,Pfizer,Terengganu,34,1,0,1,1
 2021-08-28,2021-08-21,,,,Terengganu,62,0,0,1,1
@@ -19215,7 +19330,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-28,2021-07-26,,,,W.P. Kuala Lumpur,35,0,0,1,1
 2021-08-28,2021-08-28,2021-08-10,,Sinovac,W.P. Kuala Lumpur,51,0,1,0,1
 2021-08-28,2021-08-12,2021-07-04,2021-07-25,Sinovac,W.P. Kuala Lumpur,49,1,0,1,1
-2021-08-28,2021-08-18,2021-08-02,,Sinovac,W.P. Kuala Lumpur,50,1,1,0,0
 2021-08-29,2021-08-17,2021-06-01,2021-06-22,Sinovac,Johor,81,1,0,1,1
 2021-08-29,2021-08-14,,,,Johor,46,0,0,1,0
 2021-08-29,2021-08-22,,,,Johor,71,1,0,1,0
@@ -19499,6 +19613,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-30,2021-08-30,,,,Johor,33,1,1,0,1
 2021-08-30,2021-08-23,2021-07-20,2021-08-10,Sinovac,Johor,58,1,0,1,1
 2021-08-30,2021-08-26,,,,Johor,59,0,0,1,1
+2021-08-30,2021-08-28,2021-08-15,,Sinovac,Johor,44,1,0,0,0
 2021-08-30,2021-08-28,,,,Kedah,86,1,0,1,1
 2021-08-30,2021-08-18,,,,Kedah,56,0,0,1,1
 2021-08-30,2021-08-20,,,,Kedah,80,0,0,1,1
@@ -19863,7 +19978,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-08-31,2021-08-31,2021-06-28,2021-07-19,Pfizer,Sabah,82,0,1,1,0
 2021-08-31,2021-08-20,2021-08-01,,Pfizer,Sabah,60,1,0,1,1
 2021-08-31,2021-08-31,2021-08-06,2021-08-27,Pfizer,Sabah,70,1,1,1,1
-2021-08-31,2021-08-31,,,,Sabah,61,1,1,1,1
 2021-08-31,2021-08-31,,,,Sabah,54,1,1,1,0
 2021-08-31,2021-08-31,,,,Sabah,80,1,1,1,1
 2021-08-31,2021-08-24,2021-07-21,,Pfizer,Sabah,65,1,0,1,1
@@ -20008,7 +20122,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-01,2021-08-22,,,,Kedah,42,1,0,1,1
 2021-09-01,2021-08-27,2021-07-08,2021-07-29,Sinovac,Kedah,55,1,0,1,1
 2021-09-01,2021-08-29,2021-08-12,,Pfizer,Kedah,48,0,0,1,1
-2021-09-01,2021-08-22,,,,Kedah,42,1,0,1,1
+2021-09-01,2021-08-20,2021-07-24,2021-08-14,Sinovac,Kedah,45,1,0,1,0
 2021-09-01,2021-08-31,,,,Kedah,44,0,1,1,1
 2021-09-01,2021-09-01,,,,Kedah,82,0,1,1,1
 2021-09-01,2021-09-01,,,,Kedah,81,1,1,1,1
@@ -20031,7 +20145,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-01,2021-08-29,,,,Negeri Sembilan,61,1,0,1,0
 2021-09-01,2021-09-01,2021-08-18,,Pfizer,Negeri Sembilan,57,0,1,1,1
 2021-09-01,2021-09-01,2021-05-25,2021-06-15,Sinovac,Negeri Sembilan,76,1,1,1,1
-2021-09-01,2021-08-26,,,,Negeri Sembilan,43,0,1,0,0
+2021-09-01,2021-09-01,,,,Negeri Sembilan,43,0,1,0,0
 2021-09-01,2021-08-29,2021-08-05,,Sinovac,Negeri Sembilan,40,1,1,0,0
 2021-09-01,2021-08-14,,,,Pahang,81,1,0,1,0
 2021-09-01,2021-08-27,,,,Pahang,87,1,0,1,0
@@ -20119,6 +20233,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-01,2021-08-26,,,,Sabah,65,1,0,1,1
 2021-09-01,2021-09-01,2021-08-23,,Pfizer,Sabah,75,1,1,1,0
 2021-09-01,2021-08-31,,,,Sabah,85,0,1,1,0
+2021-09-01,2021-08-27,,,,Sabah,90,1,0,1,1
 2021-09-01,2021-08-28,2021-06-20,2021-07-11,Sinovac,Sarawak,62,1,0,1,1
 2021-09-01,2021-08-29,2021-06-26,2021-07-17,Sinovac,Sarawak,78,1,0,1,1
 2021-09-01,2021-08-26,2021-05-28,,Sinovac,Sarawak,81,0,0,1,1
@@ -20323,6 +20438,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-02,2021-09-01,2021-08-21,,Sinovac,Sabah,86,1,0,0,0
 2021-09-02,2021-09-02,2021-06-18,2021-07-09,Sinovac,Sabah,68,1,0,1,1
 2021-09-02,2021-09-02,2021-07-26,2021-08-16,Sinovac,Sabah,85,0,1,1,0
+2021-09-02,2021-09-02,2021-08-25,,Pfizer,Sabah,62,1,1,1,1
 2021-09-02,2021-09-02,,,,Sabah,33,1,1,0,0
 2021-09-02,2021-09-02,,,,Sabah,59,1,1,1,0
 2021-09-02,2021-09-02,,,,Sabah,86,0,1,1,0
@@ -20393,6 +20509,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-02,2021-08-18,,,,Selangor,38,0,0,0,0
 2021-09-02,2021-09-02,,,,Selangor,51,0,0,0,1
 2021-09-02,2021-09-02,,,,Selangor,34,1,0,0,1
+2021-09-02,2021-08-23,2021-08-04,,Sinovac,Selangor,44,0,0,1,1
 2021-09-02,2021-08-27,2021-08-14,,Sinovac,Terengganu,71,0,0,1,0
 2021-09-02,2021-08-22,2021-08-01,,Pfizer,Terengganu,62,1,0,1,1
 2021-09-02,2021-08-21,2021-08-10,,Sinovac,Terengganu,47,0,0,1,1
@@ -20485,7 +20602,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-03,2021-08-26,,,,Kelantan,69,1,0,1,1
 2021-09-03,2021-08-25,2021-08-08,,Sinovac,Kelantan,80,0,0,1,1
 2021-09-03,2021-09-03,,,,Kelantan,77,1,1,1,1
-2021-09-03,2021-08-27,2021-06-16,2021-07-07,Sinovac,Melaka,67,1,0,1,1
 2021-09-03,2021-08-28,,,,Melaka,46,1,0,1,1
 2021-09-03,2021-08-27,,,,Negeri Sembilan,64,0,0,1,1
 2021-09-03,2021-09-03,2021-06-13,2021-07-04,Sinovac,Negeri Sembilan,67,0,1,1,1
@@ -20526,6 +20642,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-03,2021-08-19,,,,Pulau Pinang,73,0,0,1,1
 2021-09-03,2021-08-31,,,,Sabah,71,0,0,1,1
 2021-09-03,2021-08-26,,,,Sabah,62,1,0,0,0
+2021-09-03,2021-09-03,,,,Sabah,93,0,1,1,1
 2021-09-03,2021-08-18,2021-08-05,,Pfizer,Sabah,82,1,0,1,1
 2021-09-03,2021-09-03,,,,Sabah,81,1,1,1,1
 2021-09-03,2021-08-12,2021-06-03,2021-06-24,Pfizer,Sabah,82,1,0,1,1
@@ -20593,6 +20710,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-03,2021-08-22,2021-06-22,2021-07-13,Sinovac,Selangor,80,1,0,1,0
 2021-09-03,2021-07-31,2021-07-20,,Sinovac,Selangor,44,1,0,1,0
 2021-09-03,2021-08-13,,,,Selangor,69,1,0,1,1
+2021-09-03,2021-08-14,,,,Selangor,61,1,0,1,1
+2021-09-03,2021-08-28,,,,Selangor,82,1,0,1,1
 2021-09-03,2021-08-25,,,,Terengganu,69,1,0,1,1
 2021-09-03,2021-08-15,,,,W.P. Kuala Lumpur,72,0,0,1,1
 2021-09-03,2021-08-27,2021-06-25,2021-07-16,Sinovac,W.P. Kuala Lumpur,47,0,0,1,1
@@ -20660,7 +20779,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-04,2021-08-24,,,,Kedah,57,0,0,1,1
 2021-09-04,2021-08-30,,,,Kedah,78,1,0,1,1
 2021-09-04,2021-08-24,,,,Kedah,74,0,0,1,1
-2021-09-04,2021-08-25,,,,Kedah,48,1,0,1,1
 2021-09-04,2021-09-03,,,,Kedah,32,0,1,0,1
 2021-09-04,2021-09-04,,,,Kedah,82,0,1,1,1
 2021-09-04,2021-09-04,,,,Kedah,88,0,1,1,1
@@ -20779,6 +20897,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-04,2021-09-04,2021-07-21,,Sinovac,Sarawak,63,1,0,1,1
 2021-09-04,2021-09-04,,,,Sarawak,90,0,1,1,0
 2021-09-04,2021-09-04,2021-06-11,2021-07-02,Sinovac,Sarawak,64,1,1,1,1
+2021-09-04,2021-09-04,2021-08-05,2021-08-26,Sinovac,Sarawak,79,1,1,1,1
 2021-09-04,2021-09-03,2021-05-11,2021-06-01,Sinovac,Selangor,78,1,0,1,1
 2021-09-04,2021-08-19,2021-06-18,2021-07-09,Sinovac,Selangor,74,1,0,1,0
 2021-09-04,2021-08-15,,,,Selangor,26,1,0,1,1
@@ -20847,6 +20966,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-05,2021-09-03,2021-06-22,2021-07-13,Sinovac,Johor,58,1,0,0,1
 2021-09-05,2021-09-03,,,,Johor,35,0,0,1,0
 2021-09-05,2021-09-05,,,,Johor,39,0,1,1,1
+2021-09-05,2021-08-19,,,,Johor,53,0,0,1,1
 2021-09-05,2021-08-20,,,,Kedah,57,0,0,1,1
 2021-09-05,2021-08-27,2021-04-28,2021-05-19,Pfizer,Kedah,47,0,0,1,1
 2021-09-05,2021-09-01,,,,Kedah,93,0,0,1,0
@@ -20983,6 +21103,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-05,2021-09-03,2021-06-22,2021-07-13,Sinovac,Sarawak,53,0,0,1,1
 2021-09-05,2021-09-05,,,,Sarawak,75,1,1,1,1
 2021-09-05,2021-08-29,,,,Sarawak,32,1,1,1,0
+2021-09-05,2021-09-05,2021-06-17,2021-07-08,Sinovac,Sarawak,29,0,0,1,1
+2021-09-05,2021-09-05,2021-06-24,2021-07-15,Sinovac,Sarawak,54,1,1,1,1
 2021-09-05,2021-09-05,,,,Selangor,93,0,0,1,0
 2021-09-05,2021-09-05,2021-06-09,2021-06-30,Sinovac,Selangor,69,0,0,1,1
 2021-09-05,2021-07-19,,,,Selangor,52,1,0,1,1
@@ -21007,6 +21129,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-05,2021-07-18,2021-08-15,,Sinovac,Selangor,54,1,1,1,1
 2021-09-05,2021-09-03,2021-08-12,,Pfizer,Selangor,58,0,0,1,1
 2021-09-05,2021-09-02,,,,Selangor,17,0,0,1,1
+2021-09-05,2021-08-23,,,,Selangor,58,0,0,0,0
 2021-09-05,2021-08-29,2021-06-01,2021-06-22,Sinovac,Terengganu,80,0,0,1,1
 2021-09-05,2021-09-02,,,,Terengganu,76,1,0,1,1
 2021-09-05,2021-09-05,2021-08-29,,Pfizer,Terengganu,67,1,0,1,1
@@ -21094,6 +21217,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-06,2021-09-03,2021-08-04,2021-08-25,Pfizer,Kelantan,40,1,0,1,0
 2021-09-06,2021-05-24,2021-09-01,,Pfizer,Melaka,21,1,1,1,1
 2021-09-06,2021-08-24,2021-07-01,2021-07-22,Sinovac,Melaka,61,0,1,1,0
+2021-09-06,2021-08-29,,,,Melaka,42,1,0,1,1
 2021-09-06,2021-09-06,,,,Melaka,18,1,0,1,1
 2021-09-06,2021-09-06,,,,Melaka,40,1,1,0,0
 2021-09-06,2021-07-24,,,,Negeri Sembilan,71,1,0,1,1
@@ -21121,6 +21245,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-06,2021-09-06,2021-05-23,2021-06-13,Sinovac,Perak,70,1,0,1,1
 2021-09-06,2021-08-25,,,,Perak,31,0,0,1,1
 2021-09-06,2021-09-06,2021-08-27,,Pfizer,Perak,35,1,1,1,1
+2021-09-06,2021-09-06,2021-07-02,2021-07-23,Sinovac,Perak,93,0,0,1,0
 2021-09-06,2021-08-24,,,,Perlis,76,0,0,1,1
 2021-09-06,2021-09-06,,,,Perlis,83,1,0,1,1
 2021-09-06,2021-09-05,,,,Pulau Pinang,81,1,0,1,1
@@ -21209,6 +21334,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-06,2021-08-23,2021-06-30,,AstraZeneca,Selangor,68,0,0,1,1
 2021-09-06,2021-09-06,,,,Selangor,30,0,1,1,1
 2021-09-06,2021-09-06,2021-07-24,2021-08-14,Sinovac,Selangor,36,1,1,0,1
+2021-09-06,2021-08-18,2021-06-16,2021-07-07,Sinovac,Selangor,65,1,0,1,1
+2021-09-06,2021-08-31,,,,Selangor,71,0,0,1,1
 2021-09-06,2021-08-26,,,,Terengganu,45,1,0,1,1
 2021-09-06,2021-08-30,,,,Terengganu,51,1,0,1,1
 2021-09-06,2021-09-03,,,,Terengganu,62,0,0,1,1
@@ -21281,6 +21408,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-07,2021-08-27,2021-08-09,,Sinovac,Kelantan,55,0,0,1,1
 2021-09-07,2021-08-30,,,,Kelantan,84,0,0,1,1
 2021-09-07,2021-09-07,,,,Kelantan,69,0,1,1,1
+2021-09-07,2021-09-07,,,,Kelantan,80,1,1,1,1
 2021-09-07,2021-09-04,2021-08-27,,Sinovac,Melaka,48,1,0,1,1
 2021-09-07,2021-08-12,,,,Melaka,38,1,0,1,0
 2021-09-07,2021-09-03,,,,Melaka,42,0,1,1,1
@@ -21403,6 +21531,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-07,2021-09-03,,,,Selangor,47,0,0,1,1
 2021-09-07,2021-09-06,2021-05-31,2021-06-21,Pfizer,Selangor,37,1,0,1,1
 2021-09-07,2021-08-30,,,,Selangor,43,0,0,0,0
+2021-09-07,2021-08-31,2021-08-21,,Sinovac,Selangor,40,0,0,1,1
 2021-09-07,2021-09-02,,,,Terengganu,39,0,0,1,0
 2021-09-07,2021-08-30,,,,Terengganu,71,0,0,1,1
 2021-09-07,2021-09-06,2021-06-16,2021-07-07,Pfizer,Terengganu,70,0,0,1,1
@@ -21471,7 +21600,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-08,2021-09-01,2021-08-18,,Sinovac,Melaka,41,1,0,0,0
 2021-09-08,2021-09-08,,,,Melaka,36,1,1,1,1
 2021-09-08,2021-09-02,,,,Melaka,42,1,0,0,0
-2021-09-08,2021-08-26,,,,Negeri Sembilan,51,0,0,1,1
+2021-09-08,2021-09-08,,,,Negeri Sembilan,51,0,0,1,1
 2021-09-08,2021-08-10,2021-05-07,2021-05-28,Pfizer,Negeri Sembilan,75,1,1,1,0
 2021-09-08,2021-08-25,2021-07-26,2021-08-16,Sinovac,Pahang,58,0,0,1,1
 2021-09-08,2021-09-02,,,,Pahang,24,0,0,1,0
@@ -21523,6 +21652,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-08,2021-09-08,,,,Pulau Pinang,61,1,1,1,1
 2021-09-08,2021-08-27,2021-08-22,,AstraZeneca,Pulau Pinang,46,1,0,1,0
 2021-09-08,2021-09-08,2021-06-29,2021-07-21,Sinovac,Pulau Pinang,66,0,0,1,1
+2021-09-08,2021-09-08,,,,Pulau Pinang,37,0,1,0,1
 2021-09-08,2021-08-30,,,,Sabah,79,1,0,1,1
 2021-09-08,2021-08-27,,,,Sabah,26,1,0,1,1
 2021-09-08,2021-09-06,2021-07-23,,Pfizer,Sabah,67,1,0,1,1
@@ -21793,6 +21923,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-09,2021-09-01,2021-06-13,2021-08-15,AstraZeneca,Selangor,63,0,0,1,1
 2021-09-09,2021-09-04,,,,Selangor,61,1,0,0,0
 2021-09-09,2021-09-09,,,,Selangor,55,1,0,1,1
+2021-09-09,2021-08-31,2021-08-09,,Sinovac,Selangor,64,1,0,1,1
 2021-09-09,2021-08-23,2021-08-16,,Sinovac,Terengganu,36,1,0,1,1
 2021-09-09,2021-09-09,2021-08-25,,Sinovac,Terengganu,83,0,1,1,1
 2021-09-09,2021-07-29,,,,W.P. Kuala Lumpur,91,0,1,1,1
@@ -21898,6 +22029,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-10,2021-09-03,,,,Perak,84,0,0,1,1
 2021-09-10,2021-09-06,,,,Perak,70,0,0,1,1
 2021-09-10,2021-09-08,2021-05-23,2021-06-13,Sinovac,Perak,73,0,1,1,1
+2021-09-10,2021-08-31,,,,Perak,70,1,0,1,1
 2021-09-10,2021-09-07,,,,Perlis,71,0,0,1,1
 2021-09-10,2021-08-21,,,,Pulau Pinang,64,0,0,1,0
 2021-09-10,2021-09-02,2021-07-20,2021-08-10,Pfizer,Pulau Pinang,90,1,0,1,0
@@ -21951,6 +22083,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-10,2021-09-07,,,,Sabah,63,0,0,1,1
 2021-09-10,2021-08-31,,,,Sabah,86,0,0,1,1
 2021-09-10,2021-09-04,2021-06-06,2021-06-27,Sinovac,Sabah,81,0,0,1,1
+2021-09-10,2021-09-10,,,,Sabah,91,1,1,1,1
+2021-09-10,2021-09-10,,,,Sabah,68,0,1,1,1
+2021-09-10,2021-09-10,,,,Sabah,27,0,1,1,0
 2021-09-10,2021-08-26,2021-06-15,2021-07-06,Sinovac,Sarawak,65,1,0,1,0
 2021-09-10,2021-09-01,2021-07-16,2021-08-06,Sinovac,Sarawak,51,0,0,1,0
 2021-09-10,2021-09-10,,,,Sarawak,76,0,0,1,1
@@ -22032,6 +22167,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-11,2021-09-08,,,,Kedah,77,1,0,1,1
 2021-09-11,2021-09-09,2021-08-29,,Pfizer,Kedah,62,0,1,1,1
 2021-09-11,2021-09-09,2021-08-26,,Pfizer,Kedah,38,0,0,1,1
+2021-09-11,2021-09-05,2021-08-25,,Pfizer,Kedah,39,0,0,1,0
+2021-09-11,2021-09-11,,,,Kedah,82,0,1,1,1
 2021-09-11,2021-09-05,2021-08-25,,Pfizer,Kelantan,72,1,0,1,0
 2021-09-11,2021-09-10,2021-08-26,,Sinovac,Kelantan,66,1,0,1,1
 2021-09-11,2021-09-11,,,,Kelantan,78,1,1,1,0
@@ -22072,6 +22209,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-11,2021-09-03,,,,Perak,46,1,1,0,1
 2021-09-11,2021-09-11,2021-06-05,2021-06-26,Pfizer,Perak,71,0,1,1,1
 2021-09-11,2021-09-11,,,,Perak,62,1,0,1,1
+2021-09-11,2021-08-28,,,,Perak,71,0,0,1,1
 2021-09-11,2021-09-04,,,,Perlis,32,0,0,1,1
 2021-09-11,2021-08-29,,,,Perlis,60,0,0,0,1
 2021-09-11,2021-08-31,,,,Pulau Pinang,36,0,0,1,1
@@ -22131,6 +22269,9 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-11,2021-09-11,2021-08-03,2021-08-24,Sinovac,Sarawak,84,0,0,1,1
 2021-09-11,2021-09-11,2021-07-02,2021-07-23,Sinovac,Sarawak,35,0,1,1,1
 2021-09-11,2021-09-11,,,,Sarawak,85,0,1,1,1
+2021-09-11,2021-09-11,2021-06-17,2021-07-08,Sinovac,Sarawak,67,0,1,1,1
+2021-09-11,2021-09-11,2021-06-23,2021-07-14,Sinovac,Sarawak,62,0,1,1,1
+2021-09-11,2021-09-11,2021-06-17,2021-07-08,Sinovac,Sarawak,49,0,1,1,1
 2021-09-11,2021-09-04,,,,Selangor,80,1,0,1,1
 2021-09-11,2021-09-06,,,,Selangor,78,1,0,1,0
 2021-09-11,2021-08-29,,,,Selangor,58,1,0,1,1
@@ -22210,6 +22351,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-12,2021-09-03,,,,Kedah,64,1,0,1,0
 2021-09-12,2021-09-11,,,,Kedah,61,0,0,1,1
 2021-09-12,2021-08-28,2021-08-19,,Sinovac,Kedah,62,0,0,1,0
+2021-09-12,2021-08-23,,,,Kedah,42,1,0,1,0
 2021-09-12,2021-09-10,2021-07-06,2021-08-25,Sinovac,Kelantan,70,0,0,1,1
 2021-09-12,2021-09-12,2021-09-03,,Pfizer,Kelantan,61,1,1,1,1
 2021-09-12,2021-08-31,,,,Kelantan,68,0,0,1,1
@@ -22220,6 +22362,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-12,2021-08-26,2021-06-02,2021-06-23,Sinovac,Kelantan,73,0,0,1,1
 2021-09-12,2021-09-04,,,,Kelantan,69,1,0,1,1
 2021-09-12,2021-09-04,,,,Kelantan,40,1,0,1,1
+2021-09-12,2021-09-05,2021-04-18,2021-05-09,Sinovac,Kelantan,55,1,0,1,1
 2021-09-12,2021-08-24,2021-08-21,,Sinovac,Melaka,28,0,0,1,0
 2021-09-12,2021-09-06,,,,Melaka,102,1,0,1,1
 2021-09-12,2021-09-02,,,,Melaka,92,0,0,1,1
@@ -22318,6 +22461,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-12,2021-09-12,,,,Sarawak,80,1,1,1,1
 2021-09-12,2021-09-12,2021-07-08,2021-07-29,Sinovac,Sarawak,71,0,0,1,1
 2021-09-12,2021-09-12,2021-06-14,2021-07-05,Sinovac,Sarawak,84,1,1,1,1
+2021-09-12,2021-09-12,,,,Sarawak,77,1,1,1,1
 2021-09-12,2021-08-28,2021-07-08,2021-07-29,Sinovac,Selangor,49,1,0,1,1
 2021-09-12,2021-09-02,,,,Selangor,77,0,0,1,1
 2021-09-12,2021-08-20,,,,Selangor,67,0,0,1,1
@@ -22335,6 +22479,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-12,2021-09-09,2021-06-21,2021-07-13,Sinovac,Selangor,72,1,0,1,1
 2021-09-12,2021-09-12,2021-06-09,2021-06-30,Pfizer,Selangor,70,1,0,1,1
 2021-09-12,2021-08-30,2021-08-09,,Pfizer,Selangor,40,0,0,1,0
+2021-09-12,2021-09-02,,,,Selangor,90,1,0,1,1
 2021-09-12,2021-08-25,,,,Terengganu,48,0,0,1,0
 2021-09-12,2021-09-07,2021-06-03,2021-06-24,Sinovac,Terengganu,67,1,0,1,1
 2021-09-12,2021-09-10,,,,Terengganu,82,0,0,1,1
@@ -22380,9 +22525,13 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-13,2021-09-13,,,,Johor,56,0,1,1,1
 2021-09-13,2021-09-13,2021-08-21,,Pfizer,Johor,48,0,1,1,1
 2021-09-13,2021-09-12,,,,Johor,41,1,0,1,1
+2021-09-13,2021-09-08,,,,Johor,28,1,0,0,0
 2021-09-13,2021-08-31,,,,Kedah,75,1,0,1,0
 2021-09-13,2021-09-01,2021-07-15,2021-08-05,Sinovac,Kedah,53,1,0,1,1
 2021-09-13,2021-09-04,,,,Kedah,86,0,0,1,0
+2021-09-13,2021-09-01,,,,Kedah,41,1,0,1,1
+2021-09-13,2021-09-13,,,,Kedah,74,0,1,1,1
+2021-09-13,2021-09-13,2021-08-23,,Pfizer,Kedah,83,0,1,1,1
 2021-09-13,2021-09-10,,,,Kelantan,67,1,0,1,1
 2021-09-13,2021-09-09,,,,Kelantan,65,0,0,1,1
 2021-09-13,2021-09-09,,,,Kelantan,47,0,0,1,1
@@ -22394,7 +22543,6 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-13,2021-08-24,,,,Melaka,55,0,0,1,1
 2021-09-13,2021-09-07,2021-06-15,2021-07-06,Sinovac,Melaka,74,1,0,1,1
 2021-09-13,2021-09-13,2021-06-30,2021-07-21,Sinovac,Melaka,62,1,1,1,0
-2021-09-13,2021-09-13,,,,Melaka,39,0,0,1,1
 2021-09-13,2021-09-07,,,,Negeri Sembilan,29,1,0,1,1
 2021-09-13,2021-08-15,2021-08-11,,Pfizer,Pahang,46,0,0,1,0
 2021-09-13,2021-08-19,2021-07-10,2021-07-31,Sinovac,Pahang,84,1,0,1,1
@@ -22460,6 +22608,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-13,2021-08-28,,,,Sabah,66,1,0,1,1
 2021-09-13,2021-09-12,,,,Sabah,69,0,0,1,1
 2021-09-13,2021-09-13,,,,Sabah,62,1,1,0,1
+2021-09-13,2021-09-13,,,,Sabah,64,0,1,1,1
 2021-09-13,2021-09-08,2021-06-22,2021-07-13,Sinovac,Sarawak,83,1,0,1,1
 2021-09-13,2021-09-12,2021-08-03,2021-08-24,Pending VMS sync,Sarawak,81,0,0,1,1
 2021-09-13,2021-09-07,,,,Sarawak,93,1,0,1,1
@@ -22481,6 +22630,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-13,2021-09-06,,,,Selangor,55,1,0,0,1
 2021-09-13,2021-08-23,,,,Selangor,59,0,0,1,0
 2021-09-13,2021-09-03,,,,Selangor,43,0,1,0,1
+2021-09-13,2021-09-12,,,,Selangor,85,0,0,1,1
+2021-09-13,2021-09-13,,,,Selangor,27,0,1,0,0
 2021-09-13,2021-08-24,,,,Terengganu,48,1,0,1,0
 2021-09-13,2021-09-03,2021-07-07,2021-07-28,Sinovac,Terengganu,63,0,0,1,1
 2021-09-13,2021-08-12,,,,W.P. Kuala Lumpur,58,0,0,1,1
@@ -22507,6 +22658,15 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-14,2021-09-14,2021-06-15,2021-07-06,Sinovac,Johor,71,1,0,1,1
 2021-09-14,2021-09-14,,,,Johor,37,0,1,0,0
 2021-09-14,2021-09-07,2021-08-24,,Pfizer,Johor,41,1,0,0,0
+2021-09-14,2021-08-24,,,,Johor,63,0,0,1,1
+2021-09-14,2021-09-03,2021-08-25,,Pfizer,Johor,43,0,0,1,1
+2021-09-14,2021-09-08,2021-08-25,,Pfizer,Johor,81,0,0,1,1
+2021-09-14,2021-09-06,2021-08-30,,AstraZeneca,Johor,67,0,0,1,1
+2021-09-14,2021-09-05,,,,Johor,64,1,0,1,1
+2021-09-14,2021-09-11,,,,Johor,64,0,0,1,0
+2021-09-14,2021-09-09,2021-08-31,,Pfizer,Johor,30,0,0,1,1
+2021-09-14,2021-09-14,,,,Johor,40,1,1,1,1
+2021-09-14,2021-09-04,,,,Johor,45,0,0,0,1
 2021-09-14,2021-08-14,2021-07-24,,Pfizer,Kedah,57,1,0,1,1
 2021-09-14,2021-08-27,2021-03-12,2021-04-05,Pfizer,Kedah,47,1,0,0,0
 2021-09-14,2021-09-06,,,,Kedah,87,0,0,1,1
@@ -22516,6 +22676,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-14,2021-09-02,,,,Kedah,71,1,0,1,1
 2021-09-14,2021-09-08,2021-08-23,,Sinovac,Kedah,86,0,0,1,1
 2021-09-14,2021-09-10,,,,Kedah,36,0,0,1,1
+2021-09-14,2021-09-05,,,,Kedah,71,0,0,1,1
 2021-09-14,2021-08-26,,,,Kelantan,56,1,0,1,0
 2021-09-14,2021-09-04,2021-08-16,,Sinovac,Kelantan,83,0,0,1,1
 2021-09-14,2021-09-06,,,,Kelantan,74,1,0,1,0
@@ -22530,6 +22691,8 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-14,2021-09-06,,,,Pahang,51,1,0,0,0
 2021-09-14,2021-09-11,2021-07-18,2021-08-08,Sinovac,Perak,56,1,0,1,1
 2021-09-14,2021-09-09,,,,Perak,41,1,1,0,0
+2021-09-14,2021-09-05,2021-08-21,,Pending VMS sync,Perak,76,0,0,1,1
+2021-09-14,2021-09-14,2021-07-12,2021-08-02,Sinovac,Perak,83,1,0,1,1
 2021-09-14,2021-09-08,,,,Perlis,66,0,0,1,1
 2021-09-14,2021-07-31,2021-09-05,,Pending VMS sync,Pulau Pinang,36,0,1,1,1
 2021-09-14,2021-09-07,2021-08-13,,AstraZeneca,Pulau Pinang,88,0,0,1,1
@@ -22573,6 +22736,7 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-14,2021-09-14,,,,Sabah,51,0,1,0,1
 2021-09-14,2021-09-14,,,,Sabah,55,1,0,0,1
 2021-09-14,2021-09-14,,,,Sabah,70,0,1,0,1
+2021-09-14,2021-09-11,2021-08-11,,Sinovac,Sabah,55,1,0,0,1
 2021-09-14,2021-09-14,2021-08-24,,Pfizer,Sarawak,59,0,0,1,1
 2021-09-14,2021-09-03,2021-05-18,2021-06-09,Pfizer,Sarawak,67,0,0,1,1
 2021-09-14,2021-09-10,2021-05-07,2021-05-28,Sinovac,Sarawak,81,1,0,1,1
@@ -22594,9 +22758,15 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-14,2021-09-03,2021-05-21,2021-06-11,Pfizer,Selangor,82,1,0,1,1
 2021-09-14,2021-09-09,,,,Selangor,82,1,0,1,0
 2021-09-14,2021-09-14,2021-08-11,2021-09-01,Sinovac,Selangor,44,0,1,0,0
+2021-09-14,2021-09-01,,,,Selangor,74,0,0,1,1
+2021-09-14,2021-09-14,,,,Selangor,55,0,1,0,1
+2021-09-14,2021-09-14,,,,Selangor,38,1,1,0,1
+2021-09-14,2021-09-14,2021-07-20,2021-08-10,Sinovac,Selangor,47,1,1,0,1
 2021-09-14,2021-09-02,,,,Terengganu,80,0,0,1,1
 2021-09-14,2021-08-24,2021-07-13,2021-08-03,Sinovac,W.P. Kuala Lumpur,29,0,0,1,1
 2021-09-14,2021-09-13,2021-06-10,2021-07-01,Pfizer,W.P. Kuala Lumpur,64,0,0,1,1
+2021-09-14,2021-09-14,2021-07-28,2021-08-18,Pfizer,W.P. Kuala Lumpur,87,0,0,1,1
+2021-09-14,2021-09-14,,,,W.P. Kuala Lumpur,40,1,0,0,0
 2021-09-15,2021-09-06,2021-08-29,,AstraZeneca,Johor,67,0,1,1,1
 2021-09-15,2021-08-30,,,,Johor,56,1,0,1,1
 2021-09-15,2021-09-14,,,,Johor,43,1,0,0,0
@@ -22626,6 +22796,11 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-15,2021-09-15,,,,Johor,49,1,0,0,1
 2021-09-15,2021-09-15,2021-08-30,,Sinovac,Johor,48,1,0,0,0
 2021-09-15,2021-09-15,,,,Johor,56,1,0,0,1
+2021-09-15,2021-08-31,,,,Johor,77,1,0,1,1
+2021-09-15,2021-09-12,2021-09-01,,Pfizer,Johor,37,0,0,1,1
+2021-09-15,2021-09-14,,,,Johor,72,0,0,1,1
+2021-09-15,2021-09-15,2021-05-29,2021-06-19,Pfizer,Johor,67,1,1,1,1
+2021-09-15,2021-09-14,2021-09-06,,Pfizer,Johor,53,0,0,1,1
 2021-09-15,2021-08-28,2021-08-15,,AstraZeneca,Kedah,38,1,0,1,1
 2021-09-15,2021-09-07,2021-08-23,,Pfizer,Kedah,75,0,0,1,1
 2021-09-15,2021-09-08,,,,Kedah,31,1,0,1,1
@@ -22634,21 +22809,44 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-15,2021-09-12,,,,Kedah,96,1,0,1,1
 2021-09-15,2021-09-14,,,,Kedah,72,1,0,1,1
 2021-09-15,2021-09-15,2021-09-13,,Pfizer,Kedah,54,1,0,1,1
+2021-09-15,2021-08-30,,,,Kedah,48,0,0,1,0
+2021-09-15,2021-08-31,2021-07-08,2021-07-29,Sinovac,Kedah,59,0,0,1,1
+2021-09-15,2021-09-01,,,,Kedah,57,1,0,1,1
+2021-09-15,2021-08-30,,,,Kedah,83,0,0,1,1
+2021-09-15,2021-08-31,,,,Kedah,46,0,0,1,1
+2021-09-15,2021-09-07,2021-05-27,2021-06-17,Sinovac,Kedah,79,0,0,1,1
+2021-09-15,2021-09-10,2021-08-24,,Sinovac,Kedah,32,1,0,1,1
+2021-09-15,2021-09-12,2021-07-12,2021-08-02,Sinovac,Kedah,69,0,0,1,1
 2021-09-15,2021-09-12,,,,Kelantan,67,0,0,1,1
 2021-09-15,2021-09-04,2021-05-03,2021-05-24,Pfizer,Kelantan,83,1,0,1,1
 2021-09-15,2021-09-08,,,,Kelantan,78,0,0,1,1
 2021-09-15,2021-09-14,,,,Kelantan,54,1,0,1,1
+2021-09-15,2021-08-24,2021-08-12,,Sinovac,Kelantan,35,0,0,1,1
+2021-09-15,2021-09-10,2021-09-01,,Pfizer,Kelantan,28,0,0,1,1
+2021-09-15,2021-09-15,,,,Kelantan,68,0,0,1,1
+2021-09-15,2021-09-15,,,,Kelantan,43,0,1,1,1
 2021-09-15,2021-09-14,,,,Melaka,76,0,0,1,1
+2021-09-15,2021-08-30,2021-08-25,,Sinovac,Negeri Sembilan,85,1,0,1,1
+2021-09-15,2021-09-15,2021-08-24,,AstraZeneca,Negeri Sembilan,42,0,1,1,1
+2021-09-15,2021-09-13,,,,Negeri Sembilan,52,1,1,0,1
 2021-09-15,2021-09-02,,,,Pahang,39,0,0,1,0
 2021-09-15,2021-08-31,,,,Pahang,59,1,0,1,1
 2021-09-15,2021-09-04,,,,Pahang,64,1,0,1,1
 2021-09-15,2021-09-05,2021-08-17,,Sinovac,Pahang,53,0,0,1,0
+2021-09-15,2021-09-13,2021-04-28,2021-05-21,Pfizer,Pahang,65,1,0,1,1
+2021-09-15,2021-09-15,,,,Pahang,96,1,0,1,1
 2021-09-15,2021-09-05,2021-06-03,2021-06-24,Sinovac,Perak,67,0,0,1,1
 2021-09-15,2021-09-06,,,,Perak,76,1,0,1,1
 2021-09-15,2021-09-10,2021-08-15,,AstraZeneca,Perak,66,0,0,1,1
 2021-09-15,2021-09-06,2021-06-15,2021-07-06,Sinovac,Perak,81,1,0,1,1
 2021-09-15,2021-09-13,2021-08-15,2021-09-05,Sinovac,Perak,67,1,0,1,1
 2021-09-15,2021-09-15,2021-08-05,2021-08-26,Pfizer,Perak,65,1,1,1,1
+2021-09-15,2021-08-24,,,,Perak,91,0,0,1,1
+2021-09-15,2021-09-09,2021-05-06,2021-05-24,Sinovac,Perak,64,1,0,1,1
+2021-09-15,2021-09-10,2021-06-09,2021-08-16,AstraZeneca,Perak,73,0,1,1,1
+2021-09-15,2021-09-13,2021-08-30,,Pfizer,Perak,49,0,0,1,1
+2021-09-15,2021-09-13,,,,Perak,86,1,0,1,1
+2021-09-15,2021-09-15,,,,Perak,91,1,1,1,1
 2021-09-15,2021-08-24,,,,Perlis,24,0,0,1,1
 2021-09-15,2021-09-13,2021-08-14,,Sinovac,Perlis,57,0,0,1,1
 2021-09-15,2021-09-15,2021-06-04,,Sinovac,Perlis,41,0,0,1,1
@@ -22670,12 +22868,23 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-15,2021-09-05,2021-09-08,,Pfizer,Pulau Pinang,50,1,0,1,1
 2021-09-15,2021-08-11,,,,Pulau Pinang,39,1,1,0,1
 2021-09-15,2021-08-23,2021-08-22,2021-09-12,Sinovac,Pulau Pinang,45,1,0,0,0
+2021-09-15,2021-09-09,,,,Pulau Pinang,60,1,0,1,0
+2021-09-15,2021-09-15,2021-07-10,2021-07-31,Sinovac,Pulau Pinang,48,1,1,1,1
+2021-09-15,2021-09-06,,,,Pulau Pinang,41,0,0,1,1
+2021-09-15,2021-08-28,,,,Pulau Pinang,70,1,0,1,1
+2021-09-15,2021-09-12,2021-06-16,2021-07-07,Sinovac,Pulau Pinang,80,0,0,1,1
+2021-09-15,2021-09-15,,,,Pulau Pinang,78,0,1,1,1
+2021-09-15,2021-09-15,,,,Pulau Pinang,59,1,1,1,1
+2021-09-15,2021-09-15,,,,Pulau Pinang,58,0,1,1,0
 2021-09-15,2021-09-02,2021-05-29,2021-06-19,Sinovac,Sabah,67,1,0,1,0
 2021-09-15,2021-09-05,2021-07-16,2021-08-06,Sinovac,Sabah,82,1,0,1,1
 2021-09-15,2021-09-10,,,,Sabah,75,1,0,1,1
 2021-09-15,2021-09-10,2021-04-20,2021-05-11,Pfizer,Sabah,67,1,0,1,1
+2021-09-15,2021-09-11,,,,Sabah,68,0,0,1,1
+2021-09-15,2021-09-15,,,,Sabah,53,0,1,0,1
 2021-09-15,2021-09-12,2021-05-21,2021-06-10,Pfizer,Sarawak,39,1,0,1,1
 2021-09-15,2021-09-15,2021-06-19,2021-07-10,Pfizer,Sarawak,83,0,0,1,1
+2021-09-15,2021-09-10,,,,Sarawak,77,1,0,1,1
 2021-09-15,2021-08-09,2021-06-21,2021-07-12,Sinovac,Selangor,68,1,0,1,1
 2021-09-15,2021-08-16,,,,Selangor,46,0,0,1,1
 2021-09-15,2021-08-28,2021-06-27,2021-07-18,Sinovac,Selangor,56,1,0,1,1
@@ -22686,6 +22895,15 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-15,2021-07-14,2021-08-29,,Sinovac,Selangor,40,1,1,0,1
 2021-09-15,2021-09-01,,,,Selangor,43,0,0,0,0
 2021-09-15,2021-09-15,,,,Selangor,55,1,1,0,0
+2021-09-15,2021-08-19,,,,Selangor,66,0,0,1,1
+2021-09-15,2021-09-03,,,,Selangor,78,0,0,1,1
+2021-09-15,2021-09-09,,,,Selangor,71,1,0,1,1
+2021-09-15,2021-09-12,,,,Selangor,75,1,0,1,1
+2021-09-15,2021-09-14,,,,Selangor,73,1,0,1,1
+2021-09-15,2021-09-15,,,,Selangor,57,1,0,1,1
+2021-09-15,2021-09-02,,,,Selangor,55,0,0,0,1
+2021-09-15,2021-09-07,2021-08-21,,Sinovac,Selangor,37,1,0,0,0
+2021-09-15,2021-09-13,2021-08-03,,Sinovac,Selangor,59,0,0,0,1
 2021-09-15,2021-08-19,2021-05-24,2021-06-14,Sinovac,Terengganu,37,0,0,1,1
 2021-09-15,2021-09-09,,,,Terengganu,71,0,0,1,1
 2021-09-15,2021-09-15,,,,Terengganu,84,1,1,1,0
@@ -22714,31 +22932,137 @@ date,date_positive,date_dose1,date_dose2,vaxtype,state,age,male,bid,malaysian,co
 2021-09-16,2021-09-09,2021-05-17,2021-06-09,Sinovac,Johor,39,1,0,1,1
 2021-09-16,2021-09-14,,,,Johor,73,1,0,1,1
 2021-09-16,2021-09-16,,,,Johor,51,0,0,0,1
+2021-09-16,2021-08-19,,,,Johor,40,0,0,1,1
+2021-09-16,2021-08-31,,,,Johor,27,1,0,1,1
+2021-09-16,2021-09-02,2021-08-26,,Pfizer,Johor,77,1,0,1,1
+2021-09-16,2021-09-11,2021-06-04,2021-06-27,Pfizer,Johor,79,0,0,1,1
+2021-09-16,2021-09-16,2021-06-23,2021-07-14,Sinovac,Johor,78,0,0,1,1
+2021-09-16,2021-09-16,2021-07-07,2021-07-28,Sinovac,Johor,65,1,0,1,1
+2021-09-16,2021-09-16,2021-09-01,,Pfizer,Johor,52,0,0,1,0
+2021-09-16,2021-09-16,2021-08-12,,Sinovac,Johor,30,0,0,1,1
+2021-09-16,2021-09-12,2021-09-09,,Pfizer,Johor,24,0,0,1,1
+2021-09-16,2021-09-07,2021-06-17,2021-07-08,Pfizer,Johor,73,0,0,1,1
+2021-09-16,2021-09-14,2021-06-30,2021-07-23,Sinovac,Johor,71,1,0,1,1
+2021-09-16,2021-09-14,2021-05-29,2021-06-19,Sinovac,Johor,66,0,0,1,1
+2021-09-16,2021-09-16,2021-09-05,,Sinovac,Johor,31,0,1,1,1
+2021-09-16,2021-09-16,,,,Johor,27,0,0,1,1
+2021-09-16,2021-09-13,2021-08-22,,Sinovac,Johor,45,1,0,0,1
+2021-09-16,2021-09-06,,,,Johor,44,1,0,0,0
+2021-09-16,2021-09-16,,,,Johor,36,0,1,0,0
 2021-09-16,2021-09-10,,,,Kedah,75,1,0,1,1
 2021-09-16,2021-09-15,2021-06-17,2021-07-08,Pfizer,Kedah,58,0,0,1,1
+2021-09-16,2021-09-01,2021-07-13,2021-08-03,Sinovac,Kedah,61,1,0,1,1
+2021-09-16,2021-09-06,2021-08-25,,Pfizer,Kedah,53,1,0,1,1
+2021-09-16,2021-09-12,,,,Kedah,59,0,0,1,1
+2021-09-16,2021-09-15,2021-07-05,2021-07-26,Sinovac,Kedah,69,0,0,1,1
 2021-09-16,2021-09-03,,,,Kelantan,40,1,0,1,0
 2021-09-16,2021-09-15,,,,Kelantan,74,1,0,1,1
+2021-09-16,2021-09-11,2021-09-05,,Pending VMS sync,Kelantan,78,0,0,1,1
+2021-09-16,2021-09-03,,,,Melaka,45,1,0,1,1
+2021-09-16,2021-09-07,,,,Melaka,66,1,1,1,1
+2021-09-16,2021-09-12,,,,Melaka,90,0,0,1,0
+2021-09-16,2021-09-16,2021-08-20,2021-09-10,Sinovac,Melaka,46,1,1,1,1
+2021-09-16,2021-08-27,2021-08-18,,Sinovac,Melaka,42,0,0,1,0
 2021-09-16,2021-09-05,2021-07-21,2021-08-11,Sinovac,Pahang,63,0,0,1,1
 2021-09-16,2021-09-09,2021-09-01,,Pfizer,Pahang,85,1,0,1,1
 2021-09-16,2021-09-11,,,,Pahang,45,1,0,1,1
 2021-09-16,2021-09-12,2021-08-04,2021-08-25,Pfizer,Pahang,72,1,0,1,1
 2021-09-16,2021-09-10,2021-05-22,2021-06-12,Sinovac,Perak,66,1,0,1,1
 2021-09-16,2021-09-12,,,,Perak,52,0,0,1,1
+2021-09-16,2021-09-01,2021-05-30,2021-06-20,Sinovac,Perak,72,0,0,1,1
+2021-09-16,2021-09-14,,,,Perak,56,1,0,1,1
+2021-09-16,2021-09-08,,,,Perak,35,1,0,0,1
 2021-09-16,2021-09-03,2021-06-01,,Pfizer,Perlis,66,1,0,1,1
 2021-09-16,2021-09-15,,,,Perlis,83,1,0,1,1
 2021-09-16,2021-09-14,,,,Pulau Pinang,77,0,0,1,1
+2021-09-16,2021-09-08,2021-06-23,2021-07-14,Pfizer,Pulau Pinang,78,1,0,1,1
+2021-09-16,2021-09-03,,,,Pulau Pinang,45,1,0,1,1
+2021-09-16,2021-09-09,2021-08-30,,Sinovac,Pulau Pinang,82,0,0,1,1
+2021-09-16,2021-09-11,2021-08-20,,Pfizer,Pulau Pinang,72,1,0,1,1
+2021-09-16,2021-09-11,,,,Pulau Pinang,63,1,0,1,1
+2021-09-16,2021-09-13,,,,Pulau Pinang,45,1,0,1,1
+2021-09-16,2021-09-13,,,,Pulau Pinang,58,1,0,1,1
+2021-09-16,2021-09-15,2021-06-05,2021-06-26,Sinovac,Pulau Pinang,80,0,0,1,1
+2021-09-16,2021-09-16,,,,Pulau Pinang,62,0,0,1,1
+2021-09-16,2021-09-16,2021-07-02,2021-07-23,Sinovac,Pulau Pinang,61,1,1,1,1
+2021-09-16,2021-09-16,2021-05-19,2021-06-09,Pfizer,Pulau Pinang,76,0,1,1,1
+2021-09-16,2021-09-12,,,,Pulau Pinang,80,0,0,1,1
+2021-09-16,2021-09-09,2021-09-01,,Pfizer,Pulau Pinang,66,1,0,1,1
+2021-09-16,2021-09-05,2021-07-17,2021-08-07,Sinovac,Pulau Pinang,49,1,0,1,1
+2021-09-16,2021-08-27,,,,Sabah,64,1,0,1,1
+2021-09-16,2021-08-30,2021-08-11,,AstraZeneca,Sabah,59,0,0,1,1
+2021-09-16,2021-08-29,2021-08-16,,Pfizer,Sabah,62,0,0,1,0
+2021-09-16,2021-09-14,2021-09-03,,Pfizer,Sabah,53,0,0,1,1
+2021-09-16,2021-09-11,,,,Sabah,49,0,0,0,1
 2021-09-16,2021-08-26,2021-07-02,2021-07-23,Sinovac,Sarawak,80,1,0,1,1
+2021-09-16,2021-09-16,2021-06-15,2021-07-06,Sinovac,Sarawak,73,0,0,1,1
+2021-09-16,2021-09-16,2021-06-21,2021-07-12,Sinovac,Sarawak,82,0,0,1,1
+2021-09-16,2021-09-16,2021-07-01,2021-07-22,Sinovac,Sarawak,55,0,0,1,1
 2021-09-16,2021-08-24,2021-07-28,,Sinovac,Selangor,54,0,0,1,0
 2021-09-16,2021-09-09,,,,Selangor,74,0,0,1,1
 2021-09-16,2021-09-02,,,,Selangor,67,0,0,1,1
+2021-09-16,2021-09-02,2021-07-17,,AstraZeneca,Selangor,49,1,0,1,0
+2021-09-16,2021-08-25,2021-06-11,2021-07-02,Sinovac,Selangor,54,1,0,1,1
+2021-09-16,2021-09-06,2021-06-15,2021-07-09,Sinovac,Selangor,65,0,0,1,1
+2021-09-16,2021-09-08,,,,Selangor,39,0,0,1,1
+2021-09-16,2021-09-16,2021-05-31,2021-06-21,Sinovac,Selangor,85,1,1,1,1
+2021-09-16,2021-08-01,,,,Selangor,45,1,0,0,0
+2021-09-16,2021-09-15,,,,Selangor,55,0,0,0,0
 2021-09-16,2021-08-30,2021-06-14,2021-07-05,Sinovac,W.P. Kuala Lumpur,91,0,0,1,0
 2021-09-16,2021-09-03,,,,W.P. Kuala Lumpur,46,1,0,0,1
+2021-09-16,2021-09-08,2021-06-15,2021-07-06,Sinovac,W.P. Kuala Lumpur,69,1,0,1,1
 2021-09-17,2021-09-01,2021-06-15,2021-07-06,Pfizer,Johor,68,1,0,1,1
 2021-09-17,2021-09-05,2021-06-16,2021-07-07,Pfizer,Johor,67,1,0,1,1
 2021-09-17,2021-09-11,2021-08-27,,Sinovac,Johor,44,1,0,1,1
 2021-09-17,2021-09-11,,,,Johor,82,1,0,1,1
 2021-09-17,2021-09-17,,,,Johor,80,0,0,1,1
+2021-09-17,2021-08-25,2021-05-24,2021-06-14,Pfizer,Johor,72,1,0,1,0
+2021-09-17,2021-09-04,2021-08-10,,AstraZeneca,Johor,50,0,0,1,0
+2021-09-17,2021-09-08,2021-08-25,,Pfizer,Johor,42,0,0,1,0
+2021-09-17,2021-09-11,2021-08-16,,Sinovac,Johor,55,1,0,1,1
+2021-09-17,2021-09-14,2021-08-27,,Pfizer,Johor,85,0,0,1,1
+2021-09-17,2021-09-17,,,,Johor,46,1,0,1,1
+2021-09-17,2021-09-17,,,,Johor,88,1,0,1,0
+2021-09-17,2021-09-17,2021-06-16,2021-07-07,Pfizer,Johor,81,0,0,1,1
+2021-09-17,2021-09-17,2021-06-25,2021-07-16,Sinovac,Johor,68,1,0,1,1
+2021-09-17,2021-09-17,,,,Johor,64,1,0,1,1
+2021-09-17,2021-09-12,2021-09-02,,Pfizer,Johor,60,0,0,1,1
+2021-09-17,2021-09-17,2021-07-05,,AstraZeneca,Johor,59,0,0,1,1
+2021-09-17,2021-09-17,2021-09-01,,AstraZeneca,Johor,58,1,0,1,1
+2021-09-17,2021-09-17,,,,Johor,49,0,0,1,0
+2021-09-17,2021-09-17,2021-08-27,,Pfizer,Johor,45,0,0,1,1
+2021-09-17,2021-09-17,2021-06-22,2021-07-13,Pfizer,Johor,42,0,0,1,1
+2021-09-17,2021-09-10,2021-09-05,,Sinovac,Johor,40,0,0,1,1
+2021-09-17,2021-09-17,2021-08-31,,Pfizer,Johor,36,0,0,1,1
+2021-09-17,2021-09-07,2021-08-30,,Pfizer,Kedah,60,0,0,1,1
+2021-09-17,2021-09-06,,,,Kedah,78,0,0,1,1
+2021-09-17,2021-09-15,2021-08-21,,Sinovac,Kedah,66,1,0,1,1
+2021-09-17,2021-09-07,2021-08-25,,Pfizer,Kelantan,65,1,0,1,1
+2021-09-17,2021-09-09,,,,Kelantan,49,1,0,1,1
+2021-09-17,2021-09-13,,,,Kelantan,63,0,0,1,1
+2021-09-17,2021-09-15,2021-07-15,2021-08-05,Sinovac,Kelantan,56,0,0,1,1
+2021-09-17,2021-09-17,2021-07-26,2021-08-16,Pfizer,Kelantan,66,1,1,1,1
+2021-09-17,2021-06-28,,,,Melaka,47,1,0,1,1
+2021-09-17,2021-09-09,2021-08-14,,AstraZeneca,Melaka,37,0,0,1,1
+2021-09-17,2021-09-06,,,,Melaka,41,0,0,1,1
+2021-09-17,2021-09-11,2021-09-01,,AstraZeneca,Melaka,21,1,0,1,0
 2021-09-17,2021-09-08,,,,Pahang,81,1,0,1,1
+2021-09-17,2021-09-13,,,,Perak,42,0,0,1,1
+2021-09-17,2021-09-05,2021-06-12,2021-07-03,Sinovac,Pulau Pinang,62,1,0,1,1
+2021-09-17,2021-09-13,,,,Pulau Pinang,68,0,0,1,1
 2021-09-17,2021-09-02,,,,Sabah,67,1,0,1,1
+2021-09-17,2021-08-23,2021-08-12,,Pfizer,Selangor,44,1,0,1,0
+2021-09-17,2021-09-03,,,,Selangor,67,1,0,1,1
+2021-09-17,2021-09-07,2021-07-21,2021-08-11,Sinovac,Selangor,55,1,0,1,1
+2021-09-17,2021-09-14,2021-06-02,2021-06-23,Pfizer,Selangor,70,0,0,1,1
 2021-09-17,2021-09-10,2021-06-20,2021-07-11,Sinovac,Terengganu,77,0,0,1,1
 2021-09-17,2021-09-12,2021-06-03,2021-06-24,Sinovac,Terengganu,47,0,0,1,1
+2021-09-17,2021-09-10,2021-06-21,2021-07-12,Sinovac,W.P. Kuala Lumpur,83,0,0,1,1
+2021-09-17,2021-09-13,,,,W.P. Kuala Lumpur,68,1,0,1,1
+2021-09-18,2021-09-11,2021-07-10,2021-07-31,Sinovac,Johor,66,1,0,1,1
+2021-09-18,2021-09-18,,,,Johor,33,0,0,1,1
+2021-09-18,2021-09-02,2021-06-11,2021-07-02,Sinovac,Negeri Sembilan,63,0,0,1,1
+2021-09-18,2021-09-09,,,,Negeri Sembilan,54,0,0,1,1
+2021-09-18,2021-08-25,2021-08-22,,Pfizer,Pahang,52,1,0,1,0
+2021-09-18,2021-01-09,,,,Pahang,53,0,0,1,1
+2021-09-18,2021-09-08,2021-08-03,2021-08-24,Pfizer,Selangor,59,1,0,1,1
