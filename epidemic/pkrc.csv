@@ -4,6 +4,7 @@ date,state,beds,admitted_pui,admitted_covid,admitted_total,discharge_pui,dischar
 2020-03-28,Pulau Pinang,58,0,0,0,0,0,0,13,0,0
 2020-03-28,Sarawak,74,0,0,0,0,0,0,22,0,0
 2020-03-28,Selangor,1452,0,12,12,0,5,5,145,0,8
+2020-03-28,W.P. Putrajaya,1,0,0,0,0,0,0,0,0,0
 2020-03-28,W.P. Labuan,97,0,1,1,1,0,1,6,8,0
 2020-03-29,Kelantan,147,0,0,0,0,0,0,0,36,0
 2020-03-29,Perlis,54,1,0,1,2,0,2,8,2,0
@@ -5987,7 +5988,6 @@ date,state,beds,admitted_pui,admitted_covid,admitted_total,discharge_pui,dischar
 2021-08-28,Terengganu,3559,37,237,274,40,249,289,1805,219,0
 2021-08-28,W.P. Kuala Lumpur,1750,1,93,94,3,90,93,901,69,1255
 2021-08-28,W.P. Labuan,475,0,6,6,0,0,0,36,4,0
-2021-08-28,W.P. Putrajaya,168,26,11,37,30,9,39,75,54,213
 2021-08-29,Johor,3554,0,531,531,4,480,484,2974,2,5
 2021-08-29,Kedah,1026,0,81,81,0,71,71,438,0,0
 2021-08-29,Kelantan,3091,3,261,264,6,265,271,2104,31,0
