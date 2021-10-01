@@ -1,3 +1,5 @@
+# This repo is a fork from Malaysian Ministry of Health. I have built a Chrome extension that retrives webpage information in an ethical manner. While test running it, I decided that I might as well make the test run results usable. I saved the news headlines and URLs from Free Malaysia Today from January 2020, which was when the pandemic reached Malaysia, in the json file in fmt_news_headlines folder. I will also update this once per day.
+
 # Open data on COVID-19 in Malaysia
 
 **The scope and granularity of data in this repo will evolve over time.**
