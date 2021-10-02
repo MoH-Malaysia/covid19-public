@@ -21,10 +21,17 @@
 
 1) `date`: yyyy-mm-dd format; data correct as of 1200hrs on that date
 2) `state`: name of state (present in state file, but not country file)
-3) `cases_new`: cases reported in the 24h since the last report (except for 16th March 2020, for which the data is cumulative)
-4) `cluster_x`: cases attributable to clusters under category `x`; possible values for `x` are import, religious, community, highRisk, education, detentionCentre, and workplace; the difference between `cases_new` and the sum of cases attributable to clusters is the number of sporadic cases.
-5) `rtk-ag`: number of tests done using Antigen Rapid Test Kits (RTK-Ag)
-6) `pcr`: number of tests done using Real-time Reverse Transcription Polymerase Chain Reaction (RT-PCR) technology
+3) `cases_new`: cases reported in the 24h since the last report
+4) `cases_import`: imported cases reported in the 24h since the last report
+5) `cases_active`: Covid+ individuals who have not recovered or died
+6) `cases_recovered` recovered cases reported in the 24h since the last report
+7) `cases_cluster`: number of cases attributable to clusters; the difference between `cases_new` and the sum of cases attributable to clusters is the number of sporadic cases
+8) `cluster_x`: cases attributable to clusters under category `x`; possible values for `x` are import, religious, community, highRisk, education, detentionCentre, and workplace
+9) `cases_agecat`: cases falling into one of 4 age categories, i.e. child (0-11), adolescent (12-17), adult (18-59), elderly (60+) 
+10) `cases_pvax`: number of partially-vaccinated individuals who tested positive for Covid (perfect subset of `cases_new`), where "partially vaccinated" is defined as receiving at least 1 dose of a 2-dose vaccine at least 1 day prior to testing positive, or receiving the Cansino vaccine between 1-27 days before testing positive
+11) `cases_fvax`: number of fully-vaccinated who tested positive for Covid (perfect subset of `cases_new`), where "fully vaccinated" is defined as receiving the 2nd dose of a 2-dose vaccine at least 14 days prior to testing positive, or receiving the Cansino vaccine at least 28 days before testing positive
+12) `rtk-ag`: number of tests done using Antigen Rapid Test Kits (RTK-Ag)
+13) `pcr`: number of tests done using Real-time Reverse Transcription Polymerase Chain Reaction (RT-PCR) technology
 
 ### Deaths
 
