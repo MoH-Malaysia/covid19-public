@@ -1,0 +1,176 @@
+state,district,idxs,idxd
+Johor,Batu Pahat,1,1
+Johor,Johor Bahru,1,2
+Johor,Kluang,1,3
+Johor,Kota Tinggi,1,4
+Johor,Kulai,1,5
+Johor,Mersing,1,6
+Johor,Muar,1,7
+Johor,Pontian,1,8
+Johor,Segamat,1,9
+Johor,Tangkak,1,10
+Kedah,Baling,2,11
+Kedah,Bandar Baharu,2,12
+Kedah,Kota Setar,2,13
+Kedah,Kuala Muda,2,14
+Kedah,Kubang Pasu,2,15
+Kedah,Kulim,2,16
+Kedah,Langkawi,2,17
+Kedah,Padang Terap,2,18
+Kedah,Pendang,2,19
+Kedah,Pokok Sena,2,20
+Kedah,Sik,2,21
+Kedah,Yan,2,22
+Kelantan,Bachok,3,23
+Kelantan,Gua Musang,3,24
+Kelantan,Jeli,3,25
+Kelantan,Kecil Lojing,3,26
+Kelantan,Kota Bharu,3,27
+Kelantan,Kuala Krai,3,28
+Kelantan,Machang,3,29
+Kelantan,Pasir Mas,3,30
+Kelantan,Pasir Puteh,3,31
+Kelantan,Tanah Merah,3,32
+Kelantan,Tumpat,3,33
+Melaka,Alor Gajah,4,34
+Melaka,Jasin,4,35
+Melaka,Melaka Tengah,4,36
+Negeri Sembilan,Jelebu,5,37
+Negeri Sembilan,Jempol,5,38
+Negeri Sembilan,Kuala Pilah,5,39
+Negeri Sembilan,Port Dickson,5,40
+Negeri Sembilan,Rembau,5,41
+Negeri Sembilan,Seremban,5,42
+Negeri Sembilan,Tampin,5,43
+Pahang,Bentong,6,44
+Pahang,Bera,6,45
+Pahang,Cameron Highlands,6,46
+Pahang,Jerantut,6,47
+Pahang,Kuantan,6,48
+Pahang,Lipis,6,49
+Pahang,Maran,6,50
+Pahang,Pekan,6,51
+Pahang,Raub,6,52
+Pahang,Rompin,6,53
+Pahang,Temerloh,6,54
+Pulau Pinang,Barat Daya,7,68
+Pulau Pinang,Seberang Perai Selatan,7,69
+Pulau Pinang,Seberang Perai Tengah,7,70
+Pulau Pinang,Seberang Perai Utara,7,71
+Pulau Pinang,Timur Laut,7,72
+Perak,Bagan Datuk,8,55
+Perak,Batang Padang,8,56
+Perak,Hilir Perak,8,57
+Perak,Hulu Perak,8,58
+Perak,Kampar,8,59
+Perak,Kerian,8,60
+Perak,Kinta,8,61
+Perak,Kuala Kangsar,8,62
+Perak,Larut Matang dan Selama,8,63
+Perak,Manjung,8,64
+Perak,Muallim,8,65
+Perak,Perak Tengah,8,66
+Perlis,Perlis,9,67
+Selangor,Gombak,10,140
+Selangor,Hulu Langat,10,141
+Selangor,Hulu Selangor,10,142
+Selangor,Klang,10,143
+Selangor,Kuala Langat,10,144
+Selangor,Kuala Selangor,10,145
+Selangor,Petaling,10,146
+Selangor,Sabak Bernam,10,147
+Selangor,Sepang,10,148
+Terengganu,Besut,11,149
+Terengganu,Dungun,11,150
+Terengganu,Hulu Terengganu,11,151
+Terengganu,Kemaman,11,152
+Terengganu,Kuala Nerus,11,153
+Terengganu,Kuala Terengganu,11,154
+Terengganu,Marang,11,155
+Terengganu,Setiu,11,156
+Sabah,Beaufort,12,73
+Sabah,Beluran,12,74
+Sabah,Kalabakan,12,75
+Sabah,Keningau,12,76
+Sabah,Kinabatangan,12,77
+Sabah,Kota Belud,12,78
+Sabah,Kota Kinabalu,12,79
+Sabah,Kota Marudu,12,80
+Sabah,Kuala Penyu,12,81
+Sabah,Kudat,12,82
+Sabah,Kunak,12,83
+Sabah,Lahad Datu,12,84
+Sabah,Nabawan,12,85
+Sabah,Papar,12,86
+Sabah,Penampang,12,87
+Sabah,Pitas,12,88
+Sabah,Putatan,12,89
+Sabah,Ranau,12,90
+Sabah,Sandakan,12,91
+Sabah,Semporna,12,92
+Sabah,Sipitang,12,93
+Sabah,Tambunan,12,94
+Sabah,Tawau,12,95
+Sabah,Telupid,12,96
+Sabah,Tenom,12,97
+Sabah,Tongod,12,98
+Sabah,Tuaran,12,99
+Sarawak,Asajaya,13,100
+Sarawak,Bau,13,101
+Sarawak,Belaga,13,102
+Sarawak,Beluru,13,103
+Sarawak,Betong,13,104
+Sarawak,Bintulu,13,105
+Sarawak,Bukit Mabong,13,106
+Sarawak,Dalat,13,107
+Sarawak,Daro,13,108
+Sarawak,Julau,13,109
+Sarawak,Kabong,13,110
+Sarawak,Kanowit,13,111
+Sarawak,Kapit,13,112
+Sarawak,Kuching,13,113
+Sarawak,Lawas,13,114
+Sarawak,Limbang,13,115
+Sarawak,Lubok Antu,13,116
+Sarawak,Lundu,13,117
+Sarawak,Maradong,13,118
+Sarawak,Marudi,13,119
+Sarawak,Matu,13,120
+Sarawak,Miri,13,121
+Sarawak,Mukah,13,122
+Sarawak,Pakan,13,123
+Sarawak,Pusa,13,124
+Sarawak,Samarahan,13,125
+Sarawak,Saratok,13,126
+Sarawak,Sarikei,13,127
+Sarawak,Sebauh,13,128
+Sarawak,Selangau,13,129
+Sarawak,Serian,13,130
+Sarawak,Sibu,13,131
+Sarawak,Simunjan,13,132
+Sarawak,Song,13,133
+Sarawak,Sri Aman,13,134
+Sarawak,Subis,13,135
+Sarawak,Tanjung Manis,13,136
+Sarawak,Tatau,13,137
+Sarawak,Tebedu,13,138
+Sarawak,Telang Usan,13,139
+W.P. Kuala Lumpur,Kuala Lumpur,14,157
+W.P. Labuan,Labuan,15,158
+W.P. Putrajaya,Putrajaya,16,159
+Johor,,1,-1
+Kedah,,2,-1
+Kelantan,,3,-1
+Melaka,,4,-1
+Negeri Sembilan,,5,-1
+Pahang,,6,-1
+Pulau Pinang,,7,-1
+Perak,,8,-1
+Perlis,,9,-1
+Selangor,,10,-1
+Terengganu,,11,-1
+Sabah,,12,-1
+Sarawak,,13,-1
+W.P. Kuala Lumpur,,14,-1
+W.P. Labuan,,15,-1
+W.P. Putrajaya,,16,-1
