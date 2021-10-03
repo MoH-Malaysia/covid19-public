@@ -27,7 +27,7 @@
 6) `cases_recovered` recovered cases reported in the 24h since the last report
 7) `cases_cluster`: number of cases attributable to clusters; the difference between `cases_new` and the sum of cases attributable to clusters is the number of sporadic cases
 8) `cluster_x`: cases attributable to clusters under category `x`; possible values for `x` are import, religious, community, highRisk, education, detentionCentre, and workplace
-9) `cases_agecat`: cases falling into one of 4 age categories, i.e. child (0-11), adolescent (12-17), adult (18-59), elderly (60+); note cases by age may not sum to the total cases for that day, as some cases are registered without ages or with unverifiable age data 
+9) `cases_agecat`: cases falling into one of 4 age categories, i.e. child (0-11), adolescent (12-17), adult (18-59), elderly (60+); note that the sum of cases by age may not equal the total cases for that day, as some cases are registered without ages or with unverifiable age data 
 10) `cases_pvax`: number of partially-vaccinated individuals who tested positive for Covid (perfect subset of `cases_new`), where "partially vaccinated" is defined as receiving at least 1 dose of a 2-dose vaccine at least 1 day prior to testing positive, or receiving the Cansino vaccine between 1-27 days before testing positive
 11) `cases_fvax`: number of fully-vaccinated who tested positive for Covid (perfect subset of `cases_new`), where "fully vaccinated" is defined as receiving the 2nd dose of a 2-dose vaccine at least 14 days prior to testing positive, or receiving the Cansino vaccine at least 28 days before testing positive
 12) `rtk-ag`: number of tests done using Antigen Rapid Test Kits (RTK-Ag)
