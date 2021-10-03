@@ -21,7 +21,9 @@ All aggregated data on cases available via the Github is derived from this linel
 
 ### Deaths
 
-All aggregated data on deaths available via the Github is derived from this linelist.
+All aggregated data on deaths available via the Github is derived from this linelist. 
+
+_Note: The deaths linelist was released prior to the cases linelist. As such, it is formatted differently, because several optimisations had to be made to reduce the size of the cases linelist (in particular, coding as many things as possible as integers). In order not to break anyone's scripts, we are not changing the original format of the deaths linelist._
 
 1) `date`: yyyy-mm-dd format; date of death
 2) `date_announced`: date on which the death was announced to the public (i.e. registered in the public linelist)
