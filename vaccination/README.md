@@ -1,4 +1,4 @@
-# Documentation for AeFI datasets
+# Documentation for AEFI datasets
 An adverse event following immunisation (AEFI) is any untoward medical occurrence which follows immunisation. AEFIs are not necessarily caused by the vaccine - they can be related to the vaccine itself, to the vaccination process (stress related reactions) or can occur independently from vaccination (coincidental). 
 
 The datasets include cases reported through both the NPRA Reporting System and MySejahtera.
