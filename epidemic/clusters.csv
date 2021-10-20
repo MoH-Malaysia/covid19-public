@@ -3298,7 +3298,7 @@ Kluster Alam Jaya Lima,Selangor,Kuala Selangor,2021-07-20,2021-08-19,workplace,e
 Kluster Paya Luas,Pahang,"Temerloh, Bera, Jerantut, Maran, Bentong, Raub",2021-07-20,2021-08-24,highRisk,ended,0,339,0,2037,0,2,337
 Kluster Industri Jalan Haji Sirat,Selangor,"Klang, Petaling, Kuala Selangor",2021-07-20,2021-09-05,workplace,ended,0,250,0,1245,0,1,249
 Kluster Pasar Besar Dungun,Terengganu,Dungun,2021-07-20,2021-09-14,workplace,ended,0,396,0,1561,0,3,393
-Kluster Industri Teknologi Cheng 30,"Melaka, Negeri Sembilan","Melaka Tengah, Alor Gajah, Tampin",2021-07-20,2021-09-20,workplace,active,0,239,4,633,0,0,235
+Kluster Industri Teknologi Cheng 30,"Melaka, Negeri Sembilan","Melaka Tengah, Alor Gajah, Tampin",2021-07-20,2021-09-20,workplace,ended,0,239,0,633,0,0,239
 Kluster Lorong Ampang Dua,WP Kuala Lumpur,Titiwangsa,2021-07-21,2021-07-20,highRisk,ended,0,25,0,29,0,0,25
 Kluster Tapak Bina Jalan Langat,Selangor,Klang,2021-07-21,2021-07-20,workplace,ended,0,40,0,92,0,0,40
 Kluster Industri Meranti Utama Satu,Selangor,Sepang,2021-07-21,2021-07-20,workplace,ended,0,17,0,338,0,0,17
@@ -3566,7 +3566,7 @@ Kluster Jalan Inai,Pahang,Temerloh,2021-07-28,2021-08-29,community,ended,0,58,0,
 Kluster Industri Jalan Salleh,Selangor,"Klang, Petaling, Hulu Langat, Kuala Selangor",2021-07-28,2021-09-02,workplace,ended,0,160,0,1087,0,0,160
 Kluster Lorong Perindustrian Bukit MInyak 21,"Pulau Pinang, Perak","Seberang Perai Selatan, Seberang Perai Tengah, Seberang Perai Utara, Timur Laut, Barat Daya, Kerian",2021-07-28,2021-09-24,workplace,active,0,157,0,733,0,0,157
 Kluster Bukit Berembun,"Pahang, Negeri Sembilan","Rompin, Jempol",2021-07-28,2021-10-01,workplace,active,0,200,23,1368,0,0,177
-Kluster Industri Persiaran Cassia Selatan,"Pulau Pinang, Perak","Seberang Perai Selatan, Seberang Perai Tengah, Seberang Perai Utara, Barat Daya, Kerian, Larut, Matang dan Selama,Jawi ",2021-07-28,2021-10-08,workplace,active,0,321,3,540,0,0,318
+Kluster Industri Persiaran Cassia Selatan,"Pulau Pinang, Perak","Seberang Perai Selatan, Seberang Perai Tengah, Seberang Perai Utara, Barat Daya, Kerian, Larut, Matang dan Selama,Jawi",2021-07-28,2021-10-08,workplace,active,0,321,3,540,0,0,318
 Kluster Jalan Ramin Satu,Selangor,"Klang, Petaling, Kuala Langat",2021-07-29,2021-07-28,highRisk,ended,0,17,0,61,0,3,14
 Kluster Industri Teknologi Cheng 18,Melaka,Melaka Tengah,2021-07-29,2021-07-28,workplace,ended,0,22,0,51,0,0,22
 Kluster Jalan Helang Merah,WP Kuala Lumpur,Kepong,2021-07-29,2021-07-28,workplace,ended,0,17,0,50,0,0,17
@@ -4118,7 +4118,7 @@ Kluster Jalan Bank Kuantan,Pahang,Kuantan,2021-08-13,2021-09-06,workplace,ended,
 Kluster Industri Jalan Korporat,Selangor,"Klang, Petaling, Kuala Selangor",2021-08-13,2021-09-06,workplace,ended,0,36,0,384,0,0,36
 Kluster Industri Bukit Belimbing 26,Selangor,"Petaling, Klang, Kuala Selangor, Kuala Langat",2021-08-13,2021-09-12,workplace,ended,0,98,0,2599,0,0,98
 Kluster Industri Jalan Rawang,Selangor,"Gombak, Hulu Selangor",2021-08-13,2021-10-02,workplace,active,0,44,14,54,0,0,30
-Kluster Industri Persiaran Rahman Putra Tiga,Selangor,"Gombak, Kuala Selangor, Petaling",2021-08-13,2021-10-17,workplace,active,1,93,24,278,0,0,69
+Kluster Industri Persiaran Rahman Putra Tiga,Selangor,"Gombak, Kuala Selangor, Petaling",2021-08-13,2021-10-17,workplace,active,0,93,24,278,0,0,69
 Kluster Perindustrian Jalan Idaman,Johor,Kulai,2021-08-14,2021-08-13,workplace,ended,0,59,0,89,0,0,59
 Kluster Tapak Bina Damai 2,WP Kuala Lumpur,Cheras,2021-08-14,2021-08-13,workplace,ended,0,57,0,247,0,0,57
 Kluster Industri I-Park Lima,Johor,Kulai,2021-08-14,2021-08-13,workplace,ended,0,7,0,29,0,0,7
@@ -4181,7 +4181,7 @@ Kluster Tapak Bina Persiaran Grandeur,Selangor,Kuala Selangor,2021-08-15,2021-09
 Kluster Kampung Bongkok Kerayong,Pahang,Bera,2021-08-15,2021-09-06,community,ended,0,217,0,229,0,1,216
 Kluster Tangkuyan,Sabah,Kinabatangan,2021-08-15,2021-09-08,community,ended,0,276,0,542,0,1,275
 Kluster Kampung Luit Maran,Pahang,"Maran, Kuantan",2021-08-15,2021-09-14,community,ended,0,105,0,426,0,2,105
-Kluster Tapak Bina Jalan Universiti,Perak,Kampar ,2021-08-15,2021-09-22,workplace,active,0,254,0,555,0,0,254
+Kluster Tapak Bina Jalan Universiti,Perak,Kampar,2021-08-15,2021-09-22,workplace,active,0,254,0,555,0,0,254
 Kluster Jalan Wirawati,WP Kuala Lumpur,Titiwangsa,2021-08-16,2021-08-15,highRisk,ended,0,28,0,37,0,0,28
 Kluster Perindustrian Pekan Nanas Lapan,Johor,Pontian ,2021-08-16,2021-08-15,workplace,ended,0,45,0,53,0,0,45
 Kluster Kampung Bayu Lalang,Kelantan,Pasir Mas,2021-08-16,2021-08-15,community,ended,0,5,0,9,0,0,5
@@ -4384,7 +4384,7 @@ Kluster Sawit Sukau,Sabah,"Lahad Datu, Kinabatangan",2021-08-20,2021-09-10,workp
 Kluster Industri Perusahaan Dua Buntar,Perak,Kerian,2021-08-20,2021-09-13,workplace,ended,0,149,0,972,0,0,149
 Kluster Kampung Sungai Lebak,Pahang,Bentong,2021-08-20,2021-09-17,community,ended,0,59,0,312,0,0,59
 Kluster Industri Kampung Jaya 2,Selangor,Gombak,2021-08-20,2021-10-12,workplace,active,0,127,1,447,0,0,126
-Kluster Long Urun,Sarawak,Belaga,2021-08-20,2021-10-17,community,active,1,1274,20,5936,0,3,1251
+Kluster Long Urun,Sarawak,Belaga,2021-08-20,2021-10-17,community,active,0,1274,20,5936,0,3,1251
 Kluster Jalan Teknologi Perintis Satu,Johor,Johor Bahru,2021-08-21,2021-08-20,workplace,ended,0,10,0,92,0,1,9
 Kluster Industri Rembia,Melaka,Alor Gajah,2021-08-21,2021-08-20,workplace,ended,0,40,0,144,0,0,40
 Kluster Industri Lorong Sungai Puloh,Selangor,Klang,2021-08-21,2021-08-20,workplace,ended,0,208,0,280,0,0,208
@@ -4504,7 +4504,7 @@ Kluster Persiaran Bayan Lepas,Pulau Pinang,"Barat Daya, Timur Laut, Seberang Per
 Kluster Desa Kenanga,Pahang,Rompin,2021-08-24,2021-09-18,community,ended,0,39,0,588,0,0,39
 Kluster Kampung Masai Asal,Johor,Johor Bahru,2021-08-24,2021-09-18,community,ended,0,299,0,573,0,3,296
 Kluster Industri Sawit Jalan Rim,Melaka,Jasin,2021-08-24,2021-09-19,workplace,ended,0,57,0,71,0,0,57
-Kluster Sungai Pin 3,Sabah,Kinabatangan,2021-08-24,2021-09-20,workplace,active,0,210,4,288,0,1,205
+Kluster Sungai Pin 3,Sabah,Kinabatangan,2021-08-24,2021-09-20,workplace,ended,0,210,0,288,0,1,209
 Kluster Tapak Bina Persiaran Tecoma 2,WP Kuala Lumpur,Kepong,2021-08-25,2021-08-24,workplace,ended,0,94,0,190,0,0,94
 Kluster Pesara Kampung Jawa,Pulau Pinang,"Barat Daya, Timur Laut",2021-08-25,2021-08-24,workplace,ended,0,49,0,190,0,0,49
 Kluster Lorong Perusahaan 8C,Pulau Pinang,Seberang Perai Tengah,2021-08-25,2021-08-24,workplace,ended,0,29,0,210,0,0,29
@@ -4578,10 +4578,10 @@ Kluster Dah Lebuh Kulim,"Kedah, Pulau Pinang","Kulim, Kuala Muda, Baling, Sebera
 Kluster Pagar Teluk Intan,Perak,Hilir Perak,2021-08-26,2021-09-11,detentionCentre,ended,0,113,0,195,0,0,113
 Kluster Jalan Tun Habab,Johor,Kota Tinggi,2021-08-26,2021-09-12,highRisk,ended,0,18,0,50,0,1,17
 Kluster Senai Murni 12,Johor,Kulai,2021-08-26,2021-09-15,workplace,ended,0,68,0,90,0,0,68
-Kluster Industri Jalan Merdeka 33,Melaka,"Melaka Tengah, Jasin ",2021-08-26,2021-10-06,workplace,active,0,54,2,166,0,0,52
+Kluster Industri Jalan Merdeka 33,Melaka,"Melaka Tengah, Jasin",2021-08-26,2021-10-06,workplace,active,0,54,1,166,0,0,53
 Kluster Industri Perusahaan Suria,Selangor,"Gombak, Klang, Kuala Selangor, Kuala Langat",2021-08-26,2021-10-13,workplace,active,0,165,11,530,0,0,154
 Kluster Ladang Pulau Carey,Selangor,Kuala Langat,2021-08-26,2021-10-14,workplace,active,0,84,3,183,0,1,80
-Kluster Dengkil Jaya,Selangor,"Sepang, Gombak",2021-08-26,2021-10-17,community,active,4,222,50,636,0,1,171
+Kluster Dengkil Jaya,Selangor,"Sepang, Gombak",2021-08-26,2021-10-18,community,active,1,223,51,637,0,1,171
 Kluster Tingkat Perusahaan Enam,Pulau Pinang,Seberang Perai Tengah,2021-08-27,2021-08-26,workplace,ended,0,18,0,36,0,0,18
 Kluster Tapak Bina Changkat Sungai Ara 20,Pulau Pinang,Barat Daya,2021-08-27,2021-08-26,workplace,ended,0,114,0,364,0,1,113
 Kluster Jalan Istana,Selangor,"Klang, Petaling",2021-08-27,2021-08-26,workplace,ended,0,28,0,49,0,0,28
@@ -4668,8 +4668,8 @@ Kluster Industri Jalan Korporat 1A,Selangor,Klang ,2021-08-29,2021-09-11,workpla
 Kluster Kaman,Sarawak,Bau,2021-08-29,2021-09-11,community,ended,0,83,0,169,0,0,83
 Kluster Bandar Baru Mukah,Sarawak,"Mukah, Dalat",2021-08-29,2021-09-17,workplace,ended,0,70,0,132,0,0,70
 Kluster Industri Perusahaan Tiga Buntar,Perak,Kerian,2021-08-29,2021-09-17,workplace,ended,0,112,0,495,0,0,112
-Kluster Industri I-Park 59,Johor,Kulai ,2021-08-29,2021-09-20,workplace,active,0,311,23,769,0,0,288
-Kluster Kampung Batu Kitang Jaya,Sarawak,Kuching,2021-08-29,2021-09-20,community,active,0,39,0,67,0,0,39
+Kluster Industri I-Park 59,Johor,Kulai ,2021-08-29,2021-09-20,workplace,ended,0,311,0,769,0,0,311
+Kluster Kampung Batu Kitang Jaya,Sarawak,Kuching,2021-08-29,2021-09-20,community,ended,0,39,0,67,0,0,39
 Kluster Industri Dua Bukit Panchor,Pulau Pinang,Seberang Perai Selatan,2021-08-29,2021-09-24,workplace,active,0,80,0,337,0,1,79
 Kluster Industri Lapangan Satu,Johor,Kulai,2021-08-29,2021-09-24,workplace,active,0,217,4,2380,0,2,211
 Kluster Persiaran Titiwangsa Tiga,WP Kuala Lumpur,Titiwangsa,2021-08-30,2021-08-29,highRisk,ended,0,11,0,13,0,0,11
@@ -4704,8 +4704,8 @@ Kluster Industri Jalan Empat Temerloh,Pahang,Temerloh,2021-08-30,2021-09-16,work
 Kluster Jalan Kempas Lima Desaru,Johor,Kota Tinggi,2021-08-30,2021-09-16,education,ended,0,18,0,92,0,0,18
 Kluster Persiaran Cassia Selatan Empat,Pulau Pinang,"Seberang Perai Selatan, Seberang Perai Tengah, Barat Daya",2021-08-30,2021-09-17,workplace,ended,0,73,0,425,0,0,73
 Kluster Belinggai Ulu Niah,Sarawak,"Subis, Miri",2021-08-30,2021-09-19,community,ended,0,180,0,200,0,0,180
-Kluster Tembok Jasin,Melaka,Jasin,2021-08-30,2021-09-20,detentionCentre,active,0,135,1,188,0,0,134
-Kluster Tapak Bina Pinggiran Goh,Pahang,Kuantan,2021-08-30,2021-09-27,workplace,active,0,210,0,322,0,1,209
+Kluster Tembok Jasin,Melaka,Jasin,2021-08-30,2021-09-20,detentionCentre,ended,0,135,0,188,0,0,135
+Kluster Tapak Bina Pinggiran Goh,Pahang,Kuantan,2021-08-30,2021-09-27,workplace,active,0,210,0,322,1,1,209
 Kluster Bagan Sekinchan,Selangor,Sabak Bernam,2021-08-30,2021-09-27,community,active,0,36,1,75,0,0,35
 Kluster Industri Lorong Sungai Tiram,Pulau Pinang,"Barat Daya, Bayan Lepas, Seberang Jaya",2021-08-30,2021-10-10,workplace,active,0,64,9,1304,0,0,55
 Kluster Paku Minyak Beku,Johor,Batu Pahat,2021-08-31,2021-08-30,workplace,ended,0,15,0,47,0,0,15
@@ -4766,8 +4766,8 @@ Kluster Sebayang-Stalun,Sarawak,Limbang,2021-09-01,2021-09-14,workplace,ended,0,
 Kluster Seberang Changkat,Perak,Perak Tengah,2021-09-01,2021-09-14,workplace,ended,0,29,0,75,0,0,29
 Kluster Kampung Batu Papan,Pahang,Bera,2021-09-01,2021-09-19,religious,ended,0,51,0,136,0,0,51
 Kluster Selasih Jerteh,Terengganu,"Besut, Setiu",2021-09-01,2021-09-19,community,ended,0,166,0,577,0,1,165
-Kluster Batu Dua Belas,Negeri Sembilan,Port Dickson,2021-09-01,2021-09-20,workplace,active,0,100,0,189,0,0,100
-Kluster Pagar Jalan Tengah,Pulau Pinang,Barat Daya,2021-09-01,2021-09-20,detentionCentre,active,0,27,0,90,0,0,27
+Kluster Batu Dua Belas,Negeri Sembilan,Port Dickson,2021-09-01,2021-09-20,workplace,ended,0,100,0,189,0,0,100
+Kluster Pagar Jalan Tengah,Pulau Pinang,Barat Daya,2021-09-01,2021-09-20,detentionCentre,ended,0,27,0,90,0,0,27
 Kluster Tapak Bina Keladan Baiduri,Pahang,Temerloh,2021-09-01,2021-09-25,workplace,active,0,71,0,126,0,0,71
 Kluster Kampung Terbol,Pahang,Temerloh,2021-09-01,2021-09-27,community,active,0,252,0,266,0,1,251
 Kluster Industri Medan Bayan Lepas,Pulau Pinang,"Barat Daya, Timur Laut, Seberang Perai Selatan",2021-09-01,2021-10-08,workplace,active,0,85,18,141,0,0,67
@@ -4795,11 +4795,11 @@ Kluster Jalan Pahlawan,Sabah,"Kota Kinabalu, Penampang",2021-09-02,2021-09-14,ed
 Kluster Jalan Jati Penawar,Johor,Kota Tinggi,2021-09-02,2021-09-14,community,ended,0,16,0,73,0,0,16
 Kluster Perniagaan Jalan Kempas Lima,Johor,Kota Tinggi,2021-09-02,2021-09-16,workplace,ended,0,25,0,128,0,0,25
 Kluster Kampung Merkang,Kelantan,Pasir Puteh,2021-09-02,2021-09-19,community,ended,0,30,0,36,0,0,30
-Kluster Kampung Dangak,Sarawak,Kuching,2021-09-02,2021-09-20,community,active,0,28,1,40,0,0,27
+Kluster Kampung Dangak,Sarawak,Kuching,2021-09-02,2021-09-20,community,ended,0,28,0,40,0,0,28
 Kluster Industri Jalan Batu Berendam,Melaka,"Melaka Tengah, Alor Gajah",2021-09-02,2021-09-26,workplace,active,0,66,0,608,0,0,66
 Kluster Kampung Baru Lipis,Pahang,Lipis,2021-09-02,2021-09-28,community,active,0,35,1,79,0,0,34
 Kluster Cyber 14,Johor,Kulai,2021-09-02,2021-09-30,workplace,active,0,106,3,775,0,0,103
-Kluster Taman Perindustrian Batu Berendam,Melaka,"Melaka Tengah, Jasin, Alor Gajah",2021-09-02,2021-10-06,workplace,active,0,61,3,203,0,1,57
+Kluster Taman Perindustrian Batu Berendam,Melaka,"Melaka Tengah, Jasin, Alor Gajah",2021-09-02,2021-10-06,workplace,active,0,61,1,203,0,1,59
 Kluster Jalan Usaha Jaya Dua,Sarawak,"Kuching, Asajaya",2021-09-02,2021-10-07,workplace,active,0,98,3,162,0,0,95
 Kluster Industri Jalan Semeba,Sarawak,Kuching,2021-09-02,2021-10-11,workplace,active,0,97,0,174,0,0,97
 Kluster Industri Jalan Labohan Dagang-Nilai,Selangor,"Kuala Langat, Klang",2021-09-02,2021-10-12,workplace,active,0,123,6,577,0,2,115
@@ -4834,7 +4834,7 @@ Kluster Industri Jalan Kampung Jawa,Pulau Pinang,"Barat Daya, Seberang Perai Sel
 Kluster Kampung Limau Manis,Kelantan,"Kota Bharu, Bachok",2021-09-03,2021-09-18,workplace,ended,0,15,0,23,0,0,15
 Kluster Lorong Impian Enam,Pulau Pinang,Seberang Perai Tengah,2021-09-03,2021-09-19,highRisk,ended,0,29,0,61,0,2,27
 Kluster Batu 30 Kuala Kangsar,Perak,"Kuala Kangsar, Kinta",2021-09-03,2021-09-22,highRisk,active,0,151,25,250,0,0,126
-Kluster Kuala Gris,Kelantan,Kuala Krai ,2021-09-03,2021-09-24,workplace,active,0,95,1,122,0,0,94
+Kluster Kuala Gris,Kelantan,Kuala Krai,2021-09-03,2021-09-24,workplace,active,0,95,1,122,0,0,94
 Kluster Kampung Pian,Pahang,Temerloh,2021-09-03,2021-10-05,community,active,0,462,23,463,0,1,438
 Kluster Tapak Bina Putra Perdana,Selangor,Sepang,2021-09-03,2021-10-06,workplace,active,0,65,7,131,0,0,58
 Kluster Jalan Jinjang 2,WP Kuala Lumpur,Kepong,2021-09-04,2021-09-03,workplace,ended,0,15,0,71,0,0,15
@@ -4884,7 +4884,7 @@ Kluster Sungai Kelamah,Negeri Sembilan,"Tampin, Jempol",2021-09-05,2021-09-19,wo
 Kluster Pagar Sebrang,Sabah,Keningau,2021-09-05,2021-09-19,detentionCentre,ended,0,125,0,125,0,0,125
 Kluster Jalan Banjaran Dua,Johor,Johor Bahru,2021-09-05,2021-09-22,highRisk,active,0,33,1,50,0,1,31
 Kluster Selendang Empat Dan Lima,Pahang,Rompin,2021-09-05,2021-09-24,workplace,active,0,32,0,87,0,0,32
-Kluster Kampung Ulu Groh,Perak,Kampar ,2021-09-05,2021-09-24,community,active,0,235,1,315,0,5,229
+Kluster Kampung Ulu Groh,Perak,Kampar,2021-09-05,2021-09-24,community,active,0,235,1,315,0,5,229
 Kluster Dua Jalan City,Selangor,"Sepang, Hulu Langat, Petaling",2021-09-05,2021-09-27,workplace,active,0,27,2,98,0,0,25
 Kluster Kampung Sikog,Sarawak,"Kuching, Samarahan",2021-09-05,2021-09-29,community,active,0,160,0,188,0,0,160
 Kluster Industri Jalan Tengkorak 2,Selangor,"Kuala Selangor, Sabak Bernam",2021-09-05,2021-10-10,workplace,active,0,136,1,226,0,0,135
@@ -4915,7 +4915,7 @@ Kluster Galaxy,Sarawak,Bintulu,2021-09-06,2021-09-13,workplace,ended,0,138,0,190
 Kluster Jalan Habab Kota Tinggi,Johor,Kota Tinggi,2021-09-06,2021-09-15,education,ended,0,21,0,68,0,0,21
 Kluster Kampung Padang Nipah,Kelantan,Bachok,2021-09-06,2021-09-15,community,ended,0,21,0,34,0,1,20
 Kluster Jalan Lasah,Perak,Kuala Kangsar,2021-09-06,2021-09-25,highRisk,active,0,32,1,75,0,0,31
-Kluster Industri Integrasi Rawang Tiga 2,Selangor,Gombak ,2021-09-06,2021-09-25,workplace,active,0,42,15,54,0,1,26
+Kluster Industri Integrasi Rawang Tiga 2,Selangor,Gombak,2021-09-06,2021-09-25,workplace,active,0,42,15,54,0,1,26
 Kluster Industri Kampung Jawa Segamat,Johor,Segamat,2021-09-06,2021-09-27,workplace,active,0,217,0,369,0,0,217
 Kluster Sawit Simpang Batu 38,Sabah,Nabawan,2021-09-06,2021-09-30,workplace,active,0,143,3,347,0,1,139
 Kluster Annah Rais,Sarawak,Kuching,2021-09-06,2021-09-30,community,active,0,53,1,78,0,0,52
@@ -4953,12 +4953,12 @@ Kluster Industri Jalan Lima Olak Lempit,Selangor,Kuala Langat,2021-09-07,2021-09
 Kluster Tapak Bina Sungai Segamat,Johor,Segamat,2021-09-07,2021-09-18,workplace,ended,0,128,0,256,0,0,128
 Kluster Kampung Badong Dalam,Pahang,Pekan,2021-09-07,2021-09-18,community,ended,0,43,0,112,0,0,43
 Kluster Rimbunan Kaseh,Terengganu,Dungun,2021-09-07,2021-09-19,workplace,ended,0,74,0,301,0,0,74
-Kluster Industri Jalan Karburetor 21,Selangor,Klang,2021-09-07,2021-09-20,workplace,active,0,37,37,96,0,0,0
+Kluster Industri Jalan Karburetor 21,Selangor,Klang,2021-09-07,2021-09-20,workplace,ended,0,37,0,96,0,0,37
 Kluster Jalan Pelabuhan Empat,Perak,Manjung,2021-09-07,2021-09-21,workplace,active,0,116,0,235,0,0,116
 Kluster Keratong Lapan,Pahang,Rompin,2021-09-07,2021-09-21,community,active,0,32,0,78,0,1,31
 Kluster Lubuk Wong,Pahang,Temerloh,2021-09-07,2021-09-23,community,active,0,172,1,303,0,0,171
 Kluster Sungai Tangap,Sarawak,"Subis, Beluru",2021-09-07,2021-09-30,community,active,0,46,1,106,0,0,45
-Kluster Pinang Jawa,Sarawak,Kuching ,2021-09-07,2021-10-17,community,active,1,186,7,196,0,0,179
+Kluster Pinang Jawa,Sarawak,Kuching,2021-09-07,2021-10-17,community,active,0,186,7,196,0,0,179
 Kluster Jalan Chemor Estate,Perak,Kinta,2021-09-08,2021-09-07,highRisk,ended,0,75,0,97,0,0,75
 Kluster Jalan PBR 12,Melaka,Melaka Tengah,2021-09-08,2021-09-07,workplace,ended,0,25,0,90,0,1,24
 Kluster Industri Jalan Nuri,Selangor,Kuala Langat,2021-09-08,2021-09-07,workplace,ended,0,79,0,122,0,0,79
@@ -4989,9 +4989,9 @@ Kluster Jalan Kubang Golok-Merabang,Kelantan,Bachok,2021-09-08,2021-09-17,commun
 Kluster Tapak Bina Jalan Elegan,Selangor,Sepang ,2021-09-08,2021-09-18,workplace,ended,0,34,0,114,0,0,34
 Kluster Industri Jalan Johor Ayer Hitam,Johor,Batu Pahat,2021-09-08,2021-09-18,workplace,ended,0,53,0,1276,0,0,53
 Kluster Sungai Tekam Jerantut,Pahang,Jerantut,2021-09-08,2021-09-19,community,ended,0,32,0,377,0,0,32
-Kluster Jalan SP 5/4,Selangor,Kuala Langat,2021-09-08,2021-09-20,education,active,0,40,38,118,0,0,2
+Kluster Jalan SP 5/4,Selangor,Kuala Langat,2021-09-08,2021-09-20,education,ended,0,40,0,118,0,0,40
 Kluster Ladang Jalan Bahau-Rompin,Negeri Sembilan,Jempol,2021-09-08,2021-09-22,workplace,active,0,93,12,438,0,1,80
-Kluster Industri Jalan Gangsa Kulai,Johor,Kulai ,2021-09-08,2021-09-27,workplace,active,0,128,1,822,0,0,127
+Kluster Industri Jalan Gangsa Kulai,Johor,Kulai,2021-09-08,2021-09-27,workplace,active,0,128,1,822,0,0,127
 Kluster Tapak Bina Persiaran Laman View,Selangor,Sepang,2021-09-08,2021-09-30,workplace,active,0,28,3,75,0,0,25
 Kluster Industri Dua Jalan Bandar Lama,Selangor,"Kuala Langat, Klang",2021-09-08,2021-10-06,workplace,active,0,35,2,41,0,0,33
 Kluster Tapak Bina Saleng,Johor,Kulai,2021-09-09,2021-09-08,workplace,ended,0,10,0,35,0,0,10
@@ -5020,7 +5020,7 @@ Kluster Permatang Pauh,Pahang,Pekan,2021-09-09,2021-10-02,community,active,0,58,
 Kluster Industri Chendering,Terengganu,"Kuala Terengganu, Marang",2021-09-09,2021-10-03,workplace,active,0,122,19,1215,0,0,103
 Kluster Sawit Kerdau,Pahang,Temerloh,2021-09-09,2021-10-11,workplace,active,0,108,3,261,0,0,105
 Kluster Industri Batu 8 Ijok,Selangor,Kuala Selangor,2021-09-09,2021-10-11,workplace,active,0,119,13,126,0,0,106
-Kluster Kampung Leryar,Pahang,Cameron Highlands,2021-09-09,2021-10-17,community,active,1,96,25,294,0,0,71
+Kluster Kampung Leryar,Pahang,Cameron Highlands,2021-09-09,2021-10-17,community,active,0,96,25,294,0,0,71
 Kluster Industri Jalan Firma Dua,Johor,Johor Bahru,2021-09-10,2021-09-09,workplace,ended,0,38,0,81,0,0,38
 Kluster Ladang Kampung Raja Musa,Selangor,Kuala Selangor,2021-09-10,2021-09-09,workplace,ended,0,7,0,10,0,0,7
 Kluster Industri Jalan Sepadu 123A,Selangor,"Klang, Kuala Langat, Petaling, Sepang",2021-09-10,2021-09-09,workplace,ended,0,20,0,35,0,0,20
@@ -5049,11 +5049,11 @@ Kluster Industri Jalan Lapan Olak Lempit,Selangor,Kuala Langat,2021-09-10,2021-0
 Kluster Dioh Air Petai,Negeri Sembilan,Kuala Pilah,2021-09-10,2021-09-17,community,ended,0,45,0,93,0,0,45
 Kluster Jalan Muar Pagoh,Johor,Muar,2021-09-10,2021-09-18,workplace,ended,0,82,0,84,0,0,82
 Kluster Tapak Bina Jalan Sungai Chandong,Selangor,Klang,2021-09-10,2021-09-18,workplace,ended,0,48,0,107,0,0,48
-Kluster Hilir Sungai Kluang Dua,Pulau Pinang,Barat Daya,2021-09-10,2021-09-20,workplace,active,0,32,0,238,0,0,32
-Kluster Tapak Bina Batu Berendam,Melaka,Melaka Tengah,2021-09-10,2021-09-20,workplace,active,0,72,1,211,0,0,71
+Kluster Hilir Sungai Kluang Dua,Pulau Pinang,Barat Daya,2021-09-10,2021-09-20,workplace,ended,0,32,0,238,0,0,32
+Kluster Tapak Bina Batu Berendam,Melaka,Melaka Tengah,2021-09-10,2021-09-20,workplace,ended,0,72,0,211,0,0,72
 Kluster Industri Tembaga Kamunting,Perak,"Larut, Matang, Selama",2021-09-10,2021-09-23,workplace,active,0,50,0,70,0,0,50
 Kluster Jalan Industri 2/1 Gopeng,Perak,"Kampar, Kinta",2021-09-10,2021-09-23,workplace,active,0,122,1,305,0,0,121
-Kluster Tapak Bina Tasik Indah Kluang,Johor,Kluang ,2021-09-10,2021-09-25,workplace,active,0,115,35,238,0,0,80
+Kluster Tapak Bina Tasik Indah Kluang,Johor,Kluang,2021-09-10,2021-09-25,workplace,active,0,115,35,238,0,0,80
 Kluster Tiga Jalan City,Selangor,Sepang,2021-09-10,2021-09-30,workplace,active,0,23,23,72,0,0,0
 Kluster Jalan Medan Stesen 18/5,Perak,Kinta,2021-09-10,2021-10-04,workplace,active,0,29,0,85,0,0,29
 Kluster Paya Lawas,Terengganu,Dungun,2021-09-10,2021-10-05,community,active,0,161,98,744,0,0,63
@@ -5076,16 +5076,16 @@ Kluster Kampung Chengal Batu,Kelantan,Pasir Puteh,2021-09-11,2021-09-17,communit
 Kluster Tapak Bina Jalan Station Paloh,Johor,Johor Bahru,2021-09-11,2021-09-19,workplace,ended,0,45,0,93,0,0,45
 Kluster Ladang Padang Kahang,Johor,Kluang,2021-09-11,2021-09-19,workplace,ended,0,61,0,89,0,0,61
 Kluster Kampung Kedondong,Kelantan,Pasir Mas,2021-09-11,2021-09-19,community,ended,0,8,0,15,0,0,8
-Kluster Jalan Tanjung Rambutan,Perak,Kinta,2021-09-11,2021-09-20,highRisk,active,0,62,2,117,0,2,58
-Kluster Industri Dua Jalan Waja 14,Selangor,Kuala Langat,2021-09-11,2021-09-20,workplace,active,0,38,1,86,0,0,37
-Kluster Jalan Jaya Empat Pontian,Johor,Pontian,2021-09-11,2021-09-20,workplace,active,0,26,0,144,0,0,26
+Kluster Jalan Tanjung Rambutan,Perak,Kinta,2021-09-11,2021-09-20,highRisk,ended,0,62,0,117,0,2,60
+Kluster Industri Dua Jalan Waja 14,Selangor,Kuala Langat,2021-09-11,2021-09-20,workplace,ended,0,38,0,86,0,0,38
+Kluster Jalan Jaya Empat Pontian,Johor,Pontian,2021-09-11,2021-09-20,workplace,ended,0,26,0,144,0,0,26
 Kluster Jalan Cherang Ruku,Kelantan,"Pasir Puteh, Bachok",2021-09-11,2021-09-21,highRisk,active,0,14,0,27,0,0,14
 Kluster Jalan Baru Kampung Sungai,Kelantan,Bachok,2021-09-11,2021-09-21,community,active,0,18,0,35,0,0,18
 Kluster Kampung Bahagia,Kelantan,Kuala Krai,2021-09-11,2021-09-25,community,active,0,115,0,205,0,1,114
 Kluster Taman Desa Permata,Perak,Hulu Perak,2021-09-11,2021-09-27,community,active,0,84,0,155,0,0,84
-Kluster Tapak Bina Jalan Pantai Sinaran,Pulau Pinang,Timur Laut,2021-09-11,2021-10-03,workplace,active,0,199,4,205,0,0,195
+Kluster Tapak Bina Jalan Pantai Sinaran,Pulau Pinang,Timur Laut,2021-09-11,2021-10-03,workplace,active,0,199,4,205,1,0,195
 Kluster Industri PLO 53,Johor,Kulai,2021-09-11,2021-10-06,workplace,active,0,155,13,837,0,0,142
-Kluster Jalan Sungai Udang,Melaka,"Melaka Tengah, Alor Gajah",2021-09-11,2021-10-15,workplace,active,0,250,18,375,0,0,232
+Kluster Jalan Sungai Udang,Melaka,"Melaka Tengah, Alor Gajah",2021-09-11,2021-10-18,workplace,active,3,253,21,375,0,0,232
 Kluster Putra Dua 2,WP Putrajaya,Putrajaya,2021-09-12,2021-09-11,workplace,ended,0,9,0,14,0,0,9
 Kluster Industri Jalan Perdana Dua,Johor,Batu Pahat,2021-09-12,2021-09-11,workplace,ended,0,9,0,34,0,0,9
 Kluster Batu Dua Jalan Muar,Johor,Batu Pahat,2021-09-12,2021-09-11,workplace,ended,0,23,0,85,0,0,23
@@ -5110,7 +5110,7 @@ Kluster Bijongon,Sarawak,Bau,2021-09-12,2021-09-16,community,ended,0,34,0,53,0,0
 Kluster Wawasan Bernam Melintang,Perak,"Hilir Perak, Bagan Datuk",2021-09-12,2021-09-16,community,ended,0,41,0,65,0,0,41
 Kluster Tapak Bina Persiaran Cassia Selatan Enam,Pulau Pinang,Seberang Perai Selatan,2021-09-12,2021-09-17,workplace,ended,0,73,0,373,0,0,73
 Kluster Sawit Serian,Sarawak,"Serian, Tebedu, Kuching",2021-09-12,2021-09-19,workplace,ended,0,58,0,80,0,0,58
-Kluster Industri Jalan Sawmill Gemas Baru,Johor,Segamat,2021-09-12,2021-09-20,workplace,active,0,99,0,381,0,0,99
+Kluster Industri Jalan Sawmill Gemas Baru,Johor,Segamat,2021-09-12,2021-09-20,workplace,ended,0,99,0,381,0,0,99
 Kluster Jalan Pasar Lama,Kelantan,Pasir Mas,2021-09-12,2021-09-21,highRisk,active,0,9,0,20,0,0,9
 Kluster Jalan Depan Masjid Bechah Semak,Kelantan,Pasir Mas,2021-09-12,2021-09-22,community,active,0,13,0,20,0,0,13
 Kluster Batu Tujuh Bakri,Johor,Muar,2021-09-12,2021-09-23,workplace,active,0,65,0,88,0,0,65
@@ -5119,7 +5119,7 @@ Kluster Industri Tanjung Selabu,Johor,Muar,2021-09-12,2021-09-27,workplace,activ
 Kluster Pulai Jaya Sembilan 2,Perak,"Kinta, Kampar, Perak Tengah",2021-09-12,2021-09-30,workplace,active,0,207,0,2955,0,1,206
 Kluster Kampung Kolek,Pahang,Kuantan,2021-09-12,2021-10-05,religious,active,0,129,39,378,0,2,88
 Kluster Jalan Genuang,Johor,Segamat,2021-09-12,2021-10-10,highRisk,active,0,57,16,97,1,4,37
-Kluster Jalan Klebang 1/1,Perak,Kinta ,2021-09-12,2021-10-10,workplace,active,0,92,3,1449,0,1,88
+Kluster Jalan Klebang 1/1,Perak,Kinta,2021-09-12,2021-10-10,workplace,active,0,92,3,1449,0,1,88
 Kluster Jalan Jasa 59,Johor,Johor Bahru,2021-09-13,2021-09-12,highRisk,ended,0,35,0,38,0,1,34
 Kluster Industri Jalan Lengkuk,Selangor,Klang,2021-09-13,2021-09-12,workplace,ended,0,49,0,112,0,0,49
 Kluster Tapak Bina Jalan Bangau,Johor,Kulai,2021-09-13,2021-09-12,workplace,ended,0,19,0,91,0,0,19
@@ -5175,12 +5175,12 @@ Kluster Jalan Mentakab - Temerloh,Pahang,Temerloh,2021-09-14,2021-09-23,workplac
 Kluster Jalan Sutera Merah Dua,Johor,Johor Bahru,2021-09-14,2021-09-24,highRisk,active,0,25,0,56,0,7,18
 Kluster Jalan Putra 1B,Perak,Kinta,2021-09-14,2021-09-24,workplace,active,0,17,0,70,0,0,17
 Kluster Jalan Bidor Belatim,Perak,Batang Padang,2021-09-14,2021-09-24,workplace,active,0,69,0,151,0,0,69
-Kluster Jalan Industri Dua Kampar,Perak,Kampar ,2021-09-14,2021-09-25,workplace,active,0,13,0,30,0,0,13
+Kluster Jalan Industri Dua Kampar,Perak,Kampar,2021-09-14,2021-09-25,workplace,active,0,13,0,30,0,0,13
 Kluster Jalan Cheras Batu Empat,WP Kuala Lumpur,"Cheras, Kepong, Titiwangsa",2021-09-14,2021-10-02,highRisk,active,0,62,1,90,0,0,61
 Kluster Kampung Sungai Kiol,Pahang,Jerantut,2021-09-14,2021-10-08,community,active,0,227,2,658,0,2,223
 Kluster Industri Jalan Bercham,Perak,Kinta,2021-09-14,2021-10-10,workplace,active,0,433,38,897,0,0,395
 Kluster Kampung Segedup,Sarawak,Kuching,2021-09-14,2021-10-15,community,active,0,47,10,87,0,0,37
-Kluster Sawit Lepar Hilir,Pahang,Kuantan,2021-09-14,2021-10-17,workplace,active,44,93,70,790,0,0,23
+Kluster Sawit Lepar Hilir,Pahang,Kuantan,2021-09-14,2021-10-17,workplace,active,0,93,70,790,0,0,23
 Kluster Jalan Murni Jaya Dua,Johor,Johor Bahru,2021-09-15,2021-09-14,highRisk,ended,0,32,0,35,0,0,32
 Kluster Jalan Bukit Mertajam,Selangor,Klang,2021-09-15,2021-09-14,highRisk,ended,0,28,0,29,0,0,28
 Kluster Tegas,Johor,"Johor Bahru, Kota Tinggi",2021-09-15,2021-09-14,workplace,ended,0,17,0,37,0,1,16
@@ -5196,10 +5196,10 @@ Kluster Kampung Gual Dalam,Kelantan,Pasir Mas,2021-09-15,2021-09-18,religious,en
 Kluster Jalan Leong Sin Nam,Perak,Kinta,2021-09-15,2021-09-18,workplace,ended,0,17,0,35,0,0,17
 Kluster Sungai Buloh,Sarawak,Pakan,2021-09-15,2021-09-18,community,ended,0,22,0,23,0,0,22
 Kluster Ladang Valdor 12,Pulau Pinang,Seberang Perai Selatan,2021-09-15,2021-09-19,workplace,ended,0,64,0,235,0,0,64
-Kluster Lorong Aik Hwa 23,Johor,Muar,2021-09-15,2021-09-20,workplace,active,0,139,1,220,0,0,138
-Kluster Jalan Besi Dua,Johor,Kota Tinggi,2021-09-15,2021-09-20,workplace,active,0,123,0,410,0,0,123
-Kluster Industri Jalan 1D,Selangor,Petaling,2021-09-15,2021-09-20,workplace,active,0,21,21,32,0,0,0
-Kluster Dah Batu Lima,Kedah,Sik,2021-09-15,2021-09-20,education,active,0,70,9,88,0,0,61
+Kluster Lorong Aik Hwa 23,Johor,Muar,2021-09-15,2021-09-20,workplace,ended,0,139,0,220,0,0,139
+Kluster Jalan Besi Dua,Johor,Kota Tinggi,2021-09-15,2021-09-20,workplace,ended,0,123,0,410,0,0,123
+Kluster Industri Jalan 1D,Selangor,Petaling,2021-09-15,2021-09-20,workplace,ended,0,21,0,32,0,0,21
+Kluster Dah Batu Lima,Kedah,Sik,2021-09-15,2021-09-20,education,ended,0,70,0,88,0,0,70
 Kluster Tapak Bina Taman Desa Bertam,Melaka,Melaka Tengah,2021-09-15,2021-09-22,workplace,active,0,34,0,199,0,0,34
 Kluster Kampung Berhamah,Pahang,Lipis,2021-09-15,2021-09-24,community,active,0,32,14,76,0,0,18
 Kluster Industri Jalan Seelong Senai,Johor,Kulai,2021-09-15,2021-09-28,workplace,active,0,100,49,411,0,0,51
@@ -5242,7 +5242,7 @@ Kluster Sungai Pana,Sarawak,"Beluru, Miri",2021-09-17,2021-09-23,community,activ
 Kluster Pasar Sungai Siput,Perak,Kuala Kangsar,2021-09-17,2021-09-29,workplace,active,0,91,0,140,0,0,91
 Kluster Dah Kampung Permatang,Kedah,Bandar Baharu,2021-09-17,2021-09-29,community,active,0,36,7,100,0,0,29
 Kluster Industri Kechau Tui,Pahang,Lipis,2021-09-17,2021-09-30,workplace,active,0,60,11,277,0,0,49
-Kluster Taman Industri Pelabuhan 2,Perak,Manjung ,2021-09-17,2021-09-30,workplace,active,0,85,0,1318,0,0,85
+Kluster Taman Industri Pelabuhan 2,Perak,Manjung,2021-09-17,2021-09-30,workplace,active,0,85,0,1318,0,0,85
 Kluster Kampung Sungai Koi,Pahang,Jerantut,2021-09-17,2021-10-02,community,active,0,69,18,85,0,0,51
 Kluster Taman Selinsing,Pahang,Lipis,2021-09-17,2021-10-06,community,active,0,31,3,165,0,0,28
 Kluster Jalan Susur Kulai Satu,Johor,Kulai,2021-09-17,2021-10-11,highRisk,active,0,40,8,68,0,2,30
@@ -5252,7 +5252,7 @@ Kluster Industri Jalan Perigi Nenas 6/1,Selangor,Klang,2021-09-18,2021-09-17,wor
 Kluster Lorong Seri Murni Dua,Pulau Pinang,Seberang Perai Utara,2021-09-18,2021-09-18,workplace,ended,0,25,0,54,0,0,25
 Kluster Nansang Wak,Sarawak,Pakan,2021-09-18,2021-09-18,community,ended,0,52,0,113,0,0,52
 Kluster Sawit Safoda,Sabah,Kinabatangan,2021-09-18,2021-09-19,workplace,ended,0,44,0,279,0,0,44
-Kluster Kampung Kubang Gatal,Kelantan,Pasir Mas,2021-09-18,2021-09-20,community,active,0,9,0,15,0,0,9
+Kluster Kampung Kubang Gatal,Kelantan,Pasir Mas,2021-09-18,2021-09-20,community,ended,0,9,0,15,0,0,9
 Kluster Industri Jalan Besar 38,Johor,Batu Pahat,2021-09-18,2021-09-21,workplace,active,0,19,0,41,0,0,19
 Kluster Jalan Kompleks Sukan,Perak,Kinta,2021-09-18,2021-09-26,highRisk,active,0,26,0,40,0,0,26
 Kluster Jalan Halia Kluang,Johor,Kluang,2021-09-18,2021-09-29,workplace,active,0,50,8,82,0,0,42
@@ -5261,7 +5261,7 @@ Kluster Batu 19 Jalan Besar,Johor,Kulai,2021-09-18,2021-09-30,highRisk,active,0,
 Kluster Industri Jalan Johan 2/1A,Perak,Kinta,2021-09-18,2021-10-04,workplace,active,0,52,0,175,0,0,52
 Kluster Udara Membedai,WP Labuan,Labuan,2021-09-18,2021-10-08,workplace,active,0,28,2,139,0,0,26
 Kluster Jalan Bidara 6/3,Selangor,Kuala Selangor,2021-09-18,2021-10-08,workplace,active,0,42,9,72,0,0,33
-Kluster Kampung Ulu Pareh,Pahang,Bentong,2021-09-18,2021-10-17,community,active,1,148,7,433,0,1,140
+Kluster Kampung Ulu Pareh,Pahang,Bentong,2021-09-18,2021-10-17,community,active,0,148,7,433,0,1,140
 Kluster Tapak Bina Jalan Trek,Pulau Pinang,Barat Daya,2021-09-19,2021-09-18,workplace,ended,0,50,0,120,0,0,50
 Kluster Dah Asam Industri Kubang Pasu,Kedah,Kubang Pasu,2021-09-19,2021-09-18,workplace,ended,0,30,0,51,0,0,30
 Kluster Pangkor Laut,Perak,Manjung,2021-09-19,2021-09-18,workplace,ended,0,59,0,243,0,0,59
@@ -5272,14 +5272,14 @@ Kluster Tanjong Laboh Tiga Setengah,Johor,Batu Pahat,2021-09-19,2021-09-22,workp
 Kluster Industri Sulong Utama Lapan,Johor,Batu Pahat,2021-09-19,2021-09-22,workplace,active,0,21,0,48,0,0,21
 Kluster Industri Rishah 14,Perak,Kinta,2021-09-19,2021-09-24,workplace,active,0,110,0,328,0,0,110
 Kluster Pasar Tanah Rata,Pahang,Cameron Highlands,2021-09-19,2021-09-25,workplace,active,0,33,0,63,0,0,33
-Kluster Ladang Endau,Pahang,Rompin ,2021-09-19,2021-09-26,workplace,active,0,32,2,48,0,0,30
+Kluster Ladang Endau,Pahang,Rompin,2021-09-19,2021-09-26,workplace,active,0,32,2,48,0,0,30
 Kluster Jalan Ara,WP Kuala Lumpur,Lembah Pantai,2021-09-19,2021-09-27,workplace,active,0,20,20,29,0,0,0
 Kluster Jalan Sungai Mas,Johor,Kota Tinggi,2021-09-19,2021-09-28,community,active,0,100,0,128,0,0,100
 Kluster Kampung Baru Nelayan,Selangor,Sabak Bernam,2021-09-19,2021-09-30,community,active,0,35,22,60,0,1,12
 Kluster KM19 Jalan Kuching-Serian,Sarawak,Kuching,2021-09-19,2021-10-01,highRisk,active,0,19,0,95,0,0,19
 Kluster Bukit Tajau,Pahang,"Maran, Temerloh",2021-09-19,2021-10-03,community,active,0,36,1,56,0,0,35
 Kluster Batu Lapan Lepar,Pahang,"Pekan, Kuantan",2021-09-19,2021-10-06,workplace,active,0,100,0,268,0,1,99
-Kluster Industri Jalan Haji Kamisan,Johor,Segamat,2021-09-19,2021-10-13,workplace,active,0,218,40,370,0,0,178
+Kluster Industri Jalan Haji Kamisan,Johor,Segamat,2021-09-19,2021-10-13,workplace,active,0,218,37,370,0,0,181
 Kluster Industri Bukit Koman,Pahang,Raub,2021-09-19,2021-10-14,workplace,active,0,49,16,65,0,0,33
 Kluster Tompok Utara Satu,Johor,Johor Bahru,2021-09-20,2021-09-19,import,ended,0,24,0,31,0,0,24
 Kluster Industri Jalan Johan 2/6,Perak,Kinta,2021-09-20,2021-09-19,workplace,ended,0,33,0,180,0,0,33
@@ -5290,11 +5290,11 @@ Kluster Jalan Bintulu-Miri 3,Sarawak,Bintulu,2021-09-20,2021-09-19,community,end
 Kluster Ulu Lubai,Sarawak,Limbang,2021-09-20,2021-09-19,community,ended,0,16,0,88,0,0,16
 Kluster Kampung Belukar Aur Cina,Kelantan,Pasir Mas,2021-09-20,2021-09-19,community,ended,0,10,0,10,0,0,10
 Kluster Sungai Separai 2,Sarawak,Tatau,2021-09-20,2021-09-19,community,ended,0,12,0,52,0,0,12
-Kluster Jalan Industri A1 Penawar,Johor,"Kota Tinggi, Kulai",2021-09-20,2021-09-20,workplace,active,0,22,0,60,0,0,22
+Kluster Jalan Industri A1 Penawar,Johor,"Kota Tinggi, Kulai",2021-09-20,2021-09-20,workplace,ended,0,22,0,60,0,0,22
 Kluster Tapak Bina Mutiara Perdana,Johor,Batu Pahat,2021-09-20,2021-09-22,workplace,active,0,13,0,52,0,1,12
-Kluster Jalan David Sung,Perak,Manjung ,2021-09-20,2021-09-23,workplace,active,0,17,0,188,0,0,17
+Kluster Jalan David Sung,Perak,Manjung,2021-09-20,2021-09-23,workplace,active,0,17,0,188,0,0,17
 Kluster Sawit M1,Sabah,Kinabatangan,2021-09-20,2021-09-26,workplace,active,0,98,0,278,0,0,98
-Kluster Industri Jalan Kepa,Kelantan,Gua Musang ,2021-09-20,2021-09-26,workplace,active,0,73,0,111,0,0,73
+Kluster Industri Jalan Kepa,Kelantan,Gua Musang,2021-09-20,2021-09-26,workplace,active,0,73,0,111,0,0,73
 Kluster Jalan Seri Impian Satu Kluang,Johor,Kluang,2021-09-20,2021-09-28,highRisk,active,0,35,0,75,0,0,35
 Kluster Industri Sri Sulong Dua,Johor,Batu Pahat,2021-09-20,2021-09-28,workplace,active,0,38,0,181,0,0,38
 Kluster Sawit Sri Meranti,Pahang,Kuantan,2021-09-20,2021-09-28,community,active,0,35,8,543,0,0,27
@@ -5303,15 +5303,15 @@ Kluster Chama Ajai,Sarawak,Beluru,2021-09-20,2021-09-29,community,active,0,30,0,
 Kluster Batu Sembilan Bakri,Johor,Muar,2021-09-20,2021-09-30,workplace,active,0,64,1,92,0,0,63
 Kluster Jalan Pusat Perniagaan Silibin Dua,Perak,Kinta,2021-09-20,2021-10-04,workplace,active,0,12,0,82,0,0,12
 Kluster Industri Kompleks Perabut 2,Selangor,Kuala Langat,2021-09-20,2021-10-08,workplace,active,0,68,1,298,0,0,67
-Kluster Industri Pegoh,Melaka,Alor Gajah,2021-09-20,2021-10-16,workplace,active,0,88,16,296,0,0,72
-Kluster Jalan Murni 15,Johor,Muar,2021-09-21,2021-09-20,highRisk,active,0,10,0,28,0,0,10
-Kluster Kedai Pasir Tumboh,Kelantan,"Bachok, Kota Bharu, Kuala Krai",2021-09-21,2021-09-20,workplace,active,0,9,0,16,0,0,9
-Kluster Kampung Pauh Sembilan,Kelantan,Bachok,2021-09-21,2021-09-20,community,active,0,21,7,37,0,0,14
-Kluster Taman Tengku Ahmad Rithauden,Kelantan,Kota Bharu,2021-09-21,2021-09-20,community,active,0,10,0,15,0,0,10
-Kluster Kampung Simpangan,Kelantan,"Tumpat, Kota Bharu",2021-09-21,2021-09-20,community,active,0,12,0,17,0,0,12
-Kluster Kampung Limbat Dewan Beta,Kelantan,Kota Bharu,2021-09-21,2021-09-20,community,active,0,15,0,22,0,0,15
-Kluster Jalan Saat Tangkak,Johor,Tangkak,2021-09-21,2021-09-20,community,active,0,10,0,12,0,0,10
-Kluster Kampung Chat Meranti,Kelantan,Pasir Mas ,2021-09-21,2021-09-20,community,active,0,14,0,15,0,0,14
+Kluster Industri Pegoh,Melaka,Alor Gajah,2021-09-20,2021-10-18,workplace,active,1,89,16,301,0,0,73
+Kluster Jalan Murni 15,Johor,Muar,2021-09-21,2021-09-20,highRisk,ended,0,10,0,28,0,0,10
+Kluster Kedai Pasir Tumboh,Kelantan,"Bachok, Kota Bharu, Kuala Krai",2021-09-21,2021-09-20,workplace,ended,0,9,0,16,0,0,9
+Kluster Kampung Pauh Sembilan,Kelantan,Bachok,2021-09-21,2021-09-20,community,ended,0,21,0,37,0,0,21
+Kluster Taman Tengku Ahmad Rithauden,Kelantan,Kota Bharu,2021-09-21,2021-09-20,community,ended,0,10,0,15,0,0,10
+Kluster Kampung Simpangan,Kelantan,"Tumpat, Kota Bharu",2021-09-21,2021-09-20,community,ended,0,12,0,17,0,0,12
+Kluster Kampung Limbat Dewan Beta,Kelantan,Kota Bharu,2021-09-21,2021-09-20,community,ended,0,15,0,22,0,0,15
+Kluster Jalan Saat Tangkak,Johor,Tangkak,2021-09-21,2021-09-20,community,ended,0,10,0,12,0,0,10
+Kluster Kampung Chat Meranti,Kelantan,Pasir Mas ,2021-09-21,2021-09-20,community,ended,0,14,0,15,0,0,14
 Kluster Jalan Komersial Setapak,WP Kuala Lumpur,Titiwangsa,2021-09-21,2021-09-22,education,active,0,7,7,55,0,0,0
 Kluster Lungkidau,Sabah,Ranau,2021-09-21,2021-09-22,community,active,0,143,7,178,0,0,136
 Kluster Industri Jalan Perusahaan Dua Kamunting,Perak,"Larut, Matang dan Selama",2021-09-21,2021-09-23,workplace,active,0,50,0,267,0,0,50
@@ -5351,8 +5351,8 @@ Kluster Kampung Sungai Gabong,Pahang,Bentong,2021-09-22,2021-10-07,community,act
 Kluster Batu Empat Tapah,Perak,"Batang Padang, Hilir Perak, Perak Tengah, Kampar",2021-09-22,2021-10-08,workplace,active,0,150,18,887,0,0,132
 Kluster Jalan Sungai Terah,Kelantan,Gua Musang,2021-09-22,2021-10-09,workplace,active,0,43,13,47,0,0,30
 Kluster Jalan Ehsan Bandar Jengka,Pahang,"Maran, Jerantut",2021-09-22,2021-10-09,workplace,active,0,30,1,82,0,0,29
-Kluster Kampung Masjid Tanjung,Perak,Kinta,2021-09-22,2021-10-17,highRisk,active,8,130,45,157,0,3,82
-Kluster Kampung Sungai Gapoi,Pahang,Bentong,2021-09-22,2021-10-17,community,active,1,114,8,241,0,0,106
+Kluster Kampung Masjid Tanjung,Perak,Kinta,2021-09-22,2021-10-17,highRisk,active,0,130,45,157,0,3,82
+Kluster Kampung Sungai Gapoi,Pahang,Bentong,2021-09-22,2021-10-17,community,active,0,114,8,241,0,0,106
 Kluster Shan Pengerang,Johor,Kota Tinggi,2021-09-23,2021-09-22,workplace,active,0,14,0,18,0,0,14
 Kluster Industri Jalan Semenyih Batu 19,Selangor,"Hulu Langat, Petaling",2021-09-23,2021-09-22,workplace,active,0,26,0,112,0,0,26
 Kluster Industri Batu 29 Ijok,Selangor,Kuala Selangor,2021-09-23,2021-09-22,workplace,active,0,12,0,79,0,0,12
@@ -5367,7 +5367,7 @@ Kluster Jalan Chiku Satu,Kelantan,Gua Musang,2021-09-23,2021-10-01,workplace,act
 Kluster Jalan Er Luan,Johor,Muar,2021-09-23,2021-10-01,workplace,active,0,266,21,391,0,0,245
 Kluster Industri Jalan 1/9C,Selangor,"Hulu Langat, Kuala Langat, Gombak, Sepang, Petaling",2021-09-23,2021-10-02,workplace,active,0,89,0,160,0,0,89
 Kluster Batu 46 Tulid,Sabah,Keningau,2021-09-23,2021-10-03,workplace,active,0,88,7,194,0,0,81
-Kluster Batu 8 Tanjung,Perak,Kinta,2021-09-23,2021-10-17,community,active,6,364,65,569,0,0,299
+Kluster Batu 8 Tanjung,Perak,Kinta,2021-09-23,2021-10-17,community,active,0,364,65,569,0,0,299
 Kluster Tapak Bina Jalan Gapam,Melaka,Jasin,2021-09-24,2021-09-23,workplace,active,0,83,0,125,0,0,83
 Kluster Tapak Bina Jalan Exora Plentong,Johor,Johor Bahru,2021-09-24,2021-09-23,workplace,active,0,70,0,122,0,0,70
 Kluster Industri Jalan Teknologi Sembilan Tangkak,Johor,Tangkak,2021-09-24,2021-09-23,workplace,active,0,10,1,63,0,0,9
@@ -5387,7 +5387,7 @@ Kluster Kampung Sungai Mai,Pahang,Jerantut,2021-09-24,2021-10-08,community,activ
 Kluster Persiaran Kempas Baru 2,Johor,Johor Bahru,2021-09-24,2021-10-09,highRisk,active,0,45,6,89,0,0,39
 Kluster Sawit Bukit Sagu,Pahang,Kuantan,2021-09-24,2021-10-12,workplace,active,0,188,170,276,0,0,18
 Kluster Industri Jalan Waja Enam Belas 2,Selangor,"Kuala Langat, Klang, Kuala Selangor",2021-09-24,2021-10-14,workplace,active,0,278,250,800,0,1,27
-Kluster Jalan DSH Mohd Zin,Melaka,Melaka Tengah,2021-09-24,2021-10-14,workplace,active,0,153,18,529,0,0,135
+Kluster Jalan DSH Mohd Zin,Melaka,Melaka Tengah,2021-09-24,2021-10-14,workplace,active,0,153,16,529,0,0,137
 Kluster Jalan Perak Georgetown,Pulau Pinang,Timur Laut,2021-09-25,2021-09-24,highRisk,active,0,44,0,50,0,0,44
 Kluster Jalan Megah Suasana,Selangor,Hulu Langat,2021-09-25,2021-09-24,highRisk,active,0,35,0,42,0,0,35
 Kluster Industri Jalan Jati Kanan,Selangor,Klang,2021-09-25,2021-09-24,workplace,active,0,61,4,91,0,0,57
@@ -5405,7 +5405,7 @@ Kluster Industri Jalan P/1A,Selangor,Hulu Langat,2021-09-26,2021-09-25,workplace
 Kluster Tapak Bina Jalan Semenyih,Selangor,"Hulu Langat, Gombak",2021-09-26,2021-09-25,workplace,active,0,110,110,375,0,0,0
 Kluster Persiaran Pelangi Indah,Johor,Johor Bahru,2021-09-26,2021-09-25,workplace,active,0,14,0,59,0,0,14
 Kluster Kampung Gual Pasir,Kelantan,Pasir Mas,2021-09-26,2021-09-25,community,active,0,6,0,7,0,0,6
-Kluster Kampung Kubang Bunut Kasar,Kelantan ,Pasir Mas ,2021-09-26,2021-09-28,community,active,0,13,4,14,0,1,8
+Kluster Kampung Kubang Bunut Kasar,Kelantan ,Pasir Mas,2021-09-26,2021-09-28,community,active,0,13,4,14,0,1,8
 Kluster Sungai Poh,Sarawak,Limbang,2021-09-26,2021-09-28,community,active,0,46,0,49,0,1,45
 Kluster Jalan Chenderik,WP Kuala Lumpur,"Titiwangsa, Cheras",2021-09-26,2021-10-03,workplace,active,0,15,0,44,0,0,15
 Kluster Tapak Bina Jalan Kulai,Johor,Kota Tinggi,2021-09-26,2021-10-08,workplace,active,0,93,55,168,0,0,38
@@ -5430,8 +5430,8 @@ Kluster Sawit Sungai Gayung,Pahang,Rompin,2021-09-27,2021-10-08,workplace,active
 Kluster Jalan Dr Muthu,Negeri Sembilan,Seremban,2021-09-27,2021-10-09,workplace,active,0,112,55,256,0,0,57
 Kluster Melaban,Sarawak,Limbang,2021-09-27,2021-10-09,community,active,0,43,1,51,0,0,42
 Kluster Industri Sawit Kuala Betis,Kelantan,Gua Musang,2021-09-27,2021-10-10,workplace,active,0,24,6,25,0,0,18
-Kluster Tembok Limbang,Sarawak,Limbang ,2021-09-27,2021-10-16,detentionCentre,active,0,96,25,104,0,1,70
-Kluster Industri Jalan Haji Abdul Karim 53,Selangor,Klang,2021-09-28,2021-09-27,workplace,active,0,12,12,25,0,0,0
+Kluster Tembok Limbang,Sarawak,Limbang,2021-09-27,2021-10-16,detentionCentre,active,0,96,25,104,0,1,70
+Kluster Industri Jalan Haji Abdul Karim 53,Selangor,Klang,2021-09-28,2021-09-27,workplace,active,0,12,0,25,0,0,12
 Kluster Tapak Bina Jalan Murni Empat,Johor,Kulai,2021-09-28,2021-09-27,workplace,active,0,27,0,57,0,0,27
 Kluster Perindustrian Jalan Ladang Siang,Johor,Kota Tinggi,2021-09-28,2021-09-27,workplace,active,0,19,0,36,0,0,19
 Kluster Jalan Jambu Ipoh,Perak,Kinta,2021-09-28,2021-09-27,workplace,active,0,20,1,65,0,0,19
@@ -5439,7 +5439,7 @@ Kluster Kampung Ganoh,Pahang,"Rompin, Mersing",2021-09-28,2021-09-27,community,a
 Kluster Kampung Serai Lima,Kelantan,Pasir Mas,2021-09-28,2021-09-27,community,active,0,13,0,14,0,0,13
 Kluster Kerteh Enam Dungun,Terengganu,Dungun,2021-09-28,2021-09-28,community,active,0,62,62,134,0,0,0
 Kluster Industri Batu 29 Jalan Ipoh,Selangor,Hulu Selangor,2021-09-28,2021-09-29,workplace,active,0,20,8,59,0,0,12
-Kluster Parit Enam Timur,Selangor,Sabak Bernam,2021-09-28,2021-09-29,community,active,0,11,9,20,0,0,2
+Kluster Parit Enam Timur,Selangor,Sabak Bernam,2021-09-28,2021-09-29,community,active,0,11,0,20,0,0,11
 Kluster Kampung Seneng,Kelantan,Bachok,2021-09-28,2021-09-29,community,active,0,22,16,28,0,0,6
 Kluster Jalan Tasik Gua Musang,Kelantan,Gua Musang,2021-09-28,2021-10-08,workplace,active,0,32,4,41,0,0,28
 Kluster Kampung Kekabu Kuala Lemal,Kelantan,"Pasir Mas, Kota Bharu",2021-09-28,2021-10-10,community,active,0,9,1,14,0,0,8
@@ -5474,22 +5474,22 @@ Kluster Dua Jalan Puchong,Selangor,Petaling,2021-09-30,2021-10-04,workplace,acti
 Kluster Long Pasia,Sabah,Sipitang,2021-09-30,2021-10-04,community,active,0,29,0,68,0,0,29
 Kluster Jalan Taib,Johor,Kota Tinggi,2021-09-30,2021-10-05,highRisk,active,0,31,19,85,0,0,12
 Kluster Industri Batu 21 Jalan Pontian,Johor,Kulai,2021-09-30,2021-10-07,workplace,active,0,62,14,295,0,4,44
-Kluster Industri Sri Tanjung,"Johor, Melaka","Tangkak, Muar, Jasin",2021-09-30,2021-10-10,workplace,active,0,41,22,240,0,0,19
 Kluster Sungai Miang,Pahang,"Pekan, Lipis",2021-09-30,2021-10-12,workplace,active,0,104,104,144,0,0,0
+Kluster Industri Sri Tanjung,"Johor, Melaka","Tangkak, Muar, Jasin",2021-09-30,2021-10-18,workplace,active,1,42,23,240,0,0,19
 Kluster Permatang Manik Intan,Perak,Hilir Perak,2021-10-01,2021-09-30,religious,active,0,29,2,37,0,0,27
 Kluster Tapak Bina Jalan Seruling 59,Selangor,Klang,2021-10-01,2021-09-30,workplace,active,0,20,20,74,0,0,0
 Kluster Lebuh Bercham Timur,Perak,Kinta,2021-10-01,2021-09-30,workplace,active,0,10,6,43,0,0,4
 Kluster Perindustrian Jalan Rusa,Johor,Kota Tinggi,2021-10-01,2021-10-01,workplace,active,0,29,0,61,0,0,29
 Kluster Batu 8 Jalan Kubong,Sarawak,Limbang,2021-10-01,2021-10-01,community,active,0,23,1,229,0,1,21
 Kluster Industri Wawasan 19,Johor,Batu Pahat,2021-10-01,2021-10-03,workplace,active,0,19,6,61,0,0,13
-Kluster Kampung Gaung Tendong,Kelantan,Pasir Mas,2021-10-01,2021-10-03,community,active,0,12,1,13,0,0,11
+Kluster Kampung Gaung Tendong,Kelantan,Pasir Mas,2021-10-01,2021-10-03,community,active,0,12,0,13,0,0,12
 Kluster Giam,Sarawak,Kuching,2021-10-01,2021-10-04,community,active,0,151,86,178,0,1,64
 Kluster Industri Jalan Ros,Selangor,Hulu Selangor,2021-10-01,2021-10-06,workplace,active,0,78,42,522,0,0,36
 Kluster Batu Hampar,Johor,Segamat,2021-10-01,2021-10-10,community,active,0,59,4,170,0,1,54
 Kluster Kampung Pasir Kelang,Kelantan,Kuala Krai,2021-10-01,2021-10-12,community,active,0,88,43,164,0,0,45
-Kluster Industri Dua Jalan Haji Manan,Selangor,"Klang, Kuala Selangor",2021-10-01,2021-10-13,workplace,active,0,20,19,385,0,0,1
 Kluster Jalan Sengkang Pagoh,Johor,Muar,2021-10-01,2021-10-15,community,active,0,57,12,104,0,1,44
-Kluster Dah Teluk Nibung,Kedah, Langkawi,2021-10-01,2021-10-17,workplace,active,2,77,12,272,0,1,64
+Kluster Dah Teluk Nibung,Kedah,Langkawi,2021-10-01,2021-10-17,workplace,active,0,77,12,272,0,1,64
+Kluster Industri Dua Jalan Haji Manan,Selangor,"Klang, Kuala Selangor",2021-10-01,2021-10-18,workplace,active,2,22,21,387,0,0,1
 Kluster Jalan Haji Mohd Noordin,Perak,Kinta,2021-10-02,2021-10-01,highRisk,active,0,24,0,48,0,0,24
 Kluster Tapak Bina Sri Austin,Johor,Johor Bahru,2021-10-02,2021-10-01,workplace,active,0,59,59,82,0,0,0
 Kluster Sekakap Mersing,Johor,Mersing,2021-10-02,2021-10-01,workplace,active,0,25,25,43,0,0,0
@@ -5503,9 +5503,9 @@ Kluster Jalan Taman Titiwangsa,Kelantan,Gua Musang,2021-10-02,2021-10-08,workpla
 Kluster Parit Bengkok Tangkak,Johor,Tangkak,2021-10-03,2021-10-02,community,active,0,12,0,18,0,0,12
 Kluster Batu 11 Bukit Pasir,Johor,Muar,2021-10-03,2021-10-03,workplace,active,0,50,49,133,0,0,1
 Kluster Taman Desa Wira,Kelantan,"Pasir Mas, Kota Bharu",2021-10-03,2021-10-05,community,active,0,16,8,16,0,0,8
-Kluster Jalan Seneng,Kelantan,Bachok,2021-10-03,2021-10-07,workplace,active,0,22,4,33,0,0,18
+Kluster Jalan Seneng,Kelantan,Bachok,2021-10-03,2021-10-07,workplace,active,0,22,3,33,0,0,19
 Kluster Kampung Pos Kelang,Pahang,Raub,2021-10-03,2021-10-11,community,active,0,32,5,150,0,0,27
-Kluster Sawit Bera Selatan,Pahang,Bera,2021-10-03,2021-10-15,workplace,active,0,175,22,315,0,2,151
+Kluster Sawit Bera Selatan,Pahang,Bera,2021-10-03,2021-10-15,workplace,active,0,175,20,315,0,2,153
 Kluster Sungai Tabulion,Sabah,Kinabatangan,2021-10-04,2021-10-03,workplace,active,0,63,6,125,0,0,57
 Kluster Sandau Sawit,Sabah,Kinabatangan,2021-10-04,2021-10-03,workplace,active,0,28,3,87,0,0,25
 Kluster Taman Perindustrian Tungzen,Perak,Kinta,2021-10-04,2021-10-03,workplace,active,0,67,66,176,0,0,1
@@ -5524,17 +5524,17 @@ Kluster Jalan KK 8/1 Kubang Kerian,Kelantan,"Kota Bharu, Bachok",2021-10-04,2021
 Kluster Jalan Cantik Dua,Johor,Johor Bahru,2021-10-05,2021-10-04,workplace,active,0,20,20,20,0,0,0
 Kluster Kampung Tong,Kelantan,Pasir Mas,2021-10-05,2021-10-04,community,active,0,7,5,7,0,0,2
 Kluster Kampung Perah Hilir,Kelantan,Pasir Mas,2021-10-05,2021-10-04,community,active,0,6,0,9,0,0,6
-Kluster Industri Jalan Wawasan Satu,Selangor,Klang,2021-10-05,2021-10-05,workplace,active,0,41,41,94,0,0,0
+Kluster Industri Jalan Wawasan Satu,Selangor,Klang,2021-10-05,2021-10-05,workplace,active,0,41,39,94,0,0,2
 Kluster Kok Lanas Ketereh,Kelantan,Kota Bharu,2021-10-05,2021-10-05,workplace,active,0,55,53,84,0,0,2
 Kluster Laluan Lahat Timur 1/1,Perak,Kinta,2021-10-05,2021-10-07,workplace,active,0,91,46,247,0,0,45
 Kluster Industri Jalan Bawal Telok Gong,Selangor,Klang,2021-10-05,2021-10-08,workplace,active,0,8,8,114,0,0,0
 Kluster Industri Batu 28 Pontian,Johor,Pontian,2021-10-05,2021-10-09,workplace,active,0,85,85,201,0,0,0
 Kluster Sawit Temerloh,Pahang,Temerloh,2021-10-05,2021-10-09,workplace,active,0,13,10,35,0,0,3
-Kluster Jalan Utama 57,Selangor,Kuala Langat,2021-10-05,2021-10-09,education,active,0,57,57,95,0,0,0
+Kluster Jalan Utama 57,Selangor,Kuala Langat,2021-10-05,2021-10-09,education,active,0,57,21,95,0,0,36
 Kluster Batu Tujuh Setengah Bakri,Johor,Muar,2021-10-05,2021-10-10,workplace,active,0,141,137,285,0,0,4
 Kluster Dah Terbang,Kedah,"Kuala Muda, Kota Setar, Kubang Pasu",2021-10-05,2021-10-11,workplace,active,0,41,7,67,0,1,33
-Kluster Penyayang Jejawi,Perlis,Kangar,2021-10-05,2021-10-17,highRisk,active,1,134,115,174,0,0,19
-Kluster Dah Suasana Industri Gurun,Kedah,"Kuala Muda, Pendang, Yan",2021-10-05,2021-10-17,workplace,active,2,86,49,229,0,0,37
+Kluster Penyayang Jejawi,Perlis,Kangar,2021-10-05,2021-10-17,highRisk,active,0,134,115,174,0,0,19
+Kluster Dah Suasana Industri Gurun,Kedah,"Kuala Muda, Pendang, Yan",2021-10-05,2021-10-17,workplace,active,0,86,49,229,0,0,37
 Kluster Industri Dua Batu 29 Jalan Ipoh,Selangor,Hulu Selangor,2021-10-06,2021-10-05,workplace,active,0,23,23,80,0,0,0
 Kluster Tapak Bina Jalan Pendas,Johor,Johor Bahru,2021-10-06,2021-10-05,workplace,active,0,12,12,12,0,0,0
 Kluster Dataran Air Muleh,Kelantan,"Pasir Mas, Tumpat, Machang, Kota Bharu",2021-10-06,2021-10-05,workplace,active,0,8,1,32,0,0,7
@@ -5555,20 +5555,20 @@ Kluster Industri Jalan Senawang Tiga 2,Negeri Sembilan,"Seremban, Rembau",2021-1
 Kluster Jalan Banggol Setol,Kelantan,Pasir Mas,2021-10-07,2021-10-15,workplace,active,0,68,68,130,0,0,0
 Kluster Dah Taman Ihsan,Kedah,"Kulim, Kuala Muda, Baling",2021-10-07,2021-10-16,education,active,0,64,41,233,0,0,23
 Kluster Kampung Pantos,Pahang,Lipis,2021-10-07,2021-10-16,community,active,0,117,117,243,0,0,0
-Kluster Kampung Bukit Bunga,Kelantan,"Tanah Merah, Pasir Mas",2021-10-07,2021-10-17,workplace,active,1,26,15,53,0,0,11
-Kluster Industri PLO Parit Raja,Johor,Batu Pahat,2021-10-07,2021-10-17,workplace,active,10,41,41,423,0,0,0
-Kluster Industri Jalan Enggang Batu 9,Selangor,Kuala Langat,2021-10-07,2021-10-17,workplace,active,1,57,57,59,0,0,0
-Kluster Paya Sendayan,Pahang,Temerloh,2021-10-07,2021-10-17,community,active,1,20,20,26,0,0,0
-Kluster Jalan Bachok Dua,Kelantan,"Bachok, Tumpat, Kota Bharu",2021-10-08,2021-10-07,highRisk,active,0,10,7,18,0,0,3
+Kluster Kampung Bukit Bunga,Kelantan,"Tanah Merah, Pasir Mas",2021-10-07,2021-10-17,workplace,active,0,26,15,53,0,0,11
+Kluster Industri PLO Parit Raja,Johor,Batu Pahat,2021-10-07,2021-10-17,workplace,active,0,41,41,423,0,0,0
+Kluster Industri Jalan Enggang Batu 9,Selangor,Kuala Langat,2021-10-07,2021-10-17,workplace,active,0,57,57,59,0,0,0
+Kluster Paya Sendayan,Pahang,Temerloh,2021-10-07,2021-10-18,community,active,26,46,46,52,0,0,0
+Kluster Jalan Bachok Dua,Kelantan,"Bachok, Tumpat, Kota Bharu",2021-10-08,2021-10-07,highRisk,active,0,10,1,18,0,0,9
 Kluster Jalan Lama Bagan Terap,Selangor,Sabak Bernam,2021-10-08,2021-10-07,workplace,active,0,17,4,52,0,0,13
 Kluster Jalan Budiman 25,WP Kuala Lumpur,Cheras,2021-10-08,2021-10-07,workplace,active,0,12,12,30,0,0,0
 Kluster Industri Gemilang Kluang,Johor,Kluang,2021-10-08,2021-10-07,workplace,active,0,12,12,40,0,0,0
 Kluster Industri Jalan Kecapi 33/2,Selangor,Klang,2021-10-08,2021-10-10,workplace,active,0,27,25,125,0,0,2
 Kluster Tapak Bina Taman Changkat Iskandar,Perak,Perak Tengah,2021-10-08,2021-10-13,workplace,active,0,30,29,57,0,0,1
-Kluster Kampung Sungai Ubi,Pahang,Cameron Highlands,2021-10-08,2021-10-15,community,active,0,116,17,264,0,0,99
-Kluster Industri Teknologi Cheng Sembilan,Melaka,Melaka Tengah,2021-10-08,2021-10-16,workplace,active,0,48,46,185,0,0,2
 Kluster Rumpun Makmur,Pahang,Temerloh,2021-10-08,2021-10-16,community,active,0,62,40,88,0,0,22
-Kluster Jalan Maktab Sungai Besi,WP Kuala Lumpur,"Cheras, Titiwangsa",2021-10-08,2021-10-17,education,active,9,149,96,441,0,0,53
+Kluster Jalan Maktab Sungai Besi,WP Kuala Lumpur,"Cheras, Titiwangsa",2021-10-08,2021-10-17,education,active,0,149,96,441,0,0,53
+Kluster Industri Teknologi Cheng Sembilan,Melaka,Melaka Tengah,2021-10-08,2021-10-18,workplace,active,9,57,53,203,0,0,4
+Kluster Kampung Sungai Ubi,Pahang,Cameron Highlands,2021-10-08,2021-10-18,community,active,1,117,18,264,0,0,99
 Kluster Kampung Belukar Kubang Gadong,Kelantan,Pasir Mas,2021-10-09,2021-10-08,community,active,0,7,7,11,0,0,0
 Kluster Kampung Nakhoda Saamah,Kelantan,"Bachok, Kota Bharu",2021-10-09,2021-10-08,community,active,0,10,5,23,0,1,4
 Kluster Sawit Ulu Keratong,Pahang,Rompin,2021-10-09,2021-10-10,workplace,active,0,41,41,150,0,0,0
@@ -5577,16 +5577,16 @@ Kluster Jalan Masjid Negeri,Pulau Pinang,Timur Laut,2021-10-09,2021-10-13,highRi
 Kluster Industri Jalan Kesturi,Johor,Batu Pahat,2021-10-09,2021-10-13,workplace,active,0,11,11,32,0,0,0
 Kluster Sungai Pelus,Perak,Kuala Kangsar,2021-10-09,2021-10-14,community,active,0,107,25,371,0,0,82
 Kluster Jalan Tengku Abdul Samad,Pahang,Raub,2021-10-09,2021-10-15,highRisk,active,0,66,47,135,1,0,19
-Kluster Jalan Tampin-Gemas 2,"Negeri Sembilan, Johor","Tampin, Segamat, Kluang",2021-10-09,2021-10-17,workplace,active,14,179,178,353,0,0,1
-Kluster Kampung Seboi,Pahang,Temerloh,2021-10-09,2021-10-17,community,active,4,120,58,175,0,1,61
+Kluster Kampung Seboi,Pahang,Temerloh,2021-10-09,2021-10-17,community,active,0,120,58,175,0,1,61
+Kluster Jalan Tampin-Gemas 2,"Negeri Sembilan, Johor","Tampin, Segamat, Kluang",2021-10-09,2021-10-18,workplace,active,31,210,209,535,0,0,1
 Kluster Taman Kenerek Jaya,Kelantan,Pasir Mas,2021-10-10,2021-10-09,community,active,0,7,7,8,0,0,0
 Kluster Kampung Gertak Kechupu,Kelantan,Kota Bharu,2021-10-10,2021-10-09,community,active,0,13,11,18,0,0,2
 Kluster Jalan Tali Air Kuala Lemal,Kelantan,Pasir Mas,2021-10-10,2021-10-09,community,active,0,10,10,11,0,0,0
 Kluster Kampung Londang,Pahang,Maran,2021-10-10,2021-10-09,community,active,0,12,9,13,0,0,3
-Kluster Kampung Jejulok,Kelantan,Kota Bharu,2021-10-10,2021-10-09,community,active,0,10,4,17,0,0,6
+Kluster Kampung Jejulok,Kelantan,Kota Bharu,2021-10-10,2021-10-09,community,active,0,10,0,17,0,0,10
 Kluster Jalan Bunga Cempaka,Johor,Kota Tinggi,2021-10-10,2021-10-13,religious,active,0,58,57,144,1,0,1
 Kluster Jalan Seroja Muar,Johor,Muar,2021-10-10,2021-10-14,highRisk,active,0,38,29,65,0,0,9
-Kluster Dah 13 Industri Baling,Kedah,"Baling, Kuala Muda",2021-10-10,2021-10-15,workplace,active,0,41,18,131,0,0,23
+Kluster Dah 13 Industri Baling,Kedah,"Baling, Kuala Muda",2021-10-10,2021-10-18,workplace,active,7,48,25,132,0,0,23
 Kluster Lorong Kapal,Pulau Pinang,Seberang Perai Utara,2021-10-11,2021-10-10,highRisk,active,0,23,22,50,0,0,1
 Kluster Jalan Pekaka Lapan,Selangor,Petaling,2021-10-11,2021-10-10,highRisk,active,0,27,26,31,0,0,1
 Kluster Lorong Binjai Manis,Kelantan,Kota Bharu,2021-10-11,2021-10-10,community,active,0,10,10,16,0,0,0
@@ -5594,35 +5594,35 @@ Kluster Jalan Tangkak Dua,Johor,Tangkak,2021-10-11,2021-10-10,community,active,0
 Kluster Industri Batu Lima,Negeri Sembilan,Seremban,2021-10-11,2021-10-11,workplace,active,0,20,20,44,0,0,0
 Kluster Jalan Dato' Hamid,Kelantan,Pasir Mas,2021-10-11,2021-10-12,workplace,active,0,6,6,6,0,0,0
 Kluster Jalan Ipoh-KL Serendah,Selangor,Hulu Selangor,2021-10-11,2021-10-13,education,active,0,51,51,88,0,0,0
-Kluster Bukit Gabang,Pahang,Temerloh,2021-10-11,2021-10-17,community,active,1,27,15,38,0,0,12
-Kluster Sri Jaya Tangkak,Johor,Tangkak,2021-10-11,2021-10-17,community,active,1,16,16,64,0,0,0
+Kluster Bukit Gabang,Pahang,Temerloh,2021-10-11,2021-10-17,community,active,0,27,15,38,0,0,12
+Kluster Sri Jaya Tangkak,Johor,Tangkak,2021-10-11,2021-10-17,community,active,0,16,16,64,0,0,0
 Kluster Jalan Seladang Bukit Mertajam,Pulau Pinang ,Seberang Perai tengah,2021-10-12,2021-10-11,workplace,active,0,15,15,160,0,0,0
 Kluster Industri Jalan Gangsa,Selangor,Kuala Langat,2021-10-12,2021-10-11,workplace,active,0,19,19,128,0,0,0
 Kluster Jalan Mutiara Tiga Kulai,Johor,Kulai,2021-10-12,2021-10-11,community,active,0,7,7,13,0,0,0
-Kluster Kota Emas Pontian,Johor,Pontian ,2021-10-12,2021-10-12,workplace,active,0,33,33,149,0,0,0
+Kluster Kota Emas Pontian,Johor,Pontian,2021-10-12,2021-10-12,workplace,active,0,33,33,149,0,0,0
 Kluster Jalan Alma,Pulau Pinang ,Seberang Perai Tengah,2021-10-12,2021-10-12,workplace,active,0,19,19,140,0,0,0
-Kluster Bukit Baja,Selangor,Sepang,2021-10-12,2021-10-12,community,active,0,42,42,153,0,0,0
-Kluster Jalan Pulau Sebang,"Melaka, Negeri Sembilan","Alor Gajah, Tampin, Rembau",2021-10-12,2021-10-13,workplace,active,0,38,33,227,0,0,5
-Kluster Taman Danau Kota,WP Kuala Lumpur,Titiwangsa,2021-10-12,2021-10-14,education,active,0,10,10,48,0,0,0
-Kluster Jalan Raja Chulan Sayong,Perak,Kuala Kangsar,2021-10-12,2021-10-16,highRisk,active,0,20,20,25,1,0,0
+Kluster Jalan Pulau Sebang,"Melaka, Negeri Sembilan","Alor Gajah, Tampin, Rembau",2021-10-12,2021-10-13,workplace,active,0,38,18,227,0,0,20
+Kluster Jalan Raja Chulan Sayong,Perak,Kuala Kangsar,2021-10-12,2021-10-16,highRisk,active,0,20,10,25,1,0,10
 Kluster Jalan Punai,Johor,Kulai,2021-10-12,2021-10-16,community,active,0,13,13,18,0,0,0
-Kluster Air Awat-Awat,Sarawak,Lawas,2021-10-12,2021-10-16,community,active,0,55,55,91,0,0,0
-Kluster Sawit Sungai Merbau,Pahang,Rompin,2021-10-12,2021-10-17,workplace,active,27,44,44,49,0,0,0
-Kluster Jalan SP 10/1,Selangor,"Sepang, Petaling ",2021-10-12,2021-10-17,education,active,1,9,9,58,0,0,0
-Kluster Hang Tuah Tangkak,Johor,Tangkak,2021-10-12,2021-10-17,community,active,1,21,21,73,0,0,0
+Kluster Sawit Sungai Merbau,Pahang,Rompin,2021-10-12,2021-10-17,workplace,active,0,44,44,49,0,0,0
+Kluster Jalan SP 10/1,Selangor,"Sepang, Petaling",2021-10-12,2021-10-17,education,active,0,9,9,58,0,0,0
+Kluster Hang Tuah Tangkak,Johor,Tangkak,2021-10-12,2021-10-17,community,active,0,21,21,73,0,0,0
+Kluster Taman Danau Kota,WP Kuala Lumpur,Titiwangsa,2021-10-12,2021-10-18,education,active,1,11,11,48,0,0,0
+Kluster Bukit Baja,Selangor,Sepang,2021-10-12,2021-10-18,community,active,1,43,29,153,0,0,14
+Kluster Air Awat-Awat,Sarawak,Lawas,2021-10-12,2021-10-18,community,active,1,56,56,92,0,0,0
 Kluster Industri Jalan Zurah Lima,Selangor,Hulu Selangor,2021-10-13,2021-10-12,workplace,active,0,42,42,100,0,0,0
 Kluster Tapak Bina Persiaran Bukit Raja 2,Selangor,"Klang, Petaling",2021-10-13,2021-10-12,workplace,active,0,28,28,450,0,0,0
 Kluster DTI Bekenu,Sarawak,Subis,2021-10-13,2021-10-12,detentionCentre,active,0,48,48,48,0,0,0
-Kluster Persiaran Lavender Dua,Negeri Sembilan,Seremban,2021-10-13,2021-10-13,education,active,0,10,10,35,0,0,0
 Kluster Industri Jalan Sembilan Olak Lempit,Selangor,Kuala Langat,2021-10-13,2021-10-14,workplace,active,0,42,42,65,0,0,0
-Kluster Jalan Haji Taib Salak,Selangor,Sepang,2021-10-13,2021-10-15,workplace,active,0,11,11,32,0,0,0
 Kluster Ensurai,Sarawak,Limbang,2021-10-13,2021-10-15,community,active,0,22,22,223,0,0,0
 Kluster Dah Putih Industri Kulim,Kedah,Kulim,2021-10-13,2021-10-16,workplace,active,0,37,37,157,0,0,0
 Kluster Bukit Damar,Pahang,Temerloh,2021-10-13,2021-10-16,community,active,0,43,43,67,0,0,0
-Kluster Jalan Pegawai,Selangor,Sabak Bernam,2021-10-13,2021-10-17,highRisk,active,1,16,16,132,0,0,0
-Kluster Industri Jalan Usaha Enam,Melaka,Melaka Tengah,2021-10-13,2021-10-17,workplace,active,2,59,57,568,0,0,2
-Kluster Dah Taman Melor,Kedah,"Kuala Muda, Kota Setar, Kulim, Padang Terap",2021-10-13,2021-10-17,education,active,5,77,77,150,0,0,0
-Kluster Menuang,Sarawak,Limbang,2021-10-13,2021-10-17,community,active,2,24,24,89,0,0,0
+Kluster Jalan Pegawai,Selangor,Sabak Bernam,2021-10-13,2021-10-17,highRisk,active,0,16,16,132,0,0,0
+Kluster Industri Jalan Usaha Enam,Melaka,Melaka Tengah,2021-10-13,2021-10-17,workplace,active,0,59,57,568,0,0,2
+Kluster Menuang,Sarawak,Limbang,2021-10-13,2021-10-17,community,active,0,24,24,89,0,0,0
+Kluster Jalan Haji Taib Salak,Selangor,Sepang,2021-10-13,2021-10-18,workplace,active,1,12,10,33,0,0,2
+Kluster Dah Taman Melor,Kedah,"Kuala Muda, Kota Setar, Kulim, Padang Terap",2021-10-13,2021-10-18,education,active,6,83,83,155,0,0,0
+Kluster Persiaran Lavender Dua,Negeri Sembilan,Seremban,2021-10-13,2021-10-18,education,active,1,11,11,36,0,0,0
 Kluster Lorong Perusahaan Utama,Pulau Pinang,Seberang Perai Tengah,2021-10-14,2021-10-13,workplace,active,0,29,29,164,0,0,0
 Kluster Tapak Bina Mutiara Mas Utama,Johor,Johor Bahru,2021-10-14,2021-10-13,workplace,active,0,10,10,20,0,0,0
 Kluster Industri Jalan Korporat Tiga,Selangor,"Klang, Hulu Selangor",2021-10-14,2021-10-13,workplace,active,0,40,40,108,0,0,0
@@ -5632,14 +5632,14 @@ Kluster Industri Sungai Rasau 35-2,Selangor,Klang,2021-10-14,2021-10-13,workplac
 Kluster Jalan Industri Sembilan,Pahang,Temerloh,2021-10-14,2021-10-13,workplace,active,0,11,11,28,0,0,0
 Kluster Kampung Tebing Tinggi Kemumin,Kelantan,Kota Bharu,2021-10-14,2021-10-13,community,active,0,13,13,20,0,0,0
 Kluster Jalan Sena,Johor,Kulai,2021-10-14,2021-10-13,community,active,0,8,8,17,0,0,0
-Kluster Lorong Nenas Satu,Pulau Pinang,Seberang Perai tengah,2021-10-14,2021-10-15,highRisk,active,0,11,11,29,0,0,0
 Kluster Tapak Bina Jalan BBN Dua,Negeri Sembilan,Seremban,2021-10-14,2021-10-15,workplace,active,0,15,15,28,0,0,0
 Kluster Jalan Jaya Simpang Renggam,Johor,Kluang,2021-10-14,2021-10-15,education,active,0,12,12,30,0,0,0
 Kluster Lorong Rambutan Tiga,Pulau Pinang,Timur Laut,2021-10-14,2021-10-16,highRisk,active,0,16,16,18,0,0,0
-Kluster Jalan Free School,Pulau Pinang,Timur Laut,2021-10-14,2021-10-16,highRisk,active,0,46,46,76,0,0,0
-Kluster Industri Jalan Budi,Johor,Batu Pahat,2021-10-14,2021-10-17,workplace,active,1,9,9,37,0,0,0
-Kluster Belimbing Dalam,Melaka,Alor Gajah,2021-10-14,2021-10-17,community,active,1,36,36,45,0,0,0
-Kluster Kampung Sungai Bil,Perak,Muallim,2021-10-14,2021-10-17,community,active,1,35,35,44,0,0,0
+Kluster Belimbing Dalam,Melaka,Alor Gajah,2021-10-14,2021-10-17,community,active,0,36,36,45,0,0,0
+Kluster Kampung Sungai Bil,Perak,Muallim,2021-10-14,2021-10-17,community,active,0,35,35,44,0,0,0
+Kluster Lorong Nenas Satu,Pulau Pinang,Seberang Perai tengah,2021-10-14,2021-10-18,highRisk,active,2,13,13,31,0,0,0
+Kluster Jalan Free School,Pulau Pinang,Timur Laut,2021-10-14,2021-10-18,highRisk,active,1,47,47,77,0,0,0
+Kluster Industri Jalan Budi,Johor,Batu Pahat,2021-10-14,2021-10-18,workplace,active,1,10,10,39,0,0,0
 Kluster Industri Bukit Minyak Bukit Mertajam,Pulau Pinang,"Seberang Perai Tengah, Seberang Perai Selatan",2021-10-15,2021-10-14,workplace,active,0,18,18,28,0,0,0
 Kluster Industri Tiga Jalan Kasawari,Selangor,Kuala Langat,2021-10-15,2021-10-14,workplace,active,0,20,20,65,0,0,0
 Kluster Industri Dua Jalan Padang Gajah,Selangor,Kuala Selangor,2021-10-15,2021-10-14,workplace,active,0,5,5,100,0,0,0
@@ -5648,41 +5648,49 @@ Kluster Industri Jalan Kapal Layar,Johor,Batu Pahat,2021-10-15,2021-10-14,workpl
 Kluster Taman Makmur,Kelantan,Kota Bharu,2021-10-15,2021-10-14,community,active,0,15,15,21,0,0,0
 Kluster Batu Lima Sunggala,Negeri Sembilan,Port Dickson,2021-10-15,2021-10-15,workplace,active,0,60,60,250,0,0,0
 Kluster Kampung Banting,Selangor,Sabak Bernam,2021-10-15,2021-10-15,community,active,0,14,14,27,0,0,0
-Kluster Dah Bukit Pinang,Kedah,Kota Setar,2021-10-15,2021-10-16,workplace,active,0,14,14,35,0,0,0
 Kluster Jeti Jalan Selancar,Pahang,Rompin,2021-10-15,2021-10-16,workplace,active,0,36,36,45,0,0,0
 Kluster Kampung Sentoi,Pahang,Lipis,2021-10-15,2021-10-16,community,active,0,42,42,104,0,0,0
-Kluster Industri Perabot Olak Lempit 2,Selangor,"Kuala Langat, Hulu Langat",2021-10-15,2021-10-17,workplace,active,1,45,45,344,0,0,0
-Kluster Persiaran Perdana,"WP Putrajaya, Selangor","Putrajaya, Kuala Langat, Sepang",2021-10-15,2021-10-17,education,active,2,17,17,40,0,0,0
+Kluster Persiaran Perdana,"WP Putrajaya, Selangor","Putrajaya, Kuala Langat, Sepang",2021-10-15,2021-10-17,education,active,0,17,17,40,0,0,0
+Kluster Dah Bukit Pinang,Kedah,Kota Setar,2021-10-15,2021-10-18,workplace,active,2,16,16,37,0,0,0
+Kluster Industri Perabot Olak Lempit 2,Selangor,"Kuala Langat, Hulu Langat",2021-10-15,2021-10-18,workplace,active,2,47,47,344,0,0,0
 Kluster Jalan Denai Dua,Johor,Johor Bahru,2021-10-16,2021-10-15,highRisk,active,0,30,30,38,0,0,0
 Kluster Jalan Hospital Lati,Kelantan,Pasir Mas,2021-10-16,2021-10-15,education,active,0,9,9,13,0,0,0
 Kluster Industri Bunga Tanjung Dua 2,Negeri Sembilan,"Seremban, Rembau",2021-10-16,2021-10-16,workplace,active,0,29,29,258,0,0,0
-Kluster Industri Jalan Idaman Tiga,Johor,Kulai,2021-10-16,2021-10-16,workplace,active,0,61,61,170,0,0,0
 Kluster Dah Bukit Berangan,Kedah,Padang Terap,2021-10-16,2021-10-16,education,active,0,49,49,51,0,0,0
-Kluster Batu Tiga Kluang,Johor,Kluang,2021-10-16,2021-10-17,workplace,active,2,108,108,265,0,0,0
-Kluster Industri Dua Jalan Bestari Satu,Selangor,Klang,2021-10-16,2021-10-17,workplace,active,1,27,27,54,0,0,0
-Kluster Kampung Sekolah Juru,Pulau Pinang,Seberang Perai Tengah,2021-10-16,2021-10-17,education,active,1,15,15,52,0,0,0
-Kluster Bukit Sapi,Perak,Hulu Perak,2021-10-16,2021-10-17,community,active,1,21,21,26,0,0,0
-Kluster Jalan Harvey,Perak,Manjung ,2021-10-17,2021-10-16,highRisk,active,0,21,21,32,0,0,0
+Kluster Industri Dua Jalan Bestari Satu,Selangor,Klang,2021-10-16,2021-10-17,workplace,active,0,27,27,54,0,0,0
+Kluster Batu Tiga Kluang,Johor,Kluang,2021-10-16,2021-10-18,workplace,active,8,116,116,265,0,0,0
+Kluster Industri Jalan Idaman Tiga,Johor,Kulai,2021-10-16,2021-10-18,workplace,active,3,64,64,170,0,0,0
+Kluster Kampung Sekolah Juru,Pulau Pinang,Seberang Perai Tengah,2021-10-16,2021-10-18,education,active,3,18,18,55,0,0,0
+Kluster Bukit Sapi,Perak,Hulu Perak,2021-10-16,2021-10-18,community,active,1,22,22,26,0,0,0
+Kluster Jalan Harvey,Perak,Manjung,2021-10-17,2021-10-16,highRisk,active,0,21,21,32,0,0,0
 Kluster Jalan Tasek Sungai Bakap,Pulau Pinang,"Seberang Perai Selatan, Seberang Perai Tengah",2021-10-17,2021-10-16,workplace,active,0,33,33,62,0,0,0
 Kluster Industri Jalan Sawit Baru,Johor,Kulai,2021-10-17,2021-10-16,workplace,active,0,8,8,50,0,0,0
 Kluster Industri Parit Sikom,Johor,Pontian,2021-10-17,2021-10-16,workplace,active,0,43,43,290,0,0,0
 Kluster Industri Jalan Lagenda Sembilan,Johor,Kulai,2021-10-17,2021-10-16,workplace,active,0,9,9,37,0,0,0
 Kluster Lorong Bersyarat,Kelantan,"Kota Bharu, Pasir Mas",2021-10-17,2021-10-16,community,active,0,12,12,15,0,0,0
-Kluster Industri Sri Sulong 16,Johor,Batu Pahat,2021-10-17,2021-10-17,workplace,active,1,31,31,107,0,0,0
-Kluster Jalan PC 10,Perak,Muallim,2021-10-17,2021-10-17,workplace,active,9,61,61,90,0,0,0
-Kluster Mampas Seberang,Negeri Sembilan,Kuala Pilah,2021-10-17,2021-10-17,community,active,13,51,51,72,0,0,0
-Kluster Kampung Bukit Tembakau,Melaka,"Jasin, Melaka Tengah",2021-10-18,2021-10-17,religious,active,14,47,47,68,0,0,0
-Kluster Jalan Camar Tiga,Johor,Johor Bahru,2021-10-18,2021-10-17,highRisk,active,14,15,14,58,0,1,0
-Kluster Putai 2,Sarawak,Bukit Mabong,2021-10-18,2021-10-17,workplace,active,2,30,30,106,0,0,0
-Kluster Jalan Suasa Banting,Selangor,Kuala Langat,2021-10-18,2021-10-17,workplace,active,2,22,22,48,0,0,0
-Kluster Jalan Tangsi,"WP Kuala Lumpur, Selangor","Cheras, Kepong, Titiwangsa, Kuala Selangor",2021-10-18,2021-10-17,workplace,active,8,11,11,47,0,0,0
-Kluster Jalan Bakau Kluang,Johor,Kluang,2021-10-18,2021-10-17,workplace,active,17,19,19,108,0,0,0
-Kluster Jalan Berjaya Lapan,Johor,Johor Bahru,2021-10-18,2021-10-17,workplace,active,50,51,51,93,0,0,0
-Kluster Industri Dua Jalan Bukit Kemuning,Selangor,Klang,2021-10-18,2021-10-17,workplace,active,2,49,49,100,0,0,0
-Kluster Jalan Industri Utama Grisek,Johor,Tangkak,2021-10-18,2021-10-17,workplace,active,26,26,26,102,0,0,0
-Kluster Kampung Kelubi Pasir Puteh,Kelantan,"Pasir Puteh, Kota Bharu, Tanah Merah",2021-10-18,2021-10-17,workplace,active,2,17,17,23,0,0,0
-Kluster Jalan Gambir Dua,Johor,Tangkak,2021-10-18,2021-10-17,workplace,active,11,12,12,33,0,0,0
-Kluster Jalan Pantai Permai Sembilan,WP Kuala Lumpur,Lembah Pantai,2021-10-18,2021-10-17,education,active,6,7,7,71,0,0,0
-Kluster Seri Serting,Negeri Sembilan,Jempol,2021-10-18,2021-10-17,education,active,10,22,22,124,0,0,0
-Kluster Bidor Stesen,Perak,Batang Padang,2021-10-18,2021-10-17,community,active,1,33,33,62,0,0,0
-Kluster Gunung Besout Dua,Perak,Batang Padang,2021-10-18,2021-10-17,community,active,3,49,49,163,0,0,0
+Kluster Industri Sri Sulong 16,Johor,Batu Pahat,2021-10-17,2021-10-17,workplace,active,0,31,31,107,0,0,0
+Kluster Mampas Seberang,Negeri Sembilan,Kuala Pilah,2021-10-17,2021-10-17,community,active,0,51,51,72,0,0,0
+Kluster Jalan PC 10,Perak,Muallim,2021-10-17,2021-10-18,workplace,active,1,62,62,180,0,0,0
+Kluster Jalan Berjaya Lapan,Johor,Johor Bahru,2021-10-18,2021-10-17,workplace,active,0,51,51,93,0,0,0
+Kluster Industri Dua Jalan Bukit Kemuning,Selangor,Klang,2021-10-18,2021-10-17,workplace,active,0,49,49,100,0,0,0
+Kluster Jalan Industri Utama Grisek,Johor,Tangkak,2021-10-18,2021-10-17,workplace,active,0,26,26,102,0,0,0
+Kluster Kampung Kelubi Pasir Puteh,Kelantan,"Pasir Puteh, Kota Bharu, Tanah Merah",2021-10-18,2021-10-17,workplace,active,0,17,17,23,0,0,0
+Kluster Jalan Gambir Dua,Johor,Tangkak,2021-10-18,2021-10-17,workplace,active,0,12,12,33,0,0,0
+Kluster Jalan Pantai Permai Sembilan,WP Kuala Lumpur,Lembah Pantai,2021-10-18,2021-10-17,education,active,0,7,7,71,0,0,0
+Kluster Seri Serting,Negeri Sembilan,Jempol,2021-10-18,2021-10-17,education,active,0,22,22,124,0,0,0
+Kluster Bidor Stesen,Perak,Batang Padang,2021-10-18,2021-10-17,community,active,0,33,33,62,0,0,0
+Kluster Kampung Bukit Tembakau,Melaka,"Jasin, Melaka Tengah",2021-10-18,2021-10-18,religious,active,3,50,50,76,0,0,0
+Kluster Jalan Camar Tiga,Johor,Johor Bahru,2021-10-18,2021-10-18,highRisk,active,1,16,15,58,0,1,0
+Kluster Putai 2,Sarawak,"Bukit Mabong, Kapit",2021-10-18,2021-10-18,workplace,active,1,31,31,107,0,0,0
+Kluster Jalan Suasa Banting,Selangor,Kuala Langat,2021-10-18,2021-10-18,workplace,active,2,24,24,48,0,0,0
+Kluster Jalan Tangsi,"WP Kuala Lumpur, Selangor","Cheras, Kepong, Titiwangsa, Kuala Selangor",2021-10-18,2021-10-18,workplace,active,5,16,16,52,0,0,0
+Kluster Jalan Bakau Kluang,Johor,Kluang,2021-10-18,2021-10-18,workplace,active,1,20,20,108,0,0,0
+Kluster Gunung Besout Dua,Perak,Batang Padang,2021-10-18,2021-10-18,community,active,1,50,50,163,0,0,0
+Kluster Industri Jalan Johan 2/5,Perak,Kinta,2021-10-19,2021-10-18,workplace,active,1,11,11,301,0,0,0
+Kluster Laluan Persekutuan Sempalit,Pahang,Raub,2021-10-19,2021-10-18,workplace,active,31,32,32,129,0,0,0
+Kluster Jalan Kilang Kluang,Johor,Kluang,2021-10-19,2021-10-18,workplace,active,9,13,13,157,0,0,0
+Kluster Jalan Woo Saik Hong,Perak,Hilir Perak,2021-10-19,2021-10-18,workplace,active,4,19,19,29,0,0,0
+Kluster Industri Lorong Perak Tiga,Selangor,Kuala Langat,2021-10-19,2021-10-18,workplace,active,14,15,15,63,0,0,0
+Kluster Industri Dataran Kledang Empat,Perak,Kinta,2021-10-19,2021-10-18,workplace,active,1,27,27,31,0,0,0
+Kluster Industri Dua Pulau Meranti,Selangor,Sepang,2021-10-19,2021-10-18,workplace,active,7,13,13,54,0,0,0
+Kluster Jalan Springhill 10,Negeri Sembilan,Port Dickson,2021-10-19,2021-10-18,education,active,21,33,33,96,0,0,0
