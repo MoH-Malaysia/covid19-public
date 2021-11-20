@@ -25,7 +25,6 @@ class Linelists:
         self.deaths: pd.DataFrame = self._load_linelist_deaths()
         self.vaccination: pd.DataFrame = self._load_vaccination_statistics()
         self.population: dict = self._load_population_statistics()
-        print(" ")
 
     @staticmethod
     def _load_linelist_cases() -> pd.DataFrame:
