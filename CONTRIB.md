@@ -40,7 +40,12 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Deaths
 
-+
+In epidemic/linelist/linelist_deaths.csv, can we have data on more risk factors, such as
+  height and weight (for BMI)
+  smoker (current and former)
+  pregnant
+
+In epidemic/linelist/README.md, Section: Death, Item: 12, can we have the list of comorbidities?
 
 ### Vaccination
 
