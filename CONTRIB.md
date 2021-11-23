@@ -44,7 +44,17 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Vaccination
 
-+
+Hello, can we have csv files which show vaccination staus by age group? Specifically, there should be distinct categories for "18-59" and ">=60". I'm not sure how you will integrate booster data, but maybe the files should look like this:
+File path: yyyy/yyyy-mm-dd.csv
+Columns: Age, Unvaccinated, Partial, Vaccinated
+Rows:
+0-11
+12-17
+18-59
+>60
+All
+
+Thank you.
 
 ### Mobility and Contact Tracing
 
