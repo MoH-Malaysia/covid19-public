@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 from typing import Union
+from matplotlib.ticker import FuncFormatter
 from visual_ops.plot_statistics import plot_probability_density_function
 
 file_path_linelists = "epidemic/linelist"
@@ -25,6 +26,7 @@ class Linelists:
         self.deaths: pd.DataFrame = self._load_linelist_deaths()
         self.vaccination: pd.DataFrame = self._load_vaccination_statistics()
         self.population: dict = self._load_population_statistics()
+        print(" ")
 
     @staticmethod
     def _load_linelist_cases() -> pd.DataFrame:
@@ -540,3 +542,78 @@ class Linelists:
         plt.grid(alpha=0.25)
         plt.tight_layout()
         return
+
+    def plot_deaths_by_vaccination_status(self, start_date: str, end_date: str, *, percentage: bool = True):
+        df_data = self.get_daily_deaths_by_vaccination_status(start_date, end_date)
+        df_data["Partial/Others"] = (
+                df_data["Total"] - df_data["Unvaccinated"] - df_data["Pfizer-BioNTech"] - df_data["Sinovac"]
+        )
+        df_data = df_data[["Unvaccinated", "Partial/Others", "Pfizer-BioNTech", "Sinovac", "Total"]].copy()
+
+        df_pct = pd.DataFrame()
+        cols = ["Unvaccinated", "Partial/Others", "Pfizer-BioNTech", "Sinovac"]
+
+        custom_colors = ["r", "grey", "b", "k"]
+        fig = plt.figure(figsize=(6, 4), facecolor='w', dpi=125)
+        ax_1 = plt.subplot(1, 1, 1)
+
+        if percentage:
+            for var in cols:
+                df_pct[var] = df_data[var] / df_data["Total"]
+
+            df_pct.plot.area(ax=ax_1, y=cols, color=custom_colors)
+            ax_1.yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:.0%}'.format(y)))
+            ax_1.set_ylim([0, 1])
+        else:
+            df_data.plot.area(ax=ax_1, y=cols, color=custom_colors)
+            ax_1.set_ylabel("Daily deaths")
+
+        ax_1.set_title("Malaysia: Daily deaths by vaccination status")
+        plt.legend(bbox_to_anchor=(1.01, 0.5))
+        plt.tight_layout()
+        return
+
+    def get_daily_deaths_by_vaccination_status(self, start_date: str, end_date: str):
+        """
+        Calculate the total number of daily deaths by vaccination status
+
+        Parameters
+        ----------
+        start_date: str
+            start date in format "YYYY-MM-DD"
+        end_date: str
+            end date in format "YYYY-MM-DD"
+
+        Returns
+        -------
+        pd.DataFrame
+            Total number of daily deaths by vaccination status
+        """
+        t_start = pd.to_datetime(start_date)
+        t_end = pd.to_datetime(end_date)
+        process_dates = pd.date_range(t_start, t_end)
+
+        # Get required variables
+        df_deaths = self.deaths.copy()
+        df_deaths.set_index("date", inplace=True, drop=True)
+        df_daily_deaths = pd.DataFrame()
+
+        for date in process_dates:
+            is_today = (df_deaths.index == date)
+            df_daily_deaths_by_vax = df_deaths[["brand1", "brand2", "days_dose2"]][is_today].copy()
+            n_deaths_by_vax = self._get_statistics_by_vaccination(df_daily_deaths_by_vax)
+
+            daily_deaths = {
+                "Unvaccinated": n_deaths_by_vax["Unvaccinated"],
+                "Pfizer-BioNTech": n_deaths_by_vax["Pfizer-BioNTech"],
+                "Oxford-AstraZeneca": n_deaths_by_vax["Oxford-AstraZeneca"],
+                "Sinovac": n_deaths_by_vax["Sinovac"],
+                "Total": len(df_daily_deaths_by_vax)
+            }
+
+            df_day = pd.Series(daily_deaths)
+            df_daily_deaths = pd.concat([df_daily_deaths, df_day], axis=1)
+
+        df_daily_deaths.columns = process_dates.values
+        df_daily_deaths = df_daily_deaths.T
+        return df_daily_deaths
