@@ -26,6 +26,7 @@ class Linelists:
         self.deaths: pd.DataFrame = self._load_linelist_deaths()
         self.vaccination: pd.DataFrame = self._load_vaccination_statistics()
         self.population: dict = self._load_population_statistics()
+        self.last_updated = self.cases["date"].max()
         print(" ")
 
     @staticmethod
@@ -427,7 +428,10 @@ class Linelists:
         """
         df_cases_by_vax["brand1"].fillna("Unvaccinated", inplace=True)
         case_by_vax = df_cases_by_vax["brand1"].value_counts()
-        n_cases_unvaccinated = case_by_vax["Unvaccinated"]
+        if (df_cases_by_vax["brand1"] == "Unvaccinated").sum() == 0:
+            n_cases_unvaccinated = 0
+        else:
+            n_cases_unvaccinated = case_by_vax["Unvaccinated"]
 
         is_fully_vaccinated = (df_cases_by_vax["days_dose2"].values > 14)
         df_cases_fully_vax = df_cases_by_vax["brand2"][is_fully_vaccinated].copy()
@@ -549,26 +553,27 @@ class Linelists:
                 df_data["Total"] - df_data["Unvaccinated"] - df_data["Pfizer-BioNTech"] - df_data["Sinovac"]
         )
         df_data = df_data[["Unvaccinated", "Partial/Others", "Pfizer-BioNTech", "Sinovac", "Total"]].copy()
+        df_data_weekly = df_data.resample('W').sum()
 
         df_pct = pd.DataFrame()
         cols = ["Unvaccinated", "Partial/Others", "Pfizer-BioNTech", "Sinovac"]
 
-        custom_colors = ["r", "grey", "b", "k"]
-        fig = plt.figure(figsize=(6, 4), facecolor='w', dpi=125)
+        custom_colors = ["r", "silver", "dodgerblue", "k"]
+        fig = plt.figure(figsize=(6.66, 3.33), facecolor='w', dpi=125)
         ax_1 = plt.subplot(1, 1, 1)
 
         if percentage:
             for var in cols:
-                df_pct[var] = df_data[var] / df_data["Total"]
+                df_pct[var] = df_data_weekly[var] / df_data_weekly["Total"]
 
             df_pct.plot.area(ax=ax_1, y=cols, color=custom_colors)
             ax_1.yaxis.set_major_formatter(FuncFormatter(lambda y, _: '{:.0%}'.format(y)))
             ax_1.set_ylim([0, 1])
         else:
-            df_data.plot.area(ax=ax_1, y=cols, color=custom_colors)
-            ax_1.set_ylabel("Daily deaths")
+            df_data_weekly.iloc[:-1].plot.area(ax=ax_1, y=cols, color=custom_colors)
+            ax_1.set_ylabel("Weekly deaths")
 
-        ax_1.set_title("Malaysia: Daily deaths by vaccination status")
+        ax_1.set_title("Malaysia: Weekly deaths by vaccination status")
         plt.legend(bbox_to_anchor=(1.01, 0.5))
         plt.tight_layout()
         return
@@ -617,3 +622,34 @@ class Linelists:
         df_daily_deaths.columns = process_dates.values
         df_daily_deaths = df_daily_deaths.T
         return df_daily_deaths
+
+    def get_death_statistics_by_vax_status(self, *, past_n_days: int = 14):
+        t_end = self.last_updated
+        t_start = t_end - pd.Timedelta(days=(past_n_days - 1))
+        df_data = self.get_daily_deaths_by_vaccination_status(t_start, t_end)
+        df_data["Partial/Others"] = (
+                df_data["Total"] - df_data["Unvaccinated"] - df_data["Pfizer-BioNTech"] - df_data["Sinovac"]
+        )
+        df_data = df_data[["Unvaccinated", "Partial/Others", "Pfizer-BioNTech", "Sinovac", "Total"]].copy()
+        n_pop_by_vax = self._get_population_by_vaccination_status(t_end, full_vax_lag=14)
+        df_deaths_sum = df_data.sum()
+
+        print("In between {0} and {1}:".format(t_start.strftime("%Y-%m-%d"), t_end.strftime("%Y-%m-%d")))
+        pop_unvax = n_pop_by_vax["Unvaccinated"] / self.population["Malaysia"] * 100
+        pct_unvax_death = df_deaths_sum["Unvaccinated"] / df_deaths_sum["Total"] * 100
+        print("   - {0:.1f}% of the unvaccinated population accounted for {1:.1f}% of all deaths"
+              .format(pop_unvax, pct_unvax_death))
+
+        vax_status = "Pfizer-BioNTech"
+        pop_bnt = n_pop_by_vax[vax_status] / self.population["Malaysia"] * 100
+        pct_bnt_death = df_deaths_sum[vax_status] / df_deaths_sum["Total"] * 100
+        print("   - {0:.1f}% of population with the {1} vaccine accounted for {2:.1f}% of all deaths"
+              .format(pop_bnt, vax_status, pct_bnt_death))
+
+        vax_status = "Sinovac"
+        pop_sino = n_pop_by_vax[vax_status] / self.population["Malaysia"] * 100
+        pct_sino_death = df_deaths_sum[vax_status] / df_deaths_sum["Total"] * 100
+        print("   - {0:.1f}% of population with the {1} vaccine accounted for {2:.1f}% of all deaths"
+              .format(pop_sino, vax_status, pct_sino_death))
+
+
