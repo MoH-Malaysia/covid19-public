@@ -24,6 +24,10 @@ MYCovid - an API which is powered by PHP which obtains the vaccination and epide
 + [[Github Repo]](https://github.com/leeliwei930/moh-my-covid-express-api)
 MOH COVID-19 self hosted NodeJS Restful API server, by [Li Wei Lee](https://techrino.net). A RestFUL API server written in NodeJS to parse the CSV-formatted data into JSON format, allowing for a variety of query via HTTP requests.
 
++ [[Live site]](https://covid-19.samsam123.name.my)
+Get the details about COVID-19 Daily Situation including New / Recovered / Death cases and Vaccination Status in Malaysia at a glance via this website. </br> 
+Data retrieved from Ministry of Health - Malaysia on Github , [API](https://covid-19.samsam123.name.my/api.html) is provided.
+
 ---
 
 # Data Requests
