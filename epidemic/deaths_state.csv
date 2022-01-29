@@ -10839,7 +10839,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-01-23,Pahang,0,0,1,0,0,0,1,0,0
 2022-01-23,Perak,1,0,0,0,0,0,0,0,2
 2022-01-23,Perlis,0,0,0,0,0,0,0,0,0
-2022-01-23,Pulau Pinang,0,0,1,0,0,0,1,0,0
+2022-01-23,Pulau Pinang,0,0,2,1,0,0,2,0,0
 2022-01-23,Sabah,1,0,4,0,1,0,3,0,1
 2022-01-23,Sarawak,0,0,0,0,0,0,0,0,0
 2022-01-23,Selangor,1,0,3,0,1,0,0,2,2
@@ -10868,7 +10868,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-01-25,Kelantan,0,0,1,0,0,0,1,0,0
 2022-01-25,Melaka,0,0,0,0,0,0,0,0,0
 2022-01-25,Negeri Sembilan,0,0,0,0,0,0,0,0,0
-2022-01-25,Pahang,1,0,0,0,0,0,0,0,1
+2022-01-25,Pahang,1,0,1,1,1,0,0,0,1
 2022-01-25,Perak,2,1,1,0,0,0,0,1,2
 2022-01-25,Perlis,0,0,0,0,0,0,0,0,0
 2022-01-25,Pulau Pinang,0,0,0,0,0,0,0,0,0
@@ -10881,7 +10881,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-01-25,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-01-26,Johor,2,1,2,0,1,0,1,0,1
 2022-01-26,Kedah,0,0,0,0,0,0,0,0,0
-2022-01-26,Kelantan,0,0,0,0,0,0,0,0,0
+2022-01-26,Kelantan,0,0,1,0,0,0,1,0,0
 2022-01-26,Melaka,1,0,1,0,1,0,0,0,3
 2022-01-26,Negeri Sembilan,0,0,0,0,0,0,0,0,0
 2022-01-26,Pahang,1,0,2,0,0,0,2,0,3
@@ -10890,7 +10890,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-01-26,Pulau Pinang,1,0,0,0,0,0,0,0,3
 2022-01-26,Sabah,3,1,1,0,0,0,1,0,2
 2022-01-26,Sarawak,0,0,0,0,0,0,0,0,0
-2022-01-26,Selangor,3,0,1,0,1,0,0,0,3
+2022-01-26,Selangor,3,0,2,1,2,0,0,0,3
 2022-01-26,Terengganu,0,0,0,0,0,0,0,0,0
 2022-01-26,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-01-26,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -10914,7 +10914,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-01-28,Johor,3,0,0,0,0,0,0,0,2
 2022-01-28,Kedah,0,0,0,0,0,0,0,0,0
 2022-01-28,Kelantan,0,0,0,0,0,0,0,0,0
-2022-01-28,Melaka,1,0,0,0,0,0,0,0,2
+2022-01-28,Melaka,1,0,1,0,1,0,0,0,2
 2022-01-28,Negeri Sembilan,0,0,0,0,0,0,0,0,0
 2022-01-28,Pahang,2,0,0,0,0,0,0,0,2
 2022-01-28,Perak,3,0,0,0,0,0,0,0,2
@@ -10927,3 +10927,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-01-28,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-01-28,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-01-28,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2022-01-29,Johor,0,0,0,0,0,0,0,0,0
+2022-01-29,Kedah,0,0,0,0,0,0,0,0,0
+2022-01-29,Kelantan,1,0,0,0,0,0,0,0,3
+2022-01-29,Melaka,1,0,0,0,0,0,0,0,1
+2022-01-29,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-01-29,Pahang,1,1,0,0,0,0,0,0,4
+2022-01-29,Perak,0,0,0,0,0,0,0,0,0
+2022-01-29,Perlis,0,0,0,0,0,0,0,0,0
+2022-01-29,Pulau Pinang,1,1,0,0,0,0,0,0,6
+2022-01-29,Sabah,0,0,0,0,0,0,0,0,0
+2022-01-29,Sarawak,0,0,0,0,0,0,0,0,0
+2022-01-29,Selangor,1,1,0,0,0,0,0,0,3
+2022-01-29,Terengganu,0,0,0,0,0,0,0,0,0
+2022-01-29,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
+2022-01-29,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2022-01-29,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
