@@ -7,7 +7,7 @@ At present, primary vaccination (and vaccine registration) datasets are handled 
 
 ### Vaccination
 
-1) `date``: yyyy-mm-dd format; data correct as of 2359hrs on that date
+1) `date`: yyyy-mm-dd format; data correct as of 2359hrs on that date
 2) `daily_partial`: number of individuals who received the first dose of a two-dose protocol
 3) `daily_partial_adol`: subset (already included) of `daily_partial`, but for individuals aged 12-17 only
 4) `daily_partial_child`: subset (already included) of `daily_partial`, but for individuals aged 5-11 only
