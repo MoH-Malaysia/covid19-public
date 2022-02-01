@@ -7,6 +7,18 @@ At present, primary vaccination (and vaccine registration) datasets are handled 
 
 ### Vaccination
 
+1) `date``: yyyy-mm-dd format; data correct as of 2359hrs on that date
+2) `daily_partial`: number of individuals who received the first dose of a two-dose protocol
+3) `daily_partial_adol`: subset (already included) of `daily_partial`, but for individuals aged 12-17 only
+4) `daily_partial_child`: subset (already included) of `daily_partial`, but for individuals aged 5-11 only
+5) `daily_full`: number of individuals who completed their original protocol (whether the 2nd dose of a two-dose protocol, or a single-dose protocol)
+6) `daily_full_adol`: subset (already included) of `daily_full`, but for individuals aged 12-17 only
+7) `daily_full_child`: subset (already included) of `daily_full`, but for individuals aged 5-11 only
+8) `daily_booster`: number of individuals who received one dose beyond the original protocol
+9) `daily`: total doses administered
+10) `cumul_x`: cumulative doses falling into category `x`, where `x` is one of the daily categories
+11) `brandX`: denotes the number of 1st, 2nd, or 3rd doses administered for that brand; note that `cansino2` is omitted as it is a single-dose protocol
+12) `pendingX`: number of records with an indeterminate brand, usually due to errors synchronising with the Vaccine Management System (VMS) blockchain
 
 ### AEFIs
 
