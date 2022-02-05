@@ -4,6 +4,7 @@ import matplotlib as mpl
 from matplotlib.ticker import FuncFormatter
 
 file_path_vaccination = "vaccination/vax_malaysia.csv"
+file_path_vaccination_by_age = "vaccination/vax_demog_age.csv"
 
 
 class Vaccinations:
@@ -13,6 +14,7 @@ class Vaccinations:
     def __init__(self):
         # Load datasets
         self.data: pd.DataFrame = self._load_vaccination_statistics()
+        self.data_by_age: pd.DataFrame = self._load_vaccination_by_age_group()
         self.last_updated = self.data["date"].max()
         print(" ")
 
@@ -31,6 +33,13 @@ class Vaccinations:
             df_vaccination["cumul_az_3"] - df_vaccination["cumul_sino_3"]
         )
         return df_vaccination
+
+    @staticmethod
+    def _load_vaccination_by_age_group() -> pd.DataFrame:
+        df_vax_age = pd.read_csv(file_path_vaccination_by_age)
+        df_vax_age["date"] = pd.to_datetime(df_vax_age["date"])
+        df_tot_vax_age = df_vax_age.groupby(by=["date"]).sum()
+        return df_tot_vax_age
 
     def plot_daily_vaccines_administered(self, *, percentage: bool = True):
         df_vax = pd.DataFrame()
@@ -78,10 +87,9 @@ class Vaccinations:
         return
 
     def plot_booster_campaign_progress(self):
-        # TODO: This will be updated after the new announcement
         sino_eligible = self.data["cumul_sino_2"].shift(90)
-        pfizer_eligible = self.data["cumul_pfizer_2"].shift(180)
-        az_eligible = self.data["cumul_az_2"].shift(180)
+        pfizer_eligible = self.data["cumul_pfizer_2"].shift(90)
+        az_eligible = self.data["cumul_az_2"].shift(90)
         tot_eligible = sino_eligible + pfizer_eligible + az_eligible
 
         df_plot = pd.DataFrame()
@@ -89,7 +97,7 @@ class Vaccinations:
         df_plot["Pfizer-BioNTech"] = self.data["cumul_pfizer_3"].values
         df_plot["Oxford-AZ"] = self.data["cumul_az_3"].values
         df_plot["Sinovac"] = self.data["cumul_sino_3"].values
-        df_plot["Others"] = self.data["cumul_others_3"].values
+        df_plot["Others/Pending"] = self.data["cumul_others_3"].values
         df_plot.index = self.data["date"]
 
         start_date = pd.to_datetime("2021-10-25")
@@ -99,7 +107,7 @@ class Vaccinations:
         fig = plt.figure(figsize=(5, 4.5), facecolor='w', dpi=125)
         ax_1 = plt.subplot(1, 1, 1)
         df_plot.plot(ax=ax_1, y=["Eligible"], linestyle="--", color="k", legend=True)
-        df_plot.plot.area(ax=ax_1, y=["Pfizer-BioNTech", "Sinovac", "Oxford-AZ", "Others"],
+        df_plot.plot.area(ax=ax_1, y=["Pfizer-BioNTech", "Sinovac", "Oxford-AZ", "Others/Pending"],
                           color=["dodgerblue", "r", "orange", "lightgrey"], legend=True)
         plt.ylim([0, 1.25*df_plot["Eligible"].max()])
         ax_1.yaxis.set_major_formatter(mpl.ticker.StrMethodFormatter('{x:,.0f}'))
@@ -109,4 +117,3 @@ class Vaccinations:
         return
 
     # TODO: Boosters by age group
-    
