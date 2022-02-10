@@ -7,6 +7,8 @@ file_path_deaths = "epidemic/deaths_malaysia.csv"
 
 
 class Malaysia(CovidBase):
+    cases_latest: float
+
     def __init__(self, date_start: str = "2020-10-01", *, moving_average: int = 7):
         self.date_start = pd.to_datetime(date_start)
         self.moving_average = moving_average
@@ -44,6 +46,7 @@ class Malaysia(CovidBase):
         # Get data after date of interest
         is_after_date = (df_data.index.values > self.date_start)
         df_data = df_data[is_after_date].copy()
+        self.cases_latest = df_cases.iloc[-1]["cases_new"]
         return df_data
 
     @staticmethod
