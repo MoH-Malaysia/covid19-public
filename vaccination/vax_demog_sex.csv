@@ -25519,11 +25519,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-08-04,Sabah,Kuala Penyu,81,80,0,96,144,0,47,8,0
 2021-08-04,Sabah,Kudat,490,14,0,471,9,0,317,6,0
 2021-08-04,Sabah,Kunak,1,79,0,5,88,0,0,101,0
-2021-08-04,Sabah,Lahad Datu,339,80,0,333,97,0,133,29,0
+2021-08-04,Sabah,Lahad Datu,338,80,0,333,97,0,133,29,0
 2021-08-04,Sabah,Nabawan,14,78,0,20,85,0,32,192,0
 2021-08-04,Sabah,Papar,257,26,0,318,74,0,40,2,0
 2021-08-04,Sabah,Penampang,741,90,0,872,124,0,5,7,0
-2021-08-04,Sabah,Pitas,131,1,0,167,3,0,75,1,0
+2021-08-04,Sabah,Pitas,131,1,0,168,3,0,74,1,0
 2021-08-04,Sabah,Putatan,575,13,0,559,14,0,29,0,0
 2021-08-04,Sabah,Ranau,334,2,0,323,2,0,150,2,0
 2021-08-04,Sabah,Sandakan,1353,269,0,1710,280,0,86,8,0
@@ -28841,7 +28841,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-08-25,Sabah,Nabawan,24,11,0,30,13,0,154,34,0
 2021-08-25,Sabah,Papar,463,879,0,321,897,0,147,41,0
 2021-08-25,Sabah,Penampang,148,778,0,128,905,0,82,10,0
-2021-08-25,Sabah,Pitas,30,129,0,33,154,0,63,75,0
+2021-08-25,Sabah,Pitas,30,129,0,33,155,0,63,74,0
 2021-08-25,Sabah,Putatan,208,560,0,202,543,0,51,29,0
 2021-08-25,Sabah,Ranau,35,321,0,22,323,0,66,143,0
 2021-08-25,Sabah,Sandakan,2163,1330,0,2157,1678,0,491,78,0
@@ -30189,7 +30189,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-09-03,Johor,Tangkak,180,1552,0,69,913,0,44,96,0
 2021-09-03,Kedah,Baling,622,352,0,512,473,0,160,41,0
 2021-09-03,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
-2021-09-03,Kedah,Kota Setar,1844,1320,0,1457,1051,0,84,70,0
+2021-09-03,Kedah,Kota Setar,1845,1320,0,1457,1051,0,83,70,0
 2021-09-03,Kedah,Kuala Muda,1483,970,0,744,1375,0,165,23,0
 2021-09-03,Kedah,Kubang Pasu,668,97,0,727,77,0,24,2,0
 2021-09-03,Kedah,Kulim,1260,1501,0,1015,1589,0,333,93,0
@@ -31318,7 +31318,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-09-10,Kelantan,Tumpat,25,0,0,20,0,0,1,0,0
 2021-09-10,Melaka,Alor Gajah,54,1055,0,64,1244,0,27,73,0
 2021-09-10,Melaka,Jasin,68,526,0,35,534,0,6,14,0
-2021-09-10,Melaka,Melaka Tengah,302,4708,0,184,3915,0,192,236,0
+2021-09-10,Melaka,Melaka Tengah,303,4708,0,184,3915,0,191,236,0
 2021-09-10,Negeri Sembilan,Jelebu,114,195,0,14,143,0,70,68,0
 2021-09-10,Negeri Sembilan,Jempol,68,533,0,53,547,0,32,80,0
 2021-09-10,Negeri Sembilan,Kuala Pilah,170,101,0,36,88,0,27,36,0
@@ -32075,7 +32075,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-09-14,W.P. Putrajaya,Putrajaya,58,228,0,60,230,0,0,2,0
 2021-09-15,Johor,Batu Pahat,208,2731,0,105,2284,0,43,109,0
 2021-09-15,Johor,Johor Bahru,5949,10321,0,3253,8258,0,383,213,0
-2021-09-15,Johor,Kluang,1023,944,0,167,928,0,414,60,0
+2021-09-15,Johor,Kluang,1023,944,0,168,928,0,413,60,0
 2021-09-15,Johor,Kota Tinggi,708,84,0,157,72,0,31,10,0
 2021-09-15,Johor,Kulai,600,2842,0,221,1917,0,30,26,0
 2021-09-15,Johor,Mersing,106,754,0,12,724,1,59,106,0
@@ -33507,7 +33507,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-09-24,Johor,Tangkak,24,17,0,17,18,0,5,0,0
 2021-09-24,Kedah,Baling,321,590,0,328,509,0,169,152,0
 2021-09-24,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
-2021-09-24,Kedah,Kota Setar,364,1779,0,272,1422,0,24,75,0
+2021-09-24,Kedah,Kota Setar,364,1780,0,272,1422,0,24,74,0
 2021-09-24,Kedah,Kuala Muda,2389,1117,0,2423,709,0,104,162,0
 2021-09-24,Kedah,Kubang Pasu,131,602,0,115,684,0,67,22,0
 2021-09-24,Kedah,Kulim,320,1083,0,237,932,0,41,259,0
@@ -39889,7 +39889,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-11-03,Pulau Pinang,Timur Laut,29,558,384,20,411,793,28,96,5
 2021-11-03,Sabah,Beaufort,0,0,169,0,0,88,0,2,22
 2021-11-03,Sabah,Beluran,0,9,13,0,10,6,3,454,0
-2021-11-03,Sabah,Keningau,4,9,22,4,25,18,9,10,0
+2021-11-03,Sabah,Keningau,5,9,22,4,25,18,8,10,0
 2021-11-03,Sabah,Kinabatangan,3,41,3,6,45,3,16,87,0
 2021-11-03,Sabah,Kota Belud,2,47,18,4,47,17,8,40,2
 2021-11-03,Sabah,Kota Kinabalu,42,268,739,47,256,880,66,396,35
@@ -41857,7 +41857,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-11-15,Selangor,Kuala Selangor,27,420,272,25,485,263,13,18,1
 2021-11-15,Selangor,Petaling,283,3147,2545,283,2980,2754,62,123,22
 2021-11-15,Selangor,Sabak Bernam,6,35,71,5,23,34,15,12,1
-2021-11-15,Selangor,Sepang,35,52,415,12,51,505,4,14,5
+2021-11-15,Selangor,Sepang,35,52,414,12,51,505,4,14,5
 2021-11-15,Terengganu,Besut,9,36,38,9,32,24,29,77,2
 2021-11-15,Terengganu,Dungun,5,23,0,5,18,0,8,6,0
 2021-11-15,Terengganu,Hulu Terengganu,3,16,28,2,15,5,7,28,3
@@ -44696,7 +44696,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-12-03,Selangor,Gombak,79,217,1313,58,225,1111,151,76,17
 2021-12-03,Selangor,Hulu Langat,4,302,3051,6,325,3018,257,52,30
 2021-12-03,Selangor,Hulu Selangor,0,12,45,0,20,54,23,11,1
-2021-12-03,Selangor,Klang,15,188,1846,8,193,1786,269,81,49
+2021-12-03,Selangor,Klang,16,188,1846,8,193,1786,268,81,49
 2021-12-03,Selangor,Kuala Langat,1,50,308,0,48,360,86,24,8
 2021-12-03,Selangor,Kuala Selangor,0,60,444,0,72,412,79,24,5
 2021-12-03,Selangor,Petaling,8,358,6412,3,281,6187,299,91,131
@@ -47069,7 +47069,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-12-18,Selangor,Klang,3,20,1078,0,16,565,21,2,24
 2021-12-18,Selangor,Kuala Langat,0,3,173,0,1,165,2,0,7
 2021-12-18,Selangor,Kuala Selangor,0,36,471,0,38,429,44,13,15
-2021-12-18,Selangor,Petaling,2,126,4395,1,115,3268,52,31,141
+2021-12-18,Selangor,Petaling,2,126,4394,1,115,3268,52,31,141
 2021-12-18,Selangor,Sabak Bernam,0,0,65,0,0,56,2,1,0
 2021-12-18,Selangor,Sepang,0,4,805,0,0,672,9,0,17
 2021-12-18,Terengganu,Besut,0,1,72,0,2,91,4,0,8
@@ -47238,7 +47238,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-12-19,Terengganu,Kuala Terengganu,0,2,241,0,2,241,37,37,10
 2021-12-19,Terengganu,Marang,0,1,77,1,2,101,18,22,2
 2021-12-19,Terengganu,Setiu,0,2,77,1,0,111,2,15,16
-2021-12-19,W.P. Kuala Lumpur,Kuala Lumpur,1,16,4039,0,22,2896,285,590,105
+2021-12-19,W.P. Kuala Lumpur,Kuala Lumpur,1,16,4039,0,22,2895,285,590,105
 2021-12-19,W.P. Labuan,Labuan,0,0,0,0,0,0,0,0,0
 2021-12-19,W.P. Putrajaya,Putrajaya,0,0,203,0,0,219,1,1,8
 2021-12-20,Johor,Batu Pahat,0,13,884,0,6,814,50,138,15
@@ -48014,7 +48014,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-12-24,Selangor,Gombak,27,108,1920,26,74,1429,131,159,68
 2021-12-24,Selangor,Hulu Langat,0,30,4275,1,37,3358,125,231,122
 2021-12-24,Selangor,Hulu Selangor,0,0,102,0,0,89,1,20,1
-2021-12-24,Selangor,Klang,0,35,3101,0,20,2286,110,205,83
+2021-12-24,Selangor,Klang,0,35,3100,0,20,2286,110,205,83
 2021-12-24,Selangor,Kuala Langat,1,5,1414,1,2,1226,34,65,15
 2021-12-24,Selangor,Kuala Selangor,0,1,728,0,5,614,54,86,17
 2021-12-24,Selangor,Petaling,1,47,10481,1,45,6770,133,293,225
@@ -48041,7 +48041,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2021-12-25,Johor,Pontian,0,0,16,0,0,16,0,0,1
 2021-12-25,Johor,Segamat,0,0,33,0,0,39,0,1,4
 2021-12-25,Johor,Tangkak,0,0,60,0,0,35,1,0,2
-2021-12-25,Kedah,Baling,0,0,89,2,0,92,4,0,46
+2021-12-25,Kedah,Baling,0,0,89,3,0,92,3,0,46
 2021-12-25,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
 2021-12-25,Kedah,Kota Setar,0,0,84,0,0,84,17,22,6
 2021-12-25,Kedah,Kuala Muda,0,0,54,0,0,53,6,3,6
@@ -49436,7 +49436,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-02,Selangor,Gombak,0,3,986,0,0,965,13,28,13
 2022-01-02,Selangor,Hulu Langat,0,9,2274,0,6,1971,33,52,58
 2022-01-02,Selangor,Hulu Selangor,0,0,10,0,0,12,0,7,1
-2022-01-02,Selangor,Klang,0,12,2125,0,3,1365,11,34,27
+2022-01-02,Selangor,Klang,1,12,2125,0,3,1365,10,34,27
 2022-01-02,Selangor,Kuala Langat,1,0,1196,0,0,817,3,5,7
 2022-01-02,Selangor,Kuala Selangor,0,2,550,0,2,449,22,62,9
 2022-01-02,Selangor,Petaling,0,6,5641,0,0,4175,33,53,136
@@ -49492,7 +49492,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-03,Negeri Sembilan,Jelebu,0,0,171,0,0,197,5,19,21
 2022-01-03,Negeri Sembilan,Jempol,1,1,292,0,1,301,12,15,15
 2022-01-03,Negeri Sembilan,Kuala Pilah,0,0,261,0,0,298,5,4,15
-2022-01-03,Negeri Sembilan,Port Dickson,0,1,453,0,0,495,16,23,12
+2022-01-03,Negeri Sembilan,Port Dickson,0,1,453,0,0,494,16,23,12
 2022-01-03,Negeri Sembilan,Rembau,0,0,184,0,0,181,0,4,7
 2022-01-03,Negeri Sembilan,Seremban,0,4,2293,0,4,2335,71,95,40
 2022-01-03,Negeri Sembilan,Tampin,1,1,332,0,0,384,7,5,14
@@ -50132,7 +50132,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-07,Pahang,Bera,1,0,550,0,1,502,6,7,40
 2022-01-07,Pahang,Cameron Highlands,0,1,238,0,0,171,7,2,46
 2022-01-07,Pahang,Jerantut,0,0,74,0,0,79,1,0,4
-2022-01-07,Pahang,Kuantan,2,5,1813,0,0,1973,55,41,45
+2022-01-07,Pahang,Kuantan,2,5,1813,3,0,1973,52,41,45
 2022-01-07,Pahang,Lipis,0,0,352,0,0,429,5,4,46
 2022-01-07,Pahang,Maran,0,6,183,0,1,232,6,4,21
 2022-01-07,Pahang,Pekan,0,1,146,0,2,160,4,41,6
@@ -50240,7 +50240,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-07,Terengganu,Kuala Terengganu,0,0,634,0,0,688,7,2,24
 2022-01-07,Terengganu,Marang,0,0,0,0,0,0,0,0,0
 2022-01-07,Terengganu,Setiu,0,0,28,0,0,25,0,0,10
-2022-01-07,W.P. Kuala Lumpur,Kuala Lumpur,13,71,11406,18,49,12185,211,249,450
+2022-01-07,W.P. Kuala Lumpur,Kuala Lumpur,13,71,11406,19,49,12185,210,249,450
 2022-01-07,W.P. Labuan,Labuan,0,0,480,0,0,426,4,0,68
 2022-01-07,W.P. Putrajaya,Putrajaya,7,26,725,6,19,817,1,8,11
 2022-01-08,Johor,Batu Pahat,0,0,1081,0,0,1020,5,8,11
@@ -50296,7 +50296,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-08,Pahang,Pekan,0,0,166,0,0,178,1,6,3
 2022-01-08,Pahang,Raub,0,0,0,0,0,0,0,0,0
 2022-01-08,Pahang,Rompin,2,0,329,0,1,384,6,3,9
-2022-01-08,Pahang,Temerloh,0,4,299,3,0,358,13,1,15
+2022-01-08,Pahang,Temerloh,1,4,299,3,0,358,12,1,15
 2022-01-08,Perak,Bagan Datuk,0,0,0,0,0,0,0,0,0
 2022-01-08,Perak,Batang Padang,0,1,127,0,0,155,11,9,34
 2022-01-08,Perak,Hilir Perak,0,0,166,0,0,98,3,2,8
@@ -51089,7 +51089,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-13,Pahang,Temerloh,0,4,1202,0,0,772,14,15,105
 2022-01-13,Perak,Bagan Datuk,0,0,373,0,0,250,0,0,65
 2022-01-13,Perak,Batang Padang,0,0,220,0,0,265,7,9,31
-2022-01-13,Perak,Hilir Perak,0,2,504,0,0,554,6,43,154
+2022-01-13,Perak,Hilir Perak,0,2,504,0,0,553,6,43,154
 2022-01-13,Perak,Hulu Perak,0,0,181,0,1,215,11,21,62
 2022-01-13,Perak,Kampar,0,0,784,0,0,899,9,7,35
 2022-01-13,Perak,Kerian,0,3,354,0,1,400,16,11,33
@@ -51667,7 +51667,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-16,W.P. Putrajaya,Putrajaya,0,0,180,0,0,245,0,1,2
 2022-01-17,Johor,Batu Pahat,0,0,1000,0,0,915,11,13,31
 2022-01-17,Johor,Johor Bahru,0,14,7134,1,13,7975,96,196,336
-2022-01-17,Johor,Kluang,0,1,634,0,0,698,8,10,33
+2022-01-17,Johor,Kluang,0,1,634,0,1,698,8,10,33
 2022-01-17,Johor,Kota Tinggi,0,0,720,0,1,621,7,1,22
 2022-01-17,Johor,Kulai,2,1,1197,3,1,1261,11,13,18
 2022-01-17,Johor,Mersing,0,0,82,0,0,72,1,0,11
@@ -51677,7 +51677,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Johor,Tangkak,0,0,113,0,0,127,0,19,5
 2022-01-17,Kedah,Baling,0,0,392,0,1,404,4,6,31
 2022-01-17,Kedah,Bandar Baharu,0,0,167,0,0,67,8,8,17
-2022-01-17,Kedah,Kota Setar,2,4,1057,1,1,1051,30,43,178
+2022-01-17,Kedah,Kota Setar,2,4,1058,1,1,1051,30,43,178
 2022-01-17,Kedah,Kuala Muda,1,4,2146,1,0,2321,21,75,148
 2022-01-17,Kedah,Kubang Pasu,0,7,595,0,5,724,9,20,23
 2022-01-17,Kedah,Kulim,0,1,958,0,3,879,15,20,90
@@ -51709,11 +51709,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Negeri Sembilan,Seremban,0,1,2826,1,3,2590,46,123,158
 2022-01-17,Negeri Sembilan,Tampin,0,0,303,0,0,374,3,30,13
 2022-01-17,Pahang,Bentong,0,0,597,0,0,542,3,0,22
-2022-01-17,Pahang,Bera,0,0,382,0,0,358,7,4,26
+2022-01-17,Pahang,Bera,0,0,383,0,0,359,7,4,26
 2022-01-17,Pahang,Cameron Highlands,0,8,170,0,0,101,2,3,84
-2022-01-17,Pahang,Jerantut,1,1,716,0,0,685,4,4,25
+2022-01-17,Pahang,Jerantut,1,1,716,0,0,686,4,4,25
 2022-01-17,Pahang,Kuantan,1,1,1956,1,1,1916,25,21,49
-2022-01-17,Pahang,Lipis,1,0,270,3,0,309,3,1,36
+2022-01-17,Pahang,Lipis,1,0,270,3,0,310,3,1,36
 2022-01-17,Pahang,Maran,0,0,83,0,0,98,3,2,5
 2022-01-17,Pahang,Pekan,0,0,468,0,0,487,2,15,19
 2022-01-17,Pahang,Raub,0,0,527,0,1,449,10,7,366
@@ -51725,7 +51725,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Perak,Hulu Perak,0,1,103,0,0,128,3,7,38
 2022-01-17,Perak,Kampar,0,0,514,0,0,525,12,8,38
 2022-01-17,Perak,Kerian,0,0,387,0,0,413,19,20,33
-2022-01-17,Perak,Kinta,3,2,2179,3,6,2540,49,104,168
+2022-01-17,Perak,Kinta,3,2,2180,3,6,2541,49,106,168
 2022-01-17,Perak,Kuala Kangsar,0,0,361,0,2,390,52,50,85
 2022-01-17,Perak,Larut Dan Matang,0,1,1152,0,0,926,20,50,78
 2022-01-17,Perak,Manjung,0,0,1104,0,3,925,23,33,104
@@ -51735,14 +51735,14 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Pulau Pinang,Barat Daya,0,0,1864,0,1,1897,7,21,45
 2022-01-17,Pulau Pinang,Seberang Perai Selatan,0,0,1603,0,0,1288,21,26,59
 2022-01-17,Pulau Pinang,Seberang Perai Tengah,4,1,1880,0,1,1819,29,54,91
-2022-01-17,Pulau Pinang,Seberang Perai Utara,0,2,901,0,2,948,19,39,26
+2022-01-17,Pulau Pinang,Seberang Perai Utara,0,2,902,0,2,948,19,39,26
 2022-01-17,Pulau Pinang,Timur Laut,1,2,2362,1,2,2580,44,59,89
 2022-01-17,Sabah,Beaufort,0,0,63,0,0,53,1,0,15
 2022-01-17,Sabah,Beluran,0,0,74,0,0,55,0,1,35
 2022-01-17,Sabah,Keningau,0,0,181,0,1,164,9,2,36
 2022-01-17,Sabah,Kinabatangan,3,0,350,2,0,255,2,2,443
 2022-01-17,Sabah,Kota Belud,0,1,49,0,0,38,0,1,15
-2022-01-17,Sabah,Kota Kinabalu,0,2,1421,2,6,1542,24,29,74
+2022-01-17,Sabah,Kota Kinabalu,0,2,1421,2,6,1543,24,29,74
 2022-01-17,Sabah,Kota Marudu,0,0,25,0,0,31,5,5,7
 2022-01-17,Sabah,Kuala Penyu,0,1,54,0,0,70,1,0,11
 2022-01-17,Sabah,Kudat,0,0,14,0,0,19,1,0,2
@@ -51754,11 +51754,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Sabah,Pitas,0,0,17,0,0,32,0,5,13
 2022-01-17,Sabah,Putatan,0,0,102,0,0,81,3,0,11
 2022-01-17,Sabah,Ranau,0,0,95,0,0,90,2,6,38
-2022-01-17,Sabah,Sandakan,1,1,448,3,3,504,18,11,46
+2022-01-17,Sabah,Sandakan,1,1,448,3,3,506,18,11,46
 2022-01-17,Sabah,Semporna,1,0,100,0,1,109,7,10,43
 2022-01-17,Sabah,Sipitang,0,0,57,0,1,61,1,1,11
 2022-01-17,Sabah,Tambunan,0,1,54,0,0,43,0,1,18
-2022-01-17,Sabah,Tawau,0,3,545,1,1,526,27,37,81
+2022-01-17,Sabah,Tawau,0,3,546,1,1,526,27,37,81
 2022-01-17,Sabah,Telupid,0,0,60,0,0,45,0,1,40
 2022-01-17,Sabah,Tenom,0,1,27,0,0,32,0,0,1
 2022-01-17,Sabah,Tongod,0,0,31,0,0,33,0,0,27
@@ -51784,7 +51784,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Sarawak,Maradong,0,0,67,0,0,69,1,0,43
 2022-01-17,Sarawak,Marudi,0,0,54,0,0,55,0,0,49
 2022-01-17,Sarawak,Matu,0,0,13,0,0,22,2,1,10
-2022-01-17,Sarawak,Miri,0,0,964,0,0,949,33,12,211
+2022-01-17,Sarawak,Miri,0,0,966,0,0,949,33,12,211
 2022-01-17,Sarawak,Mukah,0,0,30,0,0,34,5,0,21
 2022-01-17,Sarawak,Pakan,0,0,45,0,0,35,0,1,80
 2022-01-17,Sarawak,Pusa,0,0,0,0,0,0,0,0,0
@@ -51794,7 +51794,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Sarawak,Sebauh,0,0,8,0,0,13,0,0,20
 2022-01-17,Sarawak,Selangau,0,0,0,0,0,0,0,0,0
 2022-01-17,Sarawak,Serian,0,0,109,0,0,75,0,6,292
-2022-01-17,Sarawak,Sibu,0,0,769,0,1,745,30,22,223
+2022-01-17,Sarawak,Sibu,0,0,770,0,1,745,30,22,223
 2022-01-17,Sarawak,Simunjan,0,0,0,0,0,0,0,0,0
 2022-01-17,Sarawak,Song,0,0,60,0,0,44,0,1,55
 2022-01-17,Sarawak,Sri Aman,0,0,107,0,0,93,3,3,60
@@ -51809,7 +51809,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,Selangor,Klang,0,8,5670,0,7,5046,96,121,125
 2022-01-17,Selangor,Kuala Langat,0,0,1618,0,1,1577,17,18,89
 2022-01-17,Selangor,Kuala Selangor,0,0,800,0,0,829,19,27,56
-2022-01-17,Selangor,Petaling,0,7,17325,0,5,15218,127,197,346
+2022-01-17,Selangor,Petaling,0,7,17325,0,5,15219,127,197,346
 2022-01-17,Selangor,Sabak Bernam,0,2,522,0,0,525,8,12,25
 2022-01-17,Selangor,Sepang,0,2,1283,0,1,1101,16,19,50
 2022-01-17,Terengganu,Besut,0,3,131,0,1,133,5,23,30
@@ -51824,19 +51824,19 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-17,W.P. Labuan,Labuan,0,0,799,0,0,491,4,2,101
 2022-01-17,W.P. Putrajaya,Putrajaya,0,2,431,0,2,480,0,1,4
 2022-01-18,Johor,Batu Pahat,0,0,778,0,0,871,25,13,6
-2022-01-18,Johor,Johor Bahru,1,4,4109,0,1,4067,54,118,243
+2022-01-18,Johor,Johor Bahru,1,4,4110,0,1,4068,54,118,243
 2022-01-18,Johor,Kluang,0,0,336,0,0,320,0,1,7
 2022-01-18,Johor,Kota Tinggi,0,0,253,0,0,296,5,1,2
 2022-01-18,Johor,Kulai,0,8,964,0,8,1150,4,5,11
 2022-01-18,Johor,Mersing,0,0,0,0,0,1,0,0,0
-2022-01-18,Johor,Muar,0,0,1407,0,0,266,3,10,14
+2022-01-18,Johor,Muar,0,0,1408,0,0,266,3,10,14
 2022-01-18,Johor,Pontian,0,0,162,0,0,129,1,0,2
 2022-01-18,Johor,Segamat,0,0,548,0,0,154,3,4,15
 2022-01-18,Johor,Tangkak,0,0,93,0,0,86,2,8,2
 2022-01-18,Kedah,Baling,0,0,273,0,0,346,3,6,50
 2022-01-18,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
 2022-01-18,Kedah,Kota Setar,0,0,933,1,1,1098,27,9,24
-2022-01-18,Kedah,Kuala Muda,0,3,1425,0,3,1461,11,69,32
+2022-01-18,Kedah,Kuala Muda,0,3,1425,0,3,1462,11,69,32
 2022-01-18,Kedah,Kubang Pasu,0,0,514,0,0,851,0,0,12
 2022-01-18,Kedah,Kulim,0,0,660,0,0,713,7,1,33
 2022-01-18,Kedah,Langkawi,1,0,233,1,0,252,8,16,23
@@ -51858,7 +51858,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-18,Kelantan,Tumpat,0,2,133,0,0,161,4,17,18
 2022-01-18,Melaka,Alor Gajah,0,1,1033,1,0,982,15,15,70
 2022-01-18,Melaka,Jasin,1,1,495,0,0,469,14,9,13
-2022-01-18,Melaka,Melaka Tengah,0,4,2621,0,2,1995,24,18,357
+2022-01-18,Melaka,Melaka Tengah,0,4,2622,0,2,1995,24,18,357
 2022-01-18,Negeri Sembilan,Jelebu,0,0,0,0,0,0,0,0,0
 2022-01-18,Negeri Sembilan,Jempol,0,0,64,0,0,93,0,1,32
 2022-01-18,Negeri Sembilan,Kuala Pilah,0,0,282,0,0,241,0,0,56
@@ -51886,7 +51886,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-18,Perak,Kinta,1,0,613,2,0,818,5,9,30
 2022-01-18,Perak,Kuala Kangsar,0,0,32,0,0,46,2,1,4
 2022-01-18,Perak,Larut Dan Matang,0,0,381,0,0,405,6,1,14
-2022-01-18,Perak,Manjung,0,0,249,0,0,301,15,16,22
+2022-01-18,Perak,Manjung,0,0,250,0,0,301,15,16,22
 2022-01-18,Perak,Muallim,0,0,18,0,0,20,3,0,1
 2022-01-18,Perak,Perak Tengah,0,0,1,0,0,0,0,0,0
 2022-01-18,Perlis,Perlis,1,1,579,0,0,599,10,23,91
@@ -51900,7 +51900,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-18,Sabah,Keningau,0,0,188,0,0,193,1,1,31
 2022-01-18,Sabah,Kinabatangan,0,1,204,0,1,158,1,0,146
 2022-01-18,Sabah,Kota Belud,0,0,48,0,0,44,0,2,15
-2022-01-18,Sabah,Kota Kinabalu,0,0,1220,1,3,1300,31,39,92
+2022-01-18,Sabah,Kota Kinabalu,0,0,1221,1,3,1301,31,39,92
 2022-01-18,Sabah,Kota Marudu,0,0,63,0,0,52,5,0,20
 2022-01-18,Sabah,Kuala Penyu,0,0,38,0,0,48,0,2,7
 2022-01-18,Sabah,Kudat,0,0,43,0,0,44,2,0,6
@@ -51912,7 +51912,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-18,Sabah,Pitas,0,0,71,0,0,69,4,0,72
 2022-01-18,Sabah,Putatan,0,1,109,0,0,96,1,0,7
 2022-01-18,Sabah,Ranau,0,0,95,0,0,113,5,5,29
-2022-01-18,Sabah,Sandakan,0,0,492,0,0,601,6,9,66
+2022-01-18,Sabah,Sandakan,0,0,493,0,0,604,6,9,66
 2022-01-18,Sabah,Semporna,1,0,89,0,0,88,9,8,32
 2022-01-18,Sabah,Sipitang,0,0,75,0,0,65,0,0,10
 2022-01-18,Sabah,Tambunan,0,0,51,0,0,48,2,3,9
@@ -51961,10 +51961,10 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-18,Sarawak,Tatau,0,0,10,0,0,8,0,0,15
 2022-01-18,Sarawak,Tebedu,0,0,0,0,0,0,0,0,0
 2022-01-18,Sarawak,Telang Usan,0,0,9,0,0,9,1,1,24
-2022-01-18,Selangor,Gombak,0,0,378,0,2,359,17,32,18
+2022-01-18,Selangor,Gombak,0,0,378,0,2,360,17,32,18
 2022-01-18,Selangor,Hulu Langat,0,1,2773,0,2,2432,34,114,76
 2022-01-18,Selangor,Hulu Selangor,0,0,167,0,0,139,0,0,10
-2022-01-18,Selangor,Klang,0,1,3300,0,0,2925,17,15,76
+2022-01-18,Selangor,Klang,0,1,3300,0,0,2925,18,15,76
 2022-01-18,Selangor,Kuala Langat,0,1,1200,0,0,963,20,14,65
 2022-01-18,Selangor,Kuala Selangor,0,1,614,0,2,516,28,22,46
 2022-01-18,Selangor,Petaling,0,5,10051,0,1,8192,77,85,200
@@ -51975,10 +51975,10 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-18,Terengganu,Hulu Terengganu,0,0,76,0,0,71,4,11,6
 2022-01-18,Terengganu,Kemaman,0,2,405,0,0,306,7,19,32
 2022-01-18,Terengganu,Kuala Nerus,0,1,374,0,0,294,5,12,38
-2022-01-18,Terengganu,Kuala Terengganu,0,0,932,0,0,802,17,25,35
+2022-01-18,Terengganu,Kuala Terengganu,0,0,933,0,0,802,17,25,35
 2022-01-18,Terengganu,Marang,0,0,75,0,2,70,4,9,4
 2022-01-18,Terengganu,Setiu,0,0,142,0,0,163,1,4,69
-2022-01-18,W.P. Kuala Lumpur,Kuala Lumpur,0,6,4455,0,2,3390,52,88,228
+2022-01-18,W.P. Kuala Lumpur,Kuala Lumpur,0,6,4455,0,2,3391,52,88,228
 2022-01-18,W.P. Labuan,Labuan,0,0,566,1,0,548,4,1,93
 2022-01-18,W.P. Putrajaya,Putrajaya,0,0,28,0,0,32,3,4,0
 2022-01-19,Johor,Batu Pahat,0,2,1256,0,0,1164,24,38,80
@@ -52120,12 +52120,12 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-19,Sarawak,Tebedu,0,0,4,0,0,7,0,5,20
 2022-01-19,Sarawak,Telang Usan,0,0,28,0,0,23,0,0,35
 2022-01-19,Selangor,Gombak,1,8,1947,0,3,1942,50,98,171
-2022-01-19,Selangor,Hulu Langat,5,17,5394,3,9,4307,119,174,525
-2022-01-19,Selangor,Hulu Selangor,0,0,395,0,4,398,17,57,19
+2022-01-19,Selangor,Hulu Langat,6,17,5394,3,9,4307,119,174,525
+2022-01-19,Selangor,Hulu Selangor,0,0,394,0,4,398,17,57,19
 2022-01-19,Selangor,Klang,0,9,6073,0,7,5709,89,181,203
 2022-01-19,Selangor,Kuala Langat,0,1,2058,0,1,1530,30,23,196
 2022-01-19,Selangor,Kuala Selangor,0,1,967,0,3,875,17,54,48
-2022-01-19,Selangor,Petaling,1,11,19207,1,6,15522,146,290,467
+2022-01-19,Selangor,Petaling,1,11,19207,1,6,15522,146,291,467
 2022-01-19,Selangor,Sabak Bernam,0,0,574,0,0,524,11,18,94
 2022-01-19,Selangor,Sepang,0,3,1881,0,2,1515,24,90,51
 2022-01-19,Terengganu,Besut,0,1,334,1,1,354,5,27,31
@@ -52165,14 +52165,14 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-20,Kelantan,Gua Musang,0,0,71,0,0,47,4,1,4
 2022-01-20,Kelantan,Jeli,0,0,30,1,0,37,1,2,9
 2022-01-20,Kelantan,Kecil Lojing,0,0,0,0,0,0,0,0,0
-2022-01-20,Kelantan,Kota Bharu,1,3,725,0,3,833,22,61,93
+2022-01-20,Kelantan,Kota Bharu,1,3,725,0,3,834,22,61,93
 2022-01-20,Kelantan,Kuala Krai,0,0,85,0,0,78,4,6,19
 2022-01-20,Kelantan,Machang,0,0,63,0,0,71,7,5,6
 2022-01-20,Kelantan,Pasir Mas,0,1,99,0,0,131,14,22,11
 2022-01-20,Kelantan,Pasir Puteh,0,0,65,0,0,77,24,33,12
 2022-01-20,Kelantan,Tanah Merah,1,0,82,0,0,102,0,3,7
 2022-01-20,Kelantan,Tumpat,0,0,79,0,0,124,9,17,20
-2022-01-20,Melaka,Alor Gajah,0,0,1048,0,0,1116,14,18,28
+2022-01-20,Melaka,Alor Gajah,0,0,1049,0,0,1116,14,18,28
 2022-01-20,Melaka,Jasin,0,0,440,0,0,374,1,2,126
 2022-01-20,Melaka,Melaka Tengah,0,1,3337,0,0,2658,19,31,182
 2022-01-20,Negeri Sembilan,Jelebu,0,0,165,0,0,158,1,1,36
@@ -52190,7 +52190,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-20,Pahang,Lipis,0,0,284,0,0,267,9,21,20
 2022-01-20,Pahang,Maran,0,5,302,0,2,333,9,9,13
 2022-01-20,Pahang,Pekan,0,1,419,0,0,349,2,6,27
-2022-01-20,Pahang,Raub,0,0,202,0,0,170,2,6,73
+2022-01-20,Pahang,Raub,1,0,202,0,0,170,1,6,73
 2022-01-20,Pahang,Rompin,0,0,822,1,0,542,9,3,41
 2022-01-20,Pahang,Temerloh,2,1,1236,2,3,726,23,7,83
 2022-01-20,Perak,Bagan Datuk,0,0,273,0,0,239,0,0,57
@@ -52199,7 +52199,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-20,Perak,Hulu Perak,0,1,216,0,0,181,5,3,43
 2022-01-20,Perak,Kampar,0,0,603,0,0,497,1,3,25
 2022-01-20,Perak,Kerian,0,0,299,0,0,356,13,11,23
-2022-01-20,Perak,Kinta,1,3,3078,1,0,2726,43,69,99
+2022-01-20,Perak,Kinta,1,3,3079,1,0,2726,43,69,99
 2022-01-20,Perak,Kuala Kangsar,0,1,223,0,2,220,7,23,23
 2022-01-20,Perak,Larut Dan Matang,0,3,674,0,2,755,21,26,359
 2022-01-20,Perak,Manjung,0,2,1211,0,0,832,23,22,87
@@ -52258,7 +52258,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-20,Sarawak,Maradong,0,0,42,0,0,57,0,2,30
 2022-01-20,Sarawak,Marudi,0,0,36,0,0,25,0,0,18
 2022-01-20,Sarawak,Matu,0,0,17,0,0,17,0,0,7
-2022-01-20,Sarawak,Miri,0,0,690,0,0,560,28,30,122
+2022-01-20,Sarawak,Miri,0,0,690,0,0,561,28,30,122
 2022-01-20,Sarawak,Mukah,0,0,24,1,0,30,5,3,16
 2022-01-20,Sarawak,Pakan,0,0,51,0,0,34,0,0,59
 2022-01-20,Sarawak,Pusa,1,0,53,1,0,58,0,0,23
@@ -52280,7 +52280,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-20,Selangor,Gombak,1,13,2063,5,9,2181,43,81,45
 2022-01-20,Selangor,Hulu Langat,10,9,4489,5,12,3784,79,151,346
 2022-01-20,Selangor,Hulu Selangor,0,1,428,0,1,368,17,17,44
-2022-01-20,Selangor,Klang,0,7,6065,0,7,4243,58,117,425
+2022-01-20,Selangor,Klang,0,7,6066,0,7,4247,58,117,425
 2022-01-20,Selangor,Kuala Langat,3,1,1569,0,0,1418,6,13,64
 2022-01-20,Selangor,Kuala Selangor,0,0,825,1,0,771,9,28,77
 2022-01-20,Selangor,Petaling,1,10,18377,1,11,15007,139,206,441
@@ -52294,23 +52294,23 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-20,Terengganu,Kuala Terengganu,0,1,973,0,3,877,8,15,49
 2022-01-20,Terengganu,Marang,0,1,62,0,0,52,2,3,5
 2022-01-20,Terengganu,Setiu,0,1,212,0,1,190,1,1,24
-2022-01-20,W.P. Kuala Lumpur,Kuala Lumpur,4,28,22019,5,23,18014,156,220,577
+2022-01-20,W.P. Kuala Lumpur,Kuala Lumpur,4,28,22020,5,23,18016,156,220,577
 2022-01-20,W.P. Labuan,Labuan,0,0,675,0,0,445,1,5,131
 2022-01-20,W.P. Putrajaya,Putrajaya,9,8,384,6,4,479,2,5,3
 2022-01-21,Johor,Batu Pahat,0,0,895,0,0,808,8,10,45
-2022-01-21,Johor,Johor Bahru,0,10,6545,0,15,6590,173,70,136
+2022-01-21,Johor,Johor Bahru,0,10,6545,0,15,6592,173,70,136
 2022-01-21,Johor,Kluang,0,0,444,0,0,404,4,7,18
 2022-01-21,Johor,Kota Tinggi,0,0,499,0,0,386,2,4,11
 2022-01-21,Johor,Kulai,0,11,993,0,17,1156,3,2,17
 2022-01-21,Johor,Mersing,0,0,0,0,0,0,0,0,0
-2022-01-21,Johor,Muar,0,0,975,1,0,855,10,7,92
+2022-01-21,Johor,Muar,0,0,980,1,0,863,10,7,92
 2022-01-21,Johor,Pontian,0,0,123,1,1,181,1,1,10
 2022-01-21,Johor,Segamat,0,0,176,0,0,187,0,4,4
 2022-01-21,Johor,Tangkak,0,0,129,0,0,135,0,1,2
 2022-01-21,Kedah,Baling,0,0,147,0,0,172,9,3,11
 2022-01-21,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
 2022-01-21,Kedah,Kota Setar,1,1,591,1,1,583,3,17,33
-2022-01-21,Kedah,Kuala Muda,0,3,1402,0,2,1312,4,43,97
+2022-01-21,Kedah,Kuala Muda,0,3,1402,0,2,1313,4,43,97
 2022-01-21,Kedah,Kubang Pasu,1,0,311,0,1,364,0,0,9
 2022-01-21,Kedah,Kulim,0,0,722,0,0,713,4,4,26
 2022-01-21,Kedah,Langkawi,0,0,206,0,0,186,5,22,34
@@ -52323,7 +52323,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Kelantan,Gua Musang,0,0,8,0,0,5,0,0,2
 2022-01-21,Kelantan,Jeli,0,0,0,0,0,0,0,0,0
 2022-01-21,Kelantan,Kecil Lojing,0,0,0,0,0,0,0,0,0
-2022-01-21,Kelantan,Kota Bharu,0,1,284,0,1,314,8,6,48
+2022-01-21,Kelantan,Kota Bharu,0,1,284,0,1,315,8,6,48
 2022-01-21,Kelantan,Kuala Krai,0,0,4,0,0,2,1,0,0
 2022-01-21,Kelantan,Machang,0,0,0,0,0,0,0,0,0
 2022-01-21,Kelantan,Pasir Mas,0,0,0,0,0,0,1,2,0
@@ -52332,7 +52332,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Kelantan,Tumpat,0,0,8,0,0,13,0,2,1
 2022-01-21,Melaka,Alor Gajah,0,0,815,0,1,865,8,11,21
 2022-01-21,Melaka,Jasin,0,1,308,0,1,292,11,24,22
-2022-01-21,Melaka,Melaka Tengah,0,6,2576,0,1,2263,21,49,141
+2022-01-21,Melaka,Melaka Tengah,0,6,2576,0,1,2265,21,49,141
 2022-01-21,Negeri Sembilan,Jelebu,2,1,53,0,0,47,2,15,14
 2022-01-21,Negeri Sembilan,Jempol,0,0,410,0,0,161,3,6,15
 2022-01-21,Negeri Sembilan,Kuala Pilah,0,0,157,0,0,161,4,2,29
@@ -52353,7 +52353,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Pahang,Temerloh,1,1,418,1,0,348,2,2,22
 2022-01-21,Perak,Bagan Datuk,0,0,119,0,0,111,0,9,18
 2022-01-21,Perak,Batang Padang,0,0,159,0,0,205,2,9,48
-2022-01-21,Perak,Hilir Perak,0,0,486,0,0,458,12,53,37
+2022-01-21,Perak,Hilir Perak,0,0,486,0,0,459,12,53,37
 2022-01-21,Perak,Hulu Perak,0,0,60,0,0,81,6,4,26
 2022-01-21,Perak,Kampar,0,0,392,0,0,378,4,6,17
 2022-01-21,Perak,Kerian,0,0,257,0,0,278,6,15,16
@@ -52376,7 +52376,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Sabah,Kota Belud,0,1,37,0,0,38,0,3,10
 2022-01-21,Sabah,Kota Kinabalu,2,3,957,2,2,1188,14,23,51
 2022-01-21,Sabah,Kota Marudu,0,0,44,0,0,36,1,0,10
-2022-01-21,Sabah,Kuala Penyu,0,0,138,1,0,162,0,1,35
+2022-01-21,Sabah,Kuala Penyu,0,0,139,1,0,163,0,1,35
 2022-01-21,Sabah,Kudat,1,1,133,1,1,148,15,1,57
 2022-01-21,Sabah,Kunak,0,0,83,0,0,82,1,1,76
 2022-01-21,Sabah,Lahad Datu,1,0,179,0,0,164,2,8,110
@@ -52408,7 +52408,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Sarawak,Kabong,0,0,7,0,0,17,0,0,14
 2022-01-21,Sarawak,Kanowit,0,0,37,0,0,31,0,0,32
 2022-01-21,Sarawak,Kapit,0,0,64,0,0,67,1,4,37
-2022-01-21,Sarawak,Kuching,1,1,491,0,2,474,55,38,106
+2022-01-21,Sarawak,Kuching,1,1,492,0,2,474,55,38,106
 2022-01-21,Sarawak,Lawas,7,0,120,1,0,139,0,0,74
 2022-01-21,Sarawak,Limbang,0,0,43,0,0,43,0,0,74
 2022-01-21,Sarawak,Lubok Antu,0,0,20,0,0,22,0,0,36
@@ -52436,14 +52436,14 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Sarawak,Tebedu,0,0,2,0,0,23,0,0,9
 2022-01-21,Sarawak,Telang Usan,0,0,11,0,0,10,2,0,26
 2022-01-21,Selangor,Gombak,10,244,1886,8,232,1968,18,234,50
-2022-01-21,Selangor,Hulu Langat,3,1,4043,5,1,3460,85,111,213
+2022-01-21,Selangor,Hulu Langat,4,1,4043,5,1,3462,85,111,213
 2022-01-21,Selangor,Hulu Selangor,6,2,263,1,1,218,3,11,10
 2022-01-21,Selangor,Klang,0,7,5729,1,8,4043,93,107,160
 2022-01-21,Selangor,Kuala Langat,1,0,1502,0,2,1251,17,41,95
 2022-01-21,Selangor,Kuala Selangor,0,1,767,0,1,643,8,33,83
-2022-01-21,Selangor,Petaling,2,15,15736,1,4,13173,87,116,381
+2022-01-21,Selangor,Petaling,2,15,15738,1,4,13173,87,116,381
 2022-01-21,Selangor,Sabak Bernam,0,4,449,0,1,519,4,9,36
-2022-01-21,Selangor,Sepang,0,1,1099,0,0,982,22,30,34
+2022-01-21,Selangor,Sepang,0,1,1099,0,0,983,22,30,34
 2022-01-21,Terengganu,Besut,0,0,67,0,0,41,2,1,19
 2022-01-21,Terengganu,Dungun,0,0,267,0,0,229,4,5,28
 2022-01-21,Terengganu,Hulu Terengganu,0,0,21,0,0,21,0,0,1
@@ -52452,7 +52452,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-21,Terengganu,Kuala Terengganu,0,1,656,0,0,578,3,3,60
 2022-01-21,Terengganu,Marang,0,0,25,0,0,22,0,0,0
 2022-01-21,Terengganu,Setiu,0,0,0,0,0,0,0,0,0
-2022-01-21,W.P. Kuala Lumpur,Kuala Lumpur,6,26,19249,7,21,15085,146,186,572
+2022-01-21,W.P. Kuala Lumpur,Kuala Lumpur,6,26,19254,7,21,15106,146,186,577
 2022-01-21,W.P. Labuan,Labuan,0,0,646,0,0,402,2,2,95
 2022-01-21,W.P. Putrajaya,Putrajaya,1,8,356,2,13,544,0,2,8
 2022-01-22,Johor,Batu Pahat,0,0,991,0,1,902,5,8,111
@@ -52469,7 +52469,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-22,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
 2022-01-22,Kedah,Kota Setar,1,0,300,0,0,327,5,22,19
 2022-01-22,Kedah,Kuala Muda,0,1,1269,1,0,1206,17,34,29
-2022-01-22,Kedah,Kubang Pasu,1,0,269,0,0,288,2,0,10
+2022-01-22,Kedah,Kubang Pasu,1,0,269,0,0,289,2,0,10
 2022-01-22,Kedah,Kulim,0,0,438,0,0,395,11,3,23
 2022-01-22,Kedah,Langkawi,0,0,0,0,0,1,0,0,1
 2022-01-22,Kedah,Padang Terap,0,0,22,0,0,26,0,0,0
@@ -52502,7 +52502,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-22,Pahang,Bera,0,0,255,0,0,244,8,0,29
 2022-01-22,Pahang,Cameron Highlands,0,0,154,0,0,52,0,0,298
 2022-01-22,Pahang,Jerantut,0,0,83,0,0,113,1,10,9
-2022-01-22,Pahang,Kuantan,3,4,1214,2,3,1128,43,50,33
+2022-01-22,Pahang,Kuantan,4,4,1215,2,3,1128,43,50,33
 2022-01-22,Pahang,Lipis,0,0,18,0,0,11,1,0,0
 2022-01-22,Pahang,Maran,0,1,301,0,0,316,2,7,31
 2022-01-22,Pahang,Pekan,0,1,255,0,0,232,3,1,11
@@ -52596,10 +52596,10 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-22,Selangor,Gombak,0,0,985,0,0,986,14,9,24
 2022-01-22,Selangor,Hulu Langat,1,0,3861,2,1,3273,38,42,149
 2022-01-22,Selangor,Hulu Selangor,0,0,321,0,0,236,0,0,12
-2022-01-22,Selangor,Klang,0,1,5570,0,0,3563,34,28,252
-2022-01-22,Selangor,Kuala Langat,0,1,1119,0,0,823,8,4,141
+2022-01-22,Selangor,Klang,0,1,5571,0,0,3563,34,28,252
+2022-01-22,Selangor,Kuala Langat,0,1,1119,0,0,824,8,4,141
 2022-01-22,Selangor,Kuala Selangor,0,1,836,0,0,769,22,13,19
-2022-01-22,Selangor,Petaling,3,3,12972,1,4,9936,91,29,322
+2022-01-22,Selangor,Petaling,3,3,12973,1,4,9937,91,29,322
 2022-01-22,Selangor,Sabak Bernam,0,0,354,0,0,387,2,2,25
 2022-01-22,Selangor,Sepang,0,0,1306,0,1,822,7,2,50
 2022-01-22,Terengganu,Besut,0,0,91,0,0,85,1,1,24
@@ -52610,9 +52610,9 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-22,Terengganu,Kuala Terengganu,0,0,595,1,0,459,5,9,41
 2022-01-22,Terengganu,Marang,0,0,47,0,0,31,0,0,0
 2022-01-22,Terengganu,Setiu,0,0,55,0,0,65,0,0,31
-2022-01-22,W.P. Kuala Lumpur,Kuala Lumpur,0,8,16130,2,3,12786,84,55,395
+2022-01-22,W.P. Kuala Lumpur,Kuala Lumpur,0,8,16129,2,3,12786,84,55,395
 2022-01-22,W.P. Labuan,Labuan,0,0,333,0,0,285,2,1,80
-2022-01-22,W.P. Putrajaya,Putrajaya,0,0,175,0,0,214,1,3,9
+2022-01-22,W.P. Putrajaya,Putrajaya,0,0,176,0,0,214,1,3,9
 2022-01-23,Johor,Batu Pahat,0,0,964,0,0,825,4,19,29
 2022-01-23,Johor,Johor Bahru,0,30,5429,0,34,5393,96,83,180
 2022-01-23,Johor,Kluang,0,0,380,0,0,318,17,19,14
@@ -52859,7 +52859,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-24,Sabah,Penampang,0,0,56,0,0,66,3,2,5
 2022-01-24,Sabah,Pitas,0,0,10,0,0,16,0,0,2
 2022-01-24,Sabah,Putatan,0,0,28,0,0,31,2,3,2
-2022-01-24,Sabah,Ranau,0,0,64,0,0,51,3,0,40
+2022-01-24,Sabah,Ranau,0,0,65,0,0,51,3,0,40
 2022-01-24,Sabah,Sandakan,0,1,367,1,0,364,8,7,52
 2022-01-24,Sabah,Semporna,29,29,102,18,18,86,3,8,98
 2022-01-24,Sabah,Sipitang,0,0,43,0,0,33,0,1,5
@@ -52932,7 +52932,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-25,Johor,Batu Pahat,0,1,1082,0,1,1006,4,27,24
 2022-01-25,Johor,Johor Bahru,0,50,8799,2,57,8646,105,157,205
 2022-01-25,Johor,Kluang,0,0,890,0,0,794,12,12,73
-2022-01-25,Johor,Kota Tinggi,0,0,1081,0,0,883,2,3,42
+2022-01-25,Johor,Kota Tinggi,0,0,1082,0,0,883,2,3,42
 2022-01-25,Johor,Kulai,1,28,1889,0,12,1471,5,4,28
 2022-01-25,Johor,Mersing,0,0,334,0,0,56,0,0,94
 2022-01-25,Johor,Muar,0,1,1760,0,0,731,3,8,49
@@ -52980,7 +52980,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-25,Pahang,Lipis,0,0,223,0,0,207,5,3,26
 2022-01-25,Pahang,Maran,1,3,375,0,1,340,4,0,41
 2022-01-25,Pahang,Pekan,0,1,324,0,0,268,5,8,12
-2022-01-25,Pahang,Raub,0,0,135,0,0,110,1,9,22
+2022-01-25,Pahang,Raub,0,0,135,0,0,111,1,9,22
 2022-01-25,Pahang,Rompin,0,0,476,0,0,185,1,6,15
 2022-01-25,Pahang,Temerloh,0,0,888,0,0,487,5,5,45
 2022-01-25,Perak,Bagan Datuk,0,0,70,0,0,58,0,1,21
@@ -53096,13 +53096,13 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-26,Johor,Muar,0,6,1697,0,0,687,8,3,67
 2022-01-26,Johor,Pontian,0,2,408,0,1,465,3,11,40
 2022-01-26,Johor,Segamat,0,6,302,0,1,310,3,2,10
-2022-01-26,Johor,Tangkak,0,5,381,1,0,437,35,0,21
+2022-01-26,Johor,Tangkak,0,5,387,1,0,445,35,0,21
 2022-01-26,Kedah,Baling,0,0,243,0,0,227,19,3,30
 2022-01-26,Kedah,Bandar Baharu,0,0,81,0,0,77,1,2,5
-2022-01-26,Kedah,Kota Setar,0,2,836,1,2,817,10,57,20
+2022-01-26,Kedah,Kota Setar,0,2,836,1,2,818,10,57,20
 2022-01-26,Kedah,Kuala Muda,0,1,1118,1,1,1135,18,36,45
 2022-01-26,Kedah,Kubang Pasu,0,3,427,0,3,418,2,5,34
-2022-01-26,Kedah,Kulim,0,0,785,0,0,658,31,20,55
+2022-01-26,Kedah,Kulim,0,0,788,0,0,658,31,20,55
 2022-01-26,Kedah,Langkawi,0,1,38,0,1,38,2,2,5
 2022-01-26,Kedah,Padang Terap,0,0,25,0,0,25,10,5,35
 2022-01-26,Kedah,Pendang,0,0,143,0,0,137,4,5,5
@@ -53138,12 +53138,12 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-26,Pahang,Lipis,0,0,355,0,0,274,10,3,44
 2022-01-26,Pahang,Maran,0,1,292,0,1,263,17,7,38
 2022-01-26,Pahang,Pekan,0,0,276,0,0,246,2,5,5
-2022-01-26,Pahang,Raub,0,0,112,0,0,93,2,4,31
+2022-01-26,Pahang,Raub,0,0,113,0,0,93,2,4,31
 2022-01-26,Pahang,Rompin,0,0,330,0,0,331,9,0,19
 2022-01-26,Pahang,Temerloh,0,0,1019,0,0,600,5,5,48
 2022-01-26,Perak,Bagan Datuk,0,0,102,0,0,52,0,0,54
 2022-01-26,Perak,Batang Padang,0,0,312,0,0,290,7,8,42
-2022-01-26,Perak,Hilir Perak,0,0,364,0,1,256,4,9,71
+2022-01-26,Perak,Hilir Perak,0,0,365,0,1,256,4,9,71
 2022-01-26,Perak,Hulu Perak,0,0,117,0,1,118,3,2,38
 2022-01-26,Perak,Kampar,0,0,539,0,0,386,33,6,19
 2022-01-26,Perak,Kerian,0,0,319,0,1,331,3,14,23
@@ -53153,7 +53153,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-26,Perak,Manjung,0,1,825,0,1,776,20,11,49
 2022-01-26,Perak,Muallim,0,0,178,0,0,184,6,4,5
 2022-01-26,Perak,Perak Tengah,1,1,317,3,4,304,5,7,28
-2022-01-26,Perlis,Perlis,1,1,172,0,1,156,9,18,26
+2022-01-26,Perlis,Perlis,1,1,172,0,1,157,9,18,26
 2022-01-26,Pulau Pinang,Barat Daya,3,1,1561,0,0,1321,7,18,20
 2022-01-26,Pulau Pinang,Seberang Perai Selatan,3,0,895,0,0,721,6,19,38
 2022-01-26,Pulau Pinang,Seberang Perai Tengah,0,1,1542,2,0,1174,12,39,55
@@ -53231,7 +53231,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-26,Selangor,Klang,0,7,6972,0,3,3965,54,87,218
 2022-01-26,Selangor,Kuala Langat,0,1,1224,0,1,866,11,9,55
 2022-01-26,Selangor,Kuala Selangor,0,0,906,0,0,618,23,45,52
-2022-01-26,Selangor,Petaling,1,12,14606,1,3,11005,134,168,421
+2022-01-26,Selangor,Petaling,2,12,14606,1,3,11005,134,168,421
 2022-01-26,Selangor,Sabak Bernam,0,0,305,0,1,270,9,1,56
 2022-01-26,Selangor,Sepang,0,2,1701,0,0,1160,15,114,58
 2022-01-26,Terengganu,Besut,0,2,171,0,0,61,26,55,42
@@ -53242,7 +53242,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-26,Terengganu,Kuala Terengganu,0,0,594,0,0,547,2,29,15
 2022-01-26,Terengganu,Marang,0,0,35,0,0,30,1,11,1
 2022-01-26,Terengganu,Setiu,0,0,67,0,1,70,0,7,11
-2022-01-26,W.P. Kuala Lumpur,Kuala Lumpur,5,12,14130,10,9,11121,191,152,607
+2022-01-26,W.P. Kuala Lumpur,Kuala Lumpur,7,12,14130,10,9,11121,190,152,607
 2022-01-26,W.P. Labuan,Labuan,0,0,422,0,0,313,1,0,60
 2022-01-26,W.P. Putrajaya,Putrajaya,0,0,296,1,1,375,1,1,4
 2022-01-27,Johor,Batu Pahat,7,4,1097,4,3,873,56,83,53
@@ -53254,10 +53254,10 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-27,Johor,Muar,0,3,1835,0,1,749,25,42,91
 2022-01-27,Johor,Pontian,0,1,389,0,1,371,5,7,40
 2022-01-27,Johor,Segamat,0,1,1002,0,0,854,7,8,9
-2022-01-27,Johor,Tangkak,0,3,700,0,0,1140,24,6,25
+2022-01-27,Johor,Tangkak,0,3,701,0,0,1140,24,7,29
 2022-01-27,Kedah,Baling,0,2,268,0,0,310,12,10,10
 2022-01-27,Kedah,Bandar Baharu,0,0,65,0,0,67,2,0,3
-2022-01-27,Kedah,Kota Setar,0,3,820,0,2,769,20,46,43
+2022-01-27,Kedah,Kota Setar,0,3,820,0,2,769,21,46,43
 2022-01-27,Kedah,Kuala Muda,1,1,1106,0,0,1110,13,49,29
 2022-01-27,Kedah,Kubang Pasu,0,12,558,0,1,544,5,12,18
 2022-01-27,Kedah,Kulim,0,1,737,0,1,566,84,94,52
@@ -53296,7 +53296,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-27,Pahang,Lipis,0,0,361,0,1,115,6,5,32
 2022-01-27,Pahang,Maran,0,1,381,0,1,270,11,5,9
 2022-01-27,Pahang,Pekan,0,1,266,0,0,226,1,6,22
-2022-01-27,Pahang,Raub,0,0,168,0,0,203,3,3,3
+2022-01-27,Pahang,Raub,0,0,168,0,0,203,3,3,4
 2022-01-27,Pahang,Rompin,0,0,354,0,0,234,7,4,14
 2022-01-27,Pahang,Temerloh,0,0,1041,0,0,615,5,20,94
 2022-01-27,Perak,Bagan Datuk,0,0,111,0,0,69,0,0,49
@@ -53330,7 +53330,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-27,Sabah,Lahad Datu,0,0,262,0,1,193,11,19,831
 2022-01-27,Sabah,Nabawan,0,0,10,0,0,5,2,4,20
 2022-01-27,Sabah,Papar,0,0,125,0,0,127,0,2,8
-2022-01-27,Sabah,Penampang,0,1,65,0,1,73,1,1,9
+2022-01-27,Sabah,Penampang,0,1,66,0,1,73,1,1,9
 2022-01-27,Sabah,Pitas,0,0,32,0,0,31,1,0,18
 2022-01-27,Sabah,Putatan,0,0,110,0,0,75,1,0,29
 2022-01-27,Sabah,Ranau,0,0,36,0,0,20,1,3,11
@@ -53400,11 +53400,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-27,Terengganu,Kuala Terengganu,0,0,592,0,0,550,4,18,19
 2022-01-27,Terengganu,Marang,0,1,35,0,1,24,0,5,0
 2022-01-27,Terengganu,Setiu,0,0,45,0,0,63,2,4,29
-2022-01-27,W.P. Kuala Lumpur,Kuala Lumpur,4,13,13791,4,10,10329,182,175,584
+2022-01-27,W.P. Kuala Lumpur,Kuala Lumpur,4,13,13791,5,10,10329,181,175,584
 2022-01-27,W.P. Labuan,Labuan,0,0,459,0,0,343,2,6,77
 2022-01-27,W.P. Putrajaya,Putrajaya,5,5,311,3,10,387,0,1,5
 2022-01-28,Johor,Batu Pahat,0,0,917,0,0,912,6,9,35
-2022-01-28,Johor,Johor Bahru,0,28,10658,0,39,8733,122,431,255
+2022-01-28,Johor,Johor Bahru,0,28,10658,0,39,8734,122,431,255
 2022-01-28,Johor,Kluang,0,0,698,0,0,645,0,1,52
 2022-01-28,Johor,Kota Tinggi,0,0,1033,0,1,642,2,5,58
 2022-01-28,Johor,Kulai,0,0,2089,0,0,1314,2,6,55
@@ -53454,7 +53454,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-28,Pahang,Lipis,0,0,267,0,0,125,1,3,14
 2022-01-28,Pahang,Maran,0,1,137,0,0,63,0,5,37
 2022-01-28,Pahang,Pekan,0,1,274,0,0,249,6,3,6
-2022-01-28,Pahang,Raub,0,1,170,0,0,135,2,10,14
+2022-01-28,Pahang,Raub,0,1,171,0,0,135,2,10,14
 2022-01-28,Pahang,Rompin,0,2,279,0,0,137,5,12,51
 2022-01-28,Pahang,Temerloh,0,1,425,0,0,421,8,17,46
 2022-01-28,Perak,Bagan Datuk,0,0,85,0,0,54,0,2,40
@@ -53558,7 +53558,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-28,Terengganu,Kuala Terengganu,0,0,471,0,1,438,5,6,16
 2022-01-28,Terengganu,Marang,0,0,16,0,0,12,0,0,0
 2022-01-28,Terengganu,Setiu,0,0,0,0,0,0,0,0,0
-2022-01-28,W.P. Kuala Lumpur,Kuala Lumpur,28,38,12111,30,42,9250,223,255,559
+2022-01-28,W.P. Kuala Lumpur,Kuala Lumpur,28,38,12111,30,43,9250,223,255,560
 2022-01-28,W.P. Labuan,Labuan,0,0,390,0,0,300,2,1,43
 2022-01-28,W.P. Putrajaya,Putrajaya,7,12,324,6,7,401,0,1,5
 2022-01-29,Johor,Batu Pahat,0,0,1033,0,0,903,6,4,28
@@ -53570,11 +53570,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-29,Johor,Muar,0,0,870,0,0,475,2,5,37
 2022-01-29,Johor,Pontian,0,1,424,0,1,311,11,3,16
 2022-01-29,Johor,Segamat,0,0,455,0,0,356,0,0,12
-2022-01-29,Johor,Tangkak,0,5,336,0,6,312,25,9,15
+2022-01-29,Johor,Tangkak,0,5,337,0,6,312,25,10,16
 2022-01-29,Kedah,Baling,0,0,73,0,0,83,2,0,3
 2022-01-29,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
-2022-01-29,Kedah,Kota Setar,0,0,234,0,0,229,1,11,24
-2022-01-29,Kedah,Kuala Muda,0,1,466,0,0,521,6,20,17
+2022-01-29,Kedah,Kota Setar,0,0,235,0,0,229,1,11,24
+2022-01-29,Kedah,Kuala Muda,0,1,466,1,0,521,5,20,17
 2022-01-29,Kedah,Kubang Pasu,0,0,336,0,0,454,1,0,7
 2022-01-29,Kedah,Kulim,0,0,285,0,0,292,4,5,17
 2022-01-29,Kedah,Langkawi,0,0,70,0,0,54,3,0,3
@@ -53629,7 +53629,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-01-29,Perak,Perak Tengah,0,0,34,0,0,61,3,0,0
 2022-01-29,Perlis,Perlis,0,0,0,0,0,0,1,1,0
 2022-01-29,Pulau Pinang,Barat Daya,0,2,682,0,3,622,3,3,12
-2022-01-29,Pulau Pinang,Seberang Perai Selatan,0,2,523,0,0,377,16,6,51
+2022-01-29,Pulau Pinang,Seberang Perai Selatan,0,2,523,1,0,377,15,6,51
 2022-01-29,Pulau Pinang,Seberang Perai Tengah,0,1,1223,0,0,867,8,26,56
 2022-01-29,Pulau Pinang,Seberang Perai Utara,0,0,467,0,0,433,9,13,21
 2022-01-29,Pulau Pinang,Timur Laut,0,0,934,0,0,671,13,12,25
@@ -54352,7 +54352,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-02,W.P. Labuan,Labuan,0,0,7,0,0,2,0,0,0
 2022-02-02,W.P. Putrajaya,Putrajaya,0,0,13,0,0,11,0,4,0
 2022-02-03,Johor,Batu Pahat,0,3,811,0,2,787,27,38,41
-2022-02-03,Johor,Johor Bahru,0,9,4112,0,9,3081,68,95,171
+2022-02-03,Johor,Johor Bahru,0,9,4111,0,9,3081,68,95,171
 2022-02-03,Johor,Kluang,0,0,779,0,1,592,4,31,18
 2022-02-03,Johor,Kota Tinggi,0,0,532,0,1,335,5,7,39
 2022-02-03,Johor,Kulai,0,0,1037,0,0,607,5,0,40
@@ -54360,7 +54360,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-03,Johor,Muar,1,0,273,3,1,247,12,9,6
 2022-02-03,Johor,Pontian,0,2,156,0,1,161,2,4,8
 2022-02-03,Johor,Segamat,0,0,180,0,0,149,1,4,9
-2022-02-03,Johor,Tangkak,0,1,445,0,1,433,8,3,17
+2022-02-03,Johor,Tangkak,0,1,448,0,1,436,8,3,18
 2022-02-03,Kedah,Baling,2,5,151,2,2,216,4,0,9
 2022-02-03,Kedah,Bandar Baharu,0,0,61,0,0,56,2,6,1
 2022-02-03,Kedah,Kota Setar,0,0,595,0,2,722,13,68,14
@@ -54406,12 +54406,12 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-03,Pahang,Rompin,0,1,80,0,0,65,1,5,3
 2022-02-03,Pahang,Temerloh,0,0,232,0,0,180,3,7,9
 2022-02-03,Perak,Bagan Datuk,0,0,5,0,0,0,0,0,0
-2022-02-03,Perak,Batang Padang,0,0,249,0,0,309,1,20,7
+2022-02-03,Perak,Batang Padang,0,0,249,0,0,310,1,20,7
 2022-02-03,Perak,Hilir Perak,0,0,327,0,0,284,2,18,34
 2022-02-03,Perak,Hulu Perak,0,0,65,0,1,112,3,4,13
 2022-02-03,Perak,Kampar,0,0,455,0,0,384,7,12,20
 2022-02-03,Perak,Kerian,0,0,295,0,1,254,4,29,7
-2022-02-03,Perak,Kinta,0,0,2423,1,0,1956,43,70,89
+2022-02-03,Perak,Kinta,0,0,2423,1,0,1957,43,70,90
 2022-02-03,Perak,Kuala Kangsar,0,0,225,0,1,215,8,6,12
 2022-02-03,Perak,Larut Dan Matang,0,0,443,0,0,298,15,29,60
 2022-02-03,Perak,Manjung,0,0,746,0,1,937,10,23,35
@@ -54518,7 +54518,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-04,Johor,Muar,5,0,593,2,0,439,10,10,13
 2022-02-04,Johor,Pontian,0,0,200,0,0,138,0,1,3
 2022-02-04,Johor,Segamat,0,0,209,1,0,171,1,1,14
-2022-02-04,Johor,Tangkak,0,0,277,0,0,268,7,10,19
+2022-02-04,Johor,Tangkak,0,0,277,0,0,268,7,10,21
 2022-02-04,Kedah,Baling,0,0,111,0,0,136,4,1,21
 2022-02-04,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
 2022-02-04,Kedah,Kota Setar,0,0,389,0,2,524,21,13,7
@@ -54569,7 +54569,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-04,Perak,Hulu Perak,0,0,71,0,0,80,4,0,8
 2022-02-04,Perak,Kampar,0,0,352,0,0,281,2,6,36
 2022-02-04,Perak,Kerian,0,0,215,0,0,215,4,11,16
-2022-02-04,Perak,Kinta,0,1,3224,0,2,2378,27,44,167
+2022-02-04,Perak,Kinta,0,1,3225,0,2,2380,27,44,167
 2022-02-04,Perak,Kuala Kangsar,0,0,188,0,0,168,2,13,14
 2022-02-04,Perak,Larut Dan Matang,0,1,301,0,1,389,12,23,33
 2022-02-04,Perak,Manjung,1,2,791,0,1,907,17,18,49
@@ -54598,7 +54598,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-04,Sabah,Pitas,0,0,2,0,0,3,0,0,0
 2022-02-04,Sabah,Putatan,0,1,21,1,0,20,7,1,1
 2022-02-04,Sabah,Ranau,0,0,17,0,1,18,0,0,14
-2022-02-04,Sabah,Sandakan,34,4,202,26,2,230,32,11,24
+2022-02-04,Sabah,Sandakan,34,4,202,26,2,230,33,11,24
 2022-02-04,Sabah,Semporna,13,14,92,12,12,68,21,5,133
 2022-02-04,Sabah,Sipitang,0,0,12,0,0,11,1,0,0
 2022-02-04,Sabah,Tambunan,0,0,6,0,0,9,0,2,2
@@ -54741,7 +54741,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-05,Pulau Pinang,Timur Laut,0,0,958,0,0,730,13,16,26
 2022-02-05,Sabah,Beaufort,0,0,23,0,0,39,2,0,12
 2022-02-05,Sabah,Beluran,0,0,0,0,0,2,3,0,1
-2022-02-05,Sabah,Keningau,0,0,25,1,0,43,20,1,8
+2022-02-05,Sabah,Keningau,0,0,24,1,0,43,20,1,8
 2022-02-05,Sabah,Kinabatangan,0,0,119,0,0,84,0,0,178
 2022-02-05,Sabah,Kota Belud,0,0,28,0,0,26,2,0,11
 2022-02-05,Sabah,Kota Kinabalu,0,3,419,0,2,449,36,13,14
@@ -54811,7 +54811,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-05,Selangor,Klang,0,0,1690,0,1,1132,1929,53,78
 2022-02-05,Selangor,Kuala Langat,0,3,282,0,1,151,5,4,25
 2022-02-05,Selangor,Kuala Selangor,0,0,282,0,0,190,11,13,23
-2022-02-05,Selangor,Petaling,1,1,1452,3,0,1085,7960,42,123
+2022-02-05,Selangor,Petaling,1,1,1452,3,0,1086,7961,42,123
 2022-02-05,Selangor,Sabak Bernam,0,0,30,0,0,17,0,0,3
 2022-02-05,Selangor,Sepang,3,1,295,1,0,194,676,7,17
 2022-02-05,Terengganu,Besut,0,0,12,0,0,7,2,7,2
@@ -54822,7 +54822,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-05,Terengganu,Kuala Terengganu,0,0,80,0,0,37,2,8,11
 2022-02-05,Terengganu,Marang,0,0,29,0,0,20,1,0,3
 2022-02-05,Terengganu,Setiu,0,0,5,0,0,1,0,0,0
-2022-02-05,W.P. Kuala Lumpur,Kuala Lumpur,1,4,1621,1,1,1428,1962,87,157
+2022-02-05,W.P. Kuala Lumpur,Kuala Lumpur,1,4,1620,1,1,1428,1964,87,157
 2022-02-05,W.P. Labuan,Labuan,0,0,44,0,0,38,0,1,8
 2022-02-05,W.P. Putrajaya,Putrajaya,0,0,64,0,0,95,2,1,3
 2022-02-06,Johor,Batu Pahat,0,0,596,0,0,644,19,29,27
@@ -54834,17 +54834,17 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-06,Johor,Muar,0,0,386,0,0,341,1,5,6
 2022-02-06,Johor,Pontian,0,0,399,0,1,226,1,11,16
 2022-02-06,Johor,Segamat,0,0,194,0,0,197,4,1,9
-2022-02-06,Johor,Tangkak,0,0,48,0,0,32,3,6,53
+2022-02-06,Johor,Tangkak,0,0,48,0,0,32,3,6,54
 2022-02-06,Kedah,Baling,0,1,139,0,2,161,7,0,1
 2022-02-06,Kedah,Bandar Baharu,0,0,93,0,0,86,4,4,1
 2022-02-06,Kedah,Kota Setar,0,1,173,0,0,209,25,22,12
-2022-02-06,Kedah,Kuala Muda,0,1,174,0,0,131,11,19,11
+2022-02-06,Kedah,Kuala Muda,0,1,174,0,0,132,11,19,11
 2022-02-06,Kedah,Kubang Pasu,0,3,132,1,2,148,3,13,3
 2022-02-06,Kedah,Kulim,0,3,132,0,0,107,16,29,13
 2022-02-06,Kedah,Langkawi,0,1,10,0,0,16,0,1,2
 2022-02-06,Kedah,Padang Terap,0,0,19,0,0,15,0,5,13
 2022-02-06,Kedah,Pendang,0,0,61,0,0,99,0,7,3
-2022-02-06,Kedah,Pokok Sena,0,0,12,0,0,17,2,0,0
+2022-02-06,Kedah,Pokok Sena,0,0,12,0,1,17,2,0,0
 2022-02-06,Kedah,Sik,0,0,15,0,0,36,1,10,2
 2022-02-06,Kedah,Yan,0,0,164,0,0,164,0,5,5
 2022-02-06,Kelantan,Bachok,0,1,48,0,0,36,2,2,8
@@ -54964,7 +54964,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-06,Sarawak,Tebedu,0,0,0,0,0,0,0,0,0
 2022-02-06,Sarawak,Telang Usan,0,0,0,0,0,0,0,0,0
 2022-02-06,Selangor,Gombak,0,0,711,0,0,423,1025,20,42
-2022-02-06,Selangor,Hulu Langat,0,0,1210,0,2,825,883,17,41
+2022-02-06,Selangor,Hulu Langat,0,0,1211,0,2,825,883,17,41
 2022-02-06,Selangor,Hulu Selangor,0,0,488,0,0,331,296,1,22
 2022-02-06,Selangor,Klang,0,1,1148,0,0,809,1581,19,37
 2022-02-06,Selangor,Kuala Langat,1,0,182,0,0,115,7,2,12
@@ -55018,7 +55018,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-07,Kelantan,Tumpat,0,1,52,0,2,57,2,6,2
 2022-02-07,Melaka,Alor Gajah,0,10,387,0,12,299,10,34,14
 2022-02-07,Melaka,Jasin,0,1,113,0,0,106,11,14,8
-2022-02-07,Melaka,Melaka Tengah,0,2,562,0,0,722,13,27,87
+2022-02-07,Melaka,Melaka Tengah,0,2,521,0,0,721,13,27,83
 2022-02-07,Negeri Sembilan,Jelebu,0,0,179,0,1,170,0,2,21
 2022-02-07,Negeri Sembilan,Jempol,0,0,394,0,0,345,4,5,19
 2022-02-07,Negeri Sembilan,Kuala Pilah,6,0,66,3,0,65,184,4,5
@@ -55039,17 +55039,17 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-07,Pahang,Temerloh,0,6,233,0,2,238,3,3,15
 2022-02-07,Perak,Bagan Datuk,0,0,0,0,0,0,0,0,0
 2022-02-07,Perak,Batang Padang,0,0,108,0,1,69,3,4,9
-2022-02-07,Perak,Hilir Perak,0,0,546,0,0,383,5,9,24
+2022-02-07,Perak,Hilir Perak,0,0,547,0,0,383,5,9,24
 2022-02-07,Perak,Hulu Perak,0,0,82,0,0,54,4,2,17
 2022-02-07,Perak,Kampar,0,0,301,0,0,254,8,6,21
 2022-02-07,Perak,Kerian,0,1,370,0,0,346,5,14,12
-2022-02-07,Perak,Kinta,2,3,3262,0,3,2872,87,78,102
+2022-02-07,Perak,Kinta,2,3,3266,0,3,2877,87,78,103
 2022-02-07,Perak,Kuala Kangsar,0,0,320,0,0,286,9,10,37
 2022-02-07,Perak,Larut Dan Matang,0,0,256,0,0,233,11,21,17
 2022-02-07,Perak,Manjung,0,0,634,0,0,572,38,20,56
 2022-02-07,Perak,Muallim,0,0,133,0,0,97,4,6,5
 2022-02-07,Perak,Perak Tengah,0,0,247,0,0,192,4,8,11
-2022-02-07,Perlis,Perlis,0,2,442,0,3,388,10,8,13
+2022-02-07,Perlis,Perlis,0,2,443,0,3,389,10,8,13
 2022-02-07,Pulau Pinang,Barat Daya,0,0,1196,0,0,973,3,14,36
 2022-02-07,Pulau Pinang,Seberang Perai Selatan,0,1,221,0,0,146,9,18,29
 2022-02-07,Pulau Pinang,Seberang Perai Tengah,0,3,1117,0,0,865,17,29,45
@@ -55122,7 +55122,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-07,Sarawak,Tebedu,0,0,0,0,0,0,0,0,0
 2022-02-07,Sarawak,Telang Usan,0,0,0,0,0,0,2,3,4
 2022-02-07,Selangor,Gombak,0,2,2230,0,2,1881,55,37,73
-2022-02-07,Selangor,Hulu Langat,4,4,3872,1,7,2962,97,140,166
+2022-02-07,Selangor,Hulu Langat,4,4,3872,1,7,2963,97,140,166
 2022-02-07,Selangor,Hulu Selangor,0,0,1242,0,1,803,2,15,59
 2022-02-07,Selangor,Klang,1,4,4241,0,1,3218,302,107,128
 2022-02-07,Selangor,Kuala Langat,0,2,1155,0,2,779,13,6,32
@@ -55138,11 +55138,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-07,Terengganu,Kuala Terengganu,0,0,96,0,0,53,6,16,9
 2022-02-07,Terengganu,Marang,24,36,56,0,0,19,1,4,156
 2022-02-07,Terengganu,Setiu,0,0,17,0,0,9,1,4,3
-2022-02-07,W.P. Kuala Lumpur,Kuala Lumpur,20,10,3113,10,5,2842,2882,140,257
+2022-02-07,W.P. Kuala Lumpur,Kuala Lumpur,20,10,3114,10,5,2844,2882,140,257
 2022-02-07,W.P. Labuan,Labuan,0,0,106,0,0,86,23,4,16
 2022-02-07,W.P. Putrajaya,Putrajaya,1,0,181,2,0,203,12,1,7
 2022-02-08,Johor,Batu Pahat,0,0,1244,0,0,1224,20,26,39
-2022-02-08,Johor,Johor Bahru,2,15,9467,0,9,7941,164,87,281
+2022-02-08,Johor,Johor Bahru,2,15,9468,0,9,7941,164,87,281
 2022-02-08,Johor,Kluang,0,0,1200,0,0,1135,26,3,46
 2022-02-08,Johor,Kota Tinggi,0,0,795,0,0,574,4,5,28
 2022-02-08,Johor,Kulai,0,1,1518,0,1,1197,7,4,55
@@ -55197,7 +55197,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-08,Pahang,Temerloh,0,3,344,0,1,291,4,6,27
 2022-02-08,Perak,Bagan Datuk,0,0,0,0,0,1,0,0,1
 2022-02-08,Perak,Batang Padang,0,0,145,0,1,136,1,7,9
-2022-02-08,Perak,Hilir Perak,0,1,506,0,0,420,7,1,48
+2022-02-08,Perak,Hilir Perak,0,1,506,0,0,421,7,1,48
 2022-02-08,Perak,Hulu Perak,0,0,211,0,0,218,2,3,14
 2022-02-08,Perak,Kampar,0,1,384,0,0,411,3,2,24
 2022-02-08,Perak,Kerian,0,1,779,0,1,615,5,2,36
@@ -55226,7 +55226,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-08,Sabah,Lahad Datu,0,9,175,0,4,148,40,61,121
 2022-02-08,Sabah,Nabawan,0,0,10,0,0,9,1,0,3
 2022-02-08,Sabah,Papar,0,1,145,0,0,166,17,6,9
-2022-02-08,Sabah,Penampang,0,0,80,0,0,85,22,2,20
+2022-02-08,Sabah,Penampang,0,0,85,0,0,91,22,2,20
 2022-02-08,Sabah,Pitas,0,0,47,0,0,45,2,4,11
 2022-02-08,Sabah,Putatan,0,0,60,0,0,61,21,1,3
 2022-02-08,Sabah,Ranau,0,0,49,0,0,43,11,0,14
@@ -55282,7 +55282,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-08,Selangor,Gombak,6,15,2737,8,9,2496,46,30,92
 2022-02-08,Selangor,Hulu Langat,0,1,5392,0,3,4071,93,53,247
 2022-02-08,Selangor,Hulu Selangor,0,0,1180,0,1,888,11,3,73
-2022-02-08,Selangor,Klang,12,2,5183,13,0,3910,281,25,175
+2022-02-08,Selangor,Klang,12,2,5183,13,0,3911,281,25,175
 2022-02-08,Selangor,Kuala Langat,0,1,867,1,1,591,90,58,39
 2022-02-08,Selangor,Kuala Selangor,0,1,673,0,1,490,14,23,58
 2022-02-08,Selangor,Petaling,1,10,4263,1,2,3710,856,98,276
@@ -55296,19 +55296,19 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-08,Terengganu,Kuala Terengganu,0,0,165,0,0,116,27,12,8
 2022-02-08,Terengganu,Marang,0,0,71,0,1,63,7,6,5
 2022-02-08,Terengganu,Setiu,1,0,30,0,0,15,0,2,5
-2022-02-08,W.P. Kuala Lumpur,Kuala Lumpur,58,9,4458,66,6,3851,3618,95,396
+2022-02-08,W.P. Kuala Lumpur,Kuala Lumpur,58,9,4459,66,6,3853,3618,95,396
 2022-02-08,W.P. Labuan,Labuan,5,1,178,0,0,84,7,4,12
 2022-02-08,W.P. Putrajaya,Putrajaya,15,0,258,22,0,337,3,3,10
-2022-02-09,Johor,Batu Pahat,0,0,1628,0,0,1467,27,16,74
+2022-02-09,Johor,Batu Pahat,0,0,1628,0,0,1468,27,16,74
 2022-02-09,Johor,Johor Bahru,11,3,7775,9,9,6312,155,124,354
-2022-02-09,Johor,Kluang,0,1,1273,0,0,1147,46,74,79
+2022-02-09,Johor,Kluang,0,1,1272,0,0,1147,46,74,79
 2022-02-09,Johor,Kota Tinggi,0,0,793,1,0,606,7,5,68
 2022-02-09,Johor,Kulai,0,0,1518,0,2,1310,5,8,60
 2022-02-09,Johor,Mersing,0,0,228,0,0,138,3,1,27
 2022-02-09,Johor,Muar,0,2,1027,0,0,819,11,3,36
 2022-02-09,Johor,Pontian,0,1,573,0,0,475,14,18,44
 2022-02-09,Johor,Segamat,0,0,1063,0,0,1131,13,7,58
-2022-02-09,Johor,Tangkak,0,1,1158,0,0,1161,10,0,61
+2022-02-09,Johor,Tangkak,0,1,1162,0,0,1164,10,0,67
 2022-02-09,Kedah,Baling,0,0,104,0,0,103,23,15,10
 2022-02-09,Kedah,Bandar Baharu,0,1,65,0,0,64,32,1,7
 2022-02-09,Kedah,Kota Setar,3,1,422,1,0,402,78,27,220
@@ -55355,17 +55355,17 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-09,Pahang,Temerloh,0,3,391,0,9,404,6,1,22
 2022-02-09,Perak,Bagan Datuk,0,0,12,0,0,1,0,0,0
 2022-02-09,Perak,Batang Padang,0,0,173,0,0,157,1,11,12
-2022-02-09,Perak,Hilir Perak,0,0,973,0,0,510,106,4,57
+2022-02-09,Perak,Hilir Perak,0,0,974,0,0,510,106,4,57
 2022-02-09,Perak,Hulu Perak,0,0,165,0,0,175,8,8,34
 2022-02-09,Perak,Kampar,0,1,504,0,0,451,5,0,43
 2022-02-09,Perak,Kerian,0,1,846,0,0,807,9,10,36
-2022-02-09,Perak,Kinta,3,1,3869,0,0,3665,122,32,290
+2022-02-09,Perak,Kinta,3,1,3872,0,0,3665,122,32,291
 2022-02-09,Perak,Kuala Kangsar,0,2,447,0,0,454,33,15,36
 2022-02-09,Perak,Larut Dan Matang,0,0,734,0,0,719,7,14,50
 2022-02-09,Perak,Manjung,0,1,976,0,0,755,60,22,57
 2022-02-09,Perak,Muallim,0,0,213,0,0,169,0,10,16
 2022-02-09,Perak,Perak Tengah,0,0,356,0,0,272,7,7,18
-2022-02-09,Perlis,Perlis,0,0,442,0,0,577,78,8,15
+2022-02-09,Perlis,Perlis,0,0,443,0,0,577,78,8,15
 2022-02-09,Pulau Pinang,Barat Daya,0,0,1304,0,0,1315,6,26,53
 2022-02-09,Pulau Pinang,Seberang Perai Selatan,0,1,446,0,1,390,24,26,23
 2022-02-09,Pulau Pinang,Seberang Perai Tengah,0,3,1408,0,0,1232,50,25,64
@@ -55384,11 +55384,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-09,Sabah,Lahad Datu,2,0,237,0,1,197,56,10,129
 2022-02-09,Sabah,Nabawan,0,0,8,0,0,10,0,3,5
 2022-02-09,Sabah,Papar,1,1,199,0,0,178,31,0,19
-2022-02-09,Sabah,Penampang,0,0,66,0,0,69,34,2,12
+2022-02-09,Sabah,Penampang,0,0,67,0,0,69,34,2,12
 2022-02-09,Sabah,Pitas,0,0,23,0,0,13,1,1,18
 2022-02-09,Sabah,Putatan,0,0,68,0,0,60,20,1,5
 2022-02-09,Sabah,Ranau,0,1,85,0,0,42,11,3,23
-2022-02-09,Sabah,Sandakan,22,0,600,17,1,634,101,5,72
+2022-02-09,Sabah,Sandakan,22,0,600,17,1,637,101,5,72
 2022-02-09,Sabah,Semporna,14,14,69,15,16,94,15,4,36
 2022-02-09,Sabah,Sipitang,0,0,60,0,0,50,21,2,8
 2022-02-09,Sabah,Tambunan,0,0,19,0,0,16,0,0,16
@@ -55396,7 +55396,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-09,Sabah,Telupid,0,0,23,0,0,17,2,0,13
 2022-02-09,Sabah,Tenom,0,0,64,0,0,62,12,0,15
 2022-02-09,Sabah,Tongod,0,0,2,0,0,0,0,0,6
-2022-02-09,Sabah,Tuaran,1,0,171,2,0,166,29,0,31
+2022-02-09,Sabah,Tuaran,2,0,171,2,0,166,29,0,31
 2022-02-09,Sarawak,Asajaya,0,0,2,0,0,2,160,0,0
 2022-02-09,Sarawak,Bau,0,0,50,0,0,45,110,0,6
 2022-02-09,Sarawak,Belaga,0,0,5,0,0,8,0,0,5
@@ -55445,7 +55445,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-09,Selangor,Kuala Selangor,0,0,690,0,0,563,15,14,47
 2022-02-09,Selangor,Petaling,0,10,4813,1,6,4071,1011,133,337
 2022-02-09,Selangor,Sabak Bernam,0,0,196,0,0,206,12,8,48
-2022-02-09,Selangor,Sepang,17,1,849,10,0,657,15,18,47
+2022-02-09,Selangor,Sepang,17,1,850,10,0,658,15,18,47
 2022-02-09,Terengganu,Besut,0,0,44,0,1,40,23,7,9
 2022-02-09,Terengganu,Dungun,0,1,39,0,0,18,0,52,5
 2022-02-09,Terengganu,Hulu Terengganu,0,0,100,0,0,74,2,4,5
@@ -55454,10 +55454,10 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-09,Terengganu,Kuala Terengganu,0,1,191,0,1,155,5,19,16
 2022-02-09,Terengganu,Marang,0,0,74,0,0,49,0,0,4
 2022-02-09,Terengganu,Setiu,0,0,29,0,0,24,0,1,5
-2022-02-09,W.P. Kuala Lumpur,Kuala Lumpur,38,22,5225,20,17,4463,3053,278,554
+2022-02-09,W.P. Kuala Lumpur,Kuala Lumpur,38,22,5226,20,17,4465,3053,278,554
 2022-02-09,W.P. Labuan,Labuan,13,0,175,10,0,90,21,4,19
 2022-02-09,W.P. Putrajaya,Putrajaya,4,0,213,13,4,287,1,0,3
-2022-02-10,Johor,Batu Pahat,2,2,1537,5,1,1462,48,27,62
+2022-02-10,Johor,Batu Pahat,2,2,1538,5,1,1462,48,27,62
 2022-02-10,Johor,Johor Bahru,13,20,7695,14,14,7077,178,82,378
 2022-02-10,Johor,Kluang,0,0,1248,0,1,1125,77,10,70
 2022-02-10,Johor,Kota Tinggi,0,1,1115,0,0,973,38,51,53
@@ -55466,7 +55466,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,Johor,Muar,18,1,998,11,1,702,12,23,64
 2022-02-10,Johor,Pontian,0,0,943,0,0,895,14,16,54
 2022-02-10,Johor,Segamat,0,1,766,0,2,772,61,8,43
-2022-02-10,Johor,Tangkak,0,0,1184,0,0,1166,17,3,102
+2022-02-10,Johor,Tangkak,0,1,1193,0,0,1171,17,3,102
 2022-02-10,Kedah,Baling,0,0,146,0,0,142,36,8,19
 2022-02-10,Kedah,Bandar Baharu,0,0,56,1,0,64,44,1,12
 2022-02-10,Kedah,Kota Setar,15,3,469,16,2,526,236,20,124
@@ -55508,7 +55508,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,Pahang,Lipis,0,0,404,0,0,95,17,6,99
 2022-02-10,Pahang,Maran,1,3,60,0,1,52,4,6,4
 2022-02-10,Pahang,Pekan,0,1,166,0,0,166,0,4,29
-2022-02-10,Pahang,Raub,0,0,399,0,0,382,2,2,30
+2022-02-10,Pahang,Raub,0,0,399,0,0,383,2,2,30
 2022-02-10,Pahang,Rompin,0,0,167,0,1,80,4,6,27
 2022-02-10,Pahang,Temerloh,0,2,436,0,6,408,15,11,35
 2022-02-10,Perak,Bagan Datuk,0,0,11,0,0,0,0,0,0
@@ -55517,7 +55517,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,Perak,Hulu Perak,0,0,168,0,0,141,3,1,28
 2022-02-10,Perak,Kampar,0,0,476,0,0,487,3,1,27
 2022-02-10,Perak,Kerian,0,0,930,0,0,789,8,7,55
-2022-02-10,Perak,Kinta,1,14,3751,2,2,3499,140,37,158
+2022-02-10,Perak,Kinta,1,14,3752,2,2,3500,140,37,159
 2022-02-10,Perak,Kuala Kangsar,0,1,552,0,0,601,8,4,45
 2022-02-10,Perak,Larut Dan Matang,0,0,819,0,1,849,26,14,51
 2022-02-10,Perak,Manjung,0,0,917,0,3,858,86,31,113
@@ -55534,7 +55534,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,Sabah,Keningau,0,2,126,0,0,115,49,5,18
 2022-02-10,Sabah,Kinabatangan,0,0,43,0,0,33,0,0,24
 2022-02-10,Sabah,Kota Belud,0,0,48,0,0,27,0,0,10
-2022-02-10,Sabah,Kota Kinabalu,12,1,1775,7,3,1882,221,13,118
+2022-02-10,Sabah,Kota Kinabalu,12,1,1775,7,3,1881,221,13,118
 2022-02-10,Sabah,Kota Marudu,7,0,27,7,0,50,13,3,9
 2022-02-10,Sabah,Kuala Penyu,0,0,18,0,0,17,0,0,4
 2022-02-10,Sabah,Kudat,0,0,101,0,0,91,19,2,42
@@ -55546,7 +55546,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,Sabah,Pitas,0,0,74,0,0,61,22,2,76
 2022-02-10,Sabah,Putatan,0,0,81,0,0,74,39,1,6
 2022-02-10,Sabah,Ranau,0,1,68,0,0,47,11,2,14
-2022-02-10,Sabah,Sandakan,30,0,596,27,0,565,34,10,84
+2022-02-10,Sabah,Sandakan,30,0,604,27,0,572,34,10,84
 2022-02-10,Sabah,Semporna,20,20,54,22,22,67,2,2,35
 2022-02-10,Sabah,Sipitang,0,0,35,0,0,41,11,0,3
 2022-02-10,Sabah,Tambunan,6,0,41,2,0,44,8,0,14
@@ -55586,7 +55586,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,Sarawak,Sebauh,0,0,2,0,0,1,239,0,3
 2022-02-10,Sarawak,Selangau,0,0,0,0,0,0,0,0,0
 2022-02-10,Sarawak,Serian,156,0,15,159,0,14,925,0,18
-2022-02-10,Sarawak,Sibu,0,0,156,0,0,169,489,4,77
+2022-02-10,Sarawak,Sibu,0,0,156,0,0,169,599,4,77
 2022-02-10,Sarawak,Simunjan,0,0,0,0,0,0,140,0,0
 2022-02-10,Sarawak,Song,0,0,7,0,0,5,2,2,6
 2022-02-10,Sarawak,Sri Aman,0,0,27,0,0,16,190,2,6
@@ -55616,7 +55616,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-10,W.P. Labuan,Labuan,13,0,178,12,1,142,60,1,36
 2022-02-10,W.P. Putrajaya,Putrajaya,0,10,201,0,6,274,0,2,5
 2022-02-11,Johor,Batu Pahat,0,0,1221,0,0,1195,18,6,49
-2022-02-11,Johor,Johor Bahru,48,10,6466,44,13,5764,331,166,725
+2022-02-11,Johor,Johor Bahru,48,10,6467,44,13,5765,331,166,725
 2022-02-11,Johor,Kluang,0,0,908,0,0,824,2,0,38
 2022-02-11,Johor,Kota Tinggi,0,0,725,0,0,501,1,2,47
 2022-02-11,Johor,Kulai,0,0,1609,0,0,1246,6,3,95
@@ -55668,7 +55668,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-11,Pahang,Pekan,0,2,137,0,1,88,8,2,31
 2022-02-11,Pahang,Raub,0,0,213,1,0,124,13,5,167
 2022-02-11,Pahang,Rompin,0,0,944,0,0,203,31,7,174
-2022-02-11,Pahang,Temerloh,0,1,328,0,2,352,3,13,20
+2022-02-11,Pahang,Temerloh,0,1,329,0,2,354,3,13,20
 2022-02-11,Perak,Bagan Datuk,0,0,0,0,0,0,0,1,0
 2022-02-11,Perak,Batang Padang,0,0,296,0,0,336,133,3,39
 2022-02-11,Perak,Hilir Perak,0,0,361,0,0,350,63,7,25
@@ -55681,7 +55681,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-11,Perak,Manjung,0,2,999,0,0,820,61,9,82
 2022-02-11,Perak,Muallim,0,0,163,0,0,167,7,1,13
 2022-02-11,Perak,Perak Tengah,0,0,268,0,0,250,48,5,14
-2022-02-11,Perlis,Perlis,0,3,415,0,5,518,399,7,22
+2022-02-11,Perlis,Perlis,0,3,415,0,5,519,399,7,22
 2022-02-11,Pulau Pinang,Barat Daya,0,1,1433,0,0,1393,8,14,44
 2022-02-11,Pulau Pinang,Seberang Perai Selatan,0,0,473,0,0,447,19,13,42
 2022-02-11,Pulau Pinang,Seberang Perai Tengah,3,3,1584,2,3,1139,122,17,115
@@ -55695,16 +55695,16 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-11,Sabah,Kota Kinabalu,2,1,1821,3,4,1973,229,14,150
 2022-02-11,Sabah,Kota Marudu,0,0,38,1,0,60,30,0,11
 2022-02-11,Sabah,Kuala Penyu,0,0,65,0,0,89,2,0,14
-2022-02-11,Sabah,Kudat,3,0,65,1,0,82,57,2,52
+2022-02-11,Sabah,Kudat,6,0,80,8,0,100,57,2,54
 2022-02-11,Sabah,Kunak,0,0,39,0,0,22,2,1,16
 2022-02-11,Sabah,Lahad Datu,0,1,226,0,0,164,70,2,118
 2022-02-11,Sabah,Nabawan,0,0,2,0,0,2,0,0,0
 2022-02-11,Sabah,Papar,1,4,196,1,0,245,63,1,23
-2022-02-11,Sabah,Penampang,0,0,55,0,0,59,59,1,8
+2022-02-11,Sabah,Penampang,0,0,138,0,0,107,59,1,23
 2022-02-11,Sabah,Pitas,0,0,21,0,0,23,5,2,72
 2022-02-11,Sabah,Putatan,1,0,31,0,0,63,58,0,3
 2022-02-11,Sabah,Ranau,0,0,87,0,0,79,44,2,15
-2022-02-11,Sabah,Sandakan,0,0,472,0,1,505,176,11,70
+2022-02-11,Sabah,Sandakan,0,0,492,0,1,522,176,11,71
 2022-02-11,Sabah,Semporna,33,33,35,3,3,42,23,0,27
 2022-02-11,Sabah,Sipitang,0,0,36,0,1,33,22,3,10
 2022-02-11,Sabah,Tambunan,0,0,24,0,0,31,21,1,11
@@ -55754,7 +55754,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-11,Sarawak,Tebedu,0,0,6,0,0,6,0,0,6
 2022-02-11,Sarawak,Telang Usan,0,0,1,0,0,0,0,1,1
 2022-02-11,Selangor,Gombak,12,17,2085,2,9,1894,60,17,86
-2022-02-11,Selangor,Hulu Langat,1,10,4776,0,4,3797,97,83,164
+2022-02-11,Selangor,Hulu Langat,1,11,4776,0,4,3797,97,83,164
 2022-02-11,Selangor,Hulu Selangor,0,5,1085,0,1,910,20,4,67
 2022-02-11,Selangor,Klang,12,0,3481,8,4,2857,385,105,192
 2022-02-11,Selangor,Kuala Langat,9,0,703,13,1,734,28,13,61
@@ -55770,11 +55770,11 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-11,Terengganu,Kuala Terengganu,0,0,153,0,1,179,281,2,9
 2022-02-11,Terengganu,Marang,0,0,30,0,0,22,0,0,0
 2022-02-11,Terengganu,Setiu,0,0,0,0,0,0,0,0,0
-2022-02-11,W.P. Kuala Lumpur,Kuala Lumpur,67,9,5106,71,11,5009,3083,131,480
+2022-02-11,W.P. Kuala Lumpur,Kuala Lumpur,67,9,5106,71,11,5009,3083,131,481
 2022-02-11,W.P. Labuan,Labuan,12,0,173,10,0,155,124,2,38
 2022-02-11,W.P. Putrajaya,Putrajaya,104,2,229,81,1,313,11,0,12
 2022-02-12,Johor,Batu Pahat,0,0,1301,0,0,1341,18,7,49
-2022-02-12,Johor,Johor Bahru,1,22,6155,4,14,5350,128,41,334
+2022-02-12,Johor,Johor Bahru,1,22,6155,4,14,5349,128,41,334
 2022-02-12,Johor,Kluang,0,1,1060,0,0,1037,4,0,45
 2022-02-12,Johor,Kota Tinggi,0,0,664,0,0,376,5,0,37
 2022-02-12,Johor,Kulai,0,0,1497,0,0,1287,2,3,105
@@ -55782,7 +55782,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-12,Johor,Muar,0,0,1024,0,0,455,8,4,54
 2022-02-12,Johor,Pontian,0,0,331,0,1,249,8,1,19
 2022-02-12,Johor,Segamat,4,1,897,3,0,841,14,1,59
-2022-02-12,Johor,Tangkak,0,1,1026,0,0,929,10,18,68
+2022-02-12,Johor,Tangkak,0,1,1032,0,0,932,10,18,69
 2022-02-12,Kedah,Baling,0,0,132,0,0,150,16,4,15
 2022-02-12,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
 2022-02-12,Kedah,Kota Setar,0,4,203,0,0,285,120,5,13
@@ -55813,7 +55813,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-12,Negeri Sembilan,Jempol,0,0,492,0,0,413,55,12,31
 2022-02-12,Negeri Sembilan,Kuala Pilah,0,0,4,0,0,13,0,0,0
 2022-02-12,Negeri Sembilan,Port Dickson,0,0,207,0,0,255,1,2,11
-2022-02-12,Negeri Sembilan,Rembau,0,0,44,0,0,37,0,2,5
+2022-02-12,Negeri Sembilan,Rembau,0,0,45,0,0,37,0,2,5
 2022-02-12,Negeri Sembilan,Seremban,0,0,1055,0,0,721,525,7,68
 2022-02-12,Negeri Sembilan,Tampin,0,0,0,0,0,0,0,0,0
 2022-02-12,Pahang,Bentong,0,0,100,0,0,133,2,3,23
@@ -55846,8 +55846,8 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-12,Pulau Pinang,Seberang Perai Utara,0,0,1250,0,0,1180,11,8,24
 2022-02-12,Pulau Pinang,Timur Laut,0,0,789,0,0,779,271,9,28
 2022-02-12,Sabah,Beaufort,0,0,150,0,0,132,43,2,61
-2022-02-12,Sabah,Beluran,0,0,136,0,0,71,35,38,656
-2022-02-12,Sabah,Keningau,0,1,168,0,0,218,152,1,71
+2022-02-12,Sabah,Beluran,0,0,136,0,0,71,36,39,673
+2022-02-12,Sabah,Keningau,0,1,170,0,0,219,152,1,71
 2022-02-12,Sabah,Kinabatangan,0,0,29,0,0,25,2,0,13
 2022-02-12,Sabah,Kota Belud,0,0,27,0,0,31,2,0,16
 2022-02-12,Sabah,Kota Kinabalu,242,0,1559,259,0,1590,223,5,128
@@ -55855,7 +55855,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-12,Sabah,Kuala Penyu,0,0,45,0,0,41,128,0,10
 2022-02-12,Sabah,Kudat,1,0,86,0,0,92,106,5,27
 2022-02-12,Sabah,Kunak,0,0,31,0,0,35,14,2,23
-2022-02-12,Sabah,Lahad Datu,0,0,367,0,0,341,50,25,464
+2022-02-12,Sabah,Lahad Datu,0,0,368,0,0,341,51,25,464
 2022-02-12,Sabah,Nabawan,0,0,2,0,0,0,0,0,0
 2022-02-12,Sabah,Papar,0,1,84,0,0,90,53,0,11
 2022-02-12,Sabah,Penampang,0,0,116,0,0,120,43,2,26
@@ -55912,7 +55912,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-12,Sarawak,Tebedu,0,0,0,0,0,0,0,0,0
 2022-02-12,Sarawak,Telang Usan,1,0,0,0,0,0,89,0,3
 2022-02-12,Selangor,Gombak,0,0,1070,0,0,1003,956,18,60
-2022-02-12,Selangor,Hulu Langat,0,4,2712,0,3,2266,371,24,93
+2022-02-12,Selangor,Hulu Langat,0,4,2720,0,3,2266,371,24,93
 2022-02-12,Selangor,Hulu Selangor,0,0,1016,0,0,795,252,1,61
 2022-02-12,Selangor,Klang,0,1,1859,0,0,1689,3650,21,155
 2022-02-12,Selangor,Kuala Langat,0,1,391,0,0,351,1588,2,23
@@ -55928,7 +55928,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-12,Terengganu,Kuala Terengganu,0,0,210,0,0,183,323,2,19
 2022-02-12,Terengganu,Marang,0,0,89,0,0,75,0,0,10
 2022-02-12,Terengganu,Setiu,40,0,26,31,0,29,0,0,8
-2022-02-12,W.P. Kuala Lumpur,Kuala Lumpur,0,1,3657,0,7,3481,2198,55,280
+2022-02-12,W.P. Kuala Lumpur,Kuala Lumpur,0,1,3658,0,7,3482,2198,55,280
 2022-02-12,W.P. Labuan,Labuan,43,0,89,29,0,92,81,2,17
 2022-02-12,W.P. Putrajaya,Putrajaya,0,0,188,0,0,170,0,1,12
 2022-02-13,Johor,Batu Pahat,183,0,1280,150,0,1152,140,3,52
@@ -55940,7 +55940,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-13,Johor,Muar,458,0,676,450,0,618,91,5,22
 2022-02-13,Johor,Pontian,56,0,578,56,0,405,83,8,23
 2022-02-13,Johor,Segamat,0,0,166,0,0,171,99,1,9
-2022-02-13,Johor,Tangkak,0,0,611,0,0,463,2152,0,34
+2022-02-13,Johor,Tangkak,0,0,611,0,0,463,2154,0,34
 2022-02-13,Kedah,Baling,0,4,128,0,0,172,34,5,5
 2022-02-13,Kedah,Bandar Baharu,0,0,116,0,0,122,194,3,11
 2022-02-13,Kedah,Kota Setar,15,1,270,12,0,277,90,13,15
@@ -55991,7 +55991,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-13,Perak,Hulu Perak,0,0,6,0,0,0,0,0,0
 2022-02-13,Perak,Kampar,0,0,166,0,0,164,4,1,10
 2022-02-13,Perak,Kerian,0,0,273,0,0,297,0,0,15
-2022-02-13,Perak,Kinta,0,0,2001,0,0,1785,20,1,87
+2022-02-13,Perak,Kinta,0,0,2002,0,0,1785,20,1,87
 2022-02-13,Perak,Kuala Kangsar,0,0,329,0,0,261,4,0,11
 2022-02-13,Perak,Larut Dan Matang,0,0,455,0,0,498,242,0,16
 2022-02-13,Perak,Manjung,0,0,352,0,0,365,565,0,19
@@ -56008,7 +56008,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-13,Sabah,Keningau,1,0,124,0,0,122,69,0,98
 2022-02-13,Sabah,Kinabatangan,0,0,10,0,0,11,0,0,11
 2022-02-13,Sabah,Kota Belud,0,0,26,0,0,9,0,0,2
-2022-02-13,Sabah,Kota Kinabalu,8,1,1239,2,0,1308,693,6,105
+2022-02-13,Sabah,Kota Kinabalu,8,1,1239,2,0,1309,693,6,105
 2022-02-13,Sabah,Kota Marudu,0,0,20,0,0,31,40,0,10
 2022-02-13,Sabah,Kuala Penyu,0,0,0,0,0,0,0,0,0
 2022-02-13,Sabah,Kudat,0,0,119,0,0,91,21,0,61
@@ -56016,7 +56016,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-13,Sabah,Lahad Datu,0,0,254,0,0,256,1,0,1190
 2022-02-13,Sabah,Nabawan,0,0,1,0,0,1,0,0,0
 2022-02-13,Sabah,Papar,0,0,59,0,0,72,57,2,6
-2022-02-13,Sabah,Penampang,18,0,27,11,0,21,58,0,2
+2022-02-13,Sabah,Penampang,18,0,87,11,0,78,58,0,12
 2022-02-13,Sabah,Pitas,0,0,0,0,0,0,29,0,0
 2022-02-13,Sabah,Putatan,0,0,14,1,0,19,59,0,1
 2022-02-13,Sabah,Ranau,0,0,7,0,0,5,0,0,1
@@ -56069,7 +56069,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-13,Sarawak,Tatau,0,0,2,0,0,0,0,0,10
 2022-02-13,Sarawak,Tebedu,0,0,0,0,0,0,0,0,0
 2022-02-13,Sarawak,Telang Usan,0,0,0,0,0,0,0,0,0
-2022-02-13,Selangor,Gombak,0,2,812,0,0,771,971,24,38
+2022-02-13,Selangor,Gombak,0,2,812,0,0,771,975,24,38
 2022-02-13,Selangor,Hulu Langat,0,2,2359,0,1,2009,194,21,84
 2022-02-13,Selangor,Hulu Selangor,0,0,907,0,0,729,253,19,83
 2022-02-13,Selangor,Klang,0,1,1536,0,1,1404,2536,9,126
@@ -56086,7 +56086,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-13,Terengganu,Kuala Terengganu,0,1,193,0,1,144,238,8,16
 2022-02-13,Terengganu,Marang,0,0,56,0,1,52,2,7,4
 2022-02-13,Terengganu,Setiu,0,0,15,0,1,7,0,0,1
-2022-02-13,W.P. Kuala Lumpur,Kuala Lumpur,2,9,3213,2,2,2603,1980,63,252
+2022-02-13,W.P. Kuala Lumpur,Kuala Lumpur,2,9,3215,2,2,2605,1980,63,253
 2022-02-13,W.P. Labuan,Labuan,4,0,38,0,0,15,16,0,8
 2022-02-13,W.P. Putrajaya,Putrajaya,0,0,119,0,0,137,3,1,6
 2022-02-14,Johor,Batu Pahat,193,2,1214,174,0,1152,313,7,79
@@ -56098,7 +56098,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Johor,Muar,543,0,771,482,0,643,101,15,37
 2022-02-14,Johor,Pontian,77,1,454,105,0,403,49,11,29
 2022-02-14,Johor,Segamat,1,1,817,0,1,775,32,7,61
-2022-02-14,Johor,Tangkak,0,0,695,0,0,601,1095,1,55
+2022-02-14,Johor,Tangkak,0,0,695,0,0,601,1096,1,55
 2022-02-14,Kedah,Baling,0,0,106,0,0,120,437,9,15
 2022-02-14,Kedah,Bandar Baharu,0,0,54,0,0,45,124,0,5
 2022-02-14,Kedah,Kota Setar,16,0,198,10,0,216,655,134,17
@@ -56115,7 +56115,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Kelantan,Gua Musang,0,0,57,0,0,41,4,3,28
 2022-02-14,Kelantan,Jeli,0,0,37,0,1,39,43,1,2
 2022-02-14,Kelantan,Kecil Lojing,0,1,2,0,0,1,335,1,0
-2022-02-14,Kelantan,Kota Bharu,20,1,257,22,0,245,1371,12,28
+2022-02-14,Kelantan,Kota Bharu,20,1,257,22,0,245,1387,12,28
 2022-02-14,Kelantan,Kuala Krai,0,0,45,0,0,39,91,0,59
 2022-02-14,Kelantan,Machang,0,0,34,0,0,38,87,1,5
 2022-02-14,Kelantan,Pasir Mas,0,0,68,0,0,107,328,4,16
@@ -56130,7 +56130,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Negeri Sembilan,Kuala Pilah,1,0,60,1,0,72,183,3,24
 2022-02-14,Negeri Sembilan,Port Dickson,0,1,334,0,0,265,160,5,15
 2022-02-14,Negeri Sembilan,Rembau,0,0,133,0,0,149,71,0,8
-2022-02-14,Negeri Sembilan,Seremban,0,5,1382,1,1,1478,735,37,98
+2022-02-14,Negeri Sembilan,Seremban,0,5,1383,1,1,1478,735,37,98
 2022-02-14,Negeri Sembilan,Tampin,0,0,259,1,0,224,234,4,20
 2022-02-14,Pahang,Bentong,0,0,97,0,0,65,264,0,17
 2022-02-14,Pahang,Bera,0,0,62,0,0,66,152,2,17
@@ -56140,7 +56140,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Pahang,Lipis,0,0,58,0,0,44,25,2,6
 2022-02-14,Pahang,Maran,0,0,25,0,0,19,0,1,7
 2022-02-14,Pahang,Pekan,0,0,120,1,0,116,59,3,22
-2022-02-14,Pahang,Raub,0,0,259,2,0,212,36,2,23
+2022-02-14,Pahang,Raub,0,1,275,2,0,219,36,2,23
 2022-02-14,Pahang,Rompin,0,0,35,0,0,8,270,1,1
 2022-02-14,Pahang,Temerloh,0,0,225,0,0,210,776,1,21
 2022-02-14,Perak,Bagan Datuk,0,0,0,0,0,0,0,0,0
@@ -56149,13 +56149,13 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Perak,Hulu Perak,0,0,146,0,0,131,220,4,24
 2022-02-14,Perak,Kampar,0,0,323,0,1,317,107,27,54
 2022-02-14,Perak,Kerian,0,0,482,0,0,552,259,10,42
-2022-02-14,Perak,Kinta,0,6,2430,0,4,2427,806,32,131
+2022-02-14,Perak,Kinta,0,6,2430,0,4,2427,806,32,134
 2022-02-14,Perak,Kuala Kangsar,28,0,632,39,0,603,51,21,72
 2022-02-14,Perak,Larut Dan Matang,0,0,1412,0,0,1403,146,12,65
 2022-02-14,Perak,Manjung,0,0,765,0,0,704,692,20,113
 2022-02-14,Perak,Muallim,0,0,152,0,0,148,460,0,8
 2022-02-14,Perak,Perak Tengah,0,1,261,0,1,271,354,1,12
-2022-02-14,Perlis,Perlis,0,0,362,0,0,423,364,11,13
+2022-02-14,Perlis,Perlis,0,0,387,0,0,448,364,11,14
 2022-02-14,Pulau Pinang,Barat Daya,0,0,562,0,0,544,680,3,12
 2022-02-14,Pulau Pinang,Seberang Perai Selatan,0,0,213,0,0,162,637,10,15
 2022-02-14,Pulau Pinang,Seberang Perai Tengah,0,2,688,0,0,450,1171,9,65
@@ -56166,7 +56166,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Sabah,Keningau,1,1,98,1,0,101,101,0,8
 2022-02-14,Sabah,Kinabatangan,0,0,29,0,0,43,99,0,76
 2022-02-14,Sabah,Kota Belud,0,0,50,0,0,51,1,0,8
-2022-02-14,Sabah,Kota Kinabalu,2,4,1179,2,1,1195,477,11,117
+2022-02-14,Sabah,Kota Kinabalu,2,4,1179,2,1,1197,477,11,117
 2022-02-14,Sabah,Kota Marudu,0,0,31,0,0,34,31,1,7
 2022-02-14,Sabah,Kuala Penyu,0,0,17,0,0,16,0,1,5
 2022-02-14,Sabah,Kudat,0,0,49,0,0,9,11,1,20
@@ -56174,7 +56174,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Sabah,Lahad Datu,0,0,237,0,1,168,83,9,328
 2022-02-14,Sabah,Nabawan,0,0,4,0,0,3,0,0,3
 2022-02-14,Sabah,Papar,7,3,132,4,3,98,52,4,13
-2022-02-14,Sabah,Penampang,0,0,56,0,0,56,45,1,4
+2022-02-14,Sabah,Penampang,0,0,56,0,0,55,45,1,4
 2022-02-14,Sabah,Pitas,0,0,20,0,0,22,99,1,12
 2022-02-14,Sabah,Putatan,0,0,39,0,0,25,20,2,5
 2022-02-14,Sabah,Ranau,0,0,42,0,0,41,11,3,24
@@ -56192,7 +56192,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Sarawak,Belaga,0,0,7,0,0,9,2,1,37
 2022-02-14,Sarawak,Beluru,0,0,6,0,0,7,0,1,15
 2022-02-14,Sarawak,Betong,0,0,0,0,0,0,79,0,0
-2022-02-14,Sarawak,Bintulu,0,5,157,0,2,68,67,19,157
+2022-02-14,Sarawak,Bintulu,0,5,158,0,2,68,67,19,157
 2022-02-14,Sarawak,Bukit Mabong,0,0,0,0,0,0,0,0,0
 2022-02-14,Sarawak,Dalat,0,0,0,0,0,0,60,0,0
 2022-02-14,Sarawak,Daro,0,0,0,0,0,0,80,0,0
@@ -56213,7 +56213,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Sarawak,Pakan,0,0,8,0,0,6,142,0,8
 2022-02-14,Sarawak,Pusa,0,0,0,0,0,0,0,0,0
 2022-02-14,Sarawak,Samarahan,1,0,11,2,0,14,474,0,1
-2022-02-14,Sarawak,Saratok,0,0,29,0,0,15,95,44,20
+2022-02-14,Sarawak,Saratok,0,0,29,0,0,15,96,44,20
 2022-02-14,Sarawak,Sarikei,0,1,53,0,0,47,4,0,27
 2022-02-14,Sarawak,Sebauh,0,0,2,0,0,0,210,0,3
 2022-02-14,Sarawak,Selangau,0,0,0,0,0,0,100,0,0
@@ -56244,14 +56244,14 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-14,Terengganu,Kuala Terengganu,0,0,248,0,0,202,210,10,14
 2022-02-14,Terengganu,Marang,0,0,46,0,0,45,4,2,1
 2022-02-14,Terengganu,Setiu,0,0,16,0,0,22,3,7,10
-2022-02-14,W.P. Kuala Lumpur,Kuala Lumpur,100,9,4211,88,9,3554,4408,103,459
+2022-02-14,W.P. Kuala Lumpur,Kuala Lumpur,100,9,4213,88,9,3557,4408,103,459
 2022-02-14,W.P. Labuan,Labuan,11,0,139,14,0,155,104,6,33
 2022-02-14,W.P. Putrajaya,Putrajaya,11,0,164,14,3,221,1,0,7
 2022-02-15,Johor,Batu Pahat,437,0,959,307,2,739,399,7,80
 2022-02-15,Johor,Johor Bahru,381,9,5452,267,7,4550,270,102,352
 2022-02-15,Johor,Kluang,232,0,977,223,0,1008,114,9,68
 2022-02-15,Johor,Kota Tinggi,0,1,431,0,0,421,0,1,22
-2022-02-15,Johor,Kulai,0,6,1086,0,10,891,21,4,52
+2022-02-15,Johor,Kulai,0,6,1089,0,10,892,21,4,52
 2022-02-15,Johor,Mersing,0,0,100,0,0,72,21,0,59
 2022-02-15,Johor,Muar,396,1,779,355,0,671,57,4,21
 2022-02-15,Johor,Pontian,0,0,364,0,0,290,11,2,22
@@ -56273,7 +56273,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Kelantan,Gua Musang,0,0,74,0,0,38,3,3,19
 2022-02-15,Kelantan,Jeli,0,0,31,0,1,29,77,2,7
 2022-02-15,Kelantan,Kecil Lojing,0,0,0,0,0,0,148,0,0
-2022-02-15,Kelantan,Kota Bharu,24,0,340,23,0,360,760,24,35
+2022-02-15,Kelantan,Kota Bharu,24,0,341,23,0,360,760,24,35
 2022-02-15,Kelantan,Kuala Krai,0,0,25,0,0,25,121,0,12
 2022-02-15,Kelantan,Machang,0,0,94,0,0,87,112,2,6
 2022-02-15,Kelantan,Pasir Mas,0,0,61,0,1,87,208,2,3
@@ -56282,7 +56282,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Kelantan,Tumpat,0,0,59,0,0,78,78,3,5
 2022-02-15,Melaka,Alor Gajah,114,0,327,128,2,317,278,11,23
 2022-02-15,Melaka,Jasin,0,0,149,0,0,187,130,17,8
-2022-02-15,Melaka,Melaka Tengah,0,0,934,0,1,847,1497,12,116
+2022-02-15,Melaka,Melaka Tengah,0,0,934,0,1,847,1497,12,117
 2022-02-15,Negeri Sembilan,Jelebu,0,0,117,0,0,113,92,0,10
 2022-02-15,Negeri Sembilan,Jempol,0,0,330,0,0,361,132,7,36
 2022-02-15,Negeri Sembilan,Kuala Pilah,0,0,93,0,0,92,263,2,14
@@ -56298,7 +56298,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Pahang,Lipis,0,0,61,0,0,37,249,1,8
 2022-02-15,Pahang,Maran,0,3,68,0,1,57,190,1,4
 2022-02-15,Pahang,Pekan,0,0,124,0,0,125,32,0,18
-2022-02-15,Pahang,Raub,0,0,264,0,0,227,1,3,20
+2022-02-15,Pahang,Raub,0,0,269,0,0,227,1,3,20
 2022-02-15,Pahang,Rompin,0,0,95,0,0,54,261,0,4
 2022-02-15,Pahang,Temerloh,0,0,176,0,0,158,856,4,17
 2022-02-15,Perak,Bagan Datuk,134,0,0,123,0,0,94,0,0
@@ -56307,13 +56307,13 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Perak,Hulu Perak,0,0,136,0,0,110,126,1,27
 2022-02-15,Perak,Kampar,0,0,283,0,1,202,138,24,25
 2022-02-15,Perak,Kerian,0,0,428,0,0,414,124,8,35
-2022-02-15,Perak,Kinta,0,3,2224,0,2,2102,1603,35,173
+2022-02-15,Perak,Kinta,0,3,2225,0,2,2103,1603,35,173
 2022-02-15,Perak,Kuala Kangsar,79,1,553,63,1,512,65,12,37
 2022-02-15,Perak,Larut Dan Matang,0,2,1286,0,0,1210,261,9,57
 2022-02-15,Perak,Manjung,0,0,726,0,0,658,1193,20,107
 2022-02-15,Perak,Muallim,0,0,137,0,0,97,62,4,14
 2022-02-15,Perak,Perak Tengah,0,1,242,0,0,255,608,3,23
-2022-02-15,Perlis,Perlis,0,0,296,1,0,379,412,9,21
+2022-02-15,Perlis,Perlis,0,0,319,1,0,399,412,9,21
 2022-02-15,Pulau Pinang,Barat Daya,0,0,704,0,0,741,680,7,19
 2022-02-15,Pulau Pinang,Seberang Perai Selatan,0,0,340,1,0,263,1140,11,36
 2022-02-15,Pulau Pinang,Seberang Perai Tengah,1,6,712,0,3,600,839,16,39
@@ -56344,7 +56344,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Sabah,Telupid,0,0,24,0,0,12,10,0,9
 2022-02-15,Sabah,Tenom,0,0,25,0,0,25,102,1,11
 2022-02-15,Sabah,Tongod,0,0,10,0,0,3,1,1,27
-2022-02-15,Sabah,Tuaran,0,2,137,0,1,155,43,7,25
+2022-02-15,Sabah,Tuaran,0,2,137,1,1,155,43,7,25
 2022-02-15,Sarawak,Asajaya,0,0,3,0,0,2,170,1,0
 2022-02-15,Sarawak,Bau,0,0,71,0,0,42,76,4,23
 2022-02-15,Sarawak,Belaga,0,0,0,0,0,0,0,0,0
@@ -56366,7 +56366,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Sarawak,Maradong,0,0,16,0,0,12,1,3,8
 2022-02-15,Sarawak,Marudi,0,0,0,0,0,0,133,4,3
 2022-02-15,Sarawak,Matu,0,0,0,0,0,0,0,0,0
-2022-02-15,Sarawak,Miri,0,0,393,0,0,258,473,10,130
+2022-02-15,Sarawak,Miri,0,0,393,0,0,258,473,10,131
 2022-02-15,Sarawak,Mukah,0,0,0,0,0,0,330,0,0
 2022-02-15,Sarawak,Pakan,0,0,4,0,0,3,1,0,4
 2022-02-15,Sarawak,Pusa,0,0,0,0,0,0,0,0,0
@@ -56391,7 +56391,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Selangor,Klang,10,15,3124,12,3,2508,325,80,213
 2022-02-15,Selangor,Kuala Langat,0,2,537,0,1,449,56,60,36
 2022-02-15,Selangor,Kuala Selangor,0,0,593,0,0,480,26,21,62
-2022-02-15,Selangor,Petaling,0,4,3882,0,4,3348,2831,130,373
+2022-02-15,Selangor,Petaling,0,4,3883,0,4,3348,2831,130,373
 2022-02-15,Selangor,Sabak Bernam,0,0,279,0,1,262,7,3,111
 2022-02-15,Selangor,Sepang,14,3,712,16,2,575,35,18,50
 2022-02-15,Terengganu,Besut,10,0,41,7,0,23,68,5,3
@@ -56402,10 +56402,10 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-15,Terengganu,Kuala Terengganu,0,0,189,0,0,144,150,4,15
 2022-02-15,Terengganu,Marang,0,0,51,0,0,56,3,2,1
 2022-02-15,Terengganu,Setiu,20,0,18,44,0,10,167,0,1
-2022-02-15,W.P. Kuala Lumpur,Kuala Lumpur,24,8,4607,32,5,3890,4643,97,488
+2022-02-15,W.P. Kuala Lumpur,Kuala Lumpur,24,9,4608,33,5,3890,4643,97,488
 2022-02-15,W.P. Labuan,Labuan,3,0,245,2,0,141,160,2,33
 2022-02-15,W.P. Putrajaya,Putrajaya,135,7,222,136,6,222,28,3,17
-2022-02-16,Johor,Batu Pahat,319,0,1261,614,2,917,450,8,90
+2022-02-16,Johor,Batu Pahat,319,0,1263,614,2,918,451,8,90
 2022-02-16,Johor,Johor Bahru,156,6,5368,135,4,4797,359,88,342
 2022-02-16,Johor,Kluang,214,0,1009,168,1,1009,174,125,72
 2022-02-16,Johor,Kota Tinggi,0,0,482,0,0,442,84,8,33
@@ -56425,7 +56425,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Kedah,Padang Terap,83,0,15,104,0,28,87,5,2
 2022-02-16,Kedah,Pendang,1,0,33,4,0,33,55,0,6
 2022-02-16,Kedah,Pokok Sena,0,0,25,0,0,15,0,0,2
-2022-02-16,Kedah,Sik,0,0,26,0,0,21,78,1,5
+2022-02-16,Kedah,Sik,0,1,26,0,0,21,78,1,5
 2022-02-16,Kedah,Yan,9,1,107,5,0,132,6,2,10
 2022-02-16,Kelantan,Bachok,1,1,46,0,0,53,56,8,4
 2022-02-16,Kelantan,Gua Musang,0,1,91,0,0,55,0,0,12
@@ -56440,7 +56440,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Kelantan,Tumpat,0,1,84,0,2,108,84,4,9
 2022-02-16,Melaka,Alor Gajah,1,1,297,3,0,291,351,6,25
 2022-02-16,Melaka,Jasin,0,0,222,0,0,224,421,7,20
-2022-02-16,Melaka,Melaka Tengah,1,1,959,0,0,892,1741,8,110
+2022-02-16,Melaka,Melaka Tengah,1,1,959,0,0,892,1741,9,110
 2022-02-16,Negeri Sembilan,Jelebu,0,0,60,0,0,55,131,0,4
 2022-02-16,Negeri Sembilan,Jempol,47,0,402,36,0,385,363,3,29
 2022-02-16,Negeri Sembilan,Kuala Pilah,0,0,66,0,0,58,102,5,18
@@ -56456,22 +56456,22 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Pahang,Lipis,0,0,154,0,0,45,335,5,9
 2022-02-16,Pahang,Maran,1,0,71,0,0,69,494,4,9
 2022-02-16,Pahang,Pekan,0,0,208,0,0,209,211,1,41
-2022-02-16,Pahang,Raub,0,0,163,0,0,149,53,2,22
+2022-02-16,Pahang,Raub,0,0,166,0,0,153,53,3,22
 2022-02-16,Pahang,Rompin,0,0,118,0,0,77,171,3,16
 2022-02-16,Pahang,Temerloh,0,0,181,0,0,167,539,5,10
 2022-02-16,Perak,Bagan Datuk,421,0,0,439,0,0,130,0,0
-2022-02-16,Perak,Batang Padang,0,0,153,0,0,163,609,7,35
-2022-02-16,Perak,Hilir Perak,174,1,573,136,0,448,223,7,178
+2022-02-16,Perak,Batang Padang,0,0,153,0,0,163,610,7,35
+2022-02-16,Perak,Hilir Perak,174,1,577,136,0,453,223,7,178
 2022-02-16,Perak,Hulu Perak,0,0,211,0,1,179,154,7,62
 2022-02-16,Perak,Kampar,0,0,259,0,0,256,93,29,37
 2022-02-16,Perak,Kerian,0,0,506,0,0,494,1133,2,34
-2022-02-16,Perak,Kinta,0,1,2330,0,2,2347,2195,27,171
+2022-02-16,Perak,Kinta,0,1,2332,0,2,2348,2195,27,172
 2022-02-16,Perak,Kuala Kangsar,72,0,514,88,0,505,136,4,32
 2022-02-16,Perak,Larut Dan Matang,0,0,1242,0,0,1248,192,3,59
 2022-02-16,Perak,Manjung,0,1,675,0,0,580,1191,20,122
 2022-02-16,Perak,Muallim,0,0,178,0,0,150,95,4,10
 2022-02-16,Perak,Perak Tengah,0,0,288,0,0,289,258,6,19
-2022-02-16,Perlis,Perlis,1,0,277,1,0,326,355,4,29
+2022-02-16,Perlis,Perlis,1,0,290,1,0,353,355,4,29
 2022-02-16,Pulau Pinang,Barat Daya,0,0,647,0,0,727,851,8,27
 2022-02-16,Pulau Pinang,Seberang Perai Selatan,0,1,288,0,0,244,620,6,28
 2022-02-16,Pulau Pinang,Seberang Perai Tengah,1,1,615,4,0,588,693,13,45
@@ -56494,7 +56494,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Sabah,Pitas,0,0,26,0,0,24,31,1,29
 2022-02-16,Sabah,Putatan,15,0,48,8,0,57,24,0,5
 2022-02-16,Sabah,Ranau,0,0,41,0,0,39,1,1,13
-2022-02-16,Sabah,Sandakan,0,0,449,0,0,471,53,4,58
+2022-02-16,Sabah,Sandakan,0,0,449,0,0,473,53,4,58
 2022-02-16,Sabah,Semporna,23,23,30,6,5,32,24,5,21
 2022-02-16,Sabah,Sipitang,0,0,42,0,0,29,42,0,12
 2022-02-16,Sabah,Tambunan,0,0,10,0,0,11,63,1,1
@@ -56524,7 +56524,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Sarawak,Maradong,0,0,14,0,0,15,2,1,4
 2022-02-16,Sarawak,Marudi,0,0,0,0,0,0,110,0,0
 2022-02-16,Sarawak,Matu,0,0,0,0,0,0,40,0,0
-2022-02-16,Sarawak,Miri,0,1,299,0,0,259,398,5,95
+2022-02-16,Sarawak,Miri,0,2,299,0,0,260,398,5,95
 2022-02-16,Sarawak,Mukah,0,0,23,0,0,21,5,1,6
 2022-02-16,Sarawak,Pakan,0,0,3,0,0,5,210,0,4
 2022-02-16,Sarawak,Pusa,0,0,0,0,0,0,0,0,0
@@ -56544,14 +56544,14 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Sarawak,Tebedu,146,0,0,154,0,0,11,0,0
 2022-02-16,Sarawak,Telang Usan,0,0,17,0,0,4,20,1,34
 2022-02-16,Selangor,Gombak,5,3,1446,7,3,1383,42,36,54
-2022-02-16,Selangor,Hulu Langat,11,3,3231,14,3,2970,189,61,194
+2022-02-16,Selangor,Hulu Langat,11,4,3232,14,3,2971,189,61,194
 2022-02-16,Selangor,Hulu Selangor,0,1,1139,0,0,1032,24,12,79
-2022-02-16,Selangor,Klang,11,8,3233,7,3,2606,298,45,194
+2022-02-16,Selangor,Klang,11,9,3233,7,4,2607,298,45,194
 2022-02-16,Selangor,Kuala Langat,0,0,555,0,0,470,14,13,44
 2022-02-16,Selangor,Kuala Selangor,0,0,484,0,0,420,51,42,58
-2022-02-16,Selangor,Petaling,0,9,4456,0,8,4050,935,119,352
+2022-02-16,Selangor,Petaling,0,10,4457,0,8,4050,935,119,353
 2022-02-16,Selangor,Sabak Bernam,0,1,289,1,0,235,26,10,55
-2022-02-16,Selangor,Sepang,7,0,849,2,0,587,72,12,64
+2022-02-16,Selangor,Sepang,7,0,850,2,0,589,72,12,64
 2022-02-16,Terengganu,Besut,3,0,35,0,0,55,48,4,7
 2022-02-16,Terengganu,Dungun,1,0,42,0,0,20,261,1,7
 2022-02-16,Terengganu,Hulu Terengganu,1,0,42,0,0,38,98,0,4
@@ -56560,36 +56560,36 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-16,Terengganu,Kuala Terengganu,0,0,245,0,0,201,205,7,9
 2022-02-16,Terengganu,Marang,140,0,63,182,0,68,144,2,3
 2022-02-16,Terengganu,Setiu,55,0,17,114,0,29,5,0,1
-2022-02-16,W.P. Kuala Lumpur,Kuala Lumpur,19,5,5330,22,14,4658,4429,229,462
-2022-02-16,W.P. Labuan,Labuan,0,0,150,0,0,107,82,2,17
+2022-02-16,W.P. Kuala Lumpur,Kuala Lumpur,19,5,5331,22,14,4658,4429,229,462
+2022-02-16,W.P. Labuan,Labuan,0,0,150,0,0,108,82,2,17
 2022-02-16,W.P. Putrajaya,Putrajaya,175,4,153,153,2,192,18,1,10
-2022-02-17,Johor,Batu Pahat,471,8,1344,327,5,1255,553,48,77
-2022-02-17,Johor,Johor Bahru,909,8,5277,770,4,5044,489,106,237
+2022-02-17,Johor,Batu Pahat,471,11,1344,327,5,1255,559,57,77
+2022-02-17,Johor,Johor Bahru,909,8,5278,770,5,5044,489,106,237
 2022-02-17,Johor,Kluang,285,0,960,326,0,880,217,5,73
 2022-02-17,Johor,Kota Tinggi,3,0,890,5,0,804,174,14,38
-2022-02-17,Johor,Kulai,7,9,1258,1,12,929,467,5,68
+2022-02-17,Johor,Kulai,7,9,1259,1,12,929,467,5,68
 2022-02-17,Johor,Mersing,56,0,143,58,0,138,781,0,6
 2022-02-17,Johor,Muar,378,1,650,337,1,479,217,16,38
 2022-02-17,Johor,Pontian,294,0,295,323,0,254,83,2,30
-2022-02-17,Johor,Segamat,0,0,1293,0,0,1198,59,6,87
-2022-02-17,Johor,Tangkak,0,0,663,0,0,571,902,17,43
+2022-02-17,Johor,Segamat,0,0,1302,0,0,1212,59,6,87
+2022-02-17,Johor,Tangkak,0,0,665,0,0,571,902,17,43
 2022-02-17,Kedah,Baling,0,0,75,0,0,108,139,0,9
 2022-02-17,Kedah,Bandar Baharu,0,0,50,0,0,37,106,3,4
-2022-02-17,Kedah,Kota Setar,2,2,413,0,0,486,568,21,30
-2022-02-17,Kedah,Kuala Muda,0,4,407,0,0,466,796,16,22
+2022-02-17,Kedah,Kota Setar,2,2,416,1,1,487,568,22,31
+2022-02-17,Kedah,Kuala Muda,0,4,408,0,0,466,796,16,22
 2022-02-17,Kedah,Kubang Pasu,1,1,158,1,0,177,246,1,10
-2022-02-17,Kedah,Kulim,1,1,352,2,0,386,346,8,28
+2022-02-17,Kedah,Kulim,1,1,354,2,0,386,346,8,28
 2022-02-17,Kedah,Langkawi,0,0,50,0,0,54,241,2,8
 2022-02-17,Kedah,Padang Terap,37,0,13,51,0,17,42,7,12
 2022-02-17,Kedah,Pendang,0,0,35,0,0,54,81,2,4
 2022-02-17,Kedah,Pokok Sena,0,0,12,0,0,16,0,0,2
-2022-02-17,Kedah,Sik,36,0,36,36,0,54,31,4,6
+2022-02-17,Kedah,Sik,36,1,36,36,0,54,32,4,6
 2022-02-17,Kedah,Yan,12,0,118,6,0,156,13,3,6
 2022-02-17,Kelantan,Bachok,0,0,70,1,1,83,130,1,6
 2022-02-17,Kelantan,Gua Musang,0,0,83,0,1,64,1,1,8
 2022-02-17,Kelantan,Jeli,0,0,41,0,1,28,54,2,7
 2022-02-17,Kelantan,Kecil Lojing,0,0,0,0,0,0,221,1,1
-2022-02-17,Kelantan,Kota Bharu,33,2,353,19,0,412,790,11,28
+2022-02-17,Kelantan,Kota Bharu,33,2,357,19,0,413,790,11,28
 2022-02-17,Kelantan,Kuala Krai,0,0,14,0,0,19,161,2,2
 2022-02-17,Kelantan,Machang,3,0,46,0,0,47,201,1,8
 2022-02-17,Kelantan,Pasir Mas,0,0,109,0,0,178,92,9,13
@@ -56598,13 +56598,13 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-17,Kelantan,Tumpat,0,0,90,0,0,130,94,4,12
 2022-02-17,Melaka,Alor Gajah,3,0,253,6,2,211,477,11,31
 2022-02-17,Melaka,Jasin,0,0,242,0,0,155,377,4,22
-2022-02-17,Melaka,Melaka Tengah,0,0,906,0,0,719,1291,13,64
+2022-02-17,Melaka,Melaka Tengah,0,0,907,0,0,719,1291,13,64
 2022-02-17,Negeri Sembilan,Jelebu,0,0,116,0,0,43,270,0,26
 2022-02-17,Negeri Sembilan,Jempol,28,0,273,37,0,278,318,4,36
 2022-02-17,Negeri Sembilan,Kuala Pilah,6,0,64,6,0,61,116,1,15
 2022-02-17,Negeri Sembilan,Port Dickson,0,0,229,0,0,174,128,2,22
 2022-02-17,Negeri Sembilan,Rembau,0,0,79,0,0,102,90,0,16
-2022-02-17,Negeri Sembilan,Seremban,231,5,1543,245,5,1474,357,36,60
+2022-02-17,Negeri Sembilan,Seremban,231,5,1544,245,5,1474,357,36,60
 2022-02-17,Negeri Sembilan,Tampin,0,0,507,3,0,579,250,5,23
 2022-02-17,Pahang,Bentong,0,0,99,0,0,64,266,2,9
 2022-02-17,Pahang,Bera,0,1,30,0,0,34,542,0,1
@@ -56619,40 +56619,40 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-17,Pahang,Temerloh,0,0,231,0,0,204,597,7,14
 2022-02-17,Perak,Bagan Datuk,0,0,0,0,0,0,0,0,0
 2022-02-17,Perak,Batang Padang,0,0,214,0,0,214,596,3,40
-2022-02-17,Perak,Hilir Perak,131,0,459,140,0,456,272,1,34
+2022-02-17,Perak,Hilir Perak,131,0,461,140,0,456,272,1,34
 2022-02-17,Perak,Hulu Perak,0,0,142,0,0,132,173,4,25
 2022-02-17,Perak,Kampar,0,0,207,0,0,187,700,24,26
 2022-02-17,Perak,Kerian,0,1,518,0,0,499,350,4,18
-2022-02-17,Perak,Kinta,1,4,2098,0,1,2204,2492,24,147
+2022-02-17,Perak,Kinta,1,4,2112,0,1,2226,2492,24,148
 2022-02-17,Perak,Kuala Kangsar,0,0,565,0,0,559,219,11,21
 2022-02-17,Perak,Larut Dan Matang,15,0,1407,15,0,1333,140,14,80
 2022-02-17,Perak,Manjung,0,1,782,0,2,659,579,10,126
 2022-02-17,Perak,Muallim,0,0,148,0,0,135,237,4,9
 2022-02-17,Perak,Perak Tengah,0,1,251,0,0,293,228,3,11
-2022-02-17,Perlis,Perlis,0,1,293,5,0,316,448,5,23
+2022-02-17,Perlis,Perlis,0,1,312,5,0,336,448,5,23
 2022-02-17,Pulau Pinang,Barat Daya,0,0,629,0,0,621,1073,10,22
 2022-02-17,Pulau Pinang,Seberang Perai Selatan,0,1,282,0,1,249,507,2,28
 2022-02-17,Pulau Pinang,Seberang Perai Tengah,0,2,581,0,0,586,739,14,99
 2022-02-17,Pulau Pinang,Seberang Perai Utara,0,0,593,0,0,624,524,2,28
 2022-02-17,Pulau Pinang,Timur Laut,10,2,1327,17,3,1346,803,25,234
 2022-02-17,Sabah,Beaufort,0,0,103,0,0,84,242,0,24
-2022-02-17,Sabah,Beluran,0,0,37,0,0,44,0,0,47
-2022-02-17,Sabah,Keningau,0,0,99,0,0,98,140,6,24
+2022-02-17,Sabah,Beluran,0,0,39,0,0,47,0,0,47
+2022-02-17,Sabah,Keningau,0,1,101,0,0,99,140,6,24
 2022-02-17,Sabah,Kinabatangan,0,0,48,0,0,24,52,0,103
 2022-02-17,Sabah,Kota Belud,0,0,50,0,0,61,0,4,7
-2022-02-17,Sabah,Kota Kinabalu,0,0,1164,0,2,1223,893,9,116
+2022-02-17,Sabah,Kota Kinabalu,0,0,1164,0,2,1224,893,9,116
 2022-02-17,Sabah,Kota Marudu,0,0,48,0,0,53,132,3,16
 2022-02-17,Sabah,Kuala Penyu,0,0,20,0,0,24,27,0,8
 2022-02-17,Sabah,Kudat,0,0,46,0,0,71,23,1,7
-2022-02-17,Sabah,Kunak,0,0,63,0,0,22,0,1,54
+2022-02-17,Sabah,Kunak,0,0,64,0,0,22,0,1,54
 2022-02-17,Sabah,Lahad Datu,0,1,262,0,0,260,112,21,627
 2022-02-17,Sabah,Nabawan,1,0,13,0,0,7,1,0,2
 2022-02-17,Sabah,Papar,11,0,187,17,0,174,89,0,13
 2022-02-17,Sabah,Penampang,0,0,54,0,0,79,60,0,8
 2022-02-17,Sabah,Pitas,0,0,37,0,0,36,95,0,8
 2022-02-17,Sabah,Putatan,0,0,45,0,0,58,70,1,2
-2022-02-17,Sabah,Ranau,0,0,56,0,0,42,21,2,31
-2022-02-17,Sabah,Sandakan,0,0,463,0,0,481,77,4,73
+2022-02-17,Sabah,Ranau,0,0,57,0,0,43,21,2,31
+2022-02-17,Sabah,Sandakan,0,0,463,0,0,482,77,4,73
 2022-02-17,Sabah,Semporna,51,26,60,18,5,57,2,8,27
 2022-02-17,Sabah,Sipitang,0,0,34,0,0,29,27,0,2
 2022-02-17,Sabah,Tambunan,0,0,22,0,0,40,57,0,8
@@ -56682,7 +56682,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-17,Sarawak,Maradong,0,0,7,0,0,5,1,0,1
 2022-02-17,Sarawak,Marudi,0,0,0,0,0,0,50,0,0
 2022-02-17,Sarawak,Matu,0,0,0,0,0,0,50,0,0
-2022-02-17,Sarawak,Miri,0,0,305,0,0,272,431,21,56
+2022-02-17,Sarawak,Miri,0,0,306,0,0,272,431,21,56
 2022-02-17,Sarawak,Mukah,0,0,25,0,0,20,2,4,5
 2022-02-17,Sarawak,Pakan,0,0,2,0,0,2,156,0,19
 2022-02-17,Sarawak,Pusa,0,0,0,0,0,0,60,0,0
@@ -56705,9 +56705,9 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-17,Selangor,Hulu Langat,15,3,3448,13,2,3228,299,85,171
 2022-02-17,Selangor,Hulu Selangor,0,0,1184,0,0,1199,17,21,163
 2022-02-17,Selangor,Klang,13,6,3030,8,3,2402,321,58,199
-2022-02-17,Selangor,Kuala Langat,0,0,549,0,1,576,28,7,33
+2022-02-17,Selangor,Kuala Langat,0,0,550,0,1,577,28,7,33
 2022-02-17,Selangor,Kuala Selangor,18,1,513,19,0,508,35,22,33
-2022-02-17,Selangor,Petaling,0,7,4627,0,4,3939,1882,111,314
+2022-02-17,Selangor,Petaling,0,9,4631,0,4,3940,1882,111,314
 2022-02-17,Selangor,Sabak Bernam,0,0,255,0,0,264,5,3,49
 2022-02-17,Selangor,Sepang,14,1,701,15,1,608,27,13,62
 2022-02-17,Terengganu,Besut,0,0,29,0,0,42,40,1,30
@@ -56715,116 +56715,116 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-17,Terengganu,Hulu Terengganu,0,0,104,0,0,80,60,4,12
 2022-02-17,Terengganu,Kemaman,2,1,376,3,1,281,179,4,38
 2022-02-17,Terengganu,Kuala Nerus,0,0,63,0,0,62,68,6,1
-2022-02-17,Terengganu,Kuala Terengganu,3,1,260,5,0,297,192,8,15
+2022-02-17,Terengganu,Kuala Terengganu,3,1,261,5,0,297,192,8,15
 2022-02-17,Terengganu,Marang,99,1,52,101,0,69,244,1,5
-2022-02-17,Terengganu,Setiu,12,0,14,32,0,25,15,2,2
-2022-02-17,W.P. Kuala Lumpur,Kuala Lumpur,78,13,4959,70,8,4264,5044,124,414
-2022-02-17,W.P. Labuan,Labuan,2,0,198,2,0,107,129,4,29
+2022-02-17,Terengganu,Setiu,24,0,14,46,0,25,15,2,2
+2022-02-17,W.P. Kuala Lumpur,Kuala Lumpur,78,13,4961,70,8,4265,5044,124,414
+2022-02-17,W.P. Labuan,Labuan,2,0,199,2,0,107,129,4,29
 2022-02-17,W.P. Putrajaya,Putrajaya,5,0,173,1,0,212,254,0,5
-2022-02-18,Johor,Batu Pahat,0,0,1099,0,0,1137,443,6,44
-2022-02-18,Johor,Johor Bahru,1219,0,5309,1109,2,4891,805,99,241
-2022-02-18,Johor,Kluang,0,0,707,0,1,735,4,0,30
-2022-02-18,Johor,Kota Tinggi,356,0,359,387,0,323,671,2,44
-2022-02-18,Johor,Kulai,0,0,1205,0,0,934,11,1,78
-2022-02-18,Johor,Mersing,0,0,145,0,0,213,257,0,7
-2022-02-18,Johor,Muar,0,1,831,0,0,499,15,172,25
-2022-02-18,Johor,Pontian,173,0,281,192,0,174,27,2,8
-2022-02-18,Johor,Segamat,0,0,1222,0,0,1034,54,9,101
-2022-02-18,Johor,Tangkak,0,0,482,0,0,467,8,0,57
+2022-02-18,Johor,Batu Pahat,0,0,1108,0,0,1142,444,6,44
+2022-02-18,Johor,Johor Bahru,1219,1,5365,1113,5,4934,806,101,242
+2022-02-18,Johor,Kluang,0,1,712,0,1,736,4,0,30
+2022-02-18,Johor,Kota Tinggi,356,0,359,389,0,327,671,2,44
+2022-02-18,Johor,Kulai,0,0,1207,0,0,938,11,1,78
+2022-02-18,Johor,Mersing,0,0,147,0,0,214,257,0,7
+2022-02-18,Johor,Muar,0,1,834,0,0,503,15,172,25
+2022-02-18,Johor,Pontian,173,0,284,192,0,175,28,2,8
+2022-02-18,Johor,Segamat,0,0,1255,0,0,1070,54,9,102
+2022-02-18,Johor,Tangkak,0,0,483,0,0,467,8,1,58
 2022-02-18,Kedah,Baling,0,0,86,0,0,113,29,9,5
 2022-02-18,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
-2022-02-18,Kedah,Kota Setar,0,0,253,2,0,309,403,8,19
-2022-02-18,Kedah,Kuala Muda,0,1,332,0,1,350,1255,7,19
-2022-02-18,Kedah,Kubang Pasu,2,1,156,0,0,177,317,1,3
-2022-02-18,Kedah,Kulim,0,0,242,0,0,234,263,3,6
+2022-02-18,Kedah,Kota Setar,0,0,255,2,0,312,403,8,19
+2022-02-18,Kedah,Kuala Muda,0,1,338,0,1,353,1255,7,19
+2022-02-18,Kedah,Kubang Pasu,2,1,160,0,0,177,317,1,3
+2022-02-18,Kedah,Kulim,0,0,245,0,0,238,263,3,6
 2022-02-18,Kedah,Langkawi,0,0,0,0,0,0,0,0,0
 2022-02-18,Kedah,Padang Terap,0,0,0,0,0,0,0,0,0
 2022-02-18,Kedah,Pendang,0,0,0,0,0,0,0,0,0
 2022-02-18,Kedah,Pokok Sena,0,0,0,0,0,0,0,0,0
-2022-02-18,Kedah,Sik,32,0,15,26,0,32,93,1,6
+2022-02-18,Kedah,Sik,32,0,15,26,1,32,95,1,6
 2022-02-18,Kedah,Yan,17,0,64,23,0,107,406,0,2
 2022-02-18,Kelantan,Bachok,0,0,17,0,0,13,2,1,2
 2022-02-18,Kelantan,Gua Musang,0,0,7,0,0,43,0,0,2
 2022-02-18,Kelantan,Jeli,0,0,0,0,0,0,0,0,0
 2022-02-18,Kelantan,Kecil Lojing,0,0,0,0,0,0,0,0,0
-2022-02-18,Kelantan,Kota Bharu,0,0,115,0,0,148,68,4,15
+2022-02-18,Kelantan,Kota Bharu,0,0,117,0,0,153,68,4,15
 2022-02-18,Kelantan,Kuala Krai,0,0,5,0,0,6,0,0,1
 2022-02-18,Kelantan,Machang,0,0,0,0,0,0,0,0,0
 2022-02-18,Kelantan,Pasir Mas,0,0,2,0,0,7,0,0,3
 2022-02-18,Kelantan,Pasir Puteh,0,0,0,0,0,0,0,0,0
 2022-02-18,Kelantan,Tanah Merah,0,0,2,0,0,3,0,0,0
 2022-02-18,Kelantan,Tumpat,0,0,3,0,0,1,1,0,0
-2022-02-18,Melaka,Alor Gajah,0,2,245,0,1,279,486,5,22
-2022-02-18,Melaka,Jasin,1,23,154,0,0,209,235,19,20
-2022-02-18,Melaka,Melaka Tengah,0,1,755,0,0,761,1660,17,91
+2022-02-18,Melaka,Alor Gajah,0,2,247,0,1,280,487,5,22
+2022-02-18,Melaka,Jasin,1,23,157,0,0,211,235,21,21
+2022-02-18,Melaka,Melaka Tengah,0,1,759,0,0,772,1663,17,92
 2022-02-18,Negeri Sembilan,Jelebu,0,0,83,0,0,58,81,5,130
-2022-02-18,Negeri Sembilan,Jempol,0,0,408,0,0,362,484,2,34
-2022-02-18,Negeri Sembilan,Kuala Pilah,2,0,79,1,0,94,29,2,18
-2022-02-18,Negeri Sembilan,Port Dickson,0,0,151,0,0,122,135,3,29
+2022-02-18,Negeri Sembilan,Jempol,0,0,411,0,0,365,484,2,34
+2022-02-18,Negeri Sembilan,Kuala Pilah,2,0,80,1,0,94,29,2,19
+2022-02-18,Negeri Sembilan,Port Dickson,0,0,152,0,0,125,135,3,29
 2022-02-18,Negeri Sembilan,Rembau,0,0,20,0,0,19,74,2,3
-2022-02-18,Negeri Sembilan,Seremban,77,0,1349,99,1,1364,582,28,57
-2022-02-18,Negeri Sembilan,Tampin,93,0,548,76,0,556,46,5,23
-2022-02-18,Pahang,Bentong,4,0,70,0,0,60,241,4,9
-2022-02-18,Pahang,Bera,0,0,101,0,0,112,11,6,14
+2022-02-18,Negeri Sembilan,Seremban,77,0,1364,99,1,1372,584,28,57
+2022-02-18,Negeri Sembilan,Tampin,93,0,554,76,0,558,46,5,23
+2022-02-18,Pahang,Bentong,4,0,70,0,0,61,241,4,9
+2022-02-18,Pahang,Bera,0,0,101,0,0,113,11,6,14
 2022-02-18,Pahang,Cameron Highlands,0,0,123,0,0,87,86,0,78
 2022-02-18,Pahang,Jerantut,0,0,34,0,0,41,128,1,0
-2022-02-18,Pahang,Kuantan,0,1,368,0,1,411,1093,31,42
+2022-02-18,Pahang,Kuantan,0,1,369,0,1,415,1094,31,42
 2022-02-18,Pahang,Lipis,0,0,66,0,0,64,135,2,12
 2022-02-18,Pahang,Maran,0,0,30,0,0,29,21,1,4
 2022-02-18,Pahang,Pekan,0,0,65,0,0,83,498,2,70
-2022-02-18,Pahang,Raub,7,0,73,8,0,75,1042,3,21
-2022-02-18,Pahang,Rompin,0,0,236,0,0,178,98,7,21
-2022-02-18,Pahang,Temerloh,0,0,188,0,0,206,533,7,21
+2022-02-18,Pahang,Raub,7,0,97,8,0,97,1042,3,26
+2022-02-18,Pahang,Rompin,0,0,237,0,0,178,98,7,21
+2022-02-18,Pahang,Temerloh,0,1,190,0,0,209,533,7,21
 2022-02-18,Perak,Bagan Datuk,0,0,0,0,0,1,7,0,0
-2022-02-18,Perak,Batang Padang,0,0,269,0,0,230,706,7,30
-2022-02-18,Perak,Hilir Perak,16,0,458,20,0,486,35,17,46
-2022-02-18,Perak,Hulu Perak,0,0,144,0,0,180,141,5,26
-2022-02-18,Perak,Kampar,0,0,251,0,0,247,95,24,37
-2022-02-18,Perak,Kerian,0,0,453,0,0,478,553,2,17
-2022-02-18,Perak,Kinta,3,0,2112,7,2,2264,2791,20,202
-2022-02-18,Perak,Kuala Kangsar,0,0,610,0,0,683,168,25,42
-2022-02-18,Perak,Larut Dan Matang,0,1,1230,0,2,1353,401,8,60
-2022-02-18,Perak,Manjung,0,0,784,0,3,625,957,6,112
-2022-02-18,Perak,Muallim,0,0,155,0,0,163,125,9,9
-2022-02-18,Perak,Perak Tengah,0,0,300,0,0,307,13,3,16
-2022-02-18,Perlis,Perlis,0,3,357,0,0,387,222,6,26
-2022-02-18,Pulau Pinang,Barat Daya,0,0,697,0,0,711,1199,9,40
-2022-02-18,Pulau Pinang,Seberang Perai Selatan,0,3,351,0,0,292,784,8,40
-2022-02-18,Pulau Pinang,Seberang Perai Tengah,0,2,767,0,1,706,899,8,84
-2022-02-18,Pulau Pinang,Seberang Perai Utara,0,0,618,0,0,675,1665,7,50
-2022-02-18,Pulau Pinang,Timur Laut,19,0,1281,26,0,1339,1254,60,99
-2022-02-18,Sabah,Beaufort,0,0,120,0,0,107,234,1,31
-2022-02-18,Sabah,Beluran,0,0,50,0,0,53,29,7,72
-2022-02-18,Sabah,Keningau,0,0,108,0,0,123,234,1,42
+2022-02-18,Perak,Batang Padang,0,0,270,0,0,232,707,7,30
+2022-02-18,Perak,Hilir Perak,16,0,459,20,0,488,35,17,46
+2022-02-18,Perak,Hulu Perak,0,0,145,0,0,180,141,5,26
+2022-02-18,Perak,Kampar,0,0,253,0,0,248,95,24,37
+2022-02-18,Perak,Kerian,0,0,457,0,0,480,554,2,17
+2022-02-18,Perak,Kinta,3,0,2132,7,2,2278,2798,20,202
+2022-02-18,Perak,Kuala Kangsar,0,0,617,0,0,692,168,25,43
+2022-02-18,Perak,Larut Dan Matang,0,1,1235,0,2,1362,401,8,60
+2022-02-18,Perak,Manjung,0,0,793,0,3,632,957,6,113
+2022-02-18,Perak,Muallim,0,0,158,0,0,166,125,9,9
+2022-02-18,Perak,Perak Tengah,0,0,300,0,0,308,13,3,16
+2022-02-18,Perlis,Perlis,0,3,363,0,0,394,222,6,27
+2022-02-18,Pulau Pinang,Barat Daya,0,0,704,0,0,719,1201,9,40
+2022-02-18,Pulau Pinang,Seberang Perai Selatan,0,3,352,0,0,295,785,8,41
+2022-02-18,Pulau Pinang,Seberang Perai Tengah,0,2,776,0,1,711,902,8,85
+2022-02-18,Pulau Pinang,Seberang Perai Utara,0,0,624,0,0,676,1666,7,50
+2022-02-18,Pulau Pinang,Timur Laut,19,0,1293,26,0,1346,1258,61,99
+2022-02-18,Sabah,Beaufort,0,0,124,0,0,109,234,1,32
+2022-02-18,Sabah,Beluran,0,0,55,0,0,58,29,7,72
+2022-02-18,Sabah,Keningau,0,0,108,0,0,123,234,2,42
 2022-02-18,Sabah,Kinabatangan,0,0,130,0,0,92,93,1,52
-2022-02-18,Sabah,Kota Belud,0,0,67,0,0,88,59,0,12
-2022-02-18,Sabah,Kota Kinabalu,0,0,1437,0,2,1576,890,9,136
+2022-02-18,Sabah,Kota Belud,0,0,68,0,0,92,59,0,12
+2022-02-18,Sabah,Kota Kinabalu,1,0,1444,0,2,1581,890,9,137
 2022-02-18,Sabah,Kota Marudu,1,0,72,1,0,71,91,1,10
 2022-02-18,Sabah,Kuala Penyu,0,0,75,0,0,71,51,0,23
-2022-02-18,Sabah,Kudat,0,0,49,0,0,48,41,1,20
+2022-02-18,Sabah,Kudat,0,0,50,0,0,48,41,1,20
 2022-02-18,Sabah,Kunak,0,0,44,0,1,34,7,2,67
 2022-02-18,Sabah,Lahad Datu,0,0,152,0,0,157,59,10,142
 2022-02-18,Sabah,Nabawan,0,0,61,0,0,26,13,2,63
-2022-02-18,Sabah,Papar,7,0,150,6,0,170,122,0,29
-2022-02-18,Sabah,Penampang,0,0,101,0,0,82,107,1,13
+2022-02-18,Sabah,Papar,7,0,153,6,0,174,122,0,29
+2022-02-18,Sabah,Penampang,0,0,102,0,0,82,107,1,12
 2022-02-18,Sabah,Pitas,0,0,31,0,0,32,59,0,16
-2022-02-18,Sabah,Putatan,0,0,40,0,0,58,61,1,4
+2022-02-18,Sabah,Putatan,0,0,40,0,0,59,61,1,4
 2022-02-18,Sabah,Ranau,0,0,74,0,0,63,19,1,30
-2022-02-18,Sabah,Sandakan,0,0,388,0,0,440,77,13,50
-2022-02-18,Sabah,Semporna,0,0,34,0,0,39,1,1,13
-2022-02-18,Sabah,Sipitang,0,0,20,0,0,20,0,0,3
+2022-02-18,Sabah,Sandakan,0,0,404,0,0,465,78,13,52
+2022-02-18,Sabah,Semporna,13,13,38,29,29,43,1,1,13
+2022-02-18,Sabah,Sipitang,0,0,20,0,0,21,0,0,3
 2022-02-18,Sabah,Tambunan,0,0,17,0,0,20,101,0,7
-2022-02-18,Sabah,Tawau,0,0,385,0,0,441,132,6,51
+2022-02-18,Sabah,Tawau,0,0,385,0,0,444,132,6,52
 2022-02-18,Sabah,Telupid,0,0,83,0,0,54,50,4,432
 2022-02-18,Sabah,Tenom,0,0,68,0,0,79,154,0,24
 2022-02-18,Sabah,Tongod,0,0,8,0,0,10,0,0,11
-2022-02-18,Sabah,Tuaran,1,0,170,0,0,186,69,4,177
+2022-02-18,Sabah,Tuaran,1,0,172,0,0,186,69,4,177
 2022-02-18,Sarawak,Asajaya,0,0,10,0,0,11,13,7,4
 2022-02-18,Sarawak,Bau,0,0,36,0,0,29,71,0,6
 2022-02-18,Sarawak,Belaga,0,0,11,0,0,19,1,24,8
 2022-02-18,Sarawak,Beluru,0,0,3,0,0,2,0,0,7
-2022-02-18,Sarawak,Betong,0,0,40,0,0,43,60,0,28
-2022-02-18,Sarawak,Bintulu,7,0,85,3,0,79,162,12,22
+2022-02-18,Sarawak,Betong,0,0,41,0,0,43,60,0,28
+2022-02-18,Sarawak,Bintulu,7,0,88,3,0,79,162,13,22
 2022-02-18,Sarawak,Bukit Mabong,0,0,0,0,0,0,0,0,0
 2022-02-18,Sarawak,Dalat,0,0,0,0,0,0,90,0,0
 2022-02-18,Sarawak,Daro,0,0,0,0,0,0,110,0,0
@@ -56832,16 +56832,16 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-18,Sarawak,Kabong,0,0,0,0,0,0,60,0,0
 2022-02-18,Sarawak,Kanowit,0,0,0,0,0,0,0,0,0
 2022-02-18,Sarawak,Kapit,0,0,16,0,0,22,8,3,18
-2022-02-18,Sarawak,Kuching,0,0,217,0,0,247,985,19,38
+2022-02-18,Sarawak,Kuching,0,0,217,0,0,251,986,19,38
 2022-02-18,Sarawak,Lawas,8,0,83,11,1,76,95,0,46
-2022-02-18,Sarawak,Limbang,0,0,37,0,0,35,19,9,24
+2022-02-18,Sarawak,Limbang,0,0,37,0,0,36,19,9,24
 2022-02-18,Sarawak,Lubok Antu,0,0,8,0,0,8,0,0,0
 2022-02-18,Sarawak,Lundu,0,0,4,0,0,2,17,8,9
 2022-02-18,Sarawak,Maradong,0,0,21,0,0,26,0,0,14
 2022-02-18,Sarawak,Marudi,0,0,32,0,0,31,10,0,214
 2022-02-18,Sarawak,Matu,0,0,0,0,0,0,50,0,0
-2022-02-18,Sarawak,Miri,0,0,287,0,0,279,295,13,149
-2022-02-18,Sarawak,Mukah,0,0,13,0,0,21,231,0,12
+2022-02-18,Sarawak,Miri,0,0,291,0,0,281,295,13,149
+2022-02-18,Sarawak,Mukah,0,0,13,0,0,22,231,0,12
 2022-02-18,Sarawak,Pakan,0,0,0,0,0,0,140,0,0
 2022-02-18,Sarawak,Pusa,0,0,0,0,0,0,60,0,0
 2022-02-18,Sarawak,Samarahan,0,0,26,0,0,24,41,7,4
@@ -56850,7 +56850,7 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-18,Sarawak,Sebauh,0,0,0,0,0,0,0,0,0
 2022-02-18,Sarawak,Selangau,0,0,16,0,0,15,0,9,44
 2022-02-18,Sarawak,Serian,0,0,56,0,1,58,58,11,63
-2022-02-18,Sarawak,Sibu,0,0,147,0,0,124,468,5,61
+2022-02-18,Sarawak,Sibu,0,0,147,0,0,127,468,5,62
 2022-02-18,Sarawak,Simunjan,0,0,28,0,0,32,20,7,33
 2022-02-18,Sarawak,Song,0,0,7,0,0,3,0,1,6
 2022-02-18,Sarawak,Sri Aman,0,0,4,0,0,6,0,0,1
@@ -56859,23 +56859,181 @@ date,state,district,partial_male,full_male,booster_male,partial_female,full_fema
 2022-02-18,Sarawak,Tatau,0,0,0,0,0,0,0,0,0
 2022-02-18,Sarawak,Tebedu,1,0,0,0,0,0,230,0,0
 2022-02-18,Sarawak,Telang Usan,0,0,0,0,0,0,0,0,2
-2022-02-18,Selangor,Gombak,33,13,1428,27,6,1427,126,29,81
-2022-02-18,Selangor,Hulu Langat,5,4,3464,15,2,3482,425,45,261
-2022-02-18,Selangor,Hulu Selangor,0,0,1031,0,0,1039,7,10,67
-2022-02-18,Selangor,Klang,13,6,2712,7,2,2383,584,134,167
-2022-02-18,Selangor,Kuala Langat,0,2,636,0,0,679,17,13,31
-2022-02-18,Selangor,Kuala Selangor,0,1,617,0,0,638,43,7,36
-2022-02-18,Selangor,Petaling,15,3,4503,7,2,4336,1187,110,354
-2022-02-18,Selangor,Sabak Bernam,0,0,256,0,0,287,10,7,56
-2022-02-18,Selangor,Sepang,29,0,550,22,0,594,27,25,20
-2022-02-18,Terengganu,Besut,0,0,16,0,0,27,96,2,1
-2022-02-18,Terengganu,Dungun,0,0,62,0,0,24,4,0,6
-2022-02-18,Terengganu,Hulu Terengganu,0,0,24,0,0,39,0,0,1
-2022-02-18,Terengganu,Kemaman,0,0,101,0,0,112,1,0,8
+2022-02-18,Selangor,Gombak,33,13,1437,27,6,1449,126,30,81
+2022-02-18,Selangor,Hulu Langat,5,4,3481,15,2,3502,430,45,261
+2022-02-18,Selangor,Hulu Selangor,0,0,1044,0,0,1044,7,10,68
+2022-02-18,Selangor,Klang,13,6,2728,7,2,2395,586,134,167
+2022-02-18,Selangor,Kuala Langat,0,3,640,0,1,684,17,14,31
+2022-02-18,Selangor,Kuala Selangor,0,2,622,0,1,643,43,7,36
+2022-02-18,Selangor,Petaling,15,8,4533,7,3,4370,1190,111,356
+2022-02-18,Selangor,Sabak Bernam,0,0,257,0,0,287,10,7,56
+2022-02-18,Selangor,Sepang,29,0,551,22,0,596,27,25,20
+2022-02-18,Terengganu,Besut,0,1,16,0,0,28,96,2,1
+2022-02-18,Terengganu,Dungun,0,0,62,0,0,25,4,0,6
+2022-02-18,Terengganu,Hulu Terengganu,0,0,24,0,0,40,0,0,1
+2022-02-18,Terengganu,Kemaman,0,0,102,0,0,112,1,0,8
 2022-02-18,Terengganu,Kuala Nerus,0,0,15,0,0,19,0,1,1
-2022-02-18,Terengganu,Kuala Terengganu,69,0,128,92,0,181,179,3,7
+2022-02-18,Terengganu,Kuala Terengganu,70,0,130,92,0,184,179,3,7
 2022-02-18,Terengganu,Marang,0,0,20,0,0,18,0,0,0
 2022-02-18,Terengganu,Setiu,0,0,0,0,0,0,0,0,0
-2022-02-18,W.P. Kuala Lumpur,Kuala Lumpur,60,11,3907,60,8,3987,4462,136,391
-2022-02-18,W.P. Labuan,Labuan,0,0,100,0,0,102,235,1,24
-2022-02-18,W.P. Putrajaya,Putrajaya,40,5,214,42,3,280,15,1,3
+2022-02-18,W.P. Kuala Lumpur,Kuala Lumpur,60,11,3934,60,9,4016,4468,138,393
+2022-02-18,W.P. Labuan,Labuan,0,0,102,0,0,103,235,1,24
+2022-02-18,W.P. Putrajaya,Putrajaya,40,5,215,42,3,284,15,1,3
+2022-02-19,Johor,Batu Pahat,58,0,1137,53,0,1001,375,4,56
+2022-02-19,Johor,Johor Bahru,536,46,4645,613,39,4298,1061,40,235
+2022-02-19,Johor,Kluang,0,0,620,0,0,625,1,0,22
+2022-02-19,Johor,Kota Tinggi,258,0,562,297,0,445,972,0,37
+2022-02-19,Johor,Kulai,0,0,1252,0,0,914,11,6,76
+2022-02-19,Johor,Mersing,0,0,146,0,0,154,13,0,6
+2022-02-19,Johor,Muar,0,0,410,0,0,298,8,2,34
+2022-02-19,Johor,Pontian,0,0,545,0,0,483,53,9,29
+2022-02-19,Johor,Segamat,0,0,1288,0,0,881,2200,0,85
+2022-02-19,Johor,Tangkak,0,0,286,0,0,178,5,0,72
+2022-02-19,Kedah,Baling,0,0,60,0,0,81,53,0,5
+2022-02-19,Kedah,Bandar Baharu,0,0,0,0,0,0,0,0,0
+2022-02-19,Kedah,Kota Setar,0,0,181,0,0,199,340,4,14
+2022-02-19,Kedah,Kuala Muda,0,0,217,0,2,208,1080,6,11
+2022-02-19,Kedah,Kubang Pasu,16,0,105,10,0,163,601,0,4
+2022-02-19,Kedah,Kulim,0,0,311,0,0,349,1090,15,22
+2022-02-19,Kedah,Langkawi,0,0,0,0,0,0,0,0,0
+2022-02-19,Kedah,Padang Terap,0,0,3,0,0,6,1,0,2
+2022-02-19,Kedah,Pendang,0,0,34,0,0,47,62,0,4
+2022-02-19,Kedah,Pokok Sena,0,0,0,0,0,0,0,0,0
+2022-02-19,Kedah,Sik,0,0,0,0,0,0,0,0,0
+2022-02-19,Kedah,Yan,19,0,29,21,0,44,82,0,2
+2022-02-19,Kelantan,Bachok,0,0,7,0,0,5,0,0,0
+2022-02-19,Kelantan,Gua Musang,0,0,41,0,0,26,3,0,8
+2022-02-19,Kelantan,Jeli,0,0,23,0,0,36,21,0,3
+2022-02-19,Kelantan,Kecil Lojing,0,0,0,0,0,0,0,0,0
+2022-02-19,Kelantan,Kota Bharu,0,0,104,0,0,118,3,5,8
+2022-02-19,Kelantan,Kuala Krai,0,0,3,0,0,3,0,0,4
+2022-02-19,Kelantan,Machang,0,0,0,0,0,0,0,0,0
+2022-02-19,Kelantan,Pasir Mas,0,0,22,0,0,28,1,9,1
+2022-02-19,Kelantan,Pasir Puteh,0,0,37,0,0,50,0,0,1
+2022-02-19,Kelantan,Tanah Merah,0,0,1,0,0,1,0,0,0
+2022-02-19,Kelantan,Tumpat,0,0,29,0,0,37,1,1,1
+2022-02-19,Melaka,Alor Gajah,0,0,114,0,0,135,363,0,17
+2022-02-19,Melaka,Jasin,0,0,108,0,0,141,352,3,14
+2022-02-19,Melaka,Melaka Tengah,0,1,646,0,1,583,1398,8,57
+2022-02-19,Negeri Sembilan,Jelebu,0,0,0,0,0,0,0,0,0
+2022-02-19,Negeri Sembilan,Jempol,0,0,224,0,0,259,196,1,21
+2022-02-19,Negeri Sembilan,Kuala Pilah,0,0,9,0,0,17,0,0,0
+2022-02-19,Negeri Sembilan,Port Dickson,0,0,151,0,0,126,113,0,24
+2022-02-19,Negeri Sembilan,Rembau,0,0,29,0,0,39,10,1,3
+2022-02-19,Negeri Sembilan,Seremban,0,0,1153,0,0,1163,927,14,69
+2022-02-19,Negeri Sembilan,Tampin,0,0,0,0,0,0,0,0,0
+2022-02-19,Pahang,Bentong,15,0,46,0,0,42,492,0,4
+2022-02-19,Pahang,Bera,0,0,3,0,0,2,0,0,1
+2022-02-19,Pahang,Cameron Highlands,0,0,0,0,0,0,0,0,0
+2022-02-19,Pahang,Jerantut,0,0,0,0,0,0,0,0,0
+2022-02-19,Pahang,Kuantan,0,2,419,0,3,395,1347,39,45
+2022-02-19,Pahang,Lipis,0,0,3,0,0,3,0,0,0
+2022-02-19,Pahang,Maran,0,0,13,0,0,19,221,1,2
+2022-02-19,Pahang,Pekan,0,0,46,0,0,23,28,0,18
+2022-02-19,Pahang,Raub,0,0,0,0,0,0,150,0,0
+2022-02-19,Pahang,Rompin,0,0,62,0,0,50,3,1,4
+2022-02-19,Pahang,Temerloh,0,0,67,0,0,80,2,0,4
+2022-02-19,Perak,Bagan Datuk,0,0,0,0,0,0,0,0,0
+2022-02-19,Perak,Batang Padang,0,0,22,0,0,37,258,1,6
+2022-02-19,Perak,Hilir Perak,264,0,48,276,0,37,379,0,3
+2022-02-19,Perak,Hulu Perak,0,0,7,0,0,3,310,0,0
+2022-02-19,Perak,Kampar,0,0,51,0,0,56,963,0,6
+2022-02-19,Perak,Kerian,0,0,5,1,0,4,801,0,0
+2022-02-19,Perak,Kinta,0,0,2025,0,2,2001,3836,11,204
+2022-02-19,Perak,Kuala Kangsar,181,0,325,182,1,337,469,2,30
+2022-02-19,Perak,Larut Dan Matang,6,0,527,88,0,504,1809,0,28
+2022-02-19,Perak,Manjung,0,0,285,0,0,244,638,1,44
+2022-02-19,Perak,Muallim,0,0,37,0,0,37,360,1,6
+2022-02-19,Perak,Perak Tengah,0,0,34,0,0,34,0,2,1
+2022-02-19,Perlis,Perlis,0,0,52,0,0,99,269,2,9
+2022-02-19,Pulau Pinang,Barat Daya,0,1,709,0,0,705,964,3,40
+2022-02-19,Pulau Pinang,Seberang Perai Selatan,0,0,231,0,0,176,783,8,13
+2022-02-19,Pulau Pinang,Seberang Perai Tengah,0,0,756,0,1,747,862,7,64
+2022-02-19,Pulau Pinang,Seberang Perai Utara,0,0,674,0,0,733,1069,1,29
+2022-02-19,Pulau Pinang,Timur Laut,0,0,624,0,0,737,875,7,41
+2022-02-19,Sabah,Beaufort,0,0,110,0,0,107,184,0,36
+2022-02-19,Sabah,Beluran,0,0,14,0,0,8,0,0,10
+2022-02-19,Sabah,Keningau,1,0,173,2,0,190,208,9,124
+2022-02-19,Sabah,Kinabatangan,0,0,24,0,0,25,81,0,34
+2022-02-19,Sabah,Kota Belud,0,0,13,0,0,10,431,0,3
+2022-02-19,Sabah,Kota Kinabalu,34,0,1078,32,1,1349,1296,12,85
+2022-02-19,Sabah,Kota Marudu,0,0,14,0,0,15,21,0,0
+2022-02-19,Sabah,Kuala Penyu,0,0,43,0,0,31,91,0,8
+2022-02-19,Sabah,Kudat,0,0,77,0,0,69,112,2,8
+2022-02-19,Sabah,Kunak,0,0,45,0,0,36,64,0,155
+2022-02-19,Sabah,Lahad Datu,0,1,306,0,0,319,322,9,384
+2022-02-19,Sabah,Nabawan,0,0,8,0,0,5,3,0,6
+2022-02-19,Sabah,Papar,3,0,80,7,0,85,146,1,9
+2022-02-19,Sabah,Penampang,0,0,66,0,0,103,142,2,9
+2022-02-19,Sabah,Pitas,0,0,121,0,0,107,128,5,135
+2022-02-19,Sabah,Putatan,0,0,100,1,1,79,88,0,50
+2022-02-19,Sabah,Ranau,1,0,57,0,0,53,191,1,21
+2022-02-19,Sabah,Sandakan,0,0,396,0,0,438,257,23,84
+2022-02-19,Sabah,Semporna,0,0,27,0,0,50,148,0,14
+2022-02-19,Sabah,Sipitang,0,0,71,0,0,57,169,1,17
+2022-02-19,Sabah,Tambunan,0,0,30,0,0,30,189,0,24
+2022-02-19,Sabah,Tawau,0,0,493,0,0,427,525,6,87
+2022-02-19,Sabah,Telupid,0,0,64,0,0,48,80,0,481
+2022-02-19,Sabah,Tenom,0,0,49,0,0,54,377,0,21
+2022-02-19,Sabah,Tongod,0,0,0,0,0,0,110,0,0
+2022-02-19,Sabah,Tuaran,14,0,52,21,0,65,209,0,10
+2022-02-19,Sarawak,Asajaya,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Bau,0,0,6,0,0,4,230,0,0
+2022-02-19,Sarawak,Belaga,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Beluru,0,0,0,0,0,0,270,0,0
+2022-02-19,Sarawak,Betong,0,0,0,0,0,1,220,0,3
+2022-02-19,Sarawak,Bintulu,0,0,54,0,0,21,1043,0,247
+2022-02-19,Sarawak,Bukit Mabong,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Dalat,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Daro,0,0,0,0,0,0,320,0,0
+2022-02-19,Sarawak,Julau,0,0,3,0,0,3,295,1,2
+2022-02-19,Sarawak,Kabong,0,0,29,0,0,41,110,0,19
+2022-02-19,Sarawak,Kanowit,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Kapit,0,0,14,0,0,18,20,1,6
+2022-02-19,Sarawak,Kuching,118,0,89,455,0,94,961,35,12
+2022-02-19,Sarawak,Lawas,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Limbang,0,0,19,0,0,31,471,1,6
+2022-02-19,Sarawak,Lubok Antu,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Lundu,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Maradong,0,0,7,0,0,11,422,2,13
+2022-02-19,Sarawak,Marudi,0,0,0,0,0,0,28,0,0
+2022-02-19,Sarawak,Matu,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Miri,0,0,182,0,0,133,1531,3,33
+2022-02-19,Sarawak,Mukah,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Pakan,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Pusa,0,0,0,0,0,0,180,0,0
+2022-02-19,Sarawak,Samarahan,0,0,6,0,0,14,6,0,1
+2022-02-19,Sarawak,Saratok,0,0,13,0,0,13,420,0,8
+2022-02-19,Sarawak,Sarikei,53,0,23,64,0,34,769,0,23
+2022-02-19,Sarawak,Sebauh,0,0,0,0,0,0,180,0,0
+2022-02-19,Sarawak,Selangau,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Serian,0,0,6,0,0,17,15,1,7
+2022-02-19,Sarawak,Sibu,0,0,82,0,0,94,487,12,42
+2022-02-19,Sarawak,Simunjan,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Song,0,0,0,0,0,0,63,0,0
+2022-02-19,Sarawak,Sri Aman,0,0,2,0,0,2,0,0,0
+2022-02-19,Sarawak,Subis,0,0,2,0,0,1,290,0,1
+2022-02-19,Sarawak,Tanjung Manis,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Tatau,0,0,4,0,0,7,292,22,3
+2022-02-19,Sarawak,Tebedu,0,0,0,0,0,0,0,0,0
+2022-02-19,Sarawak,Telang Usan,0,0,0,0,0,0,139,0,0
+2022-02-19,Selangor,Gombak,0,0,578,0,0,576,964,13,25
+2022-02-19,Selangor,Hulu Langat,0,2,1604,0,1,1541,2234,23,169
+2022-02-19,Selangor,Hulu Selangor,0,0,862,0,0,738,329,3,72
+2022-02-19,Selangor,Klang,0,1,1822,0,1,1510,3031,31,281
+2022-02-19,Selangor,Kuala Langat,0,0,266,0,0,339,1429,4,9
+2022-02-19,Selangor,Kuala Selangor,0,0,408,0,0,442,522,17,24
+2022-02-19,Selangor,Petaling,0,1,2496,0,1,2010,10982,37,196
+2022-02-19,Selangor,Sabak Bernam,0,0,80,0,0,88,450,0,12
+2022-02-19,Selangor,Sepang,0,0,376,0,0,426,1031,5,23
+2022-02-19,Terengganu,Besut,0,0,27,0,0,29,2,2,17
+2022-02-19,Terengganu,Dungun,0,0,52,0,0,53,5,0,6
+2022-02-19,Terengganu,Hulu Terengganu,0,0,58,0,0,84,81,0,5
+2022-02-19,Terengganu,Kemaman,0,0,114,0,0,125,0,0,12
+2022-02-19,Terengganu,Kuala Nerus,0,0,32,0,0,30,49,3,2
+2022-02-19,Terengganu,Kuala Terengganu,58,0,162,77,0,186,577,5,6
+2022-02-19,Terengganu,Marang,0,0,12,0,0,18,0,0,1
+2022-02-19,Terengganu,Setiu,0,0,0,0,0,0,0,0,0
+2022-02-19,W.P. Kuala Lumpur,Kuala Lumpur,1,0,2479,1,1,2410,4580,29,201
+2022-02-19,W.P. Labuan,Labuan,0,0,80,0,0,89,316,2,20
+2022-02-19,W.P. Putrajaya,Putrajaya,0,0,98,0,0,145,1,0,1
