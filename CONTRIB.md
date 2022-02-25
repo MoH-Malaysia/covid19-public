@@ -40,7 +40,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Deaths
 
-+
++ I would like to request that you post a time series of COVID-19 cases and deaths by age and sex. For example, with 10-year age groups, and weekly observations would be very valuable. Many thanks.
 
 ### Vaccination
 
