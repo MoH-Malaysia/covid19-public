@@ -9,7 +9,8 @@ All aggregated data on cases available via the Github is derived from this linel
 1) `date`: yyyy-mm-dd format; date of case
 2) `days_dose1` number of days between the positive sample date and the individual's first dose (if any); values 0 or less are nulled
 3) `days_dose2` number of days between the positive sample date and the individual's second dose (if any); values 0 or less are nulled
-4) `vaxtype`: `p` = Pfizer, `s` = Sinovac, `a` = AstraZeneca, `c` = Cansino, `m` = Moderna, `h` = Sinopharm, `j` = Janssen, `u` = unverified (pending sync with VMS) 
+3) `days_dose3` number of days between the positive sample date and the individual's third dose (if any); values 0 or less are nulled
+4) `brand_x`: `p` = Pfizer, `s` = Sinovac, `a` = AstraZeneca, `c` = Cansino, `m` = Moderna, `h` = Sinopharm, `j` = Janssen, `u` = unverified (pending sync with VMS) 
 5) `import`: binary variable with 1 denoting an imported case and 0 denoting local transmission
 6) `cluster`: binary variable with 1 denoting cluster-based transmission and 0 denoting and unlinked case
 7) `symptomatic`: binary variable with 1 denoting an individual presenting with symptoms at the point of testing 
