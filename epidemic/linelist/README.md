@@ -12,7 +12,7 @@ All aggregated data on cases available via the Github is derived from this linel
 3) `days_dose3` number of days between the positive sample date and the individual's third dose (if any); values 0 or less are nulled
 4) `brand_x`: `p` = Pfizer, `s` = Sinovac, `a` = AstraZeneca, `c` = Cansino, `m` = Moderna, `h` = Sinopharm, `j` = Janssen, `u` = unverified (pending sync with VMS) 
 5) `import`: binary variable with 1 denoting an imported case and 0 denoting local transmission
-6) `cluster`: binary variable with 1 denoting cluster-based transmission and 0 denoting and unlinked case
+6) `cluster`: binary variable with 1 denoting cluster-based transmission and 0 denoting an unlinked case
 7) `symptomatic`: binary variable with 1 denoting an individual presenting with symptoms at the point of testing 
 8) `state`: state of residence, coded as an integer (refer to [`param_geo.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/linelist/param_geo.csv))
 9) `district`: district of residence, coded as an integer (refer to [`param_geo.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/linelist/param_geo.csv))
