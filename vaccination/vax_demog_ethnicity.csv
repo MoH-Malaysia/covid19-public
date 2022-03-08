@@ -1,4 +1,4 @@
-date,state,district,partial_malay,full_malay,booster_malay,partial_chinese,full_chinese,booster_chinese,partial_indian,full_indian,booster_indian,partial_bumi,full_bumi,booster_bumi,partial_other,full_other,booster_other,partial_missing,full_missing,booster_missing
+date,state,district,partial_malay,full_malay,booster_malay,partial_chinese,full_chinese,booster_chinese,partial_indian,full_indian,booster_indian,partial_native,full_native,booster_native,partial_other,full_other,booster_other,partial_missing,full_missing,booster_missing
 2021-02-24,Johor,Batu Pahat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2021-02-24,Johor,Johor Bahru,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2021-02-24,Johor,Kluang,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
