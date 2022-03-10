@@ -16,7 +16,7 @@ All aggregated data on cases available via the Github is derived from this linel
 7) `symptomatic`: binary variable with 1 denoting an individual presenting with symptoms at the point of testing 
 8) `state`: state of residence, coded as an integer (refer to [`param_geo.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/linelist/param_geo.csv))
 9) `district`: district of residence, coded as an integer (refer to [`param_geo.csv`](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/linelist/param_geo.csv))
-10) `age`: age as an integer
+10) `age`: age as an integer, with `-1` denoting missing data
 11) `male`: binary variable with 1 denoting male and 0 denoting female
 12) `malaysian`: binary variable with 1 denoting Malaysian and 0 denoting non-Malaysian
 
