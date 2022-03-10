@@ -4,7 +4,7 @@
 
 The cases linelists are split into chunks of 500,000 cases each. Variable naming and order is consistent across all files (i.e. the source is a single database file; the data is chunked only when pushed to Github). This is to manage file size, especially if and when the dataset is deepened in future.
 
-All aggregated data on cases available via the Github is derived from this linelist.
+All aggregated data on cases is derived from this linelist.
 
 1) `date`: yyyy-mm-dd format; date of case
 2) `days_doseN` number of days between the positive sample date and the individual's first/second/third dose (if any); values 0 or less are nulled
@@ -21,7 +21,7 @@ All aggregated data on cases available via the Github is derived from this linel
 
 ### Deaths
 
-All aggregated data on deaths available via the Github is derived from this linelist. 
+All aggregated data on deaths is derived from this linelist. 
 
 _Note: The deaths linelist was released prior to the cases linelist. As such, it is formatted differently, because several optimisations had to be made to reduce the size of the cases linelist (in particular, coding as many things as possible as integers). In order not to break anyone's scripts, we are not changing the original format of the deaths linelist._
 
