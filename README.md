@@ -4,7 +4,7 @@
 + Documentation and data descriptions contained within subfolders. 
 + Submit pull requests to [share your work for the community](/CONTRIB.md#share-your-work) or [request more data](/CONTRIB.md#data-requests).
 
-All data is correct as of 2359 of date, unless stated otherwise.
+**All data is correct as of 2359 of date, unless stated otherwise.**
 
 ---
 
@@ -27,7 +27,7 @@ All data is correct as of 2359 of date, unless stated otherwise.
 1) [`deaths_malaysia.csv`](/epidemic/deaths_malaysia.csv): Daily deaths due to COVID-19 at country level.
 2) [`deaths_state.csv`](/epidemic/deaths_state.csv): Daily deaths due to COVID-19 at state level.
 
-### Vaccination (all date
+### Vaccinations
 
 1) [`vax_malaysia.csv`](/vaccination/vax_malaysia.csv): Vaccinations (daily and cumulative, by dose type and brand) at country level.
 2) [`vax_state.csv`](/vaccination/vax_state.csv): Vaccinations (daily and cumulative, by dose type and brand) at state level.
