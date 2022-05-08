@@ -12362,7 +12362,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-04-28,Pulau Pinang,2,1,0,0,0,0,0,0,3
 2022-04-28,Sabah,0,0,0,0,0,0,0,0,0
 2022-04-28,Sarawak,0,0,0,0,0,0,0,0,0
-2022-04-28,Selangor,2,0,3,0,1,0,1,1,2
+2022-04-28,Selangor,2,0,4,1,1,0,2,1,2
 2022-04-28,Terengganu,2,0,1,0,0,0,0,1,1
 2022-04-28,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-04-28,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -12373,7 +12373,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-04-29,Melaka,0,0,0,0,0,0,0,0,0
 2022-04-29,Negeri Sembilan,0,0,0,0,0,0,0,0,0
 2022-04-29,Pahang,0,0,0,0,0,0,0,0,0
-2022-04-29,Perak,1,0,0,0,0,0,0,0,1
+2022-04-29,Perak,1,0,1,0,0,0,1,0,1
 2022-04-29,Perlis,0,0,0,0,0,0,0,0,0
 2022-04-29,Pulau Pinang,0,0,1,1,0,0,1,0,0
 2022-04-29,Sabah,1,0,0,0,0,0,0,0,3
@@ -12464,7 +12464,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-05-04,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-05-04,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-05-05,Johor,0,0,0,0,0,0,0,0,0
-2022-05-05,Kedah,0,0,0,0,0,0,0,0,0
+2022-05-05,Kedah,0,0,1,1,0,0,1,0,0
 2022-05-05,Kelantan,0,0,0,0,0,0,0,0,0
 2022-05-05,Melaka,0,0,0,0,0,0,0,0,0
 2022-05-05,Negeri Sembilan,1,0,0,0,0,0,0,0,3
@@ -12474,7 +12474,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-05-05,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-05-05,Sabah,0,0,0,0,0,0,0,0,0
 2022-05-05,Sarawak,0,0,0,0,0,0,0,0,0
-2022-05-05,Selangor,0,0,0,0,0,0,0,0,0
+2022-05-05,Selangor,0,0,1,1,0,0,1,0,0
 2022-05-05,Terengganu,0,0,0,0,0,0,0,0,0
 2022-05-05,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-05-05,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -12511,3 +12511,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-05-07,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-05-07,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-05-07,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2022-05-08,Johor,0,0,0,0,0,0,0,0,0
+2022-05-08,Kedah,1,1,0,0,0,0,0,0,3
+2022-05-08,Kelantan,0,0,0,0,0,0,0,0,0
+2022-05-08,Melaka,0,0,0,0,0,0,0,0,0
+2022-05-08,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-05-08,Pahang,0,0,0,0,0,0,0,0,0
+2022-05-08,Perak,1,0,0,0,0,0,0,0,9
+2022-05-08,Perlis,0,0,0,0,0,0,0,0,0
+2022-05-08,Pulau Pinang,0,0,0,0,0,0,0,0,0
+2022-05-08,Sabah,0,0,0,0,0,0,0,0,0
+2022-05-08,Sarawak,0,0,0,0,0,0,0,0,0
+2022-05-08,Selangor,2,2,0,0,0,0,0,0,6
+2022-05-08,Terengganu,0,0,0,0,0,0,0,0,0
+2022-05-08,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
+2022-05-08,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2022-05-08,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
