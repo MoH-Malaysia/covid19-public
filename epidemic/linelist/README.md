@@ -2,7 +2,7 @@
 
 ### Cases
 
-From the 4th of June onwards, the cases linelist is accessible as a single file via Amazon S3 at this link: https://moh-malaysia-covid19-cases.s3.ap-southeast-1.amazonaws.com/linelist_cases.csv . This is due to the large filesize making it impractical to use GitHub for hosting. Prior to the 4th of June, the cases linelist was split into chunks of 500,000 cases each to manage file size.
+From the 4th of June onwards, the cases linelist is accessible as a single file via Amazon S3 in either [CSV](https://moh-malaysia-covid19.s3.ap-southeast-1.amazonaws.com/linelist_cases.csv) or [parquet](https://moh-malaysia-covid19.s3.ap-southeast-1.amazonaws.com/linelist_cases.parquet) format. Prior to the 4th of June, the cases linelist was split into chunks of 500,000 cases each to manage file size - we have ported it over to Amazon S3 to avoid this practice. The S3 URLs function in the same way as GitHub raw endpoints, and can be used for direct connection from (for example) a Jupyter Notebook. 
 
 All aggregated data on cases is derived from this linelist.
 
