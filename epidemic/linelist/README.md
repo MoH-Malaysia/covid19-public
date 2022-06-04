@@ -2,7 +2,7 @@
 
 ### Cases
 
-The cases linelists are split into chunks of 500,000 cases each. Variable naming and order is consistent across all files (i.e. the source is a single database file; the data is chunked only when pushed to Github). This is to manage file size, especially if and when the dataset is deepened in future.
+From the 4th of June onwards, the cases linelist is accessible as a single file via Amazon S3 at this link: https://moh-malaysia-covid19-cases.s3.ap-southeast-1.amazonaws.com/linelist_cases.csv . This is due to the large filesize making it impractical to use GitHub for hosting. Prior to the 4th of June, the cases linelist was split into chunks of 500,000 cases each to manage file size.
 
 All aggregated data on cases is derived from this linelist.
 
