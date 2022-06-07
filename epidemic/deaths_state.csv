@@ -12866,7 +12866,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-05-30,Johor,0,0,1,0,1,0,0,0,0
 2022-05-30,Kedah,2,1,1,0,1,0,0,0,3
 2022-05-30,Kelantan,0,0,0,0,0,0,0,0,0
-2022-05-30,Melaka,1,0,1,1,0,0,1,0,18
+2022-05-30,Melaka,1,0,2,1,1,0,1,0,18
 2022-05-30,Negeri Sembilan,1,0,0,0,0,0,0,0,3
 2022-05-30,Pahang,0,0,0,0,0,0,0,0,0
 2022-05-30,Perak,0,0,0,0,0,0,0,0,0
@@ -12890,7 +12890,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-05-31,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-05-31,Sabah,0,0,0,0,0,0,0,0,0
 2022-05-31,Sarawak,0,0,0,0,0,0,0,0,0
-2022-05-31,Selangor,2,1,0,0,0,0,0,0,2
+2022-05-31,Selangor,2,1,1,0,0,0,0,1,2
 2022-05-31,Terengganu,1,0,0,0,0,0,0,0,6
 2022-05-31,W.P. Kuala Lumpur,1,1,0,0,0,0,0,0,2
 2022-05-31,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -12928,7 +12928,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-06-02,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-06-02,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-06-03,Johor,0,0,0,0,0,0,0,0,0
-2022-06-03,Kedah,0,0,0,0,0,0,0,0,0
+2022-06-03,Kedah,0,0,2,2,0,0,1,1,0
 2022-06-03,Kelantan,0,0,0,0,0,0,0,0,0
 2022-06-03,Melaka,0,0,0,0,0,0,0,0,0
 2022-06-03,Negeri Sembilan,0,0,0,0,0,0,0,0,0
@@ -12940,13 +12940,13 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-06-03,Sarawak,1,0,0,0,0,0,0,0,1
 2022-06-03,Selangor,0,0,1,0,0,0,1,0,0
 2022-06-03,Terengganu,0,0,0,0,0,0,0,0,0
-2022-06-03,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
+2022-06-03,W.P. Kuala Lumpur,0,0,1,1,1,0,0,0,0
 2022-06-03,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-06-03,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-06-04,Johor,1,0,0,0,0,0,0,0,3
 2022-06-04,Kedah,0,0,0,0,0,0,0,0,0
 2022-06-04,Kelantan,0,0,0,0,0,0,0,0,0
-2022-06-04,Melaka,0,0,0,0,0,0,0,0,0
+2022-06-04,Melaka,0,0,1,1,0,0,0,1,0
 2022-06-04,Negeri Sembilan,0,0,0,0,0,0,0,0,0
 2022-06-04,Pahang,0,0,0,0,0,0,0,0,0
 2022-06-04,Perak,0,0,0,0,0,0,0,0,0
@@ -12955,7 +12955,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-06-04,Sabah,0,0,0,0,0,0,0,0,0
 2022-06-04,Sarawak,0,0,0,0,0,0,0,0,0
 2022-06-04,Selangor,4,2,0,0,0,0,0,0,2
-2022-06-04,Terengganu,0,0,0,0,0,0,0,0,0
+2022-06-04,Terengganu,0,0,1,0,0,0,1,0,0
 2022-06-04,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-06-04,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-06-04,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
@@ -12975,7 +12975,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-06-05,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-06-05,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-06-05,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
-2022-06-06,Johor,1,0,0,0,0,0,0,0,5
+2022-06-06,Johor,1,0,1,0,0,0,1,0,5
 2022-06-06,Kedah,0,0,0,0,0,0,0,0,0
 2022-06-06,Kelantan,1,1,0,0,0,0,0,0,4
 2022-06-06,Melaka,0,0,0,0,0,0,0,0,0
@@ -12983,7 +12983,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-06-06,Pahang,0,0,0,0,0,0,0,0,0
 2022-06-06,Perak,0,0,0,0,0,0,0,0,0
 2022-06-06,Perlis,0,0,0,0,0,0,0,0,0
-2022-06-06,Pulau Pinang,0,0,0,0,0,0,0,0,0
+2022-06-06,Pulau Pinang,0,0,1,0,0,0,0,1,0
 2022-06-06,Sabah,0,0,0,0,0,0,0,0,0
 2022-06-06,Sarawak,0,0,0,0,0,0,0,0,0
 2022-06-06,Selangor,0,0,0,0,0,0,0,0,0
@@ -12991,3 +12991,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-06-06,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-06-06,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-06-06,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2022-06-07,Johor,1,0,0,0,0,0,0,0,1
+2022-06-07,Kedah,2,2,0,0,0,0,0,0,4
+2022-06-07,Kelantan,0,0,0,0,0,0,0,0,0
+2022-06-07,Melaka,2,1,0,0,0,0,0,0,5
+2022-06-07,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-06-07,Pahang,0,0,0,0,0,0,0,0,0
+2022-06-07,Perak,0,0,0,0,0,0,0,0,0
+2022-06-07,Perlis,0,0,0,0,0,0,0,0,0
+2022-06-07,Pulau Pinang,1,0,0,0,0,0,0,0,1
+2022-06-07,Sabah,0,0,0,0,0,0,0,0,0
+2022-06-07,Sarawak,0,0,0,0,0,0,0,0,0
+2022-06-07,Selangor,1,0,0,0,0,0,0,0,7
+2022-06-07,Terengganu,1,0,0,0,0,0,0,0,3
+2022-06-07,W.P. Kuala Lumpur,1,1,0,0,0,0,0,0,4
+2022-06-07,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2022-06-07,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
