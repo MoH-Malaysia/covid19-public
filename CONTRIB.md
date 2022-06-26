@@ -20,7 +20,7 @@ MY Covid Dashboard - Showing Malaysian country level, and state based trends in 
 
 + [[Live site]](https://kokyew93.shinyapps.io/covmal) Interactive dashboard built by Shiny and R to visualize the incidence. by[Ngew Kok Yew](https://github.com/ngewkokyew)
 
-+ [Google Maps statistics showing all state-related variables](https://steveteoh.github.io/Statistics/)
++ [[Live site with Google Maps]](https://steveteoh.github.io/Statistics/)
 Client-side Google Map Visualization tool for all state-related variables released by MOH, by [Steve Teoh](mailto:chteoh@1utar.my?subject=Map "GMap"). It directly references the data sources in https://github.com/MoH-Malaysia/covid19-public/tree/main/ so there is no need to update and maintain a separate data file.
 
 + [[Google Data Studio Dashboard]](https://datastudio.google.com/reporting/8ba8d5d5-9a39-4506-af28-7ab8fcd8f8a9)
