@@ -20,6 +20,8 @@ MY Covid Dashboard - Showing Malaysian country level, and state based trends in 
 
 + [[Live site]](https://kokyew93.shinyapps.io/covmal) Interactive dashboard built by Shiny and R to visualize the incidence. by[Ngew Kok Yew](https://github.com/ngewkokyew)
 
++ [[Live site]](https://covid19.oysterlee.dev/)[[GitHub Repo]](https://github.com/OysterD3/malaysia-covid19-tracker) A Covid-19 tracker for Malaysian, some data came from [disease.sh](https://disease.sh). Built by [Oyster Lee](https://github.com/OysterD3)
+
 + [[Live site with Google Maps]](https://steveteoh.github.io/Statistics/)
 Client-side Google Map Visualization tool for all state-related variables released by MOH, by [Steve Teoh](mailto:chteoh@1utar.my?subject=Map "GMap"). It directly references the data sources in https://github.com/MoH-Malaysia/covid19-public/tree/main/ so there is no need to update and maintain a separate data file.
 
@@ -75,8 +77,6 @@ Generated output found in the /output folder is also accessible online.
 
 + [[GitHub Repo]](https://github.com/leeliwei930/moh-my-covid-express-api)
 Generates a simple report about the current Covid-19 cases and deaths in Malaysia. For compatible Apple devices and iPhones, [a Shortcut tool](https://www.icloud.com/shortcuts/77bf8a1a406e437fa939d172f28f987b) based on this repository can be installed and triggered with Siri voice commands and/or clicking the command toggle. The shortcut can be used to fetch the current Covid-19 cases and deaths in Malaysia as well.
-
-+ [[GitHub Repo]](https://github.com/OysterD3/malaysia-covid19-tracker)[[Malaysia Covid-19 Tracker]](https://covid19.oysterlee.dev/) A Covid-19 tracker for Malaysian, some data came from [disease.sh](https://disease.sh). Built by [Oyster Lee](https://github.com/OysterD3)
 
 + [[Github Repo]](https://github.com/wnarifin/covid-19-malaysia)[[Flexdashboard]](https://healthdata.usm.my:3939/content/174) _Covid-19 Situation in Malaysia_ is a dashboard developed using flexdashboard R package and R Markdown. By [wnarifin](https://github.com/wnarifin/) and Epidemiology Modelling Team. Hosted by [Healthdata@USM](https://healthdata.usm.my/).
 
