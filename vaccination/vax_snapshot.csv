@@ -1,0 +1,2809 @@
+state,age_group,dose,metric,value
+Malaysia,elderly,dose1,total,12345678.0
+Malaysia,elderly,dose1,daily,1234.0
+Malaysia,elderly,dose1,perc,80.23123
+Malaysia,elderly,dose2,total,12345678.0
+Malaysia,elderly,dose2,daily,1234.0
+Malaysia,elderly,dose2,perc,80.23123
+Malaysia,elderly,booster1,total,12345678.0
+Malaysia,elderly,booster1,daily,1234.0
+Malaysia,elderly,booster1,perc,80.23123
+Malaysia,elderly,booster2,total,12345678.0
+Malaysia,elderly,booster2,daily,1234.0
+Malaysia,elderly,booster2,perc,80.23123
+Malaysia,adult,dose1,total,12345678.0
+Malaysia,adult,dose1,daily,1234.0
+Malaysia,adult,dose1,perc,80.23123
+Malaysia,adult,dose2,total,12345678.0
+Malaysia,adult,dose2,daily,1234.0
+Malaysia,adult,dose2,perc,80.23123
+Malaysia,adult,booster1,total,12345678.0
+Malaysia,adult,booster1,daily,1234.0
+Malaysia,adult,booster1,perc,80.23123
+Malaysia,adult,booster2,total,12345678.0
+Malaysia,adult,booster2,daily,1234.0
+Malaysia,adult,booster2,perc,80.23123
+Malaysia,adolescent,dose1,total,12345678.0
+Malaysia,adolescent,dose1,daily,1234.0
+Malaysia,adolescent,dose1,perc,80.23123
+Malaysia,adolescent,dose2,total,12345678.0
+Malaysia,adolescent,dose2,daily,1234.0
+Malaysia,adolescent,dose2,perc,80.23123
+Malaysia,adolescent,booster1,total,12345678.0
+Malaysia,adolescent,booster1,daily,1234.0
+Malaysia,adolescent,booster1,perc,80.23123
+Malaysia,adolescent,booster2,total,12345678.0
+Malaysia,adolescent,booster2,daily,1234.0
+Malaysia,adolescent,booster2,perc,80.23123
+Malaysia,child,dose1,total,12345678.0
+Malaysia,child,dose1,daily,1234.0
+Malaysia,child,dose1,perc,80.23123
+Malaysia,child,dose2,total,12345678.0
+Malaysia,child,dose2,daily,1234.0
+Malaysia,child,dose2,perc,80.23123
+Malaysia,child,booster1,total,12345678.0
+Malaysia,child,booster1,daily,1234.0
+Malaysia,child,booster1,perc,80.23123
+Malaysia,child,booster2,total,12345678.0
+Malaysia,child,booster2,daily,1234.0
+Malaysia,child,booster2,perc,80.23123
+Malaysia,70_79,dose1,total,12345678.0
+Malaysia,70_79,dose1,daily,1234.0
+Malaysia,70_79,dose1,perc,80.23123
+Malaysia,70_79,dose2,total,12345678.0
+Malaysia,70_79,dose2,daily,1234.0
+Malaysia,70_79,dose2,perc,80.23123
+Malaysia,70_79,booster1,total,12345678.0
+Malaysia,70_79,booster1,daily,1234.0
+Malaysia,70_79,booster1,perc,80.23123
+Malaysia,70_79,booster2,total,12345678.0
+Malaysia,70_79,booster2,daily,1234.0
+Malaysia,70_79,booster2,perc,80.23123
+Malaysia,60_69,dose1,total,12345678.0
+Malaysia,60_69,dose1,daily,1234.0
+Malaysia,60_69,dose1,perc,80.23123
+Malaysia,60_69,dose2,total,12345678.0
+Malaysia,60_69,dose2,daily,1234.0
+Malaysia,60_69,dose2,perc,80.23123
+Malaysia,60_69,booster1,total,12345678.0
+Malaysia,60_69,booster1,daily,1234.0
+Malaysia,60_69,booster1,perc,80.23123
+Malaysia,60_69,booster2,total,12345678.0
+Malaysia,60_69,booster2,daily,1234.0
+Malaysia,60_69,booster2,perc,80.23123
+Malaysia,50_59,dose1,total,12345678.0
+Malaysia,50_59,dose1,daily,1234.0
+Malaysia,50_59,dose1,perc,80.23123
+Malaysia,50_59,dose2,total,12345678.0
+Malaysia,50_59,dose2,daily,1234.0
+Malaysia,50_59,dose2,perc,80.23123
+Malaysia,50_59,booster1,total,12345678.0
+Malaysia,50_59,booster1,daily,1234.0
+Malaysia,50_59,booster1,perc,80.23123
+Malaysia,50_59,booster2,total,12345678.0
+Malaysia,50_59,booster2,daily,1234.0
+Malaysia,50_59,booster2,perc,80.23123
+Malaysia,40_49,dose1,total,12345678.0
+Malaysia,40_49,dose1,daily,1234.0
+Malaysia,40_49,dose1,perc,80.23123
+Malaysia,40_49,dose2,total,12345678.0
+Malaysia,40_49,dose2,daily,1234.0
+Malaysia,40_49,dose2,perc,80.23123
+Malaysia,40_49,booster1,total,12345678.0
+Malaysia,40_49,booster1,daily,1234.0
+Malaysia,40_49,booster1,perc,80.23123
+Malaysia,40_49,booster2,total,12345678.0
+Malaysia,40_49,booster2,daily,1234.0
+Malaysia,40_49,booster2,perc,80.23123
+Malaysia,30_39,dose1,total,12345678.0
+Malaysia,30_39,dose1,daily,1234.0
+Malaysia,30_39,dose1,perc,80.23123
+Malaysia,30_39,dose2,total,12345678.0
+Malaysia,30_39,dose2,daily,1234.0
+Malaysia,30_39,dose2,perc,80.23123
+Malaysia,30_39,booster1,total,12345678.0
+Malaysia,30_39,booster1,daily,1234.0
+Malaysia,30_39,booster1,perc,80.23123
+Malaysia,30_39,booster2,total,12345678.0
+Malaysia,30_39,booster2,daily,1234.0
+Malaysia,30_39,booster2,perc,80.23123
+Malaysia,18_29,dose1,total,12345678.0
+Malaysia,18_29,dose1,daily,1234.0
+Malaysia,18_29,dose1,perc,80.23123
+Malaysia,18_29,dose2,total,12345678.0
+Malaysia,18_29,dose2,daily,1234.0
+Malaysia,18_29,dose2,perc,80.23123
+Malaysia,18_29,booster1,total,12345678.0
+Malaysia,18_29,booster1,daily,1234.0
+Malaysia,18_29,booster1,perc,80.23123
+Malaysia,18_29,booster2,total,12345678.0
+Malaysia,18_29,booster2,daily,1234.0
+Malaysia,18_29,booster2,perc,80.23123
+Malaysia,12_17,dose1,total,12345678.0
+Malaysia,12_17,dose1,daily,1234.0
+Malaysia,12_17,dose1,perc,80.23123
+Malaysia,12_17,dose2,total,12345678.0
+Malaysia,12_17,dose2,daily,1234.0
+Malaysia,12_17,dose2,perc,80.23123
+Malaysia,12_17,booster1,total,12345678.0
+Malaysia,12_17,booster1,daily,1234.0
+Malaysia,12_17,booster1,perc,80.23123
+Malaysia,12_17,booster2,total,12345678.0
+Malaysia,12_17,booster2,daily,1234.0
+Malaysia,12_17,booster2,perc,80.23123
+Malaysia,5_11,dose1,total,12345678.0
+Malaysia,5_11,dose1,daily,1234.0
+Malaysia,5_11,dose1,perc,80.23123
+Malaysia,5_11,dose2,total,12345678.0
+Malaysia,5_11,dose2,daily,1234.0
+Malaysia,5_11,dose2,perc,80.23123
+Malaysia,5_11,booster1,total,12345678.0
+Malaysia,5_11,booster1,daily,1234.0
+Malaysia,5_11,booster1,perc,80.23123
+Malaysia,5_11,booster2,total,12345678.0
+Malaysia,5_11,booster2,daily,1234.0
+Malaysia,5_11,booster2,perc,80.23123
+Malaysia,0_4,dose1,total,12345678.0
+Malaysia,0_4,dose1,daily,1234.0
+Malaysia,0_4,dose1,perc,80.23123
+Malaysia,0_4,dose2,total,12345678.0
+Malaysia,0_4,dose2,daily,1234.0
+Malaysia,0_4,dose2,perc,80.23123
+Malaysia,0_4,booster1,total,12345678.0
+Malaysia,0_4,booster1,daily,1234.0
+Malaysia,0_4,booster1,perc,80.23123
+Malaysia,0_4,booster2,total,12345678.0
+Malaysia,0_4,booster2,daily,1234.0
+Malaysia,0_4,booster2,perc,80.23123
+Klang Valley,elderly,dose1,total,12345678.0
+Klang Valley,elderly,dose1,daily,1234.0
+Klang Valley,elderly,dose1,perc,80.23123
+Klang Valley,elderly,dose2,total,12345678.0
+Klang Valley,elderly,dose2,daily,1234.0
+Klang Valley,elderly,dose2,perc,80.23123
+Klang Valley,elderly,booster1,total,12345678.0
+Klang Valley,elderly,booster1,daily,1234.0
+Klang Valley,elderly,booster1,perc,80.23123
+Klang Valley,elderly,booster2,total,12345678.0
+Klang Valley,elderly,booster2,daily,1234.0
+Klang Valley,elderly,booster2,perc,80.23123
+Klang Valley,adult,dose1,total,12345678.0
+Klang Valley,adult,dose1,daily,1234.0
+Klang Valley,adult,dose1,perc,80.23123
+Klang Valley,adult,dose2,total,12345678.0
+Klang Valley,adult,dose2,daily,1234.0
+Klang Valley,adult,dose2,perc,80.23123
+Klang Valley,adult,booster1,total,12345678.0
+Klang Valley,adult,booster1,daily,1234.0
+Klang Valley,adult,booster1,perc,80.23123
+Klang Valley,adult,booster2,total,12345678.0
+Klang Valley,adult,booster2,daily,1234.0
+Klang Valley,adult,booster2,perc,80.23123
+Klang Valley,adolescent,dose1,total,12345678.0
+Klang Valley,adolescent,dose1,daily,1234.0
+Klang Valley,adolescent,dose1,perc,80.23123
+Klang Valley,adolescent,dose2,total,12345678.0
+Klang Valley,adolescent,dose2,daily,1234.0
+Klang Valley,adolescent,dose2,perc,80.23123
+Klang Valley,adolescent,booster1,total,12345678.0
+Klang Valley,adolescent,booster1,daily,1234.0
+Klang Valley,adolescent,booster1,perc,80.23123
+Klang Valley,adolescent,booster2,total,12345678.0
+Klang Valley,adolescent,booster2,daily,1234.0
+Klang Valley,adolescent,booster2,perc,80.23123
+Klang Valley,child,dose1,total,12345678.0
+Klang Valley,child,dose1,daily,1234.0
+Klang Valley,child,dose1,perc,80.23123
+Klang Valley,child,dose2,total,12345678.0
+Klang Valley,child,dose2,daily,1234.0
+Klang Valley,child,dose2,perc,80.23123
+Klang Valley,child,booster1,total,12345678.0
+Klang Valley,child,booster1,daily,1234.0
+Klang Valley,child,booster1,perc,80.23123
+Klang Valley,child,booster2,total,12345678.0
+Klang Valley,child,booster2,daily,1234.0
+Klang Valley,child,booster2,perc,80.23123
+Klang Valley,70_79,dose1,total,12345678.0
+Klang Valley,70_79,dose1,daily,1234.0
+Klang Valley,70_79,dose1,perc,80.23123
+Klang Valley,70_79,dose2,total,12345678.0
+Klang Valley,70_79,dose2,daily,1234.0
+Klang Valley,70_79,dose2,perc,80.23123
+Klang Valley,70_79,booster1,total,12345678.0
+Klang Valley,70_79,booster1,daily,1234.0
+Klang Valley,70_79,booster1,perc,80.23123
+Klang Valley,70_79,booster2,total,12345678.0
+Klang Valley,70_79,booster2,daily,1234.0
+Klang Valley,70_79,booster2,perc,80.23123
+Klang Valley,60_69,dose1,total,12345678.0
+Klang Valley,60_69,dose1,daily,1234.0
+Klang Valley,60_69,dose1,perc,80.23123
+Klang Valley,60_69,dose2,total,12345678.0
+Klang Valley,60_69,dose2,daily,1234.0
+Klang Valley,60_69,dose2,perc,80.23123
+Klang Valley,60_69,booster1,total,12345678.0
+Klang Valley,60_69,booster1,daily,1234.0
+Klang Valley,60_69,booster1,perc,80.23123
+Klang Valley,60_69,booster2,total,12345678.0
+Klang Valley,60_69,booster2,daily,1234.0
+Klang Valley,60_69,booster2,perc,80.23123
+Klang Valley,50_59,dose1,total,12345678.0
+Klang Valley,50_59,dose1,daily,1234.0
+Klang Valley,50_59,dose1,perc,80.23123
+Klang Valley,50_59,dose2,total,12345678.0
+Klang Valley,50_59,dose2,daily,1234.0
+Klang Valley,50_59,dose2,perc,80.23123
+Klang Valley,50_59,booster1,total,12345678.0
+Klang Valley,50_59,booster1,daily,1234.0
+Klang Valley,50_59,booster1,perc,80.23123
+Klang Valley,50_59,booster2,total,12345678.0
+Klang Valley,50_59,booster2,daily,1234.0
+Klang Valley,50_59,booster2,perc,80.23123
+Klang Valley,40_49,dose1,total,12345678.0
+Klang Valley,40_49,dose1,daily,1234.0
+Klang Valley,40_49,dose1,perc,80.23123
+Klang Valley,40_49,dose2,total,12345678.0
+Klang Valley,40_49,dose2,daily,1234.0
+Klang Valley,40_49,dose2,perc,80.23123
+Klang Valley,40_49,booster1,total,12345678.0
+Klang Valley,40_49,booster1,daily,1234.0
+Klang Valley,40_49,booster1,perc,80.23123
+Klang Valley,40_49,booster2,total,12345678.0
+Klang Valley,40_49,booster2,daily,1234.0
+Klang Valley,40_49,booster2,perc,80.23123
+Klang Valley,30_39,dose1,total,12345678.0
+Klang Valley,30_39,dose1,daily,1234.0
+Klang Valley,30_39,dose1,perc,80.23123
+Klang Valley,30_39,dose2,total,12345678.0
+Klang Valley,30_39,dose2,daily,1234.0
+Klang Valley,30_39,dose2,perc,80.23123
+Klang Valley,30_39,booster1,total,12345678.0
+Klang Valley,30_39,booster1,daily,1234.0
+Klang Valley,30_39,booster1,perc,80.23123
+Klang Valley,30_39,booster2,total,12345678.0
+Klang Valley,30_39,booster2,daily,1234.0
+Klang Valley,30_39,booster2,perc,80.23123
+Klang Valley,18_29,dose1,total,12345678.0
+Klang Valley,18_29,dose1,daily,1234.0
+Klang Valley,18_29,dose1,perc,80.23123
+Klang Valley,18_29,dose2,total,12345678.0
+Klang Valley,18_29,dose2,daily,1234.0
+Klang Valley,18_29,dose2,perc,80.23123
+Klang Valley,18_29,booster1,total,12345678.0
+Klang Valley,18_29,booster1,daily,1234.0
+Klang Valley,18_29,booster1,perc,80.23123
+Klang Valley,18_29,booster2,total,12345678.0
+Klang Valley,18_29,booster2,daily,1234.0
+Klang Valley,18_29,booster2,perc,80.23123
+Klang Valley,12_17,dose1,total,12345678.0
+Klang Valley,12_17,dose1,daily,1234.0
+Klang Valley,12_17,dose1,perc,80.23123
+Klang Valley,12_17,dose2,total,12345678.0
+Klang Valley,12_17,dose2,daily,1234.0
+Klang Valley,12_17,dose2,perc,80.23123
+Klang Valley,12_17,booster1,total,12345678.0
+Klang Valley,12_17,booster1,daily,1234.0
+Klang Valley,12_17,booster1,perc,80.23123
+Klang Valley,12_17,booster2,total,12345678.0
+Klang Valley,12_17,booster2,daily,1234.0
+Klang Valley,12_17,booster2,perc,80.23123
+Klang Valley,5_11,dose1,total,12345678.0
+Klang Valley,5_11,dose1,daily,1234.0
+Klang Valley,5_11,dose1,perc,80.23123
+Klang Valley,5_11,dose2,total,12345678.0
+Klang Valley,5_11,dose2,daily,1234.0
+Klang Valley,5_11,dose2,perc,80.23123
+Klang Valley,5_11,booster1,total,12345678.0
+Klang Valley,5_11,booster1,daily,1234.0
+Klang Valley,5_11,booster1,perc,80.23123
+Klang Valley,5_11,booster2,total,12345678.0
+Klang Valley,5_11,booster2,daily,1234.0
+Klang Valley,5_11,booster2,perc,80.23123
+Klang Valley,0_4,dose1,total,12345678.0
+Klang Valley,0_4,dose1,daily,1234.0
+Klang Valley,0_4,dose1,perc,80.23123
+Klang Valley,0_4,dose2,total,12345678.0
+Klang Valley,0_4,dose2,daily,1234.0
+Klang Valley,0_4,dose2,perc,80.23123
+Klang Valley,0_4,booster1,total,12345678.0
+Klang Valley,0_4,booster1,daily,1234.0
+Klang Valley,0_4,booster1,perc,80.23123
+Klang Valley,0_4,booster2,total,12345678.0
+Klang Valley,0_4,booster2,daily,1234.0
+Klang Valley,0_4,booster2,perc,80.23123
+Johor,elderly,dose1,total,12345678.0
+Johor,elderly,dose1,daily,1234.0
+Johor,elderly,dose1,perc,80.23123
+Johor,elderly,dose2,total,12345678.0
+Johor,elderly,dose2,daily,1234.0
+Johor,elderly,dose2,perc,80.23123
+Johor,elderly,booster1,total,12345678.0
+Johor,elderly,booster1,daily,1234.0
+Johor,elderly,booster1,perc,80.23123
+Johor,elderly,booster2,total,12345678.0
+Johor,elderly,booster2,daily,1234.0
+Johor,elderly,booster2,perc,80.23123
+Johor,adult,dose1,total,12345678.0
+Johor,adult,dose1,daily,1234.0
+Johor,adult,dose1,perc,80.23123
+Johor,adult,dose2,total,12345678.0
+Johor,adult,dose2,daily,1234.0
+Johor,adult,dose2,perc,80.23123
+Johor,adult,booster1,total,12345678.0
+Johor,adult,booster1,daily,1234.0
+Johor,adult,booster1,perc,80.23123
+Johor,adult,booster2,total,12345678.0
+Johor,adult,booster2,daily,1234.0
+Johor,adult,booster2,perc,80.23123
+Johor,adolescent,dose1,total,12345678.0
+Johor,adolescent,dose1,daily,1234.0
+Johor,adolescent,dose1,perc,80.23123
+Johor,adolescent,dose2,total,12345678.0
+Johor,adolescent,dose2,daily,1234.0
+Johor,adolescent,dose2,perc,80.23123
+Johor,adolescent,booster1,total,12345678.0
+Johor,adolescent,booster1,daily,1234.0
+Johor,adolescent,booster1,perc,80.23123
+Johor,adolescent,booster2,total,12345678.0
+Johor,adolescent,booster2,daily,1234.0
+Johor,adolescent,booster2,perc,80.23123
+Johor,child,dose1,total,12345678.0
+Johor,child,dose1,daily,1234.0
+Johor,child,dose1,perc,80.23123
+Johor,child,dose2,total,12345678.0
+Johor,child,dose2,daily,1234.0
+Johor,child,dose2,perc,80.23123
+Johor,child,booster1,total,12345678.0
+Johor,child,booster1,daily,1234.0
+Johor,child,booster1,perc,80.23123
+Johor,child,booster2,total,12345678.0
+Johor,child,booster2,daily,1234.0
+Johor,child,booster2,perc,80.23123
+Johor,70_79,dose1,total,12345678.0
+Johor,70_79,dose1,daily,1234.0
+Johor,70_79,dose1,perc,80.23123
+Johor,70_79,dose2,total,12345678.0
+Johor,70_79,dose2,daily,1234.0
+Johor,70_79,dose2,perc,80.23123
+Johor,70_79,booster1,total,12345678.0
+Johor,70_79,booster1,daily,1234.0
+Johor,70_79,booster1,perc,80.23123
+Johor,70_79,booster2,total,12345678.0
+Johor,70_79,booster2,daily,1234.0
+Johor,70_79,booster2,perc,80.23123
+Johor,60_69,dose1,total,12345678.0
+Johor,60_69,dose1,daily,1234.0
+Johor,60_69,dose1,perc,80.23123
+Johor,60_69,dose2,total,12345678.0
+Johor,60_69,dose2,daily,1234.0
+Johor,60_69,dose2,perc,80.23123
+Johor,60_69,booster1,total,12345678.0
+Johor,60_69,booster1,daily,1234.0
+Johor,60_69,booster1,perc,80.23123
+Johor,60_69,booster2,total,12345678.0
+Johor,60_69,booster2,daily,1234.0
+Johor,60_69,booster2,perc,80.23123
+Johor,50_59,dose1,total,12345678.0
+Johor,50_59,dose1,daily,1234.0
+Johor,50_59,dose1,perc,80.23123
+Johor,50_59,dose2,total,12345678.0
+Johor,50_59,dose2,daily,1234.0
+Johor,50_59,dose2,perc,80.23123
+Johor,50_59,booster1,total,12345678.0
+Johor,50_59,booster1,daily,1234.0
+Johor,50_59,booster1,perc,80.23123
+Johor,50_59,booster2,total,12345678.0
+Johor,50_59,booster2,daily,1234.0
+Johor,50_59,booster2,perc,80.23123
+Johor,40_49,dose1,total,12345678.0
+Johor,40_49,dose1,daily,1234.0
+Johor,40_49,dose1,perc,80.23123
+Johor,40_49,dose2,total,12345678.0
+Johor,40_49,dose2,daily,1234.0
+Johor,40_49,dose2,perc,80.23123
+Johor,40_49,booster1,total,12345678.0
+Johor,40_49,booster1,daily,1234.0
+Johor,40_49,booster1,perc,80.23123
+Johor,40_49,booster2,total,12345678.0
+Johor,40_49,booster2,daily,1234.0
+Johor,40_49,booster2,perc,80.23123
+Johor,30_39,dose1,total,12345678.0
+Johor,30_39,dose1,daily,1234.0
+Johor,30_39,dose1,perc,80.23123
+Johor,30_39,dose2,total,12345678.0
+Johor,30_39,dose2,daily,1234.0
+Johor,30_39,dose2,perc,80.23123
+Johor,30_39,booster1,total,12345678.0
+Johor,30_39,booster1,daily,1234.0
+Johor,30_39,booster1,perc,80.23123
+Johor,30_39,booster2,total,12345678.0
+Johor,30_39,booster2,daily,1234.0
+Johor,30_39,booster2,perc,80.23123
+Johor,18_29,dose1,total,12345678.0
+Johor,18_29,dose1,daily,1234.0
+Johor,18_29,dose1,perc,80.23123
+Johor,18_29,dose2,total,12345678.0
+Johor,18_29,dose2,daily,1234.0
+Johor,18_29,dose2,perc,80.23123
+Johor,18_29,booster1,total,12345678.0
+Johor,18_29,booster1,daily,1234.0
+Johor,18_29,booster1,perc,80.23123
+Johor,18_29,booster2,total,12345678.0
+Johor,18_29,booster2,daily,1234.0
+Johor,18_29,booster2,perc,80.23123
+Johor,12_17,dose1,total,12345678.0
+Johor,12_17,dose1,daily,1234.0
+Johor,12_17,dose1,perc,80.23123
+Johor,12_17,dose2,total,12345678.0
+Johor,12_17,dose2,daily,1234.0
+Johor,12_17,dose2,perc,80.23123
+Johor,12_17,booster1,total,12345678.0
+Johor,12_17,booster1,daily,1234.0
+Johor,12_17,booster1,perc,80.23123
+Johor,12_17,booster2,total,12345678.0
+Johor,12_17,booster2,daily,1234.0
+Johor,12_17,booster2,perc,80.23123
+Johor,5_11,dose1,total,12345678.0
+Johor,5_11,dose1,daily,1234.0
+Johor,5_11,dose1,perc,80.23123
+Johor,5_11,dose2,total,12345678.0
+Johor,5_11,dose2,daily,1234.0
+Johor,5_11,dose2,perc,80.23123
+Johor,5_11,booster1,total,12345678.0
+Johor,5_11,booster1,daily,1234.0
+Johor,5_11,booster1,perc,80.23123
+Johor,5_11,booster2,total,12345678.0
+Johor,5_11,booster2,daily,1234.0
+Johor,5_11,booster2,perc,80.23123
+Johor,0_4,dose1,total,12345678.0
+Johor,0_4,dose1,daily,1234.0
+Johor,0_4,dose1,perc,80.23123
+Johor,0_4,dose2,total,12345678.0
+Johor,0_4,dose2,daily,1234.0
+Johor,0_4,dose2,perc,80.23123
+Johor,0_4,booster1,total,12345678.0
+Johor,0_4,booster1,daily,1234.0
+Johor,0_4,booster1,perc,80.23123
+Johor,0_4,booster2,total,12345678.0
+Johor,0_4,booster2,daily,1234.0
+Johor,0_4,booster2,perc,80.23123
+Kedah,elderly,dose1,total,12345678.0
+Kedah,elderly,dose1,daily,1234.0
+Kedah,elderly,dose1,perc,80.23123
+Kedah,elderly,dose2,total,12345678.0
+Kedah,elderly,dose2,daily,1234.0
+Kedah,elderly,dose2,perc,80.23123
+Kedah,elderly,booster1,total,12345678.0
+Kedah,elderly,booster1,daily,1234.0
+Kedah,elderly,booster1,perc,80.23123
+Kedah,elderly,booster2,total,12345678.0
+Kedah,elderly,booster2,daily,1234.0
+Kedah,elderly,booster2,perc,80.23123
+Kedah,adult,dose1,total,12345678.0
+Kedah,adult,dose1,daily,1234.0
+Kedah,adult,dose1,perc,80.23123
+Kedah,adult,dose2,total,12345678.0
+Kedah,adult,dose2,daily,1234.0
+Kedah,adult,dose2,perc,80.23123
+Kedah,adult,booster1,total,12345678.0
+Kedah,adult,booster1,daily,1234.0
+Kedah,adult,booster1,perc,80.23123
+Kedah,adult,booster2,total,12345678.0
+Kedah,adult,booster2,daily,1234.0
+Kedah,adult,booster2,perc,80.23123
+Kedah,adolescent,dose1,total,12345678.0
+Kedah,adolescent,dose1,daily,1234.0
+Kedah,adolescent,dose1,perc,80.23123
+Kedah,adolescent,dose2,total,12345678.0
+Kedah,adolescent,dose2,daily,1234.0
+Kedah,adolescent,dose2,perc,80.23123
+Kedah,adolescent,booster1,total,12345678.0
+Kedah,adolescent,booster1,daily,1234.0
+Kedah,adolescent,booster1,perc,80.23123
+Kedah,adolescent,booster2,total,12345678.0
+Kedah,adolescent,booster2,daily,1234.0
+Kedah,adolescent,booster2,perc,80.23123
+Kedah,child,dose1,total,12345678.0
+Kedah,child,dose1,daily,1234.0
+Kedah,child,dose1,perc,80.23123
+Kedah,child,dose2,total,12345678.0
+Kedah,child,dose2,daily,1234.0
+Kedah,child,dose2,perc,80.23123
+Kedah,child,booster1,total,12345678.0
+Kedah,child,booster1,daily,1234.0
+Kedah,child,booster1,perc,80.23123
+Kedah,child,booster2,total,12345678.0
+Kedah,child,booster2,daily,1234.0
+Kedah,child,booster2,perc,80.23123
+Kedah,70_79,dose1,total,12345678.0
+Kedah,70_79,dose1,daily,1234.0
+Kedah,70_79,dose1,perc,80.23123
+Kedah,70_79,dose2,total,12345678.0
+Kedah,70_79,dose2,daily,1234.0
+Kedah,70_79,dose2,perc,80.23123
+Kedah,70_79,booster1,total,12345678.0
+Kedah,70_79,booster1,daily,1234.0
+Kedah,70_79,booster1,perc,80.23123
+Kedah,70_79,booster2,total,12345678.0
+Kedah,70_79,booster2,daily,1234.0
+Kedah,70_79,booster2,perc,80.23123
+Kedah,60_69,dose1,total,12345678.0
+Kedah,60_69,dose1,daily,1234.0
+Kedah,60_69,dose1,perc,80.23123
+Kedah,60_69,dose2,total,12345678.0
+Kedah,60_69,dose2,daily,1234.0
+Kedah,60_69,dose2,perc,80.23123
+Kedah,60_69,booster1,total,12345678.0
+Kedah,60_69,booster1,daily,1234.0
+Kedah,60_69,booster1,perc,80.23123
+Kedah,60_69,booster2,total,12345678.0
+Kedah,60_69,booster2,daily,1234.0
+Kedah,60_69,booster2,perc,80.23123
+Kedah,50_59,dose1,total,12345678.0
+Kedah,50_59,dose1,daily,1234.0
+Kedah,50_59,dose1,perc,80.23123
+Kedah,50_59,dose2,total,12345678.0
+Kedah,50_59,dose2,daily,1234.0
+Kedah,50_59,dose2,perc,80.23123
+Kedah,50_59,booster1,total,12345678.0
+Kedah,50_59,booster1,daily,1234.0
+Kedah,50_59,booster1,perc,80.23123
+Kedah,50_59,booster2,total,12345678.0
+Kedah,50_59,booster2,daily,1234.0
+Kedah,50_59,booster2,perc,80.23123
+Kedah,40_49,dose1,total,12345678.0
+Kedah,40_49,dose1,daily,1234.0
+Kedah,40_49,dose1,perc,80.23123
+Kedah,40_49,dose2,total,12345678.0
+Kedah,40_49,dose2,daily,1234.0
+Kedah,40_49,dose2,perc,80.23123
+Kedah,40_49,booster1,total,12345678.0
+Kedah,40_49,booster1,daily,1234.0
+Kedah,40_49,booster1,perc,80.23123
+Kedah,40_49,booster2,total,12345678.0
+Kedah,40_49,booster2,daily,1234.0
+Kedah,40_49,booster2,perc,80.23123
+Kedah,30_39,dose1,total,12345678.0
+Kedah,30_39,dose1,daily,1234.0
+Kedah,30_39,dose1,perc,80.23123
+Kedah,30_39,dose2,total,12345678.0
+Kedah,30_39,dose2,daily,1234.0
+Kedah,30_39,dose2,perc,80.23123
+Kedah,30_39,booster1,total,12345678.0
+Kedah,30_39,booster1,daily,1234.0
+Kedah,30_39,booster1,perc,80.23123
+Kedah,30_39,booster2,total,12345678.0
+Kedah,30_39,booster2,daily,1234.0
+Kedah,30_39,booster2,perc,80.23123
+Kedah,18_29,dose1,total,12345678.0
+Kedah,18_29,dose1,daily,1234.0
+Kedah,18_29,dose1,perc,80.23123
+Kedah,18_29,dose2,total,12345678.0
+Kedah,18_29,dose2,daily,1234.0
+Kedah,18_29,dose2,perc,80.23123
+Kedah,18_29,booster1,total,12345678.0
+Kedah,18_29,booster1,daily,1234.0
+Kedah,18_29,booster1,perc,80.23123
+Kedah,18_29,booster2,total,12345678.0
+Kedah,18_29,booster2,daily,1234.0
+Kedah,18_29,booster2,perc,80.23123
+Kedah,12_17,dose1,total,12345678.0
+Kedah,12_17,dose1,daily,1234.0
+Kedah,12_17,dose1,perc,80.23123
+Kedah,12_17,dose2,total,12345678.0
+Kedah,12_17,dose2,daily,1234.0
+Kedah,12_17,dose2,perc,80.23123
+Kedah,12_17,booster1,total,12345678.0
+Kedah,12_17,booster1,daily,1234.0
+Kedah,12_17,booster1,perc,80.23123
+Kedah,12_17,booster2,total,12345678.0
+Kedah,12_17,booster2,daily,1234.0
+Kedah,12_17,booster2,perc,80.23123
+Kedah,5_11,dose1,total,12345678.0
+Kedah,5_11,dose1,daily,1234.0
+Kedah,5_11,dose1,perc,80.23123
+Kedah,5_11,dose2,total,12345678.0
+Kedah,5_11,dose2,daily,1234.0
+Kedah,5_11,dose2,perc,80.23123
+Kedah,5_11,booster1,total,12345678.0
+Kedah,5_11,booster1,daily,1234.0
+Kedah,5_11,booster1,perc,80.23123
+Kedah,5_11,booster2,total,12345678.0
+Kedah,5_11,booster2,daily,1234.0
+Kedah,5_11,booster2,perc,80.23123
+Kedah,0_4,dose1,total,12345678.0
+Kedah,0_4,dose1,daily,1234.0
+Kedah,0_4,dose1,perc,80.23123
+Kedah,0_4,dose2,total,12345678.0
+Kedah,0_4,dose2,daily,1234.0
+Kedah,0_4,dose2,perc,80.23123
+Kedah,0_4,booster1,total,12345678.0
+Kedah,0_4,booster1,daily,1234.0
+Kedah,0_4,booster1,perc,80.23123
+Kedah,0_4,booster2,total,12345678.0
+Kedah,0_4,booster2,daily,1234.0
+Kedah,0_4,booster2,perc,80.23123
+Kelantan,elderly,dose1,total,12345678.0
+Kelantan,elderly,dose1,daily,1234.0
+Kelantan,elderly,dose1,perc,80.23123
+Kelantan,elderly,dose2,total,12345678.0
+Kelantan,elderly,dose2,daily,1234.0
+Kelantan,elderly,dose2,perc,80.23123
+Kelantan,elderly,booster1,total,12345678.0
+Kelantan,elderly,booster1,daily,1234.0
+Kelantan,elderly,booster1,perc,80.23123
+Kelantan,elderly,booster2,total,12345678.0
+Kelantan,elderly,booster2,daily,1234.0
+Kelantan,elderly,booster2,perc,80.23123
+Kelantan,adult,dose1,total,12345678.0
+Kelantan,adult,dose1,daily,1234.0
+Kelantan,adult,dose1,perc,80.23123
+Kelantan,adult,dose2,total,12345678.0
+Kelantan,adult,dose2,daily,1234.0
+Kelantan,adult,dose2,perc,80.23123
+Kelantan,adult,booster1,total,12345678.0
+Kelantan,adult,booster1,daily,1234.0
+Kelantan,adult,booster1,perc,80.23123
+Kelantan,adult,booster2,total,12345678.0
+Kelantan,adult,booster2,daily,1234.0
+Kelantan,adult,booster2,perc,80.23123
+Kelantan,adolescent,dose1,total,12345678.0
+Kelantan,adolescent,dose1,daily,1234.0
+Kelantan,adolescent,dose1,perc,80.23123
+Kelantan,adolescent,dose2,total,12345678.0
+Kelantan,adolescent,dose2,daily,1234.0
+Kelantan,adolescent,dose2,perc,80.23123
+Kelantan,adolescent,booster1,total,12345678.0
+Kelantan,adolescent,booster1,daily,1234.0
+Kelantan,adolescent,booster1,perc,80.23123
+Kelantan,adolescent,booster2,total,12345678.0
+Kelantan,adolescent,booster2,daily,1234.0
+Kelantan,adolescent,booster2,perc,80.23123
+Kelantan,child,dose1,total,12345678.0
+Kelantan,child,dose1,daily,1234.0
+Kelantan,child,dose1,perc,80.23123
+Kelantan,child,dose2,total,12345678.0
+Kelantan,child,dose2,daily,1234.0
+Kelantan,child,dose2,perc,80.23123
+Kelantan,child,booster1,total,12345678.0
+Kelantan,child,booster1,daily,1234.0
+Kelantan,child,booster1,perc,80.23123
+Kelantan,child,booster2,total,12345678.0
+Kelantan,child,booster2,daily,1234.0
+Kelantan,child,booster2,perc,80.23123
+Kelantan,70_79,dose1,total,12345678.0
+Kelantan,70_79,dose1,daily,1234.0
+Kelantan,70_79,dose1,perc,80.23123
+Kelantan,70_79,dose2,total,12345678.0
+Kelantan,70_79,dose2,daily,1234.0
+Kelantan,70_79,dose2,perc,80.23123
+Kelantan,70_79,booster1,total,12345678.0
+Kelantan,70_79,booster1,daily,1234.0
+Kelantan,70_79,booster1,perc,80.23123
+Kelantan,70_79,booster2,total,12345678.0
+Kelantan,70_79,booster2,daily,1234.0
+Kelantan,70_79,booster2,perc,80.23123
+Kelantan,60_69,dose1,total,12345678.0
+Kelantan,60_69,dose1,daily,1234.0
+Kelantan,60_69,dose1,perc,80.23123
+Kelantan,60_69,dose2,total,12345678.0
+Kelantan,60_69,dose2,daily,1234.0
+Kelantan,60_69,dose2,perc,80.23123
+Kelantan,60_69,booster1,total,12345678.0
+Kelantan,60_69,booster1,daily,1234.0
+Kelantan,60_69,booster1,perc,80.23123
+Kelantan,60_69,booster2,total,12345678.0
+Kelantan,60_69,booster2,daily,1234.0
+Kelantan,60_69,booster2,perc,80.23123
+Kelantan,50_59,dose1,total,12345678.0
+Kelantan,50_59,dose1,daily,1234.0
+Kelantan,50_59,dose1,perc,80.23123
+Kelantan,50_59,dose2,total,12345678.0
+Kelantan,50_59,dose2,daily,1234.0
+Kelantan,50_59,dose2,perc,80.23123
+Kelantan,50_59,booster1,total,12345678.0
+Kelantan,50_59,booster1,daily,1234.0
+Kelantan,50_59,booster1,perc,80.23123
+Kelantan,50_59,booster2,total,12345678.0
+Kelantan,50_59,booster2,daily,1234.0
+Kelantan,50_59,booster2,perc,80.23123
+Kelantan,40_49,dose1,total,12345678.0
+Kelantan,40_49,dose1,daily,1234.0
+Kelantan,40_49,dose1,perc,80.23123
+Kelantan,40_49,dose2,total,12345678.0
+Kelantan,40_49,dose2,daily,1234.0
+Kelantan,40_49,dose2,perc,80.23123
+Kelantan,40_49,booster1,total,12345678.0
+Kelantan,40_49,booster1,daily,1234.0
+Kelantan,40_49,booster1,perc,80.23123
+Kelantan,40_49,booster2,total,12345678.0
+Kelantan,40_49,booster2,daily,1234.0
+Kelantan,40_49,booster2,perc,80.23123
+Kelantan,30_39,dose1,total,12345678.0
+Kelantan,30_39,dose1,daily,1234.0
+Kelantan,30_39,dose1,perc,80.23123
+Kelantan,30_39,dose2,total,12345678.0
+Kelantan,30_39,dose2,daily,1234.0
+Kelantan,30_39,dose2,perc,80.23123
+Kelantan,30_39,booster1,total,12345678.0
+Kelantan,30_39,booster1,daily,1234.0
+Kelantan,30_39,booster1,perc,80.23123
+Kelantan,30_39,booster2,total,12345678.0
+Kelantan,30_39,booster2,daily,1234.0
+Kelantan,30_39,booster2,perc,80.23123
+Kelantan,18_29,dose1,total,12345678.0
+Kelantan,18_29,dose1,daily,1234.0
+Kelantan,18_29,dose1,perc,80.23123
+Kelantan,18_29,dose2,total,12345678.0
+Kelantan,18_29,dose2,daily,1234.0
+Kelantan,18_29,dose2,perc,80.23123
+Kelantan,18_29,booster1,total,12345678.0
+Kelantan,18_29,booster1,daily,1234.0
+Kelantan,18_29,booster1,perc,80.23123
+Kelantan,18_29,booster2,total,12345678.0
+Kelantan,18_29,booster2,daily,1234.0
+Kelantan,18_29,booster2,perc,80.23123
+Kelantan,12_17,dose1,total,12345678.0
+Kelantan,12_17,dose1,daily,1234.0
+Kelantan,12_17,dose1,perc,80.23123
+Kelantan,12_17,dose2,total,12345678.0
+Kelantan,12_17,dose2,daily,1234.0
+Kelantan,12_17,dose2,perc,80.23123
+Kelantan,12_17,booster1,total,12345678.0
+Kelantan,12_17,booster1,daily,1234.0
+Kelantan,12_17,booster1,perc,80.23123
+Kelantan,12_17,booster2,total,12345678.0
+Kelantan,12_17,booster2,daily,1234.0
+Kelantan,12_17,booster2,perc,80.23123
+Kelantan,5_11,dose1,total,12345678.0
+Kelantan,5_11,dose1,daily,1234.0
+Kelantan,5_11,dose1,perc,80.23123
+Kelantan,5_11,dose2,total,12345678.0
+Kelantan,5_11,dose2,daily,1234.0
+Kelantan,5_11,dose2,perc,80.23123
+Kelantan,5_11,booster1,total,12345678.0
+Kelantan,5_11,booster1,daily,1234.0
+Kelantan,5_11,booster1,perc,80.23123
+Kelantan,5_11,booster2,total,12345678.0
+Kelantan,5_11,booster2,daily,1234.0
+Kelantan,5_11,booster2,perc,80.23123
+Kelantan,0_4,dose1,total,12345678.0
+Kelantan,0_4,dose1,daily,1234.0
+Kelantan,0_4,dose1,perc,80.23123
+Kelantan,0_4,dose2,total,12345678.0
+Kelantan,0_4,dose2,daily,1234.0
+Kelantan,0_4,dose2,perc,80.23123
+Kelantan,0_4,booster1,total,12345678.0
+Kelantan,0_4,booster1,daily,1234.0
+Kelantan,0_4,booster1,perc,80.23123
+Kelantan,0_4,booster2,total,12345678.0
+Kelantan,0_4,booster2,daily,1234.0
+Kelantan,0_4,booster2,perc,80.23123
+Melaka,elderly,dose1,total,12345678.0
+Melaka,elderly,dose1,daily,1234.0
+Melaka,elderly,dose1,perc,80.23123
+Melaka,elderly,dose2,total,12345678.0
+Melaka,elderly,dose2,daily,1234.0
+Melaka,elderly,dose2,perc,80.23123
+Melaka,elderly,booster1,total,12345678.0
+Melaka,elderly,booster1,daily,1234.0
+Melaka,elderly,booster1,perc,80.23123
+Melaka,elderly,booster2,total,12345678.0
+Melaka,elderly,booster2,daily,1234.0
+Melaka,elderly,booster2,perc,80.23123
+Melaka,adult,dose1,total,12345678.0
+Melaka,adult,dose1,daily,1234.0
+Melaka,adult,dose1,perc,80.23123
+Melaka,adult,dose2,total,12345678.0
+Melaka,adult,dose2,daily,1234.0
+Melaka,adult,dose2,perc,80.23123
+Melaka,adult,booster1,total,12345678.0
+Melaka,adult,booster1,daily,1234.0
+Melaka,adult,booster1,perc,80.23123
+Melaka,adult,booster2,total,12345678.0
+Melaka,adult,booster2,daily,1234.0
+Melaka,adult,booster2,perc,80.23123
+Melaka,adolescent,dose1,total,12345678.0
+Melaka,adolescent,dose1,daily,1234.0
+Melaka,adolescent,dose1,perc,80.23123
+Melaka,adolescent,dose2,total,12345678.0
+Melaka,adolescent,dose2,daily,1234.0
+Melaka,adolescent,dose2,perc,80.23123
+Melaka,adolescent,booster1,total,12345678.0
+Melaka,adolescent,booster1,daily,1234.0
+Melaka,adolescent,booster1,perc,80.23123
+Melaka,adolescent,booster2,total,12345678.0
+Melaka,adolescent,booster2,daily,1234.0
+Melaka,adolescent,booster2,perc,80.23123
+Melaka,child,dose1,total,12345678.0
+Melaka,child,dose1,daily,1234.0
+Melaka,child,dose1,perc,80.23123
+Melaka,child,dose2,total,12345678.0
+Melaka,child,dose2,daily,1234.0
+Melaka,child,dose2,perc,80.23123
+Melaka,child,booster1,total,12345678.0
+Melaka,child,booster1,daily,1234.0
+Melaka,child,booster1,perc,80.23123
+Melaka,child,booster2,total,12345678.0
+Melaka,child,booster2,daily,1234.0
+Melaka,child,booster2,perc,80.23123
+Melaka,70_79,dose1,total,12345678.0
+Melaka,70_79,dose1,daily,1234.0
+Melaka,70_79,dose1,perc,80.23123
+Melaka,70_79,dose2,total,12345678.0
+Melaka,70_79,dose2,daily,1234.0
+Melaka,70_79,dose2,perc,80.23123
+Melaka,70_79,booster1,total,12345678.0
+Melaka,70_79,booster1,daily,1234.0
+Melaka,70_79,booster1,perc,80.23123
+Melaka,70_79,booster2,total,12345678.0
+Melaka,70_79,booster2,daily,1234.0
+Melaka,70_79,booster2,perc,80.23123
+Melaka,60_69,dose1,total,12345678.0
+Melaka,60_69,dose1,daily,1234.0
+Melaka,60_69,dose1,perc,80.23123
+Melaka,60_69,dose2,total,12345678.0
+Melaka,60_69,dose2,daily,1234.0
+Melaka,60_69,dose2,perc,80.23123
+Melaka,60_69,booster1,total,12345678.0
+Melaka,60_69,booster1,daily,1234.0
+Melaka,60_69,booster1,perc,80.23123
+Melaka,60_69,booster2,total,12345678.0
+Melaka,60_69,booster2,daily,1234.0
+Melaka,60_69,booster2,perc,80.23123
+Melaka,50_59,dose1,total,12345678.0
+Melaka,50_59,dose1,daily,1234.0
+Melaka,50_59,dose1,perc,80.23123
+Melaka,50_59,dose2,total,12345678.0
+Melaka,50_59,dose2,daily,1234.0
+Melaka,50_59,dose2,perc,80.23123
+Melaka,50_59,booster1,total,12345678.0
+Melaka,50_59,booster1,daily,1234.0
+Melaka,50_59,booster1,perc,80.23123
+Melaka,50_59,booster2,total,12345678.0
+Melaka,50_59,booster2,daily,1234.0
+Melaka,50_59,booster2,perc,80.23123
+Melaka,40_49,dose1,total,12345678.0
+Melaka,40_49,dose1,daily,1234.0
+Melaka,40_49,dose1,perc,80.23123
+Melaka,40_49,dose2,total,12345678.0
+Melaka,40_49,dose2,daily,1234.0
+Melaka,40_49,dose2,perc,80.23123
+Melaka,40_49,booster1,total,12345678.0
+Melaka,40_49,booster1,daily,1234.0
+Melaka,40_49,booster1,perc,80.23123
+Melaka,40_49,booster2,total,12345678.0
+Melaka,40_49,booster2,daily,1234.0
+Melaka,40_49,booster2,perc,80.23123
+Melaka,30_39,dose1,total,12345678.0
+Melaka,30_39,dose1,daily,1234.0
+Melaka,30_39,dose1,perc,80.23123
+Melaka,30_39,dose2,total,12345678.0
+Melaka,30_39,dose2,daily,1234.0
+Melaka,30_39,dose2,perc,80.23123
+Melaka,30_39,booster1,total,12345678.0
+Melaka,30_39,booster1,daily,1234.0
+Melaka,30_39,booster1,perc,80.23123
+Melaka,30_39,booster2,total,12345678.0
+Melaka,30_39,booster2,daily,1234.0
+Melaka,30_39,booster2,perc,80.23123
+Melaka,18_29,dose1,total,12345678.0
+Melaka,18_29,dose1,daily,1234.0
+Melaka,18_29,dose1,perc,80.23123
+Melaka,18_29,dose2,total,12345678.0
+Melaka,18_29,dose2,daily,1234.0
+Melaka,18_29,dose2,perc,80.23123
+Melaka,18_29,booster1,total,12345678.0
+Melaka,18_29,booster1,daily,1234.0
+Melaka,18_29,booster1,perc,80.23123
+Melaka,18_29,booster2,total,12345678.0
+Melaka,18_29,booster2,daily,1234.0
+Melaka,18_29,booster2,perc,80.23123
+Melaka,12_17,dose1,total,12345678.0
+Melaka,12_17,dose1,daily,1234.0
+Melaka,12_17,dose1,perc,80.23123
+Melaka,12_17,dose2,total,12345678.0
+Melaka,12_17,dose2,daily,1234.0
+Melaka,12_17,dose2,perc,80.23123
+Melaka,12_17,booster1,total,12345678.0
+Melaka,12_17,booster1,daily,1234.0
+Melaka,12_17,booster1,perc,80.23123
+Melaka,12_17,booster2,total,12345678.0
+Melaka,12_17,booster2,daily,1234.0
+Melaka,12_17,booster2,perc,80.23123
+Melaka,5_11,dose1,total,12345678.0
+Melaka,5_11,dose1,daily,1234.0
+Melaka,5_11,dose1,perc,80.23123
+Melaka,5_11,dose2,total,12345678.0
+Melaka,5_11,dose2,daily,1234.0
+Melaka,5_11,dose2,perc,80.23123
+Melaka,5_11,booster1,total,12345678.0
+Melaka,5_11,booster1,daily,1234.0
+Melaka,5_11,booster1,perc,80.23123
+Melaka,5_11,booster2,total,12345678.0
+Melaka,5_11,booster2,daily,1234.0
+Melaka,5_11,booster2,perc,80.23123
+Melaka,0_4,dose1,total,12345678.0
+Melaka,0_4,dose1,daily,1234.0
+Melaka,0_4,dose1,perc,80.23123
+Melaka,0_4,dose2,total,12345678.0
+Melaka,0_4,dose2,daily,1234.0
+Melaka,0_4,dose2,perc,80.23123
+Melaka,0_4,booster1,total,12345678.0
+Melaka,0_4,booster1,daily,1234.0
+Melaka,0_4,booster1,perc,80.23123
+Melaka,0_4,booster2,total,12345678.0
+Melaka,0_4,booster2,daily,1234.0
+Melaka,0_4,booster2,perc,80.23123
+Negeri Sembilan,elderly,dose1,total,12345678.0
+Negeri Sembilan,elderly,dose1,daily,1234.0
+Negeri Sembilan,elderly,dose1,perc,80.23123
+Negeri Sembilan,elderly,dose2,total,12345678.0
+Negeri Sembilan,elderly,dose2,daily,1234.0
+Negeri Sembilan,elderly,dose2,perc,80.23123
+Negeri Sembilan,elderly,booster1,total,12345678.0
+Negeri Sembilan,elderly,booster1,daily,1234.0
+Negeri Sembilan,elderly,booster1,perc,80.23123
+Negeri Sembilan,elderly,booster2,total,12345678.0
+Negeri Sembilan,elderly,booster2,daily,1234.0
+Negeri Sembilan,elderly,booster2,perc,80.23123
+Negeri Sembilan,adult,dose1,total,12345678.0
+Negeri Sembilan,adult,dose1,daily,1234.0
+Negeri Sembilan,adult,dose1,perc,80.23123
+Negeri Sembilan,adult,dose2,total,12345678.0
+Negeri Sembilan,adult,dose2,daily,1234.0
+Negeri Sembilan,adult,dose2,perc,80.23123
+Negeri Sembilan,adult,booster1,total,12345678.0
+Negeri Sembilan,adult,booster1,daily,1234.0
+Negeri Sembilan,adult,booster1,perc,80.23123
+Negeri Sembilan,adult,booster2,total,12345678.0
+Negeri Sembilan,adult,booster2,daily,1234.0
+Negeri Sembilan,adult,booster2,perc,80.23123
+Negeri Sembilan,adolescent,dose1,total,12345678.0
+Negeri Sembilan,adolescent,dose1,daily,1234.0
+Negeri Sembilan,adolescent,dose1,perc,80.23123
+Negeri Sembilan,adolescent,dose2,total,12345678.0
+Negeri Sembilan,adolescent,dose2,daily,1234.0
+Negeri Sembilan,adolescent,dose2,perc,80.23123
+Negeri Sembilan,adolescent,booster1,total,12345678.0
+Negeri Sembilan,adolescent,booster1,daily,1234.0
+Negeri Sembilan,adolescent,booster1,perc,80.23123
+Negeri Sembilan,adolescent,booster2,total,12345678.0
+Negeri Sembilan,adolescent,booster2,daily,1234.0
+Negeri Sembilan,adolescent,booster2,perc,80.23123
+Negeri Sembilan,child,dose1,total,12345678.0
+Negeri Sembilan,child,dose1,daily,1234.0
+Negeri Sembilan,child,dose1,perc,80.23123
+Negeri Sembilan,child,dose2,total,12345678.0
+Negeri Sembilan,child,dose2,daily,1234.0
+Negeri Sembilan,child,dose2,perc,80.23123
+Negeri Sembilan,child,booster1,total,12345678.0
+Negeri Sembilan,child,booster1,daily,1234.0
+Negeri Sembilan,child,booster1,perc,80.23123
+Negeri Sembilan,child,booster2,total,12345678.0
+Negeri Sembilan,child,booster2,daily,1234.0
+Negeri Sembilan,child,booster2,perc,80.23123
+Negeri Sembilan,70_79,dose1,total,12345678.0
+Negeri Sembilan,70_79,dose1,daily,1234.0
+Negeri Sembilan,70_79,dose1,perc,80.23123
+Negeri Sembilan,70_79,dose2,total,12345678.0
+Negeri Sembilan,70_79,dose2,daily,1234.0
+Negeri Sembilan,70_79,dose2,perc,80.23123
+Negeri Sembilan,70_79,booster1,total,12345678.0
+Negeri Sembilan,70_79,booster1,daily,1234.0
+Negeri Sembilan,70_79,booster1,perc,80.23123
+Negeri Sembilan,70_79,booster2,total,12345678.0
+Negeri Sembilan,70_79,booster2,daily,1234.0
+Negeri Sembilan,70_79,booster2,perc,80.23123
+Negeri Sembilan,60_69,dose1,total,12345678.0
+Negeri Sembilan,60_69,dose1,daily,1234.0
+Negeri Sembilan,60_69,dose1,perc,80.23123
+Negeri Sembilan,60_69,dose2,total,12345678.0
+Negeri Sembilan,60_69,dose2,daily,1234.0
+Negeri Sembilan,60_69,dose2,perc,80.23123
+Negeri Sembilan,60_69,booster1,total,12345678.0
+Negeri Sembilan,60_69,booster1,daily,1234.0
+Negeri Sembilan,60_69,booster1,perc,80.23123
+Negeri Sembilan,60_69,booster2,total,12345678.0
+Negeri Sembilan,60_69,booster2,daily,1234.0
+Negeri Sembilan,60_69,booster2,perc,80.23123
+Negeri Sembilan,50_59,dose1,total,12345678.0
+Negeri Sembilan,50_59,dose1,daily,1234.0
+Negeri Sembilan,50_59,dose1,perc,80.23123
+Negeri Sembilan,50_59,dose2,total,12345678.0
+Negeri Sembilan,50_59,dose2,daily,1234.0
+Negeri Sembilan,50_59,dose2,perc,80.23123
+Negeri Sembilan,50_59,booster1,total,12345678.0
+Negeri Sembilan,50_59,booster1,daily,1234.0
+Negeri Sembilan,50_59,booster1,perc,80.23123
+Negeri Sembilan,50_59,booster2,total,12345678.0
+Negeri Sembilan,50_59,booster2,daily,1234.0
+Negeri Sembilan,50_59,booster2,perc,80.23123
+Negeri Sembilan,40_49,dose1,total,12345678.0
+Negeri Sembilan,40_49,dose1,daily,1234.0
+Negeri Sembilan,40_49,dose1,perc,80.23123
+Negeri Sembilan,40_49,dose2,total,12345678.0
+Negeri Sembilan,40_49,dose2,daily,1234.0
+Negeri Sembilan,40_49,dose2,perc,80.23123
+Negeri Sembilan,40_49,booster1,total,12345678.0
+Negeri Sembilan,40_49,booster1,daily,1234.0
+Negeri Sembilan,40_49,booster1,perc,80.23123
+Negeri Sembilan,40_49,booster2,total,12345678.0
+Negeri Sembilan,40_49,booster2,daily,1234.0
+Negeri Sembilan,40_49,booster2,perc,80.23123
+Negeri Sembilan,30_39,dose1,total,12345678.0
+Negeri Sembilan,30_39,dose1,daily,1234.0
+Negeri Sembilan,30_39,dose1,perc,80.23123
+Negeri Sembilan,30_39,dose2,total,12345678.0
+Negeri Sembilan,30_39,dose2,daily,1234.0
+Negeri Sembilan,30_39,dose2,perc,80.23123
+Negeri Sembilan,30_39,booster1,total,12345678.0
+Negeri Sembilan,30_39,booster1,daily,1234.0
+Negeri Sembilan,30_39,booster1,perc,80.23123
+Negeri Sembilan,30_39,booster2,total,12345678.0
+Negeri Sembilan,30_39,booster2,daily,1234.0
+Negeri Sembilan,30_39,booster2,perc,80.23123
+Negeri Sembilan,18_29,dose1,total,12345678.0
+Negeri Sembilan,18_29,dose1,daily,1234.0
+Negeri Sembilan,18_29,dose1,perc,80.23123
+Negeri Sembilan,18_29,dose2,total,12345678.0
+Negeri Sembilan,18_29,dose2,daily,1234.0
+Negeri Sembilan,18_29,dose2,perc,80.23123
+Negeri Sembilan,18_29,booster1,total,12345678.0
+Negeri Sembilan,18_29,booster1,daily,1234.0
+Negeri Sembilan,18_29,booster1,perc,80.23123
+Negeri Sembilan,18_29,booster2,total,12345678.0
+Negeri Sembilan,18_29,booster2,daily,1234.0
+Negeri Sembilan,18_29,booster2,perc,80.23123
+Negeri Sembilan,12_17,dose1,total,12345678.0
+Negeri Sembilan,12_17,dose1,daily,1234.0
+Negeri Sembilan,12_17,dose1,perc,80.23123
+Negeri Sembilan,12_17,dose2,total,12345678.0
+Negeri Sembilan,12_17,dose2,daily,1234.0
+Negeri Sembilan,12_17,dose2,perc,80.23123
+Negeri Sembilan,12_17,booster1,total,12345678.0
+Negeri Sembilan,12_17,booster1,daily,1234.0
+Negeri Sembilan,12_17,booster1,perc,80.23123
+Negeri Sembilan,12_17,booster2,total,12345678.0
+Negeri Sembilan,12_17,booster2,daily,1234.0
+Negeri Sembilan,12_17,booster2,perc,80.23123
+Negeri Sembilan,5_11,dose1,total,12345678.0
+Negeri Sembilan,5_11,dose1,daily,1234.0
+Negeri Sembilan,5_11,dose1,perc,80.23123
+Negeri Sembilan,5_11,dose2,total,12345678.0
+Negeri Sembilan,5_11,dose2,daily,1234.0
+Negeri Sembilan,5_11,dose2,perc,80.23123
+Negeri Sembilan,5_11,booster1,total,12345678.0
+Negeri Sembilan,5_11,booster1,daily,1234.0
+Negeri Sembilan,5_11,booster1,perc,80.23123
+Negeri Sembilan,5_11,booster2,total,12345678.0
+Negeri Sembilan,5_11,booster2,daily,1234.0
+Negeri Sembilan,5_11,booster2,perc,80.23123
+Negeri Sembilan,0_4,dose1,total,12345678.0
+Negeri Sembilan,0_4,dose1,daily,1234.0
+Negeri Sembilan,0_4,dose1,perc,80.23123
+Negeri Sembilan,0_4,dose2,total,12345678.0
+Negeri Sembilan,0_4,dose2,daily,1234.0
+Negeri Sembilan,0_4,dose2,perc,80.23123
+Negeri Sembilan,0_4,booster1,total,12345678.0
+Negeri Sembilan,0_4,booster1,daily,1234.0
+Negeri Sembilan,0_4,booster1,perc,80.23123
+Negeri Sembilan,0_4,booster2,total,12345678.0
+Negeri Sembilan,0_4,booster2,daily,1234.0
+Negeri Sembilan,0_4,booster2,perc,80.23123
+Pahang,elderly,dose1,total,12345678.0
+Pahang,elderly,dose1,daily,1234.0
+Pahang,elderly,dose1,perc,80.23123
+Pahang,elderly,dose2,total,12345678.0
+Pahang,elderly,dose2,daily,1234.0
+Pahang,elderly,dose2,perc,80.23123
+Pahang,elderly,booster1,total,12345678.0
+Pahang,elderly,booster1,daily,1234.0
+Pahang,elderly,booster1,perc,80.23123
+Pahang,elderly,booster2,total,12345678.0
+Pahang,elderly,booster2,daily,1234.0
+Pahang,elderly,booster2,perc,80.23123
+Pahang,adult,dose1,total,12345678.0
+Pahang,adult,dose1,daily,1234.0
+Pahang,adult,dose1,perc,80.23123
+Pahang,adult,dose2,total,12345678.0
+Pahang,adult,dose2,daily,1234.0
+Pahang,adult,dose2,perc,80.23123
+Pahang,adult,booster1,total,12345678.0
+Pahang,adult,booster1,daily,1234.0
+Pahang,adult,booster1,perc,80.23123
+Pahang,adult,booster2,total,12345678.0
+Pahang,adult,booster2,daily,1234.0
+Pahang,adult,booster2,perc,80.23123
+Pahang,adolescent,dose1,total,12345678.0
+Pahang,adolescent,dose1,daily,1234.0
+Pahang,adolescent,dose1,perc,80.23123
+Pahang,adolescent,dose2,total,12345678.0
+Pahang,adolescent,dose2,daily,1234.0
+Pahang,adolescent,dose2,perc,80.23123
+Pahang,adolescent,booster1,total,12345678.0
+Pahang,adolescent,booster1,daily,1234.0
+Pahang,adolescent,booster1,perc,80.23123
+Pahang,adolescent,booster2,total,12345678.0
+Pahang,adolescent,booster2,daily,1234.0
+Pahang,adolescent,booster2,perc,80.23123
+Pahang,child,dose1,total,12345678.0
+Pahang,child,dose1,daily,1234.0
+Pahang,child,dose1,perc,80.23123
+Pahang,child,dose2,total,12345678.0
+Pahang,child,dose2,daily,1234.0
+Pahang,child,dose2,perc,80.23123
+Pahang,child,booster1,total,12345678.0
+Pahang,child,booster1,daily,1234.0
+Pahang,child,booster1,perc,80.23123
+Pahang,child,booster2,total,12345678.0
+Pahang,child,booster2,daily,1234.0
+Pahang,child,booster2,perc,80.23123
+Pahang,70_79,dose1,total,12345678.0
+Pahang,70_79,dose1,daily,1234.0
+Pahang,70_79,dose1,perc,80.23123
+Pahang,70_79,dose2,total,12345678.0
+Pahang,70_79,dose2,daily,1234.0
+Pahang,70_79,dose2,perc,80.23123
+Pahang,70_79,booster1,total,12345678.0
+Pahang,70_79,booster1,daily,1234.0
+Pahang,70_79,booster1,perc,80.23123
+Pahang,70_79,booster2,total,12345678.0
+Pahang,70_79,booster2,daily,1234.0
+Pahang,70_79,booster2,perc,80.23123
+Pahang,60_69,dose1,total,12345678.0
+Pahang,60_69,dose1,daily,1234.0
+Pahang,60_69,dose1,perc,80.23123
+Pahang,60_69,dose2,total,12345678.0
+Pahang,60_69,dose2,daily,1234.0
+Pahang,60_69,dose2,perc,80.23123
+Pahang,60_69,booster1,total,12345678.0
+Pahang,60_69,booster1,daily,1234.0
+Pahang,60_69,booster1,perc,80.23123
+Pahang,60_69,booster2,total,12345678.0
+Pahang,60_69,booster2,daily,1234.0
+Pahang,60_69,booster2,perc,80.23123
+Pahang,50_59,dose1,total,12345678.0
+Pahang,50_59,dose1,daily,1234.0
+Pahang,50_59,dose1,perc,80.23123
+Pahang,50_59,dose2,total,12345678.0
+Pahang,50_59,dose2,daily,1234.0
+Pahang,50_59,dose2,perc,80.23123
+Pahang,50_59,booster1,total,12345678.0
+Pahang,50_59,booster1,daily,1234.0
+Pahang,50_59,booster1,perc,80.23123
+Pahang,50_59,booster2,total,12345678.0
+Pahang,50_59,booster2,daily,1234.0
+Pahang,50_59,booster2,perc,80.23123
+Pahang,40_49,dose1,total,12345678.0
+Pahang,40_49,dose1,daily,1234.0
+Pahang,40_49,dose1,perc,80.23123
+Pahang,40_49,dose2,total,12345678.0
+Pahang,40_49,dose2,daily,1234.0
+Pahang,40_49,dose2,perc,80.23123
+Pahang,40_49,booster1,total,12345678.0
+Pahang,40_49,booster1,daily,1234.0
+Pahang,40_49,booster1,perc,80.23123
+Pahang,40_49,booster2,total,12345678.0
+Pahang,40_49,booster2,daily,1234.0
+Pahang,40_49,booster2,perc,80.23123
+Pahang,30_39,dose1,total,12345678.0
+Pahang,30_39,dose1,daily,1234.0
+Pahang,30_39,dose1,perc,80.23123
+Pahang,30_39,dose2,total,12345678.0
+Pahang,30_39,dose2,daily,1234.0
+Pahang,30_39,dose2,perc,80.23123
+Pahang,30_39,booster1,total,12345678.0
+Pahang,30_39,booster1,daily,1234.0
+Pahang,30_39,booster1,perc,80.23123
+Pahang,30_39,booster2,total,12345678.0
+Pahang,30_39,booster2,daily,1234.0
+Pahang,30_39,booster2,perc,80.23123
+Pahang,18_29,dose1,total,12345678.0
+Pahang,18_29,dose1,daily,1234.0
+Pahang,18_29,dose1,perc,80.23123
+Pahang,18_29,dose2,total,12345678.0
+Pahang,18_29,dose2,daily,1234.0
+Pahang,18_29,dose2,perc,80.23123
+Pahang,18_29,booster1,total,12345678.0
+Pahang,18_29,booster1,daily,1234.0
+Pahang,18_29,booster1,perc,80.23123
+Pahang,18_29,booster2,total,12345678.0
+Pahang,18_29,booster2,daily,1234.0
+Pahang,18_29,booster2,perc,80.23123
+Pahang,12_17,dose1,total,12345678.0
+Pahang,12_17,dose1,daily,1234.0
+Pahang,12_17,dose1,perc,80.23123
+Pahang,12_17,dose2,total,12345678.0
+Pahang,12_17,dose2,daily,1234.0
+Pahang,12_17,dose2,perc,80.23123
+Pahang,12_17,booster1,total,12345678.0
+Pahang,12_17,booster1,daily,1234.0
+Pahang,12_17,booster1,perc,80.23123
+Pahang,12_17,booster2,total,12345678.0
+Pahang,12_17,booster2,daily,1234.0
+Pahang,12_17,booster2,perc,80.23123
+Pahang,5_11,dose1,total,12345678.0
+Pahang,5_11,dose1,daily,1234.0
+Pahang,5_11,dose1,perc,80.23123
+Pahang,5_11,dose2,total,12345678.0
+Pahang,5_11,dose2,daily,1234.0
+Pahang,5_11,dose2,perc,80.23123
+Pahang,5_11,booster1,total,12345678.0
+Pahang,5_11,booster1,daily,1234.0
+Pahang,5_11,booster1,perc,80.23123
+Pahang,5_11,booster2,total,12345678.0
+Pahang,5_11,booster2,daily,1234.0
+Pahang,5_11,booster2,perc,80.23123
+Pahang,0_4,dose1,total,12345678.0
+Pahang,0_4,dose1,daily,1234.0
+Pahang,0_4,dose1,perc,80.23123
+Pahang,0_4,dose2,total,12345678.0
+Pahang,0_4,dose2,daily,1234.0
+Pahang,0_4,dose2,perc,80.23123
+Pahang,0_4,booster1,total,12345678.0
+Pahang,0_4,booster1,daily,1234.0
+Pahang,0_4,booster1,perc,80.23123
+Pahang,0_4,booster2,total,12345678.0
+Pahang,0_4,booster2,daily,1234.0
+Pahang,0_4,booster2,perc,80.23123
+Perak,elderly,dose1,total,12345678.0
+Perak,elderly,dose1,daily,1234.0
+Perak,elderly,dose1,perc,80.23123
+Perak,elderly,dose2,total,12345678.0
+Perak,elderly,dose2,daily,1234.0
+Perak,elderly,dose2,perc,80.23123
+Perak,elderly,booster1,total,12345678.0
+Perak,elderly,booster1,daily,1234.0
+Perak,elderly,booster1,perc,80.23123
+Perak,elderly,booster2,total,12345678.0
+Perak,elderly,booster2,daily,1234.0
+Perak,elderly,booster2,perc,80.23123
+Perak,adult,dose1,total,12345678.0
+Perak,adult,dose1,daily,1234.0
+Perak,adult,dose1,perc,80.23123
+Perak,adult,dose2,total,12345678.0
+Perak,adult,dose2,daily,1234.0
+Perak,adult,dose2,perc,80.23123
+Perak,adult,booster1,total,12345678.0
+Perak,adult,booster1,daily,1234.0
+Perak,adult,booster1,perc,80.23123
+Perak,adult,booster2,total,12345678.0
+Perak,adult,booster2,daily,1234.0
+Perak,adult,booster2,perc,80.23123
+Perak,adolescent,dose1,total,12345678.0
+Perak,adolescent,dose1,daily,1234.0
+Perak,adolescent,dose1,perc,80.23123
+Perak,adolescent,dose2,total,12345678.0
+Perak,adolescent,dose2,daily,1234.0
+Perak,adolescent,dose2,perc,80.23123
+Perak,adolescent,booster1,total,12345678.0
+Perak,adolescent,booster1,daily,1234.0
+Perak,adolescent,booster1,perc,80.23123
+Perak,adolescent,booster2,total,12345678.0
+Perak,adolescent,booster2,daily,1234.0
+Perak,adolescent,booster2,perc,80.23123
+Perak,child,dose1,total,12345678.0
+Perak,child,dose1,daily,1234.0
+Perak,child,dose1,perc,80.23123
+Perak,child,dose2,total,12345678.0
+Perak,child,dose2,daily,1234.0
+Perak,child,dose2,perc,80.23123
+Perak,child,booster1,total,12345678.0
+Perak,child,booster1,daily,1234.0
+Perak,child,booster1,perc,80.23123
+Perak,child,booster2,total,12345678.0
+Perak,child,booster2,daily,1234.0
+Perak,child,booster2,perc,80.23123
+Perak,70_79,dose1,total,12345678.0
+Perak,70_79,dose1,daily,1234.0
+Perak,70_79,dose1,perc,80.23123
+Perak,70_79,dose2,total,12345678.0
+Perak,70_79,dose2,daily,1234.0
+Perak,70_79,dose2,perc,80.23123
+Perak,70_79,booster1,total,12345678.0
+Perak,70_79,booster1,daily,1234.0
+Perak,70_79,booster1,perc,80.23123
+Perak,70_79,booster2,total,12345678.0
+Perak,70_79,booster2,daily,1234.0
+Perak,70_79,booster2,perc,80.23123
+Perak,60_69,dose1,total,12345678.0
+Perak,60_69,dose1,daily,1234.0
+Perak,60_69,dose1,perc,80.23123
+Perak,60_69,dose2,total,12345678.0
+Perak,60_69,dose2,daily,1234.0
+Perak,60_69,dose2,perc,80.23123
+Perak,60_69,booster1,total,12345678.0
+Perak,60_69,booster1,daily,1234.0
+Perak,60_69,booster1,perc,80.23123
+Perak,60_69,booster2,total,12345678.0
+Perak,60_69,booster2,daily,1234.0
+Perak,60_69,booster2,perc,80.23123
+Perak,50_59,dose1,total,12345678.0
+Perak,50_59,dose1,daily,1234.0
+Perak,50_59,dose1,perc,80.23123
+Perak,50_59,dose2,total,12345678.0
+Perak,50_59,dose2,daily,1234.0
+Perak,50_59,dose2,perc,80.23123
+Perak,50_59,booster1,total,12345678.0
+Perak,50_59,booster1,daily,1234.0
+Perak,50_59,booster1,perc,80.23123
+Perak,50_59,booster2,total,12345678.0
+Perak,50_59,booster2,daily,1234.0
+Perak,50_59,booster2,perc,80.23123
+Perak,40_49,dose1,total,12345678.0
+Perak,40_49,dose1,daily,1234.0
+Perak,40_49,dose1,perc,80.23123
+Perak,40_49,dose2,total,12345678.0
+Perak,40_49,dose2,daily,1234.0
+Perak,40_49,dose2,perc,80.23123
+Perak,40_49,booster1,total,12345678.0
+Perak,40_49,booster1,daily,1234.0
+Perak,40_49,booster1,perc,80.23123
+Perak,40_49,booster2,total,12345678.0
+Perak,40_49,booster2,daily,1234.0
+Perak,40_49,booster2,perc,80.23123
+Perak,30_39,dose1,total,12345678.0
+Perak,30_39,dose1,daily,1234.0
+Perak,30_39,dose1,perc,80.23123
+Perak,30_39,dose2,total,12345678.0
+Perak,30_39,dose2,daily,1234.0
+Perak,30_39,dose2,perc,80.23123
+Perak,30_39,booster1,total,12345678.0
+Perak,30_39,booster1,daily,1234.0
+Perak,30_39,booster1,perc,80.23123
+Perak,30_39,booster2,total,12345678.0
+Perak,30_39,booster2,daily,1234.0
+Perak,30_39,booster2,perc,80.23123
+Perak,18_29,dose1,total,12345678.0
+Perak,18_29,dose1,daily,1234.0
+Perak,18_29,dose1,perc,80.23123
+Perak,18_29,dose2,total,12345678.0
+Perak,18_29,dose2,daily,1234.0
+Perak,18_29,dose2,perc,80.23123
+Perak,18_29,booster1,total,12345678.0
+Perak,18_29,booster1,daily,1234.0
+Perak,18_29,booster1,perc,80.23123
+Perak,18_29,booster2,total,12345678.0
+Perak,18_29,booster2,daily,1234.0
+Perak,18_29,booster2,perc,80.23123
+Perak,12_17,dose1,total,12345678.0
+Perak,12_17,dose1,daily,1234.0
+Perak,12_17,dose1,perc,80.23123
+Perak,12_17,dose2,total,12345678.0
+Perak,12_17,dose2,daily,1234.0
+Perak,12_17,dose2,perc,80.23123
+Perak,12_17,booster1,total,12345678.0
+Perak,12_17,booster1,daily,1234.0
+Perak,12_17,booster1,perc,80.23123
+Perak,12_17,booster2,total,12345678.0
+Perak,12_17,booster2,daily,1234.0
+Perak,12_17,booster2,perc,80.23123
+Perak,5_11,dose1,total,12345678.0
+Perak,5_11,dose1,daily,1234.0
+Perak,5_11,dose1,perc,80.23123
+Perak,5_11,dose2,total,12345678.0
+Perak,5_11,dose2,daily,1234.0
+Perak,5_11,dose2,perc,80.23123
+Perak,5_11,booster1,total,12345678.0
+Perak,5_11,booster1,daily,1234.0
+Perak,5_11,booster1,perc,80.23123
+Perak,5_11,booster2,total,12345678.0
+Perak,5_11,booster2,daily,1234.0
+Perak,5_11,booster2,perc,80.23123
+Perak,0_4,dose1,total,12345678.0
+Perak,0_4,dose1,daily,1234.0
+Perak,0_4,dose1,perc,80.23123
+Perak,0_4,dose2,total,12345678.0
+Perak,0_4,dose2,daily,1234.0
+Perak,0_4,dose2,perc,80.23123
+Perak,0_4,booster1,total,12345678.0
+Perak,0_4,booster1,daily,1234.0
+Perak,0_4,booster1,perc,80.23123
+Perak,0_4,booster2,total,12345678.0
+Perak,0_4,booster2,daily,1234.0
+Perak,0_4,booster2,perc,80.23123
+Perlis,elderly,dose1,total,12345678.0
+Perlis,elderly,dose1,daily,1234.0
+Perlis,elderly,dose1,perc,80.23123
+Perlis,elderly,dose2,total,12345678.0
+Perlis,elderly,dose2,daily,1234.0
+Perlis,elderly,dose2,perc,80.23123
+Perlis,elderly,booster1,total,12345678.0
+Perlis,elderly,booster1,daily,1234.0
+Perlis,elderly,booster1,perc,80.23123
+Perlis,elderly,booster2,total,12345678.0
+Perlis,elderly,booster2,daily,1234.0
+Perlis,elderly,booster2,perc,80.23123
+Perlis,adult,dose1,total,12345678.0
+Perlis,adult,dose1,daily,1234.0
+Perlis,adult,dose1,perc,80.23123
+Perlis,adult,dose2,total,12345678.0
+Perlis,adult,dose2,daily,1234.0
+Perlis,adult,dose2,perc,80.23123
+Perlis,adult,booster1,total,12345678.0
+Perlis,adult,booster1,daily,1234.0
+Perlis,adult,booster1,perc,80.23123
+Perlis,adult,booster2,total,12345678.0
+Perlis,adult,booster2,daily,1234.0
+Perlis,adult,booster2,perc,80.23123
+Perlis,adolescent,dose1,total,12345678.0
+Perlis,adolescent,dose1,daily,1234.0
+Perlis,adolescent,dose1,perc,80.23123
+Perlis,adolescent,dose2,total,12345678.0
+Perlis,adolescent,dose2,daily,1234.0
+Perlis,adolescent,dose2,perc,80.23123
+Perlis,adolescent,booster1,total,12345678.0
+Perlis,adolescent,booster1,daily,1234.0
+Perlis,adolescent,booster1,perc,80.23123
+Perlis,adolescent,booster2,total,12345678.0
+Perlis,adolescent,booster2,daily,1234.0
+Perlis,adolescent,booster2,perc,80.23123
+Perlis,child,dose1,total,12345678.0
+Perlis,child,dose1,daily,1234.0
+Perlis,child,dose1,perc,80.23123
+Perlis,child,dose2,total,12345678.0
+Perlis,child,dose2,daily,1234.0
+Perlis,child,dose2,perc,80.23123
+Perlis,child,booster1,total,12345678.0
+Perlis,child,booster1,daily,1234.0
+Perlis,child,booster1,perc,80.23123
+Perlis,child,booster2,total,12345678.0
+Perlis,child,booster2,daily,1234.0
+Perlis,child,booster2,perc,80.23123
+Perlis,70_79,dose1,total,12345678.0
+Perlis,70_79,dose1,daily,1234.0
+Perlis,70_79,dose1,perc,80.23123
+Perlis,70_79,dose2,total,12345678.0
+Perlis,70_79,dose2,daily,1234.0
+Perlis,70_79,dose2,perc,80.23123
+Perlis,70_79,booster1,total,12345678.0
+Perlis,70_79,booster1,daily,1234.0
+Perlis,70_79,booster1,perc,80.23123
+Perlis,70_79,booster2,total,12345678.0
+Perlis,70_79,booster2,daily,1234.0
+Perlis,70_79,booster2,perc,80.23123
+Perlis,60_69,dose1,total,12345678.0
+Perlis,60_69,dose1,daily,1234.0
+Perlis,60_69,dose1,perc,80.23123
+Perlis,60_69,dose2,total,12345678.0
+Perlis,60_69,dose2,daily,1234.0
+Perlis,60_69,dose2,perc,80.23123
+Perlis,60_69,booster1,total,12345678.0
+Perlis,60_69,booster1,daily,1234.0
+Perlis,60_69,booster1,perc,80.23123
+Perlis,60_69,booster2,total,12345678.0
+Perlis,60_69,booster2,daily,1234.0
+Perlis,60_69,booster2,perc,80.23123
+Perlis,50_59,dose1,total,12345678.0
+Perlis,50_59,dose1,daily,1234.0
+Perlis,50_59,dose1,perc,80.23123
+Perlis,50_59,dose2,total,12345678.0
+Perlis,50_59,dose2,daily,1234.0
+Perlis,50_59,dose2,perc,80.23123
+Perlis,50_59,booster1,total,12345678.0
+Perlis,50_59,booster1,daily,1234.0
+Perlis,50_59,booster1,perc,80.23123
+Perlis,50_59,booster2,total,12345678.0
+Perlis,50_59,booster2,daily,1234.0
+Perlis,50_59,booster2,perc,80.23123
+Perlis,40_49,dose1,total,12345678.0
+Perlis,40_49,dose1,daily,1234.0
+Perlis,40_49,dose1,perc,80.23123
+Perlis,40_49,dose2,total,12345678.0
+Perlis,40_49,dose2,daily,1234.0
+Perlis,40_49,dose2,perc,80.23123
+Perlis,40_49,booster1,total,12345678.0
+Perlis,40_49,booster1,daily,1234.0
+Perlis,40_49,booster1,perc,80.23123
+Perlis,40_49,booster2,total,12345678.0
+Perlis,40_49,booster2,daily,1234.0
+Perlis,40_49,booster2,perc,80.23123
+Perlis,30_39,dose1,total,12345678.0
+Perlis,30_39,dose1,daily,1234.0
+Perlis,30_39,dose1,perc,80.23123
+Perlis,30_39,dose2,total,12345678.0
+Perlis,30_39,dose2,daily,1234.0
+Perlis,30_39,dose2,perc,80.23123
+Perlis,30_39,booster1,total,12345678.0
+Perlis,30_39,booster1,daily,1234.0
+Perlis,30_39,booster1,perc,80.23123
+Perlis,30_39,booster2,total,12345678.0
+Perlis,30_39,booster2,daily,1234.0
+Perlis,30_39,booster2,perc,80.23123
+Perlis,18_29,dose1,total,12345678.0
+Perlis,18_29,dose1,daily,1234.0
+Perlis,18_29,dose1,perc,80.23123
+Perlis,18_29,dose2,total,12345678.0
+Perlis,18_29,dose2,daily,1234.0
+Perlis,18_29,dose2,perc,80.23123
+Perlis,18_29,booster1,total,12345678.0
+Perlis,18_29,booster1,daily,1234.0
+Perlis,18_29,booster1,perc,80.23123
+Perlis,18_29,booster2,total,12345678.0
+Perlis,18_29,booster2,daily,1234.0
+Perlis,18_29,booster2,perc,80.23123
+Perlis,12_17,dose1,total,12345678.0
+Perlis,12_17,dose1,daily,1234.0
+Perlis,12_17,dose1,perc,80.23123
+Perlis,12_17,dose2,total,12345678.0
+Perlis,12_17,dose2,daily,1234.0
+Perlis,12_17,dose2,perc,80.23123
+Perlis,12_17,booster1,total,12345678.0
+Perlis,12_17,booster1,daily,1234.0
+Perlis,12_17,booster1,perc,80.23123
+Perlis,12_17,booster2,total,12345678.0
+Perlis,12_17,booster2,daily,1234.0
+Perlis,12_17,booster2,perc,80.23123
+Perlis,5_11,dose1,total,12345678.0
+Perlis,5_11,dose1,daily,1234.0
+Perlis,5_11,dose1,perc,80.23123
+Perlis,5_11,dose2,total,12345678.0
+Perlis,5_11,dose2,daily,1234.0
+Perlis,5_11,dose2,perc,80.23123
+Perlis,5_11,booster1,total,12345678.0
+Perlis,5_11,booster1,daily,1234.0
+Perlis,5_11,booster1,perc,80.23123
+Perlis,5_11,booster2,total,12345678.0
+Perlis,5_11,booster2,daily,1234.0
+Perlis,5_11,booster2,perc,80.23123
+Perlis,0_4,dose1,total,12345678.0
+Perlis,0_4,dose1,daily,1234.0
+Perlis,0_4,dose1,perc,80.23123
+Perlis,0_4,dose2,total,12345678.0
+Perlis,0_4,dose2,daily,1234.0
+Perlis,0_4,dose2,perc,80.23123
+Perlis,0_4,booster1,total,12345678.0
+Perlis,0_4,booster1,daily,1234.0
+Perlis,0_4,booster1,perc,80.23123
+Perlis,0_4,booster2,total,12345678.0
+Perlis,0_4,booster2,daily,1234.0
+Perlis,0_4,booster2,perc,80.23123
+Pulau Pinang,elderly,dose1,total,12345678.0
+Pulau Pinang,elderly,dose1,daily,1234.0
+Pulau Pinang,elderly,dose1,perc,80.23123
+Pulau Pinang,elderly,dose2,total,12345678.0
+Pulau Pinang,elderly,dose2,daily,1234.0
+Pulau Pinang,elderly,dose2,perc,80.23123
+Pulau Pinang,elderly,booster1,total,12345678.0
+Pulau Pinang,elderly,booster1,daily,1234.0
+Pulau Pinang,elderly,booster1,perc,80.23123
+Pulau Pinang,elderly,booster2,total,12345678.0
+Pulau Pinang,elderly,booster2,daily,1234.0
+Pulau Pinang,elderly,booster2,perc,80.23123
+Pulau Pinang,adult,dose1,total,12345678.0
+Pulau Pinang,adult,dose1,daily,1234.0
+Pulau Pinang,adult,dose1,perc,80.23123
+Pulau Pinang,adult,dose2,total,12345678.0
+Pulau Pinang,adult,dose2,daily,1234.0
+Pulau Pinang,adult,dose2,perc,80.23123
+Pulau Pinang,adult,booster1,total,12345678.0
+Pulau Pinang,adult,booster1,daily,1234.0
+Pulau Pinang,adult,booster1,perc,80.23123
+Pulau Pinang,adult,booster2,total,12345678.0
+Pulau Pinang,adult,booster2,daily,1234.0
+Pulau Pinang,adult,booster2,perc,80.23123
+Pulau Pinang,adolescent,dose1,total,12345678.0
+Pulau Pinang,adolescent,dose1,daily,1234.0
+Pulau Pinang,adolescent,dose1,perc,80.23123
+Pulau Pinang,adolescent,dose2,total,12345678.0
+Pulau Pinang,adolescent,dose2,daily,1234.0
+Pulau Pinang,adolescent,dose2,perc,80.23123
+Pulau Pinang,adolescent,booster1,total,12345678.0
+Pulau Pinang,adolescent,booster1,daily,1234.0
+Pulau Pinang,adolescent,booster1,perc,80.23123
+Pulau Pinang,adolescent,booster2,total,12345678.0
+Pulau Pinang,adolescent,booster2,daily,1234.0
+Pulau Pinang,adolescent,booster2,perc,80.23123
+Pulau Pinang,child,dose1,total,12345678.0
+Pulau Pinang,child,dose1,daily,1234.0
+Pulau Pinang,child,dose1,perc,80.23123
+Pulau Pinang,child,dose2,total,12345678.0
+Pulau Pinang,child,dose2,daily,1234.0
+Pulau Pinang,child,dose2,perc,80.23123
+Pulau Pinang,child,booster1,total,12345678.0
+Pulau Pinang,child,booster1,daily,1234.0
+Pulau Pinang,child,booster1,perc,80.23123
+Pulau Pinang,child,booster2,total,12345678.0
+Pulau Pinang,child,booster2,daily,1234.0
+Pulau Pinang,child,booster2,perc,80.23123
+Pulau Pinang,70_79,dose1,total,12345678.0
+Pulau Pinang,70_79,dose1,daily,1234.0
+Pulau Pinang,70_79,dose1,perc,80.23123
+Pulau Pinang,70_79,dose2,total,12345678.0
+Pulau Pinang,70_79,dose2,daily,1234.0
+Pulau Pinang,70_79,dose2,perc,80.23123
+Pulau Pinang,70_79,booster1,total,12345678.0
+Pulau Pinang,70_79,booster1,daily,1234.0
+Pulau Pinang,70_79,booster1,perc,80.23123
+Pulau Pinang,70_79,booster2,total,12345678.0
+Pulau Pinang,70_79,booster2,daily,1234.0
+Pulau Pinang,70_79,booster2,perc,80.23123
+Pulau Pinang,60_69,dose1,total,12345678.0
+Pulau Pinang,60_69,dose1,daily,1234.0
+Pulau Pinang,60_69,dose1,perc,80.23123
+Pulau Pinang,60_69,dose2,total,12345678.0
+Pulau Pinang,60_69,dose2,daily,1234.0
+Pulau Pinang,60_69,dose2,perc,80.23123
+Pulau Pinang,60_69,booster1,total,12345678.0
+Pulau Pinang,60_69,booster1,daily,1234.0
+Pulau Pinang,60_69,booster1,perc,80.23123
+Pulau Pinang,60_69,booster2,total,12345678.0
+Pulau Pinang,60_69,booster2,daily,1234.0
+Pulau Pinang,60_69,booster2,perc,80.23123
+Pulau Pinang,50_59,dose1,total,12345678.0
+Pulau Pinang,50_59,dose1,daily,1234.0
+Pulau Pinang,50_59,dose1,perc,80.23123
+Pulau Pinang,50_59,dose2,total,12345678.0
+Pulau Pinang,50_59,dose2,daily,1234.0
+Pulau Pinang,50_59,dose2,perc,80.23123
+Pulau Pinang,50_59,booster1,total,12345678.0
+Pulau Pinang,50_59,booster1,daily,1234.0
+Pulau Pinang,50_59,booster1,perc,80.23123
+Pulau Pinang,50_59,booster2,total,12345678.0
+Pulau Pinang,50_59,booster2,daily,1234.0
+Pulau Pinang,50_59,booster2,perc,80.23123
+Pulau Pinang,40_49,dose1,total,12345678.0
+Pulau Pinang,40_49,dose1,daily,1234.0
+Pulau Pinang,40_49,dose1,perc,80.23123
+Pulau Pinang,40_49,dose2,total,12345678.0
+Pulau Pinang,40_49,dose2,daily,1234.0
+Pulau Pinang,40_49,dose2,perc,80.23123
+Pulau Pinang,40_49,booster1,total,12345678.0
+Pulau Pinang,40_49,booster1,daily,1234.0
+Pulau Pinang,40_49,booster1,perc,80.23123
+Pulau Pinang,40_49,booster2,total,12345678.0
+Pulau Pinang,40_49,booster2,daily,1234.0
+Pulau Pinang,40_49,booster2,perc,80.23123
+Pulau Pinang,30_39,dose1,total,12345678.0
+Pulau Pinang,30_39,dose1,daily,1234.0
+Pulau Pinang,30_39,dose1,perc,80.23123
+Pulau Pinang,30_39,dose2,total,12345678.0
+Pulau Pinang,30_39,dose2,daily,1234.0
+Pulau Pinang,30_39,dose2,perc,80.23123
+Pulau Pinang,30_39,booster1,total,12345678.0
+Pulau Pinang,30_39,booster1,daily,1234.0
+Pulau Pinang,30_39,booster1,perc,80.23123
+Pulau Pinang,30_39,booster2,total,12345678.0
+Pulau Pinang,30_39,booster2,daily,1234.0
+Pulau Pinang,30_39,booster2,perc,80.23123
+Pulau Pinang,18_29,dose1,total,12345678.0
+Pulau Pinang,18_29,dose1,daily,1234.0
+Pulau Pinang,18_29,dose1,perc,80.23123
+Pulau Pinang,18_29,dose2,total,12345678.0
+Pulau Pinang,18_29,dose2,daily,1234.0
+Pulau Pinang,18_29,dose2,perc,80.23123
+Pulau Pinang,18_29,booster1,total,12345678.0
+Pulau Pinang,18_29,booster1,daily,1234.0
+Pulau Pinang,18_29,booster1,perc,80.23123
+Pulau Pinang,18_29,booster2,total,12345678.0
+Pulau Pinang,18_29,booster2,daily,1234.0
+Pulau Pinang,18_29,booster2,perc,80.23123
+Pulau Pinang,12_17,dose1,total,12345678.0
+Pulau Pinang,12_17,dose1,daily,1234.0
+Pulau Pinang,12_17,dose1,perc,80.23123
+Pulau Pinang,12_17,dose2,total,12345678.0
+Pulau Pinang,12_17,dose2,daily,1234.0
+Pulau Pinang,12_17,dose2,perc,80.23123
+Pulau Pinang,12_17,booster1,total,12345678.0
+Pulau Pinang,12_17,booster1,daily,1234.0
+Pulau Pinang,12_17,booster1,perc,80.23123
+Pulau Pinang,12_17,booster2,total,12345678.0
+Pulau Pinang,12_17,booster2,daily,1234.0
+Pulau Pinang,12_17,booster2,perc,80.23123
+Pulau Pinang,5_11,dose1,total,12345678.0
+Pulau Pinang,5_11,dose1,daily,1234.0
+Pulau Pinang,5_11,dose1,perc,80.23123
+Pulau Pinang,5_11,dose2,total,12345678.0
+Pulau Pinang,5_11,dose2,daily,1234.0
+Pulau Pinang,5_11,dose2,perc,80.23123
+Pulau Pinang,5_11,booster1,total,12345678.0
+Pulau Pinang,5_11,booster1,daily,1234.0
+Pulau Pinang,5_11,booster1,perc,80.23123
+Pulau Pinang,5_11,booster2,total,12345678.0
+Pulau Pinang,5_11,booster2,daily,1234.0
+Pulau Pinang,5_11,booster2,perc,80.23123
+Pulau Pinang,0_4,dose1,total,12345678.0
+Pulau Pinang,0_4,dose1,daily,1234.0
+Pulau Pinang,0_4,dose1,perc,80.23123
+Pulau Pinang,0_4,dose2,total,12345678.0
+Pulau Pinang,0_4,dose2,daily,1234.0
+Pulau Pinang,0_4,dose2,perc,80.23123
+Pulau Pinang,0_4,booster1,total,12345678.0
+Pulau Pinang,0_4,booster1,daily,1234.0
+Pulau Pinang,0_4,booster1,perc,80.23123
+Pulau Pinang,0_4,booster2,total,12345678.0
+Pulau Pinang,0_4,booster2,daily,1234.0
+Pulau Pinang,0_4,booster2,perc,80.23123
+Sabah,elderly,dose1,total,12345678.0
+Sabah,elderly,dose1,daily,1234.0
+Sabah,elderly,dose1,perc,80.23123
+Sabah,elderly,dose2,total,12345678.0
+Sabah,elderly,dose2,daily,1234.0
+Sabah,elderly,dose2,perc,80.23123
+Sabah,elderly,booster1,total,12345678.0
+Sabah,elderly,booster1,daily,1234.0
+Sabah,elderly,booster1,perc,80.23123
+Sabah,elderly,booster2,total,12345678.0
+Sabah,elderly,booster2,daily,1234.0
+Sabah,elderly,booster2,perc,80.23123
+Sabah,adult,dose1,total,12345678.0
+Sabah,adult,dose1,daily,1234.0
+Sabah,adult,dose1,perc,80.23123
+Sabah,adult,dose2,total,12345678.0
+Sabah,adult,dose2,daily,1234.0
+Sabah,adult,dose2,perc,80.23123
+Sabah,adult,booster1,total,12345678.0
+Sabah,adult,booster1,daily,1234.0
+Sabah,adult,booster1,perc,80.23123
+Sabah,adult,booster2,total,12345678.0
+Sabah,adult,booster2,daily,1234.0
+Sabah,adult,booster2,perc,80.23123
+Sabah,adolescent,dose1,total,12345678.0
+Sabah,adolescent,dose1,daily,1234.0
+Sabah,adolescent,dose1,perc,80.23123
+Sabah,adolescent,dose2,total,12345678.0
+Sabah,adolescent,dose2,daily,1234.0
+Sabah,adolescent,dose2,perc,80.23123
+Sabah,adolescent,booster1,total,12345678.0
+Sabah,adolescent,booster1,daily,1234.0
+Sabah,adolescent,booster1,perc,80.23123
+Sabah,adolescent,booster2,total,12345678.0
+Sabah,adolescent,booster2,daily,1234.0
+Sabah,adolescent,booster2,perc,80.23123
+Sabah,child,dose1,total,12345678.0
+Sabah,child,dose1,daily,1234.0
+Sabah,child,dose1,perc,80.23123
+Sabah,child,dose2,total,12345678.0
+Sabah,child,dose2,daily,1234.0
+Sabah,child,dose2,perc,80.23123
+Sabah,child,booster1,total,12345678.0
+Sabah,child,booster1,daily,1234.0
+Sabah,child,booster1,perc,80.23123
+Sabah,child,booster2,total,12345678.0
+Sabah,child,booster2,daily,1234.0
+Sabah,child,booster2,perc,80.23123
+Sabah,70_79,dose1,total,12345678.0
+Sabah,70_79,dose1,daily,1234.0
+Sabah,70_79,dose1,perc,80.23123
+Sabah,70_79,dose2,total,12345678.0
+Sabah,70_79,dose2,daily,1234.0
+Sabah,70_79,dose2,perc,80.23123
+Sabah,70_79,booster1,total,12345678.0
+Sabah,70_79,booster1,daily,1234.0
+Sabah,70_79,booster1,perc,80.23123
+Sabah,70_79,booster2,total,12345678.0
+Sabah,70_79,booster2,daily,1234.0
+Sabah,70_79,booster2,perc,80.23123
+Sabah,60_69,dose1,total,12345678.0
+Sabah,60_69,dose1,daily,1234.0
+Sabah,60_69,dose1,perc,80.23123
+Sabah,60_69,dose2,total,12345678.0
+Sabah,60_69,dose2,daily,1234.0
+Sabah,60_69,dose2,perc,80.23123
+Sabah,60_69,booster1,total,12345678.0
+Sabah,60_69,booster1,daily,1234.0
+Sabah,60_69,booster1,perc,80.23123
+Sabah,60_69,booster2,total,12345678.0
+Sabah,60_69,booster2,daily,1234.0
+Sabah,60_69,booster2,perc,80.23123
+Sabah,50_59,dose1,total,12345678.0
+Sabah,50_59,dose1,daily,1234.0
+Sabah,50_59,dose1,perc,80.23123
+Sabah,50_59,dose2,total,12345678.0
+Sabah,50_59,dose2,daily,1234.0
+Sabah,50_59,dose2,perc,80.23123
+Sabah,50_59,booster1,total,12345678.0
+Sabah,50_59,booster1,daily,1234.0
+Sabah,50_59,booster1,perc,80.23123
+Sabah,50_59,booster2,total,12345678.0
+Sabah,50_59,booster2,daily,1234.0
+Sabah,50_59,booster2,perc,80.23123
+Sabah,40_49,dose1,total,12345678.0
+Sabah,40_49,dose1,daily,1234.0
+Sabah,40_49,dose1,perc,80.23123
+Sabah,40_49,dose2,total,12345678.0
+Sabah,40_49,dose2,daily,1234.0
+Sabah,40_49,dose2,perc,80.23123
+Sabah,40_49,booster1,total,12345678.0
+Sabah,40_49,booster1,daily,1234.0
+Sabah,40_49,booster1,perc,80.23123
+Sabah,40_49,booster2,total,12345678.0
+Sabah,40_49,booster2,daily,1234.0
+Sabah,40_49,booster2,perc,80.23123
+Sabah,30_39,dose1,total,12345678.0
+Sabah,30_39,dose1,daily,1234.0
+Sabah,30_39,dose1,perc,80.23123
+Sabah,30_39,dose2,total,12345678.0
+Sabah,30_39,dose2,daily,1234.0
+Sabah,30_39,dose2,perc,80.23123
+Sabah,30_39,booster1,total,12345678.0
+Sabah,30_39,booster1,daily,1234.0
+Sabah,30_39,booster1,perc,80.23123
+Sabah,30_39,booster2,total,12345678.0
+Sabah,30_39,booster2,daily,1234.0
+Sabah,30_39,booster2,perc,80.23123
+Sabah,18_29,dose1,total,12345678.0
+Sabah,18_29,dose1,daily,1234.0
+Sabah,18_29,dose1,perc,80.23123
+Sabah,18_29,dose2,total,12345678.0
+Sabah,18_29,dose2,daily,1234.0
+Sabah,18_29,dose2,perc,80.23123
+Sabah,18_29,booster1,total,12345678.0
+Sabah,18_29,booster1,daily,1234.0
+Sabah,18_29,booster1,perc,80.23123
+Sabah,18_29,booster2,total,12345678.0
+Sabah,18_29,booster2,daily,1234.0
+Sabah,18_29,booster2,perc,80.23123
+Sabah,12_17,dose1,total,12345678.0
+Sabah,12_17,dose1,daily,1234.0
+Sabah,12_17,dose1,perc,80.23123
+Sabah,12_17,dose2,total,12345678.0
+Sabah,12_17,dose2,daily,1234.0
+Sabah,12_17,dose2,perc,80.23123
+Sabah,12_17,booster1,total,12345678.0
+Sabah,12_17,booster1,daily,1234.0
+Sabah,12_17,booster1,perc,80.23123
+Sabah,12_17,booster2,total,12345678.0
+Sabah,12_17,booster2,daily,1234.0
+Sabah,12_17,booster2,perc,80.23123
+Sabah,5_11,dose1,total,12345678.0
+Sabah,5_11,dose1,daily,1234.0
+Sabah,5_11,dose1,perc,80.23123
+Sabah,5_11,dose2,total,12345678.0
+Sabah,5_11,dose2,daily,1234.0
+Sabah,5_11,dose2,perc,80.23123
+Sabah,5_11,booster1,total,12345678.0
+Sabah,5_11,booster1,daily,1234.0
+Sabah,5_11,booster1,perc,80.23123
+Sabah,5_11,booster2,total,12345678.0
+Sabah,5_11,booster2,daily,1234.0
+Sabah,5_11,booster2,perc,80.23123
+Sabah,0_4,dose1,total,12345678.0
+Sabah,0_4,dose1,daily,1234.0
+Sabah,0_4,dose1,perc,80.23123
+Sabah,0_4,dose2,total,12345678.0
+Sabah,0_4,dose2,daily,1234.0
+Sabah,0_4,dose2,perc,80.23123
+Sabah,0_4,booster1,total,12345678.0
+Sabah,0_4,booster1,daily,1234.0
+Sabah,0_4,booster1,perc,80.23123
+Sabah,0_4,booster2,total,12345678.0
+Sabah,0_4,booster2,daily,1234.0
+Sabah,0_4,booster2,perc,80.23123
+Sarawak,elderly,dose1,total,12345678.0
+Sarawak,elderly,dose1,daily,1234.0
+Sarawak,elderly,dose1,perc,80.23123
+Sarawak,elderly,dose2,total,12345678.0
+Sarawak,elderly,dose2,daily,1234.0
+Sarawak,elderly,dose2,perc,80.23123
+Sarawak,elderly,booster1,total,12345678.0
+Sarawak,elderly,booster1,daily,1234.0
+Sarawak,elderly,booster1,perc,80.23123
+Sarawak,elderly,booster2,total,12345678.0
+Sarawak,elderly,booster2,daily,1234.0
+Sarawak,elderly,booster2,perc,80.23123
+Sarawak,adult,dose1,total,12345678.0
+Sarawak,adult,dose1,daily,1234.0
+Sarawak,adult,dose1,perc,80.23123
+Sarawak,adult,dose2,total,12345678.0
+Sarawak,adult,dose2,daily,1234.0
+Sarawak,adult,dose2,perc,80.23123
+Sarawak,adult,booster1,total,12345678.0
+Sarawak,adult,booster1,daily,1234.0
+Sarawak,adult,booster1,perc,80.23123
+Sarawak,adult,booster2,total,12345678.0
+Sarawak,adult,booster2,daily,1234.0
+Sarawak,adult,booster2,perc,80.23123
+Sarawak,adolescent,dose1,total,12345678.0
+Sarawak,adolescent,dose1,daily,1234.0
+Sarawak,adolescent,dose1,perc,80.23123
+Sarawak,adolescent,dose2,total,12345678.0
+Sarawak,adolescent,dose2,daily,1234.0
+Sarawak,adolescent,dose2,perc,80.23123
+Sarawak,adolescent,booster1,total,12345678.0
+Sarawak,adolescent,booster1,daily,1234.0
+Sarawak,adolescent,booster1,perc,80.23123
+Sarawak,adolescent,booster2,total,12345678.0
+Sarawak,adolescent,booster2,daily,1234.0
+Sarawak,adolescent,booster2,perc,80.23123
+Sarawak,child,dose1,total,12345678.0
+Sarawak,child,dose1,daily,1234.0
+Sarawak,child,dose1,perc,80.23123
+Sarawak,child,dose2,total,12345678.0
+Sarawak,child,dose2,daily,1234.0
+Sarawak,child,dose2,perc,80.23123
+Sarawak,child,booster1,total,12345678.0
+Sarawak,child,booster1,daily,1234.0
+Sarawak,child,booster1,perc,80.23123
+Sarawak,child,booster2,total,12345678.0
+Sarawak,child,booster2,daily,1234.0
+Sarawak,child,booster2,perc,80.23123
+Sarawak,70_79,dose1,total,12345678.0
+Sarawak,70_79,dose1,daily,1234.0
+Sarawak,70_79,dose1,perc,80.23123
+Sarawak,70_79,dose2,total,12345678.0
+Sarawak,70_79,dose2,daily,1234.0
+Sarawak,70_79,dose2,perc,80.23123
+Sarawak,70_79,booster1,total,12345678.0
+Sarawak,70_79,booster1,daily,1234.0
+Sarawak,70_79,booster1,perc,80.23123
+Sarawak,70_79,booster2,total,12345678.0
+Sarawak,70_79,booster2,daily,1234.0
+Sarawak,70_79,booster2,perc,80.23123
+Sarawak,60_69,dose1,total,12345678.0
+Sarawak,60_69,dose1,daily,1234.0
+Sarawak,60_69,dose1,perc,80.23123
+Sarawak,60_69,dose2,total,12345678.0
+Sarawak,60_69,dose2,daily,1234.0
+Sarawak,60_69,dose2,perc,80.23123
+Sarawak,60_69,booster1,total,12345678.0
+Sarawak,60_69,booster1,daily,1234.0
+Sarawak,60_69,booster1,perc,80.23123
+Sarawak,60_69,booster2,total,12345678.0
+Sarawak,60_69,booster2,daily,1234.0
+Sarawak,60_69,booster2,perc,80.23123
+Sarawak,50_59,dose1,total,12345678.0
+Sarawak,50_59,dose1,daily,1234.0
+Sarawak,50_59,dose1,perc,80.23123
+Sarawak,50_59,dose2,total,12345678.0
+Sarawak,50_59,dose2,daily,1234.0
+Sarawak,50_59,dose2,perc,80.23123
+Sarawak,50_59,booster1,total,12345678.0
+Sarawak,50_59,booster1,daily,1234.0
+Sarawak,50_59,booster1,perc,80.23123
+Sarawak,50_59,booster2,total,12345678.0
+Sarawak,50_59,booster2,daily,1234.0
+Sarawak,50_59,booster2,perc,80.23123
+Sarawak,40_49,dose1,total,12345678.0
+Sarawak,40_49,dose1,daily,1234.0
+Sarawak,40_49,dose1,perc,80.23123
+Sarawak,40_49,dose2,total,12345678.0
+Sarawak,40_49,dose2,daily,1234.0
+Sarawak,40_49,dose2,perc,80.23123
+Sarawak,40_49,booster1,total,12345678.0
+Sarawak,40_49,booster1,daily,1234.0
+Sarawak,40_49,booster1,perc,80.23123
+Sarawak,40_49,booster2,total,12345678.0
+Sarawak,40_49,booster2,daily,1234.0
+Sarawak,40_49,booster2,perc,80.23123
+Sarawak,30_39,dose1,total,12345678.0
+Sarawak,30_39,dose1,daily,1234.0
+Sarawak,30_39,dose1,perc,80.23123
+Sarawak,30_39,dose2,total,12345678.0
+Sarawak,30_39,dose2,daily,1234.0
+Sarawak,30_39,dose2,perc,80.23123
+Sarawak,30_39,booster1,total,12345678.0
+Sarawak,30_39,booster1,daily,1234.0
+Sarawak,30_39,booster1,perc,80.23123
+Sarawak,30_39,booster2,total,12345678.0
+Sarawak,30_39,booster2,daily,1234.0
+Sarawak,30_39,booster2,perc,80.23123
+Sarawak,18_29,dose1,total,12345678.0
+Sarawak,18_29,dose1,daily,1234.0
+Sarawak,18_29,dose1,perc,80.23123
+Sarawak,18_29,dose2,total,12345678.0
+Sarawak,18_29,dose2,daily,1234.0
+Sarawak,18_29,dose2,perc,80.23123
+Sarawak,18_29,booster1,total,12345678.0
+Sarawak,18_29,booster1,daily,1234.0
+Sarawak,18_29,booster1,perc,80.23123
+Sarawak,18_29,booster2,total,12345678.0
+Sarawak,18_29,booster2,daily,1234.0
+Sarawak,18_29,booster2,perc,80.23123
+Sarawak,12_17,dose1,total,12345678.0
+Sarawak,12_17,dose1,daily,1234.0
+Sarawak,12_17,dose1,perc,80.23123
+Sarawak,12_17,dose2,total,12345678.0
+Sarawak,12_17,dose2,daily,1234.0
+Sarawak,12_17,dose2,perc,80.23123
+Sarawak,12_17,booster1,total,12345678.0
+Sarawak,12_17,booster1,daily,1234.0
+Sarawak,12_17,booster1,perc,80.23123
+Sarawak,12_17,booster2,total,12345678.0
+Sarawak,12_17,booster2,daily,1234.0
+Sarawak,12_17,booster2,perc,80.23123
+Sarawak,5_11,dose1,total,12345678.0
+Sarawak,5_11,dose1,daily,1234.0
+Sarawak,5_11,dose1,perc,80.23123
+Sarawak,5_11,dose2,total,12345678.0
+Sarawak,5_11,dose2,daily,1234.0
+Sarawak,5_11,dose2,perc,80.23123
+Sarawak,5_11,booster1,total,12345678.0
+Sarawak,5_11,booster1,daily,1234.0
+Sarawak,5_11,booster1,perc,80.23123
+Sarawak,5_11,booster2,total,12345678.0
+Sarawak,5_11,booster2,daily,1234.0
+Sarawak,5_11,booster2,perc,80.23123
+Sarawak,0_4,dose1,total,12345678.0
+Sarawak,0_4,dose1,daily,1234.0
+Sarawak,0_4,dose1,perc,80.23123
+Sarawak,0_4,dose2,total,12345678.0
+Sarawak,0_4,dose2,daily,1234.0
+Sarawak,0_4,dose2,perc,80.23123
+Sarawak,0_4,booster1,total,12345678.0
+Sarawak,0_4,booster1,daily,1234.0
+Sarawak,0_4,booster1,perc,80.23123
+Sarawak,0_4,booster2,total,12345678.0
+Sarawak,0_4,booster2,daily,1234.0
+Sarawak,0_4,booster2,perc,80.23123
+Selangor,elderly,dose1,total,12345678.0
+Selangor,elderly,dose1,daily,1234.0
+Selangor,elderly,dose1,perc,80.23123
+Selangor,elderly,dose2,total,12345678.0
+Selangor,elderly,dose2,daily,1234.0
+Selangor,elderly,dose2,perc,80.23123
+Selangor,elderly,booster1,total,12345678.0
+Selangor,elderly,booster1,daily,1234.0
+Selangor,elderly,booster1,perc,80.23123
+Selangor,elderly,booster2,total,12345678.0
+Selangor,elderly,booster2,daily,1234.0
+Selangor,elderly,booster2,perc,80.23123
+Selangor,adult,dose1,total,12345678.0
+Selangor,adult,dose1,daily,1234.0
+Selangor,adult,dose1,perc,80.23123
+Selangor,adult,dose2,total,12345678.0
+Selangor,adult,dose2,daily,1234.0
+Selangor,adult,dose2,perc,80.23123
+Selangor,adult,booster1,total,12345678.0
+Selangor,adult,booster1,daily,1234.0
+Selangor,adult,booster1,perc,80.23123
+Selangor,adult,booster2,total,12345678.0
+Selangor,adult,booster2,daily,1234.0
+Selangor,adult,booster2,perc,80.23123
+Selangor,adolescent,dose1,total,12345678.0
+Selangor,adolescent,dose1,daily,1234.0
+Selangor,adolescent,dose1,perc,80.23123
+Selangor,adolescent,dose2,total,12345678.0
+Selangor,adolescent,dose2,daily,1234.0
+Selangor,adolescent,dose2,perc,80.23123
+Selangor,adolescent,booster1,total,12345678.0
+Selangor,adolescent,booster1,daily,1234.0
+Selangor,adolescent,booster1,perc,80.23123
+Selangor,adolescent,booster2,total,12345678.0
+Selangor,adolescent,booster2,daily,1234.0
+Selangor,adolescent,booster2,perc,80.23123
+Selangor,child,dose1,total,12345678.0
+Selangor,child,dose1,daily,1234.0
+Selangor,child,dose1,perc,80.23123
+Selangor,child,dose2,total,12345678.0
+Selangor,child,dose2,daily,1234.0
+Selangor,child,dose2,perc,80.23123
+Selangor,child,booster1,total,12345678.0
+Selangor,child,booster1,daily,1234.0
+Selangor,child,booster1,perc,80.23123
+Selangor,child,booster2,total,12345678.0
+Selangor,child,booster2,daily,1234.0
+Selangor,child,booster2,perc,80.23123
+Selangor,70_79,dose1,total,12345678.0
+Selangor,70_79,dose1,daily,1234.0
+Selangor,70_79,dose1,perc,80.23123
+Selangor,70_79,dose2,total,12345678.0
+Selangor,70_79,dose2,daily,1234.0
+Selangor,70_79,dose2,perc,80.23123
+Selangor,70_79,booster1,total,12345678.0
+Selangor,70_79,booster1,daily,1234.0
+Selangor,70_79,booster1,perc,80.23123
+Selangor,70_79,booster2,total,12345678.0
+Selangor,70_79,booster2,daily,1234.0
+Selangor,70_79,booster2,perc,80.23123
+Selangor,60_69,dose1,total,12345678.0
+Selangor,60_69,dose1,daily,1234.0
+Selangor,60_69,dose1,perc,80.23123
+Selangor,60_69,dose2,total,12345678.0
+Selangor,60_69,dose2,daily,1234.0
+Selangor,60_69,dose2,perc,80.23123
+Selangor,60_69,booster1,total,12345678.0
+Selangor,60_69,booster1,daily,1234.0
+Selangor,60_69,booster1,perc,80.23123
+Selangor,60_69,booster2,total,12345678.0
+Selangor,60_69,booster2,daily,1234.0
+Selangor,60_69,booster2,perc,80.23123
+Selangor,50_59,dose1,total,12345678.0
+Selangor,50_59,dose1,daily,1234.0
+Selangor,50_59,dose1,perc,80.23123
+Selangor,50_59,dose2,total,12345678.0
+Selangor,50_59,dose2,daily,1234.0
+Selangor,50_59,dose2,perc,80.23123
+Selangor,50_59,booster1,total,12345678.0
+Selangor,50_59,booster1,daily,1234.0
+Selangor,50_59,booster1,perc,80.23123
+Selangor,50_59,booster2,total,12345678.0
+Selangor,50_59,booster2,daily,1234.0
+Selangor,50_59,booster2,perc,80.23123
+Selangor,40_49,dose1,total,12345678.0
+Selangor,40_49,dose1,daily,1234.0
+Selangor,40_49,dose1,perc,80.23123
+Selangor,40_49,dose2,total,12345678.0
+Selangor,40_49,dose2,daily,1234.0
+Selangor,40_49,dose2,perc,80.23123
+Selangor,40_49,booster1,total,12345678.0
+Selangor,40_49,booster1,daily,1234.0
+Selangor,40_49,booster1,perc,80.23123
+Selangor,40_49,booster2,total,12345678.0
+Selangor,40_49,booster2,daily,1234.0
+Selangor,40_49,booster2,perc,80.23123
+Selangor,30_39,dose1,total,12345678.0
+Selangor,30_39,dose1,daily,1234.0
+Selangor,30_39,dose1,perc,80.23123
+Selangor,30_39,dose2,total,12345678.0
+Selangor,30_39,dose2,daily,1234.0
+Selangor,30_39,dose2,perc,80.23123
+Selangor,30_39,booster1,total,12345678.0
+Selangor,30_39,booster1,daily,1234.0
+Selangor,30_39,booster1,perc,80.23123
+Selangor,30_39,booster2,total,12345678.0
+Selangor,30_39,booster2,daily,1234.0
+Selangor,30_39,booster2,perc,80.23123
+Selangor,18_29,dose1,total,12345678.0
+Selangor,18_29,dose1,daily,1234.0
+Selangor,18_29,dose1,perc,80.23123
+Selangor,18_29,dose2,total,12345678.0
+Selangor,18_29,dose2,daily,1234.0
+Selangor,18_29,dose2,perc,80.23123
+Selangor,18_29,booster1,total,12345678.0
+Selangor,18_29,booster1,daily,1234.0
+Selangor,18_29,booster1,perc,80.23123
+Selangor,18_29,booster2,total,12345678.0
+Selangor,18_29,booster2,daily,1234.0
+Selangor,18_29,booster2,perc,80.23123
+Selangor,12_17,dose1,total,12345678.0
+Selangor,12_17,dose1,daily,1234.0
+Selangor,12_17,dose1,perc,80.23123
+Selangor,12_17,dose2,total,12345678.0
+Selangor,12_17,dose2,daily,1234.0
+Selangor,12_17,dose2,perc,80.23123
+Selangor,12_17,booster1,total,12345678.0
+Selangor,12_17,booster1,daily,1234.0
+Selangor,12_17,booster1,perc,80.23123
+Selangor,12_17,booster2,total,12345678.0
+Selangor,12_17,booster2,daily,1234.0
+Selangor,12_17,booster2,perc,80.23123
+Selangor,5_11,dose1,total,12345678.0
+Selangor,5_11,dose1,daily,1234.0
+Selangor,5_11,dose1,perc,80.23123
+Selangor,5_11,dose2,total,12345678.0
+Selangor,5_11,dose2,daily,1234.0
+Selangor,5_11,dose2,perc,80.23123
+Selangor,5_11,booster1,total,12345678.0
+Selangor,5_11,booster1,daily,1234.0
+Selangor,5_11,booster1,perc,80.23123
+Selangor,5_11,booster2,total,12345678.0
+Selangor,5_11,booster2,daily,1234.0
+Selangor,5_11,booster2,perc,80.23123
+Selangor,0_4,dose1,total,12345678.0
+Selangor,0_4,dose1,daily,1234.0
+Selangor,0_4,dose1,perc,80.23123
+Selangor,0_4,dose2,total,12345678.0
+Selangor,0_4,dose2,daily,1234.0
+Selangor,0_4,dose2,perc,80.23123
+Selangor,0_4,booster1,total,12345678.0
+Selangor,0_4,booster1,daily,1234.0
+Selangor,0_4,booster1,perc,80.23123
+Selangor,0_4,booster2,total,12345678.0
+Selangor,0_4,booster2,daily,1234.0
+Selangor,0_4,booster2,perc,80.23123
+Terengganu,elderly,dose1,total,12345678.0
+Terengganu,elderly,dose1,daily,1234.0
+Terengganu,elderly,dose1,perc,80.23123
+Terengganu,elderly,dose2,total,12345678.0
+Terengganu,elderly,dose2,daily,1234.0
+Terengganu,elderly,dose2,perc,80.23123
+Terengganu,elderly,booster1,total,12345678.0
+Terengganu,elderly,booster1,daily,1234.0
+Terengganu,elderly,booster1,perc,80.23123
+Terengganu,elderly,booster2,total,12345678.0
+Terengganu,elderly,booster2,daily,1234.0
+Terengganu,elderly,booster2,perc,80.23123
+Terengganu,adult,dose1,total,12345678.0
+Terengganu,adult,dose1,daily,1234.0
+Terengganu,adult,dose1,perc,80.23123
+Terengganu,adult,dose2,total,12345678.0
+Terengganu,adult,dose2,daily,1234.0
+Terengganu,adult,dose2,perc,80.23123
+Terengganu,adult,booster1,total,12345678.0
+Terengganu,adult,booster1,daily,1234.0
+Terengganu,adult,booster1,perc,80.23123
+Terengganu,adult,booster2,total,12345678.0
+Terengganu,adult,booster2,daily,1234.0
+Terengganu,adult,booster2,perc,80.23123
+Terengganu,adolescent,dose1,total,12345678.0
+Terengganu,adolescent,dose1,daily,1234.0
+Terengganu,adolescent,dose1,perc,80.23123
+Terengganu,adolescent,dose2,total,12345678.0
+Terengganu,adolescent,dose2,daily,1234.0
+Terengganu,adolescent,dose2,perc,80.23123
+Terengganu,adolescent,booster1,total,12345678.0
+Terengganu,adolescent,booster1,daily,1234.0
+Terengganu,adolescent,booster1,perc,80.23123
+Terengganu,adolescent,booster2,total,12345678.0
+Terengganu,adolescent,booster2,daily,1234.0
+Terengganu,adolescent,booster2,perc,80.23123
+Terengganu,child,dose1,total,12345678.0
+Terengganu,child,dose1,daily,1234.0
+Terengganu,child,dose1,perc,80.23123
+Terengganu,child,dose2,total,12345678.0
+Terengganu,child,dose2,daily,1234.0
+Terengganu,child,dose2,perc,80.23123
+Terengganu,child,booster1,total,12345678.0
+Terengganu,child,booster1,daily,1234.0
+Terengganu,child,booster1,perc,80.23123
+Terengganu,child,booster2,total,12345678.0
+Terengganu,child,booster2,daily,1234.0
+Terengganu,child,booster2,perc,80.23123
+Terengganu,70_79,dose1,total,12345678.0
+Terengganu,70_79,dose1,daily,1234.0
+Terengganu,70_79,dose1,perc,80.23123
+Terengganu,70_79,dose2,total,12345678.0
+Terengganu,70_79,dose2,daily,1234.0
+Terengganu,70_79,dose2,perc,80.23123
+Terengganu,70_79,booster1,total,12345678.0
+Terengganu,70_79,booster1,daily,1234.0
+Terengganu,70_79,booster1,perc,80.23123
+Terengganu,70_79,booster2,total,12345678.0
+Terengganu,70_79,booster2,daily,1234.0
+Terengganu,70_79,booster2,perc,80.23123
+Terengganu,60_69,dose1,total,12345678.0
+Terengganu,60_69,dose1,daily,1234.0
+Terengganu,60_69,dose1,perc,80.23123
+Terengganu,60_69,dose2,total,12345678.0
+Terengganu,60_69,dose2,daily,1234.0
+Terengganu,60_69,dose2,perc,80.23123
+Terengganu,60_69,booster1,total,12345678.0
+Terengganu,60_69,booster1,daily,1234.0
+Terengganu,60_69,booster1,perc,80.23123
+Terengganu,60_69,booster2,total,12345678.0
+Terengganu,60_69,booster2,daily,1234.0
+Terengganu,60_69,booster2,perc,80.23123
+Terengganu,50_59,dose1,total,12345678.0
+Terengganu,50_59,dose1,daily,1234.0
+Terengganu,50_59,dose1,perc,80.23123
+Terengganu,50_59,dose2,total,12345678.0
+Terengganu,50_59,dose2,daily,1234.0
+Terengganu,50_59,dose2,perc,80.23123
+Terengganu,50_59,booster1,total,12345678.0
+Terengganu,50_59,booster1,daily,1234.0
+Terengganu,50_59,booster1,perc,80.23123
+Terengganu,50_59,booster2,total,12345678.0
+Terengganu,50_59,booster2,daily,1234.0
+Terengganu,50_59,booster2,perc,80.23123
+Terengganu,40_49,dose1,total,12345678.0
+Terengganu,40_49,dose1,daily,1234.0
+Terengganu,40_49,dose1,perc,80.23123
+Terengganu,40_49,dose2,total,12345678.0
+Terengganu,40_49,dose2,daily,1234.0
+Terengganu,40_49,dose2,perc,80.23123
+Terengganu,40_49,booster1,total,12345678.0
+Terengganu,40_49,booster1,daily,1234.0
+Terengganu,40_49,booster1,perc,80.23123
+Terengganu,40_49,booster2,total,12345678.0
+Terengganu,40_49,booster2,daily,1234.0
+Terengganu,40_49,booster2,perc,80.23123
+Terengganu,30_39,dose1,total,12345678.0
+Terengganu,30_39,dose1,daily,1234.0
+Terengganu,30_39,dose1,perc,80.23123
+Terengganu,30_39,dose2,total,12345678.0
+Terengganu,30_39,dose2,daily,1234.0
+Terengganu,30_39,dose2,perc,80.23123
+Terengganu,30_39,booster1,total,12345678.0
+Terengganu,30_39,booster1,daily,1234.0
+Terengganu,30_39,booster1,perc,80.23123
+Terengganu,30_39,booster2,total,12345678.0
+Terengganu,30_39,booster2,daily,1234.0
+Terengganu,30_39,booster2,perc,80.23123
+Terengganu,18_29,dose1,total,12345678.0
+Terengganu,18_29,dose1,daily,1234.0
+Terengganu,18_29,dose1,perc,80.23123
+Terengganu,18_29,dose2,total,12345678.0
+Terengganu,18_29,dose2,daily,1234.0
+Terengganu,18_29,dose2,perc,80.23123
+Terengganu,18_29,booster1,total,12345678.0
+Terengganu,18_29,booster1,daily,1234.0
+Terengganu,18_29,booster1,perc,80.23123
+Terengganu,18_29,booster2,total,12345678.0
+Terengganu,18_29,booster2,daily,1234.0
+Terengganu,18_29,booster2,perc,80.23123
+Terengganu,12_17,dose1,total,12345678.0
+Terengganu,12_17,dose1,daily,1234.0
+Terengganu,12_17,dose1,perc,80.23123
+Terengganu,12_17,dose2,total,12345678.0
+Terengganu,12_17,dose2,daily,1234.0
+Terengganu,12_17,dose2,perc,80.23123
+Terengganu,12_17,booster1,total,12345678.0
+Terengganu,12_17,booster1,daily,1234.0
+Terengganu,12_17,booster1,perc,80.23123
+Terengganu,12_17,booster2,total,12345678.0
+Terengganu,12_17,booster2,daily,1234.0
+Terengganu,12_17,booster2,perc,80.23123
+Terengganu,5_11,dose1,total,12345678.0
+Terengganu,5_11,dose1,daily,1234.0
+Terengganu,5_11,dose1,perc,80.23123
+Terengganu,5_11,dose2,total,12345678.0
+Terengganu,5_11,dose2,daily,1234.0
+Terengganu,5_11,dose2,perc,80.23123
+Terengganu,5_11,booster1,total,12345678.0
+Terengganu,5_11,booster1,daily,1234.0
+Terengganu,5_11,booster1,perc,80.23123
+Terengganu,5_11,booster2,total,12345678.0
+Terengganu,5_11,booster2,daily,1234.0
+Terengganu,5_11,booster2,perc,80.23123
+Terengganu,0_4,dose1,total,12345678.0
+Terengganu,0_4,dose1,daily,1234.0
+Terengganu,0_4,dose1,perc,80.23123
+Terengganu,0_4,dose2,total,12345678.0
+Terengganu,0_4,dose2,daily,1234.0
+Terengganu,0_4,dose2,perc,80.23123
+Terengganu,0_4,booster1,total,12345678.0
+Terengganu,0_4,booster1,daily,1234.0
+Terengganu,0_4,booster1,perc,80.23123
+Terengganu,0_4,booster2,total,12345678.0
+Terengganu,0_4,booster2,daily,1234.0
+Terengganu,0_4,booster2,perc,80.23123
+W.P. Kuala Lumpur,elderly,dose1,total,12345678.0
+W.P. Kuala Lumpur,elderly,dose1,daily,1234.0
+W.P. Kuala Lumpur,elderly,dose1,perc,80.23123
+W.P. Kuala Lumpur,elderly,dose2,total,12345678.0
+W.P. Kuala Lumpur,elderly,dose2,daily,1234.0
+W.P. Kuala Lumpur,elderly,dose2,perc,80.23123
+W.P. Kuala Lumpur,elderly,booster1,total,12345678.0
+W.P. Kuala Lumpur,elderly,booster1,daily,1234.0
+W.P. Kuala Lumpur,elderly,booster1,perc,80.23123
+W.P. Kuala Lumpur,elderly,booster2,total,12345678.0
+W.P. Kuala Lumpur,elderly,booster2,daily,1234.0
+W.P. Kuala Lumpur,elderly,booster2,perc,80.23123
+W.P. Kuala Lumpur,adult,dose1,total,12345678.0
+W.P. Kuala Lumpur,adult,dose1,daily,1234.0
+W.P. Kuala Lumpur,adult,dose1,perc,80.23123
+W.P. Kuala Lumpur,adult,dose2,total,12345678.0
+W.P. Kuala Lumpur,adult,dose2,daily,1234.0
+W.P. Kuala Lumpur,adult,dose2,perc,80.23123
+W.P. Kuala Lumpur,adult,booster1,total,12345678.0
+W.P. Kuala Lumpur,adult,booster1,daily,1234.0
+W.P. Kuala Lumpur,adult,booster1,perc,80.23123
+W.P. Kuala Lumpur,adult,booster2,total,12345678.0
+W.P. Kuala Lumpur,adult,booster2,daily,1234.0
+W.P. Kuala Lumpur,adult,booster2,perc,80.23123
+W.P. Kuala Lumpur,adolescent,dose1,total,12345678.0
+W.P. Kuala Lumpur,adolescent,dose1,daily,1234.0
+W.P. Kuala Lumpur,adolescent,dose1,perc,80.23123
+W.P. Kuala Lumpur,adolescent,dose2,total,12345678.0
+W.P. Kuala Lumpur,adolescent,dose2,daily,1234.0
+W.P. Kuala Lumpur,adolescent,dose2,perc,80.23123
+W.P. Kuala Lumpur,adolescent,booster1,total,12345678.0
+W.P. Kuala Lumpur,adolescent,booster1,daily,1234.0
+W.P. Kuala Lumpur,adolescent,booster1,perc,80.23123
+W.P. Kuala Lumpur,adolescent,booster2,total,12345678.0
+W.P. Kuala Lumpur,adolescent,booster2,daily,1234.0
+W.P. Kuala Lumpur,adolescent,booster2,perc,80.23123
+W.P. Kuala Lumpur,child,dose1,total,12345678.0
+W.P. Kuala Lumpur,child,dose1,daily,1234.0
+W.P. Kuala Lumpur,child,dose1,perc,80.23123
+W.P. Kuala Lumpur,child,dose2,total,12345678.0
+W.P. Kuala Lumpur,child,dose2,daily,1234.0
+W.P. Kuala Lumpur,child,dose2,perc,80.23123
+W.P. Kuala Lumpur,child,booster1,total,12345678.0
+W.P. Kuala Lumpur,child,booster1,daily,1234.0
+W.P. Kuala Lumpur,child,booster1,perc,80.23123
+W.P. Kuala Lumpur,child,booster2,total,12345678.0
+W.P. Kuala Lumpur,child,booster2,daily,1234.0
+W.P. Kuala Lumpur,child,booster2,perc,80.23123
+W.P. Kuala Lumpur,70_79,dose1,total,12345678.0
+W.P. Kuala Lumpur,70_79,dose1,daily,1234.0
+W.P. Kuala Lumpur,70_79,dose1,perc,80.23123
+W.P. Kuala Lumpur,70_79,dose2,total,12345678.0
+W.P. Kuala Lumpur,70_79,dose2,daily,1234.0
+W.P. Kuala Lumpur,70_79,dose2,perc,80.23123
+W.P. Kuala Lumpur,70_79,booster1,total,12345678.0
+W.P. Kuala Lumpur,70_79,booster1,daily,1234.0
+W.P. Kuala Lumpur,70_79,booster1,perc,80.23123
+W.P. Kuala Lumpur,70_79,booster2,total,12345678.0
+W.P. Kuala Lumpur,70_79,booster2,daily,1234.0
+W.P. Kuala Lumpur,70_79,booster2,perc,80.23123
+W.P. Kuala Lumpur,60_69,dose1,total,12345678.0
+W.P. Kuala Lumpur,60_69,dose1,daily,1234.0
+W.P. Kuala Lumpur,60_69,dose1,perc,80.23123
+W.P. Kuala Lumpur,60_69,dose2,total,12345678.0
+W.P. Kuala Lumpur,60_69,dose2,daily,1234.0
+W.P. Kuala Lumpur,60_69,dose2,perc,80.23123
+W.P. Kuala Lumpur,60_69,booster1,total,12345678.0
+W.P. Kuala Lumpur,60_69,booster1,daily,1234.0
+W.P. Kuala Lumpur,60_69,booster1,perc,80.23123
+W.P. Kuala Lumpur,60_69,booster2,total,12345678.0
+W.P. Kuala Lumpur,60_69,booster2,daily,1234.0
+W.P. Kuala Lumpur,60_69,booster2,perc,80.23123
+W.P. Kuala Lumpur,50_59,dose1,total,12345678.0
+W.P. Kuala Lumpur,50_59,dose1,daily,1234.0
+W.P. Kuala Lumpur,50_59,dose1,perc,80.23123
+W.P. Kuala Lumpur,50_59,dose2,total,12345678.0
+W.P. Kuala Lumpur,50_59,dose2,daily,1234.0
+W.P. Kuala Lumpur,50_59,dose2,perc,80.23123
+W.P. Kuala Lumpur,50_59,booster1,total,12345678.0
+W.P. Kuala Lumpur,50_59,booster1,daily,1234.0
+W.P. Kuala Lumpur,50_59,booster1,perc,80.23123
+W.P. Kuala Lumpur,50_59,booster2,total,12345678.0
+W.P. Kuala Lumpur,50_59,booster2,daily,1234.0
+W.P. Kuala Lumpur,50_59,booster2,perc,80.23123
+W.P. Kuala Lumpur,40_49,dose1,total,12345678.0
+W.P. Kuala Lumpur,40_49,dose1,daily,1234.0
+W.P. Kuala Lumpur,40_49,dose1,perc,80.23123
+W.P. Kuala Lumpur,40_49,dose2,total,12345678.0
+W.P. Kuala Lumpur,40_49,dose2,daily,1234.0
+W.P. Kuala Lumpur,40_49,dose2,perc,80.23123
+W.P. Kuala Lumpur,40_49,booster1,total,12345678.0
+W.P. Kuala Lumpur,40_49,booster1,daily,1234.0
+W.P. Kuala Lumpur,40_49,booster1,perc,80.23123
+W.P. Kuala Lumpur,40_49,booster2,total,12345678.0
+W.P. Kuala Lumpur,40_49,booster2,daily,1234.0
+W.P. Kuala Lumpur,40_49,booster2,perc,80.23123
+W.P. Kuala Lumpur,30_39,dose1,total,12345678.0
+W.P. Kuala Lumpur,30_39,dose1,daily,1234.0
+W.P. Kuala Lumpur,30_39,dose1,perc,80.23123
+W.P. Kuala Lumpur,30_39,dose2,total,12345678.0
+W.P. Kuala Lumpur,30_39,dose2,daily,1234.0
+W.P. Kuala Lumpur,30_39,dose2,perc,80.23123
+W.P. Kuala Lumpur,30_39,booster1,total,12345678.0
+W.P. Kuala Lumpur,30_39,booster1,daily,1234.0
+W.P. Kuala Lumpur,30_39,booster1,perc,80.23123
+W.P. Kuala Lumpur,30_39,booster2,total,12345678.0
+W.P. Kuala Lumpur,30_39,booster2,daily,1234.0
+W.P. Kuala Lumpur,30_39,booster2,perc,80.23123
+W.P. Kuala Lumpur,18_29,dose1,total,12345678.0
+W.P. Kuala Lumpur,18_29,dose1,daily,1234.0
+W.P. Kuala Lumpur,18_29,dose1,perc,80.23123
+W.P. Kuala Lumpur,18_29,dose2,total,12345678.0
+W.P. Kuala Lumpur,18_29,dose2,daily,1234.0
+W.P. Kuala Lumpur,18_29,dose2,perc,80.23123
+W.P. Kuala Lumpur,18_29,booster1,total,12345678.0
+W.P. Kuala Lumpur,18_29,booster1,daily,1234.0
+W.P. Kuala Lumpur,18_29,booster1,perc,80.23123
+W.P. Kuala Lumpur,18_29,booster2,total,12345678.0
+W.P. Kuala Lumpur,18_29,booster2,daily,1234.0
+W.P. Kuala Lumpur,18_29,booster2,perc,80.23123
+W.P. Kuala Lumpur,12_17,dose1,total,12345678.0
+W.P. Kuala Lumpur,12_17,dose1,daily,1234.0
+W.P. Kuala Lumpur,12_17,dose1,perc,80.23123
+W.P. Kuala Lumpur,12_17,dose2,total,12345678.0
+W.P. Kuala Lumpur,12_17,dose2,daily,1234.0
+W.P. Kuala Lumpur,12_17,dose2,perc,80.23123
+W.P. Kuala Lumpur,12_17,booster1,total,12345678.0
+W.P. Kuala Lumpur,12_17,booster1,daily,1234.0
+W.P. Kuala Lumpur,12_17,booster1,perc,80.23123
+W.P. Kuala Lumpur,12_17,booster2,total,12345678.0
+W.P. Kuala Lumpur,12_17,booster2,daily,1234.0
+W.P. Kuala Lumpur,12_17,booster2,perc,80.23123
+W.P. Kuala Lumpur,5_11,dose1,total,12345678.0
+W.P. Kuala Lumpur,5_11,dose1,daily,1234.0
+W.P. Kuala Lumpur,5_11,dose1,perc,80.23123
+W.P. Kuala Lumpur,5_11,dose2,total,12345678.0
+W.P. Kuala Lumpur,5_11,dose2,daily,1234.0
+W.P. Kuala Lumpur,5_11,dose2,perc,80.23123
+W.P. Kuala Lumpur,5_11,booster1,total,12345678.0
+W.P. Kuala Lumpur,5_11,booster1,daily,1234.0
+W.P. Kuala Lumpur,5_11,booster1,perc,80.23123
+W.P. Kuala Lumpur,5_11,booster2,total,12345678.0
+W.P. Kuala Lumpur,5_11,booster2,daily,1234.0
+W.P. Kuala Lumpur,5_11,booster2,perc,80.23123
+W.P. Kuala Lumpur,0_4,dose1,total,12345678.0
+W.P. Kuala Lumpur,0_4,dose1,daily,1234.0
+W.P. Kuala Lumpur,0_4,dose1,perc,80.23123
+W.P. Kuala Lumpur,0_4,dose2,total,12345678.0
+W.P. Kuala Lumpur,0_4,dose2,daily,1234.0
+W.P. Kuala Lumpur,0_4,dose2,perc,80.23123
+W.P. Kuala Lumpur,0_4,booster1,total,12345678.0
+W.P. Kuala Lumpur,0_4,booster1,daily,1234.0
+W.P. Kuala Lumpur,0_4,booster1,perc,80.23123
+W.P. Kuala Lumpur,0_4,booster2,total,12345678.0
+W.P. Kuala Lumpur,0_4,booster2,daily,1234.0
+W.P. Kuala Lumpur,0_4,booster2,perc,80.23123
+W.P. Labuan,elderly,dose1,total,12345678.0
+W.P. Labuan,elderly,dose1,daily,1234.0
+W.P. Labuan,elderly,dose1,perc,80.23123
+W.P. Labuan,elderly,dose2,total,12345678.0
+W.P. Labuan,elderly,dose2,daily,1234.0
+W.P. Labuan,elderly,dose2,perc,80.23123
+W.P. Labuan,elderly,booster1,total,12345678.0
+W.P. Labuan,elderly,booster1,daily,1234.0
+W.P. Labuan,elderly,booster1,perc,80.23123
+W.P. Labuan,elderly,booster2,total,12345678.0
+W.P. Labuan,elderly,booster2,daily,1234.0
+W.P. Labuan,elderly,booster2,perc,80.23123
+W.P. Labuan,adult,dose1,total,12345678.0
+W.P. Labuan,adult,dose1,daily,1234.0
+W.P. Labuan,adult,dose1,perc,80.23123
+W.P. Labuan,adult,dose2,total,12345678.0
+W.P. Labuan,adult,dose2,daily,1234.0
+W.P. Labuan,adult,dose2,perc,80.23123
+W.P. Labuan,adult,booster1,total,12345678.0
+W.P. Labuan,adult,booster1,daily,1234.0
+W.P. Labuan,adult,booster1,perc,80.23123
+W.P. Labuan,adult,booster2,total,12345678.0
+W.P. Labuan,adult,booster2,daily,1234.0
+W.P. Labuan,adult,booster2,perc,80.23123
+W.P. Labuan,adolescent,dose1,total,12345678.0
+W.P. Labuan,adolescent,dose1,daily,1234.0
+W.P. Labuan,adolescent,dose1,perc,80.23123
+W.P. Labuan,adolescent,dose2,total,12345678.0
+W.P. Labuan,adolescent,dose2,daily,1234.0
+W.P. Labuan,adolescent,dose2,perc,80.23123
+W.P. Labuan,adolescent,booster1,total,12345678.0
+W.P. Labuan,adolescent,booster1,daily,1234.0
+W.P. Labuan,adolescent,booster1,perc,80.23123
+W.P. Labuan,adolescent,booster2,total,12345678.0
+W.P. Labuan,adolescent,booster2,daily,1234.0
+W.P. Labuan,adolescent,booster2,perc,80.23123
+W.P. Labuan,child,dose1,total,12345678.0
+W.P. Labuan,child,dose1,daily,1234.0
+W.P. Labuan,child,dose1,perc,80.23123
+W.P. Labuan,child,dose2,total,12345678.0
+W.P. Labuan,child,dose2,daily,1234.0
+W.P. Labuan,child,dose2,perc,80.23123
+W.P. Labuan,child,booster1,total,12345678.0
+W.P. Labuan,child,booster1,daily,1234.0
+W.P. Labuan,child,booster1,perc,80.23123
+W.P. Labuan,child,booster2,total,12345678.0
+W.P. Labuan,child,booster2,daily,1234.0
+W.P. Labuan,child,booster2,perc,80.23123
+W.P. Labuan,70_79,dose1,total,12345678.0
+W.P. Labuan,70_79,dose1,daily,1234.0
+W.P. Labuan,70_79,dose1,perc,80.23123
+W.P. Labuan,70_79,dose2,total,12345678.0
+W.P. Labuan,70_79,dose2,daily,1234.0
+W.P. Labuan,70_79,dose2,perc,80.23123
+W.P. Labuan,70_79,booster1,total,12345678.0
+W.P. Labuan,70_79,booster1,daily,1234.0
+W.P. Labuan,70_79,booster1,perc,80.23123
+W.P. Labuan,70_79,booster2,total,12345678.0
+W.P. Labuan,70_79,booster2,daily,1234.0
+W.P. Labuan,70_79,booster2,perc,80.23123
+W.P. Labuan,60_69,dose1,total,12345678.0
+W.P. Labuan,60_69,dose1,daily,1234.0
+W.P. Labuan,60_69,dose1,perc,80.23123
+W.P. Labuan,60_69,dose2,total,12345678.0
+W.P. Labuan,60_69,dose2,daily,1234.0
+W.P. Labuan,60_69,dose2,perc,80.23123
+W.P. Labuan,60_69,booster1,total,12345678.0
+W.P. Labuan,60_69,booster1,daily,1234.0
+W.P. Labuan,60_69,booster1,perc,80.23123
+W.P. Labuan,60_69,booster2,total,12345678.0
+W.P. Labuan,60_69,booster2,daily,1234.0
+W.P. Labuan,60_69,booster2,perc,80.23123
+W.P. Labuan,50_59,dose1,total,12345678.0
+W.P. Labuan,50_59,dose1,daily,1234.0
+W.P. Labuan,50_59,dose1,perc,80.23123
+W.P. Labuan,50_59,dose2,total,12345678.0
+W.P. Labuan,50_59,dose2,daily,1234.0
+W.P. Labuan,50_59,dose2,perc,80.23123
+W.P. Labuan,50_59,booster1,total,12345678.0
+W.P. Labuan,50_59,booster1,daily,1234.0
+W.P. Labuan,50_59,booster1,perc,80.23123
+W.P. Labuan,50_59,booster2,total,12345678.0
+W.P. Labuan,50_59,booster2,daily,1234.0
+W.P. Labuan,50_59,booster2,perc,80.23123
+W.P. Labuan,40_49,dose1,total,12345678.0
+W.P. Labuan,40_49,dose1,daily,1234.0
+W.P. Labuan,40_49,dose1,perc,80.23123
+W.P. Labuan,40_49,dose2,total,12345678.0
+W.P. Labuan,40_49,dose2,daily,1234.0
+W.P. Labuan,40_49,dose2,perc,80.23123
+W.P. Labuan,40_49,booster1,total,12345678.0
+W.P. Labuan,40_49,booster1,daily,1234.0
+W.P. Labuan,40_49,booster1,perc,80.23123
+W.P. Labuan,40_49,booster2,total,12345678.0
+W.P. Labuan,40_49,booster2,daily,1234.0
+W.P. Labuan,40_49,booster2,perc,80.23123
+W.P. Labuan,30_39,dose1,total,12345678.0
+W.P. Labuan,30_39,dose1,daily,1234.0
+W.P. Labuan,30_39,dose1,perc,80.23123
+W.P. Labuan,30_39,dose2,total,12345678.0
+W.P. Labuan,30_39,dose2,daily,1234.0
+W.P. Labuan,30_39,dose2,perc,80.23123
+W.P. Labuan,30_39,booster1,total,12345678.0
+W.P. Labuan,30_39,booster1,daily,1234.0
+W.P. Labuan,30_39,booster1,perc,80.23123
+W.P. Labuan,30_39,booster2,total,12345678.0
+W.P. Labuan,30_39,booster2,daily,1234.0
+W.P. Labuan,30_39,booster2,perc,80.23123
+W.P. Labuan,18_29,dose1,total,12345678.0
+W.P. Labuan,18_29,dose1,daily,1234.0
+W.P. Labuan,18_29,dose1,perc,80.23123
+W.P. Labuan,18_29,dose2,total,12345678.0
+W.P. Labuan,18_29,dose2,daily,1234.0
+W.P. Labuan,18_29,dose2,perc,80.23123
+W.P. Labuan,18_29,booster1,total,12345678.0
+W.P. Labuan,18_29,booster1,daily,1234.0
+W.P. Labuan,18_29,booster1,perc,80.23123
+W.P. Labuan,18_29,booster2,total,12345678.0
+W.P. Labuan,18_29,booster2,daily,1234.0
+W.P. Labuan,18_29,booster2,perc,80.23123
+W.P. Labuan,12_17,dose1,total,12345678.0
+W.P. Labuan,12_17,dose1,daily,1234.0
+W.P. Labuan,12_17,dose1,perc,80.23123
+W.P. Labuan,12_17,dose2,total,12345678.0
+W.P. Labuan,12_17,dose2,daily,1234.0
+W.P. Labuan,12_17,dose2,perc,80.23123
+W.P. Labuan,12_17,booster1,total,12345678.0
+W.P. Labuan,12_17,booster1,daily,1234.0
+W.P. Labuan,12_17,booster1,perc,80.23123
+W.P. Labuan,12_17,booster2,total,12345678.0
+W.P. Labuan,12_17,booster2,daily,1234.0
+W.P. Labuan,12_17,booster2,perc,80.23123
+W.P. Labuan,5_11,dose1,total,12345678.0
+W.P. Labuan,5_11,dose1,daily,1234.0
+W.P. Labuan,5_11,dose1,perc,80.23123
+W.P. Labuan,5_11,dose2,total,12345678.0
+W.P. Labuan,5_11,dose2,daily,1234.0
+W.P. Labuan,5_11,dose2,perc,80.23123
+W.P. Labuan,5_11,booster1,total,12345678.0
+W.P. Labuan,5_11,booster1,daily,1234.0
+W.P. Labuan,5_11,booster1,perc,80.23123
+W.P. Labuan,5_11,booster2,total,12345678.0
+W.P. Labuan,5_11,booster2,daily,1234.0
+W.P. Labuan,5_11,booster2,perc,80.23123
+W.P. Labuan,0_4,dose1,total,12345678.0
+W.P. Labuan,0_4,dose1,daily,1234.0
+W.P. Labuan,0_4,dose1,perc,80.23123
+W.P. Labuan,0_4,dose2,total,12345678.0
+W.P. Labuan,0_4,dose2,daily,1234.0
+W.P. Labuan,0_4,dose2,perc,80.23123
+W.P. Labuan,0_4,booster1,total,12345678.0
+W.P. Labuan,0_4,booster1,daily,1234.0
+W.P. Labuan,0_4,booster1,perc,80.23123
+W.P. Labuan,0_4,booster2,total,12345678.0
+W.P. Labuan,0_4,booster2,daily,1234.0
+W.P. Labuan,0_4,booster2,perc,80.23123
+W.P. Putrajaya,elderly,dose1,total,12345678.0
+W.P. Putrajaya,elderly,dose1,daily,1234.0
+W.P. Putrajaya,elderly,dose1,perc,80.23123
+W.P. Putrajaya,elderly,dose2,total,12345678.0
+W.P. Putrajaya,elderly,dose2,daily,1234.0
+W.P. Putrajaya,elderly,dose2,perc,80.23123
+W.P. Putrajaya,elderly,booster1,total,12345678.0
+W.P. Putrajaya,elderly,booster1,daily,1234.0
+W.P. Putrajaya,elderly,booster1,perc,80.23123
+W.P. Putrajaya,elderly,booster2,total,12345678.0
+W.P. Putrajaya,elderly,booster2,daily,1234.0
+W.P. Putrajaya,elderly,booster2,perc,80.23123
+W.P. Putrajaya,adult,dose1,total,12345678.0
+W.P. Putrajaya,adult,dose1,daily,1234.0
+W.P. Putrajaya,adult,dose1,perc,80.23123
+W.P. Putrajaya,adult,dose2,total,12345678.0
+W.P. Putrajaya,adult,dose2,daily,1234.0
+W.P. Putrajaya,adult,dose2,perc,80.23123
+W.P. Putrajaya,adult,booster1,total,12345678.0
+W.P. Putrajaya,adult,booster1,daily,1234.0
+W.P. Putrajaya,adult,booster1,perc,80.23123
+W.P. Putrajaya,adult,booster2,total,12345678.0
+W.P. Putrajaya,adult,booster2,daily,1234.0
+W.P. Putrajaya,adult,booster2,perc,80.23123
+W.P. Putrajaya,adolescent,dose1,total,12345678.0
+W.P. Putrajaya,adolescent,dose1,daily,1234.0
+W.P. Putrajaya,adolescent,dose1,perc,80.23123
+W.P. Putrajaya,adolescent,dose2,total,12345678.0
+W.P. Putrajaya,adolescent,dose2,daily,1234.0
+W.P. Putrajaya,adolescent,dose2,perc,80.23123
+W.P. Putrajaya,adolescent,booster1,total,12345678.0
+W.P. Putrajaya,adolescent,booster1,daily,1234.0
+W.P. Putrajaya,adolescent,booster1,perc,80.23123
+W.P. Putrajaya,adolescent,booster2,total,12345678.0
+W.P. Putrajaya,adolescent,booster2,daily,1234.0
+W.P. Putrajaya,adolescent,booster2,perc,80.23123
+W.P. Putrajaya,child,dose1,total,12345678.0
+W.P. Putrajaya,child,dose1,daily,1234.0
+W.P. Putrajaya,child,dose1,perc,80.23123
+W.P. Putrajaya,child,dose2,total,12345678.0
+W.P. Putrajaya,child,dose2,daily,1234.0
+W.P. Putrajaya,child,dose2,perc,80.23123
+W.P. Putrajaya,child,booster1,total,12345678.0
+W.P. Putrajaya,child,booster1,daily,1234.0
+W.P. Putrajaya,child,booster1,perc,80.23123
+W.P. Putrajaya,child,booster2,total,12345678.0
+W.P. Putrajaya,child,booster2,daily,1234.0
+W.P. Putrajaya,child,booster2,perc,80.23123
+W.P. Putrajaya,70_79,dose1,total,12345678.0
+W.P. Putrajaya,70_79,dose1,daily,1234.0
+W.P. Putrajaya,70_79,dose1,perc,80.23123
+W.P. Putrajaya,70_79,dose2,total,12345678.0
+W.P. Putrajaya,70_79,dose2,daily,1234.0
+W.P. Putrajaya,70_79,dose2,perc,80.23123
+W.P. Putrajaya,70_79,booster1,total,12345678.0
+W.P. Putrajaya,70_79,booster1,daily,1234.0
+W.P. Putrajaya,70_79,booster1,perc,80.23123
+W.P. Putrajaya,70_79,booster2,total,12345678.0
+W.P. Putrajaya,70_79,booster2,daily,1234.0
+W.P. Putrajaya,70_79,booster2,perc,80.23123
+W.P. Putrajaya,60_69,dose1,total,12345678.0
+W.P. Putrajaya,60_69,dose1,daily,1234.0
+W.P. Putrajaya,60_69,dose1,perc,80.23123
+W.P. Putrajaya,60_69,dose2,total,12345678.0
+W.P. Putrajaya,60_69,dose2,daily,1234.0
+W.P. Putrajaya,60_69,dose2,perc,80.23123
+W.P. Putrajaya,60_69,booster1,total,12345678.0
+W.P. Putrajaya,60_69,booster1,daily,1234.0
+W.P. Putrajaya,60_69,booster1,perc,80.23123
+W.P. Putrajaya,60_69,booster2,total,12345678.0
+W.P. Putrajaya,60_69,booster2,daily,1234.0
+W.P. Putrajaya,60_69,booster2,perc,80.23123
+W.P. Putrajaya,50_59,dose1,total,12345678.0
+W.P. Putrajaya,50_59,dose1,daily,1234.0
+W.P. Putrajaya,50_59,dose1,perc,80.23123
+W.P. Putrajaya,50_59,dose2,total,12345678.0
+W.P. Putrajaya,50_59,dose2,daily,1234.0
+W.P. Putrajaya,50_59,dose2,perc,80.23123
+W.P. Putrajaya,50_59,booster1,total,12345678.0
+W.P. Putrajaya,50_59,booster1,daily,1234.0
+W.P. Putrajaya,50_59,booster1,perc,80.23123
+W.P. Putrajaya,50_59,booster2,total,12345678.0
+W.P. Putrajaya,50_59,booster2,daily,1234.0
+W.P. Putrajaya,50_59,booster2,perc,80.23123
+W.P. Putrajaya,40_49,dose1,total,12345678.0
+W.P. Putrajaya,40_49,dose1,daily,1234.0
+W.P. Putrajaya,40_49,dose1,perc,80.23123
+W.P. Putrajaya,40_49,dose2,total,12345678.0
+W.P. Putrajaya,40_49,dose2,daily,1234.0
+W.P. Putrajaya,40_49,dose2,perc,80.23123
+W.P. Putrajaya,40_49,booster1,total,12345678.0
+W.P. Putrajaya,40_49,booster1,daily,1234.0
+W.P. Putrajaya,40_49,booster1,perc,80.23123
+W.P. Putrajaya,40_49,booster2,total,12345678.0
+W.P. Putrajaya,40_49,booster2,daily,1234.0
+W.P. Putrajaya,40_49,booster2,perc,80.23123
+W.P. Putrajaya,30_39,dose1,total,12345678.0
+W.P. Putrajaya,30_39,dose1,daily,1234.0
+W.P. Putrajaya,30_39,dose1,perc,80.23123
+W.P. Putrajaya,30_39,dose2,total,12345678.0
+W.P. Putrajaya,30_39,dose2,daily,1234.0
+W.P. Putrajaya,30_39,dose2,perc,80.23123
+W.P. Putrajaya,30_39,booster1,total,12345678.0
+W.P. Putrajaya,30_39,booster1,daily,1234.0
+W.P. Putrajaya,30_39,booster1,perc,80.23123
+W.P. Putrajaya,30_39,booster2,total,12345678.0
+W.P. Putrajaya,30_39,booster2,daily,1234.0
+W.P. Putrajaya,30_39,booster2,perc,80.23123
+W.P. Putrajaya,18_29,dose1,total,12345678.0
+W.P. Putrajaya,18_29,dose1,daily,1234.0
+W.P. Putrajaya,18_29,dose1,perc,80.23123
+W.P. Putrajaya,18_29,dose2,total,12345678.0
+W.P. Putrajaya,18_29,dose2,daily,1234.0
+W.P. Putrajaya,18_29,dose2,perc,80.23123
+W.P. Putrajaya,18_29,booster1,total,12345678.0
+W.P. Putrajaya,18_29,booster1,daily,1234.0
+W.P. Putrajaya,18_29,booster1,perc,80.23123
+W.P. Putrajaya,18_29,booster2,total,12345678.0
+W.P. Putrajaya,18_29,booster2,daily,1234.0
+W.P. Putrajaya,18_29,booster2,perc,80.23123
+W.P. Putrajaya,12_17,dose1,total,12345678.0
+W.P. Putrajaya,12_17,dose1,daily,1234.0
+W.P. Putrajaya,12_17,dose1,perc,80.23123
+W.P. Putrajaya,12_17,dose2,total,12345678.0
+W.P. Putrajaya,12_17,dose2,daily,1234.0
+W.P. Putrajaya,12_17,dose2,perc,80.23123
+W.P. Putrajaya,12_17,booster1,total,12345678.0
+W.P. Putrajaya,12_17,booster1,daily,1234.0
+W.P. Putrajaya,12_17,booster1,perc,80.23123
+W.P. Putrajaya,12_17,booster2,total,12345678.0
+W.P. Putrajaya,12_17,booster2,daily,1234.0
+W.P. Putrajaya,12_17,booster2,perc,80.23123
+W.P. Putrajaya,5_11,dose1,total,12345678.0
+W.P. Putrajaya,5_11,dose1,daily,1234.0
+W.P. Putrajaya,5_11,dose1,perc,80.23123
+W.P. Putrajaya,5_11,dose2,total,12345678.0
+W.P. Putrajaya,5_11,dose2,daily,1234.0
+W.P. Putrajaya,5_11,dose2,perc,80.23123
+W.P. Putrajaya,5_11,booster1,total,12345678.0
+W.P. Putrajaya,5_11,booster1,daily,1234.0
+W.P. Putrajaya,5_11,booster1,perc,80.23123
+W.P. Putrajaya,5_11,booster2,total,12345678.0
+W.P. Putrajaya,5_11,booster2,daily,1234.0
+W.P. Putrajaya,5_11,booster2,perc,80.23123
+W.P. Putrajaya,0_4,dose1,total,12345678.0
+W.P. Putrajaya,0_4,dose1,daily,1234.0
+W.P. Putrajaya,0_4,dose1,perc,80.23123
+W.P. Putrajaya,0_4,dose2,total,12345678.0
+W.P. Putrajaya,0_4,dose2,daily,1234.0
+W.P. Putrajaya,0_4,dose2,perc,80.23123
+W.P. Putrajaya,0_4,booster1,total,12345678.0
+W.P. Putrajaya,0_4,booster1,daily,1234.0
+W.P. Putrajaya,0_4,booster1,perc,80.23123
+W.P. Putrajaya,0_4,booster2,total,12345678.0
+W.P. Putrajaya,0_4,booster2,daily,1234.0
+W.P. Putrajaya,0_4,booster2,perc,80.23123
