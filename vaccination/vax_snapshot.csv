@@ -1,4 +1,16 @@
 state,age_group,dose,metric,value
+Malaysia,total,dose1,total,12345678.0
+Malaysia,total,dose1,daily,1234.0
+Malaysia,total,dose1,perc,80.23123
+Malaysia,total,dose2,total,12345678.0
+Malaysia,total,dose2,daily,1234.0
+Malaysia,total,dose2,perc,80.23123
+Malaysia,total,booster1,total,12345678.0
+Malaysia,total,booster1,daily,1234.0
+Malaysia,total,booster1,perc,80.23123
+Malaysia,total,booster2,total,12345678.0
+Malaysia,total,booster2,daily,1234.0
+Malaysia,total,booster2,perc,80.23123
 Malaysia,child,dose1,total,12345678.0
 Malaysia,child,dose1,daily,1234.0
 Malaysia,child,dose1,perc,80.23123
@@ -167,6 +179,18 @@ Malaysia,80_above,booster1,perc,80.23123
 Malaysia,80_above,booster2,total,12345678.0
 Malaysia,80_above,booster2,daily,1234.0
 Malaysia,80_above,booster2,perc,80.23123
+Klang Valley,total,dose1,total,12345678.0
+Klang Valley,total,dose1,daily,1234.0
+Klang Valley,total,dose1,perc,80.23123
+Klang Valley,total,dose2,total,12345678.0
+Klang Valley,total,dose2,daily,1234.0
+Klang Valley,total,dose2,perc,80.23123
+Klang Valley,total,booster1,total,12345678.0
+Klang Valley,total,booster1,daily,1234.0
+Klang Valley,total,booster1,perc,80.23123
+Klang Valley,total,booster2,total,12345678.0
+Klang Valley,total,booster2,daily,1234.0
+Klang Valley,total,booster2,perc,80.23123
 Klang Valley,child,dose1,total,12345678.0
 Klang Valley,child,dose1,daily,1234.0
 Klang Valley,child,dose1,perc,80.23123
@@ -335,6 +359,18 @@ Klang Valley,80_above,booster1,perc,80.23123
 Klang Valley,80_above,booster2,total,12345678.0
 Klang Valley,80_above,booster2,daily,1234.0
 Klang Valley,80_above,booster2,perc,80.23123
+Johor,total,dose1,total,12345678.0
+Johor,total,dose1,daily,1234.0
+Johor,total,dose1,perc,80.23123
+Johor,total,dose2,total,12345678.0
+Johor,total,dose2,daily,1234.0
+Johor,total,dose2,perc,80.23123
+Johor,total,booster1,total,12345678.0
+Johor,total,booster1,daily,1234.0
+Johor,total,booster1,perc,80.23123
+Johor,total,booster2,total,12345678.0
+Johor,total,booster2,daily,1234.0
+Johor,total,booster2,perc,80.23123
 Johor,child,dose1,total,12345678.0
 Johor,child,dose1,daily,1234.0
 Johor,child,dose1,perc,80.23123
@@ -503,6 +539,18 @@ Johor,80_above,booster1,perc,80.23123
 Johor,80_above,booster2,total,12345678.0
 Johor,80_above,booster2,daily,1234.0
 Johor,80_above,booster2,perc,80.23123
+Kedah,total,dose1,total,12345678.0
+Kedah,total,dose1,daily,1234.0
+Kedah,total,dose1,perc,80.23123
+Kedah,total,dose2,total,12345678.0
+Kedah,total,dose2,daily,1234.0
+Kedah,total,dose2,perc,80.23123
+Kedah,total,booster1,total,12345678.0
+Kedah,total,booster1,daily,1234.0
+Kedah,total,booster1,perc,80.23123
+Kedah,total,booster2,total,12345678.0
+Kedah,total,booster2,daily,1234.0
+Kedah,total,booster2,perc,80.23123
 Kedah,child,dose1,total,12345678.0
 Kedah,child,dose1,daily,1234.0
 Kedah,child,dose1,perc,80.23123
@@ -671,6 +719,18 @@ Kedah,80_above,booster1,perc,80.23123
 Kedah,80_above,booster2,total,12345678.0
 Kedah,80_above,booster2,daily,1234.0
 Kedah,80_above,booster2,perc,80.23123
+Kelantan,total,dose1,total,12345678.0
+Kelantan,total,dose1,daily,1234.0
+Kelantan,total,dose1,perc,80.23123
+Kelantan,total,dose2,total,12345678.0
+Kelantan,total,dose2,daily,1234.0
+Kelantan,total,dose2,perc,80.23123
+Kelantan,total,booster1,total,12345678.0
+Kelantan,total,booster1,daily,1234.0
+Kelantan,total,booster1,perc,80.23123
+Kelantan,total,booster2,total,12345678.0
+Kelantan,total,booster2,daily,1234.0
+Kelantan,total,booster2,perc,80.23123
 Kelantan,child,dose1,total,12345678.0
 Kelantan,child,dose1,daily,1234.0
 Kelantan,child,dose1,perc,80.23123
@@ -839,6 +899,18 @@ Kelantan,80_above,booster1,perc,80.23123
 Kelantan,80_above,booster2,total,12345678.0
 Kelantan,80_above,booster2,daily,1234.0
 Kelantan,80_above,booster2,perc,80.23123
+Melaka,total,dose1,total,12345678.0
+Melaka,total,dose1,daily,1234.0
+Melaka,total,dose1,perc,80.23123
+Melaka,total,dose2,total,12345678.0
+Melaka,total,dose2,daily,1234.0
+Melaka,total,dose2,perc,80.23123
+Melaka,total,booster1,total,12345678.0
+Melaka,total,booster1,daily,1234.0
+Melaka,total,booster1,perc,80.23123
+Melaka,total,booster2,total,12345678.0
+Melaka,total,booster2,daily,1234.0
+Melaka,total,booster2,perc,80.23123
 Melaka,child,dose1,total,12345678.0
 Melaka,child,dose1,daily,1234.0
 Melaka,child,dose1,perc,80.23123
@@ -1007,6 +1079,18 @@ Melaka,80_above,booster1,perc,80.23123
 Melaka,80_above,booster2,total,12345678.0
 Melaka,80_above,booster2,daily,1234.0
 Melaka,80_above,booster2,perc,80.23123
+Negeri Sembilan,total,dose1,total,12345678.0
+Negeri Sembilan,total,dose1,daily,1234.0
+Negeri Sembilan,total,dose1,perc,80.23123
+Negeri Sembilan,total,dose2,total,12345678.0
+Negeri Sembilan,total,dose2,daily,1234.0
+Negeri Sembilan,total,dose2,perc,80.23123
+Negeri Sembilan,total,booster1,total,12345678.0
+Negeri Sembilan,total,booster1,daily,1234.0
+Negeri Sembilan,total,booster1,perc,80.23123
+Negeri Sembilan,total,booster2,total,12345678.0
+Negeri Sembilan,total,booster2,daily,1234.0
+Negeri Sembilan,total,booster2,perc,80.23123
 Negeri Sembilan,child,dose1,total,12345678.0
 Negeri Sembilan,child,dose1,daily,1234.0
 Negeri Sembilan,child,dose1,perc,80.23123
@@ -1175,6 +1259,18 @@ Negeri Sembilan,80_above,booster1,perc,80.23123
 Negeri Sembilan,80_above,booster2,total,12345678.0
 Negeri Sembilan,80_above,booster2,daily,1234.0
 Negeri Sembilan,80_above,booster2,perc,80.23123
+Pahang,total,dose1,total,12345678.0
+Pahang,total,dose1,daily,1234.0
+Pahang,total,dose1,perc,80.23123
+Pahang,total,dose2,total,12345678.0
+Pahang,total,dose2,daily,1234.0
+Pahang,total,dose2,perc,80.23123
+Pahang,total,booster1,total,12345678.0
+Pahang,total,booster1,daily,1234.0
+Pahang,total,booster1,perc,80.23123
+Pahang,total,booster2,total,12345678.0
+Pahang,total,booster2,daily,1234.0
+Pahang,total,booster2,perc,80.23123
 Pahang,child,dose1,total,12345678.0
 Pahang,child,dose1,daily,1234.0
 Pahang,child,dose1,perc,80.23123
@@ -1343,6 +1439,18 @@ Pahang,80_above,booster1,perc,80.23123
 Pahang,80_above,booster2,total,12345678.0
 Pahang,80_above,booster2,daily,1234.0
 Pahang,80_above,booster2,perc,80.23123
+Perak,total,dose1,total,12345678.0
+Perak,total,dose1,daily,1234.0
+Perak,total,dose1,perc,80.23123
+Perak,total,dose2,total,12345678.0
+Perak,total,dose2,daily,1234.0
+Perak,total,dose2,perc,80.23123
+Perak,total,booster1,total,12345678.0
+Perak,total,booster1,daily,1234.0
+Perak,total,booster1,perc,80.23123
+Perak,total,booster2,total,12345678.0
+Perak,total,booster2,daily,1234.0
+Perak,total,booster2,perc,80.23123
 Perak,child,dose1,total,12345678.0
 Perak,child,dose1,daily,1234.0
 Perak,child,dose1,perc,80.23123
@@ -1511,6 +1619,18 @@ Perak,80_above,booster1,perc,80.23123
 Perak,80_above,booster2,total,12345678.0
 Perak,80_above,booster2,daily,1234.0
 Perak,80_above,booster2,perc,80.23123
+Perlis,total,dose1,total,12345678.0
+Perlis,total,dose1,daily,1234.0
+Perlis,total,dose1,perc,80.23123
+Perlis,total,dose2,total,12345678.0
+Perlis,total,dose2,daily,1234.0
+Perlis,total,dose2,perc,80.23123
+Perlis,total,booster1,total,12345678.0
+Perlis,total,booster1,daily,1234.0
+Perlis,total,booster1,perc,80.23123
+Perlis,total,booster2,total,12345678.0
+Perlis,total,booster2,daily,1234.0
+Perlis,total,booster2,perc,80.23123
 Perlis,child,dose1,total,12345678.0
 Perlis,child,dose1,daily,1234.0
 Perlis,child,dose1,perc,80.23123
@@ -1679,6 +1799,18 @@ Perlis,80_above,booster1,perc,80.23123
 Perlis,80_above,booster2,total,12345678.0
 Perlis,80_above,booster2,daily,1234.0
 Perlis,80_above,booster2,perc,80.23123
+Pulau Pinang,total,dose1,total,12345678.0
+Pulau Pinang,total,dose1,daily,1234.0
+Pulau Pinang,total,dose1,perc,80.23123
+Pulau Pinang,total,dose2,total,12345678.0
+Pulau Pinang,total,dose2,daily,1234.0
+Pulau Pinang,total,dose2,perc,80.23123
+Pulau Pinang,total,booster1,total,12345678.0
+Pulau Pinang,total,booster1,daily,1234.0
+Pulau Pinang,total,booster1,perc,80.23123
+Pulau Pinang,total,booster2,total,12345678.0
+Pulau Pinang,total,booster2,daily,1234.0
+Pulau Pinang,total,booster2,perc,80.23123
 Pulau Pinang,child,dose1,total,12345678.0
 Pulau Pinang,child,dose1,daily,1234.0
 Pulau Pinang,child,dose1,perc,80.23123
@@ -1847,6 +1979,18 @@ Pulau Pinang,80_above,booster1,perc,80.23123
 Pulau Pinang,80_above,booster2,total,12345678.0
 Pulau Pinang,80_above,booster2,daily,1234.0
 Pulau Pinang,80_above,booster2,perc,80.23123
+Sabah,total,dose1,total,12345678.0
+Sabah,total,dose1,daily,1234.0
+Sabah,total,dose1,perc,80.23123
+Sabah,total,dose2,total,12345678.0
+Sabah,total,dose2,daily,1234.0
+Sabah,total,dose2,perc,80.23123
+Sabah,total,booster1,total,12345678.0
+Sabah,total,booster1,daily,1234.0
+Sabah,total,booster1,perc,80.23123
+Sabah,total,booster2,total,12345678.0
+Sabah,total,booster2,daily,1234.0
+Sabah,total,booster2,perc,80.23123
 Sabah,child,dose1,total,12345678.0
 Sabah,child,dose1,daily,1234.0
 Sabah,child,dose1,perc,80.23123
@@ -2015,6 +2159,18 @@ Sabah,80_above,booster1,perc,80.23123
 Sabah,80_above,booster2,total,12345678.0
 Sabah,80_above,booster2,daily,1234.0
 Sabah,80_above,booster2,perc,80.23123
+Sarawak,total,dose1,total,12345678.0
+Sarawak,total,dose1,daily,1234.0
+Sarawak,total,dose1,perc,80.23123
+Sarawak,total,dose2,total,12345678.0
+Sarawak,total,dose2,daily,1234.0
+Sarawak,total,dose2,perc,80.23123
+Sarawak,total,booster1,total,12345678.0
+Sarawak,total,booster1,daily,1234.0
+Sarawak,total,booster1,perc,80.23123
+Sarawak,total,booster2,total,12345678.0
+Sarawak,total,booster2,daily,1234.0
+Sarawak,total,booster2,perc,80.23123
 Sarawak,child,dose1,total,12345678.0
 Sarawak,child,dose1,daily,1234.0
 Sarawak,child,dose1,perc,80.23123
@@ -2183,6 +2339,18 @@ Sarawak,80_above,booster1,perc,80.23123
 Sarawak,80_above,booster2,total,12345678.0
 Sarawak,80_above,booster2,daily,1234.0
 Sarawak,80_above,booster2,perc,80.23123
+Selangor,total,dose1,total,12345678.0
+Selangor,total,dose1,daily,1234.0
+Selangor,total,dose1,perc,80.23123
+Selangor,total,dose2,total,12345678.0
+Selangor,total,dose2,daily,1234.0
+Selangor,total,dose2,perc,80.23123
+Selangor,total,booster1,total,12345678.0
+Selangor,total,booster1,daily,1234.0
+Selangor,total,booster1,perc,80.23123
+Selangor,total,booster2,total,12345678.0
+Selangor,total,booster2,daily,1234.0
+Selangor,total,booster2,perc,80.23123
 Selangor,child,dose1,total,12345678.0
 Selangor,child,dose1,daily,1234.0
 Selangor,child,dose1,perc,80.23123
@@ -2351,6 +2519,18 @@ Selangor,80_above,booster1,perc,80.23123
 Selangor,80_above,booster2,total,12345678.0
 Selangor,80_above,booster2,daily,1234.0
 Selangor,80_above,booster2,perc,80.23123
+Terengganu,total,dose1,total,12345678.0
+Terengganu,total,dose1,daily,1234.0
+Terengganu,total,dose1,perc,80.23123
+Terengganu,total,dose2,total,12345678.0
+Terengganu,total,dose2,daily,1234.0
+Terengganu,total,dose2,perc,80.23123
+Terengganu,total,booster1,total,12345678.0
+Terengganu,total,booster1,daily,1234.0
+Terengganu,total,booster1,perc,80.23123
+Terengganu,total,booster2,total,12345678.0
+Terengganu,total,booster2,daily,1234.0
+Terengganu,total,booster2,perc,80.23123
 Terengganu,child,dose1,total,12345678.0
 Terengganu,child,dose1,daily,1234.0
 Terengganu,child,dose1,perc,80.23123
@@ -2519,6 +2699,18 @@ Terengganu,80_above,booster1,perc,80.23123
 Terengganu,80_above,booster2,total,12345678.0
 Terengganu,80_above,booster2,daily,1234.0
 Terengganu,80_above,booster2,perc,80.23123
+W.P. Kuala Lumpur,total,dose1,total,12345678.0
+W.P. Kuala Lumpur,total,dose1,daily,1234.0
+W.P. Kuala Lumpur,total,dose1,perc,80.23123
+W.P. Kuala Lumpur,total,dose2,total,12345678.0
+W.P. Kuala Lumpur,total,dose2,daily,1234.0
+W.P. Kuala Lumpur,total,dose2,perc,80.23123
+W.P. Kuala Lumpur,total,booster1,total,12345678.0
+W.P. Kuala Lumpur,total,booster1,daily,1234.0
+W.P. Kuala Lumpur,total,booster1,perc,80.23123
+W.P. Kuala Lumpur,total,booster2,total,12345678.0
+W.P. Kuala Lumpur,total,booster2,daily,1234.0
+W.P. Kuala Lumpur,total,booster2,perc,80.23123
 W.P. Kuala Lumpur,child,dose1,total,12345678.0
 W.P. Kuala Lumpur,child,dose1,daily,1234.0
 W.P. Kuala Lumpur,child,dose1,perc,80.23123
@@ -2687,6 +2879,18 @@ W.P. Kuala Lumpur,80_above,booster1,perc,80.23123
 W.P. Kuala Lumpur,80_above,booster2,total,12345678.0
 W.P. Kuala Lumpur,80_above,booster2,daily,1234.0
 W.P. Kuala Lumpur,80_above,booster2,perc,80.23123
+W.P. Labuan,total,dose1,total,12345678.0
+W.P. Labuan,total,dose1,daily,1234.0
+W.P. Labuan,total,dose1,perc,80.23123
+W.P. Labuan,total,dose2,total,12345678.0
+W.P. Labuan,total,dose2,daily,1234.0
+W.P. Labuan,total,dose2,perc,80.23123
+W.P. Labuan,total,booster1,total,12345678.0
+W.P. Labuan,total,booster1,daily,1234.0
+W.P. Labuan,total,booster1,perc,80.23123
+W.P. Labuan,total,booster2,total,12345678.0
+W.P. Labuan,total,booster2,daily,1234.0
+W.P. Labuan,total,booster2,perc,80.23123
 W.P. Labuan,child,dose1,total,12345678.0
 W.P. Labuan,child,dose1,daily,1234.0
 W.P. Labuan,child,dose1,perc,80.23123
@@ -2855,6 +3059,18 @@ W.P. Labuan,80_above,booster1,perc,80.23123
 W.P. Labuan,80_above,booster2,total,12345678.0
 W.P. Labuan,80_above,booster2,daily,1234.0
 W.P. Labuan,80_above,booster2,perc,80.23123
+W.P. Putrajaya,total,dose1,total,12345678.0
+W.P. Putrajaya,total,dose1,daily,1234.0
+W.P. Putrajaya,total,dose1,perc,80.23123
+W.P. Putrajaya,total,dose2,total,12345678.0
+W.P. Putrajaya,total,dose2,daily,1234.0
+W.P. Putrajaya,total,dose2,perc,80.23123
+W.P. Putrajaya,total,booster1,total,12345678.0
+W.P. Putrajaya,total,booster1,daily,1234.0
+W.P. Putrajaya,total,booster1,perc,80.23123
+W.P. Putrajaya,total,booster2,total,12345678.0
+W.P. Putrajaya,total,booster2,daily,1234.0
+W.P. Putrajaya,total,booster2,perc,80.23123
 W.P. Putrajaya,child,dose1,total,12345678.0
 W.P. Putrajaya,child,dose1,daily,1234.0
 W.P. Putrajaya,child,dose1,perc,80.23123
