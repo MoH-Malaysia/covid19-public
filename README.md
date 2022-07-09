@@ -49,7 +49,7 @@
 
 ### Static data
 
-1) [`population.csv`](/static/population.csv) (last updated from DOSM 2020 release, to be updated with 2022 release shortly): 
+1) [`population.csv`](/static/population.csv) (last updated from DOSM 2020 census, as published in 2022): 
  - `idxs`: integer coding for states (employed in cases linelist, cluster file, and school vax file)
  - `pop`: total population (all other columns are subset of `pop`)
  - `pop_18`: population aged 18+
