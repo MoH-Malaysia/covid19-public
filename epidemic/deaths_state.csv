@@ -13530,7 +13530,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-10,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-07-10,Sabah,0,0,0,0,0,0,0,0,0
 2022-07-10,Sarawak,1,0,0,0,0,0,0,0,2
-2022-07-10,Selangor,1,0,1,0,0,0,0,1,2
+2022-07-10,Selangor,1,0,2,1,0,0,0,2,2
 2022-07-10,Terengganu,0,0,1,0,1,0,0,0,0
 2022-07-10,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-07-10,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -13587,14 +13587,14 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-14,Kedah,3,0,0,0,0,0,0,0,1
 2022-07-14,Kelantan,0,0,0,0,0,0,0,0,0
 2022-07-14,Melaka,0,0,0,0,0,0,0,0,0
-2022-07-14,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-07-14,Negeri Sembilan,0,0,1,0,0,0,1,0,0
 2022-07-14,Pahang,0,0,0,0,0,0,0,0,0
 2022-07-14,Perak,1,0,0,0,0,0,0,0,4
 2022-07-14,Perlis,0,0,0,0,0,0,0,0,0
 2022-07-14,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-07-14,Sabah,0,0,0,0,0,0,0,0,0
 2022-07-14,Sarawak,1,1,0,0,0,0,0,0,2
-2022-07-14,Selangor,0,0,1,0,0,0,0,1,0
+2022-07-14,Selangor,0,0,2,1,0,0,0,2,0
 2022-07-14,Terengganu,0,0,0,0,0,0,0,0,0
 2022-07-14,W.P. Kuala Lumpur,1,1,0,0,0,0,0,0,2
 2022-07-14,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -13602,7 +13602,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-15,Johor,0,0,1,0,0,0,0,1,0
 2022-07-15,Kedah,0,0,2,2,1,0,0,1,0
 2022-07-15,Kelantan,0,0,0,0,0,0,0,0,0
-2022-07-15,Melaka,2,0,1,0,0,0,1,0,2
+2022-07-15,Melaka,2,0,2,0,0,0,1,1,2
 2022-07-15,Negeri Sembilan,0,0,0,0,0,0,0,0,0
 2022-07-15,Pahang,0,0,0,0,0,0,0,0,0
 2022-07-15,Perak,1,1,0,0,0,0,0,0,2
@@ -13618,7 +13618,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-16,Johor,0,0,1,0,0,0,0,1,0
 2022-07-16,Kedah,0,0,0,0,0,0,0,0,0
 2022-07-16,Kelantan,0,0,0,0,0,0,0,0,0
-2022-07-16,Melaka,0,0,0,0,0,0,0,0,0
+2022-07-16,Melaka,0,0,1,1,1,0,0,0,0
 2022-07-16,Negeri Sembilan,1,1,0,0,0,0,0,0,3
 2022-07-16,Pahang,0,0,0,0,0,0,0,0,0
 2022-07-16,Perak,0,0,0,0,0,0,0,0,0
@@ -13626,7 +13626,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-16,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-07-16,Sabah,0,0,0,0,0,0,0,0,0
 2022-07-16,Sarawak,0,0,0,0,0,0,0,0,0
-2022-07-16,Selangor,3,0,0,0,0,0,0,0,2
+2022-07-16,Selangor,3,0,1,0,1,0,0,0,2
 2022-07-16,Terengganu,0,0,0,0,0,0,0,0,0
 2022-07-16,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-07-16,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -13635,7 +13635,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-17,Kedah,2,2,0,0,0,0,0,0,2
 2022-07-17,Kelantan,0,0,0,0,0,0,0,0,0
 2022-07-17,Melaka,1,0,0,0,0,0,0,0,2
-2022-07-17,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-07-17,Negeri Sembilan,0,0,1,0,0,0,1,0,0
 2022-07-17,Pahang,1,1,0,0,0,0,0,0,5
 2022-07-17,Perak,0,0,0,0,0,0,0,0,0
 2022-07-17,Perlis,0,0,0,0,0,0,0,0,0
@@ -13647,3 +13647,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-07-17,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-07-17,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-07-17,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2022-07-18,Johor,0,0,0,0,0,0,0,0,0
+2022-07-18,Kedah,0,0,0,0,0,0,0,0,0
+2022-07-18,Kelantan,0,0,0,0,0,0,0,0,0
+2022-07-18,Melaka,2,1,0,0,0,0,0,0,2
+2022-07-18,Negeri Sembilan,2,0,0,0,0,0,0,0,2
+2022-07-18,Pahang,0,0,0,0,0,0,0,0,0
+2022-07-18,Perak,0,0,0,0,0,0,0,0,0
+2022-07-18,Perlis,0,0,0,0,0,0,0,0,0
+2022-07-18,Pulau Pinang,0,0,0,0,0,0,0,0,0
+2022-07-18,Sabah,0,0,0,0,0,0,0,0,0
+2022-07-18,Sarawak,0,0,0,0,0,0,0,0,0
+2022-07-18,Selangor,3,2,0,0,0,0,0,0,4
+2022-07-18,Terengganu,0,0,0,0,0,0,0,0,0
+2022-07-18,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
+2022-07-18,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2022-07-18,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
