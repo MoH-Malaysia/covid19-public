@@ -24,7 +24,7 @@ Malaysia,50_59,booster2,total,31195.0
 Malaysia,50_59,dose1,total,3040042.0
 Malaysia,50_59,dose2,total,3019543.0
 Malaysia,5_11,booster1,total,953.0
-Malaysia,5_11,booster2,total,1.0
+Malaysia,5_11,booster2,total,0.0
 Malaysia,5_11,dose1,total,1766619.0
 Malaysia,5_11,dose2,total,1455522.0
 Malaysia,60_69,booster1,total,1633678.0
@@ -48,7 +48,7 @@ Malaysia,adult,booster2,total,245159.0
 Malaysia,adult,dose1,total,23324687.0
 Malaysia,adult,dose2,total,23046995.0
 Malaysia,child,booster1,total,953.0
-Malaysia,child,booster2,total,1.0
+Malaysia,child,booster2,total,0.0
 Malaysia,child,dose1,total,1766619.0
 Malaysia,child,dose2,total,1455522.0
 Malaysia,elderly,booster1,total,2578666.0
@@ -56,7 +56,7 @@ Malaysia,elderly,booster2,total,121408.0
 Malaysia,elderly,dose1,total,3416709.0
 Malaysia,elderly,dose2,total,3395812.0
 Malaysia,total,booster1,total,16169220.0
-Malaysia,total,booster2,total,245367.0
+Malaysia,total,booster2,total,245366.0
 Malaysia,total,dose1,total,28060143.0
 Malaysia,total,dose2,total,27392276.0
 Klang Valley,0_4,booster1,total,0.0
@@ -444,7 +444,7 @@ Pahang,50_59,booster2,total,1011.0
 Pahang,50_59,dose1,total,138079.0
 Pahang,50_59,dose2,total,137317.0
 Pahang,5_11,booster1,total,91.0
-Pahang,5_11,booster2,total,1.0
+Pahang,5_11,booster2,total,0.0
 Pahang,5_11,dose1,total,76715.0
 Pahang,5_11,dose2,total,61370.0
 Pahang,60_69,booster1,total,69384.0
@@ -468,7 +468,7 @@ Pahang,adult,booster2,total,7064.0
 Pahang,adult,dose1,total,1048456.0
 Pahang,adult,dose2,total,1036907.0
 Pahang,child,booster1,total,91.0
-Pahang,child,booster2,total,1.0
+Pahang,child,booster2,total,0.0
 Pahang,child,dose1,total,76715.0
 Pahang,child,dose2,total,61370.0
 Pahang,elderly,booster1,total,108339.0
@@ -476,7 +476,7 @@ Pahang,elderly,booster2,total,3139.0
 Pahang,elderly,dose1,total,162029.0
 Pahang,elderly,dose2,total,161313.0
 Pahang,total,booster1,total,629068.0
-Pahang,total,booster2,total,7074.0
+Pahang,total,booster2,total,7073.0
 Pahang,total,dose1,total,1279164.0
 Pahang,total,dose2,total,1248510.0
 Perak,0_4,booster1,total,0.0
@@ -2184,7 +2184,7 @@ Malaysia,50_59,booster2,perc,0.9993592823962838
 Malaysia,50_59,dose1,perc,97.39042127182445
 Malaysia,50_59,dose2,perc,96.73371776389557
 Malaysia,5_11,booster1,perc,0.026841289959160682
-Malaysia,5_11,booster2,perc,2.816504717645402e-05
+Malaysia,5_11,booster2,perc,0.0
 Malaysia,5_11,dose1,perc,49.75690747782002
 Malaysia,5_11,dose2,perc,40.99484579636671
 Malaysia,60_69,booster1,perc,74.91186720469553
@@ -2208,7 +2208,7 @@ Malaysia,adult,booster2,perc,1.041979411939715
 Malaysia,adult,dose1,perc,99.135025203798
 Malaysia,adult,dose2,perc,97.95477342083117
 Malaysia,child,booster1,perc,0.026841289959160682
-Malaysia,child,booster2,perc,2.816504717645402e-05
+Malaysia,child,booster2,perc,0.0
 Malaysia,child,dose1,perc,49.75690747782002
 Malaysia,child,dose2,perc,40.99484579636671
 Malaysia,elderly,booster1,perc,70.66774458755823
@@ -2216,7 +2216,7 @@ Malaysia,elderly,booster2,perc,3.327158125513839
 Malaysia,elderly,dose1,perc,93.63411893669499
 Malaysia,elderly,dose2,perc,93.0614414908194
 Malaysia,total,booster1,perc,49.51211222061971
-Malaysia,total,booster2,perc,0.7513435057001386
+Malaysia,total,booster2,perc,0.7513404435788849
 Malaysia,total,dose1,perc,85.92356026713945
 Malaysia,total,dose2,perc,83.87847053167611
 Klang Valley,0_4,booster1,perc,0.0
@@ -2604,7 +2604,7 @@ Pahang,50_59,booster2,perc,0.6744496330887259
 Pahang,50_59,dose1,perc,92.11407605070046
 Pahang,50_59,dose2,perc,91.6057371581054
 Pahang,5_11,booster1,perc,0.047248182762201454
-Pahang,5_11,booster2,perc,0.0005192107995846313
+Pahang,5_11,booster2,perc,0.0
 Pahang,5_11,dose1,perc,39.831256490135
 Pahang,5_11,dose2,perc,31.863966770508828
 Pahang,60_69,booster1,perc,60.597379912663754
@@ -2628,7 +2628,7 @@ Pahang,adult,booster2,perc,0.5946127946127946
 Pahang,adult,dose1,perc,88.25387205387204
 Pahang,adult,dose2,perc,87.281734006734
 Pahang,child,booster1,perc,0.047248182762201454
-Pahang,child,booster2,perc,0.0005192107995846313
+Pahang,child,booster2,perc,0.0
 Pahang,child,dose1,perc,39.831256490135
 Pahang,child,dose2,perc,31.863966770508828
 Pahang,elderly,booster1,perc,54.689045936395765
@@ -2636,7 +2636,7 @@ Pahang,elderly,booster2,perc,1.5845532559313475
 Pahang,elderly,dose1,perc,81.79151943462898
 Pahang,elderly,dose2,perc,81.43008581524482
 Pahang,total,booster1,perc,37.340060544904134
-Pahang,total,booster2,perc,0.41989671751647173
+Pahang,total,booster2,perc,0.4198373597673177
 Pahang,total,dose1,perc,75.92829583902179
 Pahang,total,dose2,perc,74.10874339645041
 Perak,0_4,booster1,perc,0.0
