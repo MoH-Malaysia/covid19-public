@@ -83,6 +83,8 @@ Generates a simple report about the current Covid-19 cases and deaths in Malaysi
 + [[Github Repo]](https://github.com/chengkangzai/chengkangzai.com)[[Covid-19 Dashboard]](https://www.chengkangzai.com/pandemic) _Covid-19 Doashboard in Malaysia_ is a dashboard to monitor the COVID-19 situation, Health Care Situation and Vaccination status in Malaysia using Laravel. By [chengkangzai](https://github.com/chengkangzai/)
 
 + [[GitHub Repo]](https://github.com/weareblahs/covidcases) / [[Live site]](https://weareblahs.github.io/covidcases) / [[Twitter bot]](https://twitter.com/MYCovidCasesBot) _"How Many COVID-19 Cases are in Malaysia today?"_ is a TL;DR page that shows the cases (both state-level and national, cases / deaths / state can be selected through buttons on the page), and nothing else. Cases updates every hour, Twitter bot updates everyday at 10am through bash / Python scripts. Special thanks to [samleong123](https://github.com/samleong123) for hosting JSON API mirror of the MoH repository. By [weareblahs](https://github.com/weareblahs)
+
++ [[GitHub Repo]](https://github.com/isaactan98/malaysia_covid_site) / [[Live site]](https://malaysia-covid-stat.web.app/) A Covidnow alternative using NuxtJs as frontend and Laravel as backend to fetch the csv file from the MoH github repo to show the statistics of Covid-19 in Malaysia. By [isaactan98](https://github.com/isaactan98)
 ---
 
 # Data Requests
