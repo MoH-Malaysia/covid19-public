@@ -1,6 +1,6 @@
 # Documentation for Vaccination datasets
 
-When this repo was created, primary vaccination (and vaccine registration) datasets were handled by the COVID-19 Immunisation Task Force (CITF), and made available via the [CITF GitHub](https://github.com/CITF-Malaysia/citf-public). These datasets were ported to the MoH GiHhub from 1st November 2021 onwards, but continually maintained on the CITF GitHub for completeness. Supplementary datasets (published in September or later) were originally published on the MoH GitHub, and are documented below.
+At the time of this repo's creation, vaccination datasets were handled by the COVID-19 Immunisation Task Force (CITF), and made available via the [CITF GitHub](https://github.com/CITF-Malaysia/citf-public), which was already in existence. These datasets were ported to the MoH GiHhub from 1st November 2021 onwards, but continually maintained on the CITF GitHub for completeness. Supplementary datasets (published in September or later) were originally published on the MoH GitHub, and are documented below.
 
 
 ## Variables and Methodology
