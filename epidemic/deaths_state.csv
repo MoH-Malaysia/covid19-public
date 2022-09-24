@@ -14650,7 +14650,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-09-18,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-09-18,Sabah,1,0,0,0,0,0,0,0,5
 2022-09-18,Sarawak,0,0,0,0,0,0,0,0,0
-2022-09-18,Selangor,1,0,2,0,0,0,1,1,2
+2022-09-18,Selangor,1,0,3,0,1,0,1,1,2
 2022-09-18,Terengganu,0,0,0,0,0,0,0,0,0
 2022-09-18,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-09-18,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -14688,7 +14688,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-09-20,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-09-20,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-09-21,Johor,0,0,2,1,2,0,0,0,0
-2022-09-21,Kedah,0,0,0,0,0,0,0,0,0
+2022-09-21,Kedah,0,0,1,0,1,0,0,0,0
 2022-09-21,Kelantan,0,0,0,0,0,0,0,0,0
 2022-09-21,Melaka,0,0,0,0,0,0,0,0,0
 2022-09-21,Negeri Sembilan,0,0,0,0,0,0,0,0,0
@@ -14714,7 +14714,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-09-22,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-09-22,Sabah,1,1,0,0,0,0,0,0,3
 2022-09-22,Sarawak,1,0,0,0,0,0,0,0,2
-2022-09-22,Selangor,4,0,0,0,0,0,0,0,2
+2022-09-22,Selangor,4,0,1,1,1,0,0,0,2
 2022-09-22,Terengganu,0,0,0,0,0,0,0,0,0
 2022-09-22,W.P. Kuala Lumpur,1,1,0,0,0,0,0,0,2
 2022-09-22,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -14735,3 +14735,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-09-23,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-09-23,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-09-23,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2022-09-24,Johor,0,0,0,0,0,0,0,0,0
+2022-09-24,Kedah,1,0,0,0,0,0,0,0,3
+2022-09-24,Kelantan,0,0,0,0,0,0,0,0,0
+2022-09-24,Melaka,0,0,0,0,0,0,0,0,0
+2022-09-24,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-09-24,Pahang,0,0,0,0,0,0,0,0,0
+2022-09-24,Perak,0,0,0,0,0,0,0,0,0
+2022-09-24,Perlis,0,0,0,0,0,0,0,0,0
+2022-09-24,Pulau Pinang,0,0,0,0,0,0,0,0,0
+2022-09-24,Sabah,0,0,0,0,0,0,0,0,0
+2022-09-24,Sarawak,0,0,0,0,0,0,0,0,0
+2022-09-24,Selangor,2,1,0,0,0,0,0,0,4
+2022-09-24,Terengganu,0,0,0,0,0,0,0,0,0
+2022-09-24,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
+2022-09-24,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2022-09-24,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
