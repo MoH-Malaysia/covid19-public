@@ -15,7 +15,7 @@
 | tests_malaysia.csv | Static name | At least twice weekly |
 | tests_state.csv | Static name | At least twice weekly |
 
-## Variables and Methodology
+## Metadata (Variables & Methodology)
 
 ### Cases and Testing
 
