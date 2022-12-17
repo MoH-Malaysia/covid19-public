@@ -16025,9 +16025,9 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-12-13,Perlis,0,0,0,0,0,0,0,0,0
 2022-12-13,Pulau Pinang,0,0,1,0,0,0,0,1,0
 2022-12-13,Sabah,0,0,1,0,0,0,0,1,0
-2022-12-13,Sarawak,1,1,0,0,0,0,0,0,4
+2022-12-13,Sarawak,1,1,1,1,1,0,0,0,4
 2022-12-13,Selangor,3,1,1,0,1,0,0,0,4
-2022-12-13,Terengganu,0,0,0,0,0,0,0,0,0
+2022-12-13,Terengganu,0,0,1,1,0,0,1,0,0
 2022-12-13,W.P. Kuala Lumpur,1,0,0,0,0,0,0,0,3
 2022-12-13,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-12-13,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
@@ -16037,7 +16037,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-12-14,Melaka,0,0,0,0,0,0,0,0,0
 2022-12-14,Negeri Sembilan,2,0,0,0,0,0,0,0,2
 2022-12-14,Pahang,0,0,0,0,0,0,0,0,0
-2022-12-14,Perak,1,0,0,0,0,0,0,0,1
+2022-12-14,Perak,1,0,1,1,1,0,0,0,1
 2022-12-14,Perlis,0,0,0,0,0,0,0,0,0
 2022-12-14,Pulau Pinang,0,0,1,1,0,0,0,1,0
 2022-12-14,Sabah,0,0,0,0,0,0,0,0,0
@@ -16048,7 +16048,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-12-14,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-12-14,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-12-15,Johor,0,0,0,0,0,0,0,0,0
-2022-12-15,Kedah,0,0,0,0,0,0,0,0,0
+2022-12-15,Kedah,0,0,1,0,0,0,1,0,0
 2022-12-15,Kelantan,0,0,0,0,0,0,0,0,0
 2022-12-15,Melaka,0,0,0,0,0,0,0,0,0
 2022-12-15,Negeri Sembilan,0,0,0,0,0,0,0,0,0
@@ -16059,7 +16059,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-12-15,Sabah,0,0,0,0,0,0,0,0,0
 2022-12-15,Sarawak,1,1,0,0,0,0,0,0,3
 2022-12-15,Selangor,2,0,0,0,0,0,0,0,1
-2022-12-15,Terengganu,0,0,0,0,0,0,0,0,0
+2022-12-15,Terengganu,0,0,1,0,0,0,1,0,0
 2022-12-15,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-12-15,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-12-15,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
@@ -16079,3 +16079,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-12-16,W.P. Kuala Lumpur,1,1,0,0,0,0,0,0,2
 2022-12-16,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-12-16,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2022-12-17,Johor,0,0,0,0,0,0,0,0,0
+2022-12-17,Kedah,1,0,0,0,0,0,0,0,2
+2022-12-17,Kelantan,0,0,0,0,0,0,0,0,0
+2022-12-17,Melaka,0,0,0,0,0,0,0,0,0
+2022-12-17,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2022-12-17,Pahang,0,0,0,0,0,0,0,0,0
+2022-12-17,Perak,1,1,0,0,0,0,0,0,3
+2022-12-17,Perlis,0,0,0,0,0,0,0,0,0
+2022-12-17,Pulau Pinang,0,0,0,0,0,0,0,0,0
+2022-12-17,Sabah,0,0,0,0,0,0,0,0,0
+2022-12-17,Sarawak,1,1,0,0,0,0,0,0,4
+2022-12-17,Selangor,0,0,0,0,0,0,0,0,0
+2022-12-17,Terengganu,2,1,0,0,0,0,0,0,3
+2022-12-17,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
+2022-12-17,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2022-12-17,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
