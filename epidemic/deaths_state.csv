@@ -15370,7 +15370,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-11-02,Pulau Pinang,0,0,0,0,0,0,0,0,0
 2022-11-02,Sabah,1,0,0,0,0,0,0,0,3
 2022-11-02,Sarawak,0,0,0,0,0,0,0,0,0
-2022-11-02,Selangor,0,0,0,0,0,0,0,0,0
+2022-11-02,Selangor,0,0,1,0,1,0,0,0,0
 2022-11-02,Terengganu,0,0,0,0,0,0,0,0,0
 2022-11-02,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2022-11-02,W.P. Labuan,0,0,0,0,0,0,0,0,0
@@ -15628,7 +15628,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2022-11-18,Sarawak,0,0,0,0,0,0,0,0,0
 2022-11-18,Selangor,0,0,2,1,0,0,1,1,0
 2022-11-18,Terengganu,1,1,1,1,1,0,0,0,2
-2022-11-18,W.P. Kuala Lumpur,0,0,1,1,0,0,0,1,0
+2022-11-18,W.P. Kuala Lumpur,0,0,2,1,0,0,0,2,0
 2022-11-18,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2022-11-18,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
 2022-11-19,Johor,0,0,1,0,1,0,0,0,0
@@ -16559,7 +16559,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2023-01-15,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2023-01-15,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2023-01-15,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
-2023-01-16,Johor,4,1,0,0,0,0,0,0,2
+2023-01-16,Johor,4,1,1,1,1,0,0,0,2
 2023-01-16,Kedah,0,0,0,0,0,0,0,0,0
 2023-01-16,Kelantan,0,0,0,0,0,0,0,0,0
 2023-01-16,Melaka,0,0,0,0,0,0,0,0,0
@@ -16571,7 +16571,7 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2023-01-16,Sabah,0,0,0,0,0,0,0,0,0
 2023-01-16,Sarawak,0,0,0,0,0,0,0,0,0
 2023-01-16,Selangor,0,0,1,0,1,0,0,0,0
-2023-01-16,Terengganu,0,0,0,0,0,0,0,0,0
+2023-01-16,Terengganu,0,0,1,0,1,0,0,0,0
 2023-01-16,W.P. Kuala Lumpur,0,0,0,0,0,0,0,0,0
 2023-01-16,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2023-01-16,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
@@ -16591,3 +16591,19 @@ date,state,deaths_new,deaths_bid,deaths_new_dod,deaths_bid_dod,deaths_unvax,deat
 2023-01-17,W.P. Kuala Lumpur,2,1,0,0,0,0,0,0,16
 2023-01-17,W.P. Labuan,0,0,0,0,0,0,0,0,0
 2023-01-17,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
+2023-01-18,Johor,1,1,0,0,0,0,0,0,2
+2023-01-18,Kedah,0,0,0,0,0,0,0,0,0
+2023-01-18,Kelantan,0,0,0,0,0,0,0,0,0
+2023-01-18,Melaka,0,0,0,0,0,0,0,0,0
+2023-01-18,Negeri Sembilan,0,0,0,0,0,0,0,0,0
+2023-01-18,Pahang,0,0,0,0,0,0,0,0,0
+2023-01-18,Perak,0,0,0,0,0,0,0,0,0
+2023-01-18,Perlis,0,0,0,0,0,0,0,0,0
+2023-01-18,Pulau Pinang,0,0,0,0,0,0,0,0,0
+2023-01-18,Sabah,0,0,0,0,0,0,0,0,0
+2023-01-18,Sarawak,0,0,0,0,0,0,0,0,0
+2023-01-18,Selangor,1,0,0,0,0,0,0,0,77
+2023-01-18,Terengganu,1,0,0,0,0,0,0,0,2
+2023-01-18,W.P. Kuala Lumpur,1,0,0,0,0,0,0,0,61
+2023-01-18,W.P. Labuan,0,0,0,0,0,0,0,0,0
+2023-01-18,W.P. Putrajaya,0,0,0,0,0,0,0,0,0
