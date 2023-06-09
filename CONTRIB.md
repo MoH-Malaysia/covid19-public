@@ -91,21 +91,23 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 ### Cases and Testing
 
-+
++ COVID-19 Patient details such as Male/Female, Age, Occupation, Heath Condition, Received Vaccination Count (First/Second/Booster), etc.
    
 ### Healthcare
 
-+
++ 
 
 ### Deaths
 
-+
++ Patient details such as Male/Female, Age, Occupation, Heath Condition, Received Vaccination Count (First/Second/Booster), etc.
+   
 
 ### Vaccination
 
-+
++ 
 
 ### Mobility and Contact Tracing
 
-+
++ 
 
+I would love to have the original (unpreprocessed) datasets, as well as any other COVID-19 related sources which are not in the GitHub too! 
