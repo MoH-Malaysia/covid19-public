@@ -14015,147 +14015,211 @@ date,state,rtk-ag,pcr
 2023-11-23,W.P. Kuala Lumpur,605,19
 2023-11-23,W.P. Labuan,8,1
 2023-11-23,W.P. Putrajaya,332,3
-2023-11-24,Johor,149,1
-2023-11-24,Kedah,104,0
-2023-11-24,Kelantan,97,0
-2023-11-24,Melaka,54,2
-2023-11-24,Negeri Sembilan,117,1
-2023-11-24,Pahang,106,4
-2023-11-24,Perak,198,1
-2023-11-24,Perlis,6,0
-2023-11-24,Pulau Pinang,172,7
-2023-11-24,Sabah,87,52
-2023-11-24,Sarawak,46,14
-2023-11-24,Selangor,846,12
-2023-11-24,Terengganu,84,1
-2023-11-24,W.P. Kuala Lumpur,357,5
-2023-11-24,W.P. Labuan,13,7
-2023-11-24,W.P. Putrajaya,168,0
-2023-11-25,Johor,302,26
-2023-11-25,Kedah,150,2
-2023-11-25,Kelantan,177,7
-2023-11-25,Melaka,85,40
-2023-11-25,Negeri Sembilan,274,14
-2023-11-25,Pahang,107,32
-2023-11-25,Perak,180,1
-2023-11-25,Perlis,6,0
-2023-11-25,Pulau Pinang,265,9
-2023-11-25,Sabah,111,0
-2023-11-25,Sarawak,68,54
-2023-11-25,Selangor,969,23
-2023-11-25,Terengganu,151,21
-2023-11-25,W.P. Kuala Lumpur,426,51
-2023-11-25,W.P. Labuan,9,0
-2023-11-25,W.P. Putrajaya,188,3
-2023-11-26,Johor,332,30
-2023-11-26,Kedah,198,0
-2023-11-26,Kelantan,122,0
-2023-11-26,Melaka,98,1
-2023-11-26,Negeri Sembilan,227,13
-2023-11-26,Pahang,191,1
-2023-11-26,Perak,479,8
-2023-11-26,Perlis,14,1
-2023-11-26,Pulau Pinang,493,27
-2023-11-26,Sabah,224,2
-2023-11-26,Sarawak,188,29
-2023-11-26,Selangor,1739,216
-2023-11-26,Terengganu,97,0
-2023-11-26,W.P. Kuala Lumpur,710,10
-2023-11-26,W.P. Labuan,9,1
-2023-11-26,W.P. Putrajaya,359,0
-2023-11-27,Johor,256,51
-2023-11-27,Kedah,223,1
-2023-11-27,Kelantan,66,30
-2023-11-27,Melaka,80,6
-2023-11-27,Negeri Sembilan,137,1
-2023-11-27,Pahang,97,1
-2023-11-27,Perak,217,33
-2023-11-27,Perlis,14,2
-2023-11-27,Pulau Pinang,386,14
-2023-11-27,Sabah,186,6
-2023-11-27,Sarawak,85,20
-2023-11-27,Selangor,1173,155
-2023-11-27,Terengganu,92,9
-2023-11-27,W.P. Kuala Lumpur,598,8
-2023-11-27,W.P. Labuan,9,0
-2023-11-27,W.P. Putrajaya,162,6
-2023-11-28,Johor,372,23
-2023-11-28,Kedah,213,1
-2023-11-28,Kelantan,128,3
-2023-11-28,Melaka,250,12
-2023-11-28,Negeri Sembilan,209,18
-2023-11-28,Pahang,145,0
-2023-11-28,Perak,404,32
-2023-11-28,Perlis,10,6
-2023-11-28,Pulau Pinang,470,8
-2023-11-28,Sabah,381,32
-2023-11-28,Sarawak,145,29
-2023-11-28,Selangor,1661,45
-2023-11-28,Terengganu,105,0
-2023-11-28,W.P. Kuala Lumpur,928,24
-2023-11-28,W.P. Labuan,27,6
-2023-11-28,W.P. Putrajaya,376,0
-2023-11-29,Johor,307,44
-2023-11-29,Kedah,177,1
-2023-11-29,Kelantan,129,19
-2023-11-29,Melaka,129,43
-2023-11-29,Negeri Sembilan,210,14
-2023-11-29,Pahang,174,31
-2023-11-29,Perak,344,16
-2023-11-29,Perlis,22,0
-2023-11-29,Pulau Pinang,413,55
-2023-11-29,Sabah,213,63
-2023-11-29,Sarawak,191,10
-2023-11-29,Selangor,1516,40
-2023-11-29,Terengganu,119,31
-2023-11-29,W.P. Kuala Lumpur,599,35
-2023-11-29,W.P. Labuan,11,4
-2023-11-29,W.P. Putrajaya,679,8
-2023-11-30,Johor,228,1
-2023-11-30,Kedah,167,46
-2023-11-30,Kelantan,116,1
-2023-11-30,Melaka,122,3
-2023-11-30,Negeri Sembilan,205,2
-2023-11-30,Pahang,179,0
-2023-11-30,Perak,367,1
-2023-11-30,Perlis,23,0
-2023-11-30,Pulau Pinang,340,23
-2023-11-30,Sabah,258,2
-2023-11-30,Sarawak,147,36
-2023-11-30,Selangor,1451,380
-2023-11-30,Terengganu,99,0
-2023-11-30,W.P. Kuala Lumpur,605,19
-2023-11-30,W.P. Labuan,8,1
-2023-11-30,W.P. Putrajaya,332,3
-2023-12-01,Johor,149,1
-2023-12-01,Kedah,104,0
-2023-12-01,Kelantan,97,0
-2023-12-01,Melaka,54,2
-2023-12-01,Negeri Sembilan,117,1
-2023-12-01,Pahang,106,4
-2023-12-01,Perak,198,1
-2023-12-01,Perlis,6,0
-2023-12-01,Pulau Pinang,172,7
-2023-12-01,Sabah,87,52
-2023-12-01,Sarawak,46,14
-2023-12-01,Selangor,846,12
-2023-12-01,Terengganu,84,1
-2023-12-01,W.P. Kuala Lumpur,357,5
-2023-12-01,W.P. Labuan,13,7
-2023-12-01,W.P. Putrajaya,168,0
-2023-12-02,Johor,302,26
-2023-12-02,Kedah,150,2
-2023-12-02,Kelantan,177,7
-2023-12-02,Melaka,85,40
-2023-12-02,Negeri Sembilan,274,14
-2023-12-02,Pahang,107,32
-2023-12-02,Perak,180,1
-2023-12-02,Perlis,6,0
-2023-12-02,Pulau Pinang,265,9
-2023-12-02,Sabah,111,0
-2023-12-02,Sarawak,68,54
-2023-12-02,Selangor,969,23
-2023-12-02,Terengganu,151,21
-2023-12-02,W.P. Kuala Lumpur,426,51
-2023-12-02,W.P. Labuan,9,0
-2023-12-02,W.P. Putrajaya,188,3
+2023-11-24,Johor,219,1
+2023-11-24,Kedah,141,0
+2023-11-24,Kelantan,102,6
+2023-11-24,Melaka,82,1
+2023-11-24,Negeri Sembilan,148,20
+2023-11-24,Pahang,96,3
+2023-11-24,Perak,206,2
+2023-11-24,Perlis,14,0
+2023-11-24,Pulau Pinang,234,15
+2023-11-24,Sabah,123,7
+2023-11-24,Sarawak,62,56
+2023-11-24,Selangor,1109,29
+2023-11-24,Terengganu,115,0
+2023-11-24,W.P. Kuala Lumpur,433,34
+2023-11-24,W.P. Labuan,2,6
+2023-11-24,W.P. Putrajaya,216,1
+2023-11-25,Johor,447,6
+2023-11-25,Kedah,261,1
+2023-11-25,Kelantan,155,7
+2023-11-25,Melaka,140,2
+2023-11-25,Negeri Sembilan,204,2
+2023-11-25,Pahang,123,1
+2023-11-25,Perak,266,1
+2023-11-25,Perlis,10,0
+2023-11-25,Pulau Pinang,317,24
+2023-11-25,Sabah,128,1
+2023-11-25,Sarawak,94,7
+2023-11-25,Selangor,1455,20
+2023-11-25,Terengganu,196,3
+2023-11-25,W.P. Kuala Lumpur,624,10
+2023-11-25,W.P. Labuan,3,0
+2023-11-25,W.P. Putrajaya,284,0
+2023-11-26,Johor,532,30
+2023-11-26,Kedah,256,0
+2023-11-26,Kelantan,165,0
+2023-11-26,Melaka,264,1
+2023-11-26,Negeri Sembilan,346,1
+2023-11-26,Pahang,289,2
+2023-11-26,Perak,482,3
+2023-11-26,Perlis,24,9
+2023-11-26,Pulau Pinang,543,34
+2023-11-26,Sabah,322,1
+2023-11-26,Sarawak,251,12
+2023-11-26,Selangor,2815,106
+2023-11-26,Terengganu,155,1
+2023-11-26,W.P. Kuala Lumpur,1016,13
+2023-11-26,W.P. Labuan,7,0
+2023-11-26,W.P. Putrajaya,703,0
+2023-11-27,Johor,591,53
+2023-11-27,Kedah,261,1
+2023-11-27,Kelantan,177,34
+2023-11-27,Melaka,234,6
+2023-11-27,Negeri Sembilan,429,16
+2023-11-27,Pahang,325,17
+2023-11-27,Perak,491,8
+2023-11-27,Perlis,25,0
+2023-11-27,Pulau Pinang,559,24
+2023-11-27,Sabah,305,4
+2023-11-27,Sarawak,203,30
+2023-11-27,Selangor,2516,70
+2023-11-27,Terengganu,184,19
+2023-11-27,W.P. Kuala Lumpur,1039,12
+2023-11-27,W.P. Labuan,31,0
+2023-11-27,W.P. Putrajaya,88,0
+2023-11-28,Johor,555,36
+2023-11-28,Kedah,307,0
+2023-11-28,Kelantan,175,1
+2023-11-28,Melaka,242,8
+2023-11-28,Negeri Sembilan,384,4
+2023-11-28,Pahang,317,0
+2023-11-28,Perak,522,22
+2023-11-28,Perlis,29,3
+2023-11-28,Pulau Pinang,574,28
+2023-11-28,Sabah,262,33
+2023-11-28,Sarawak,207,19
+2023-11-28,Selangor,2849,35
+2023-11-28,Terengganu,168,0
+2023-11-28,W.P. Kuala Lumpur,1072,14
+2023-11-28,W.P. Labuan,38,0
+2023-11-28,W.P. Putrajaya,651,0
+2023-11-29,Johor,506,32
+2023-11-29,Kedah,267,0
+2023-11-29,Kelantan,163,21
+2023-11-29,Melaka,271,46
+2023-11-29,Negeri Sembilan,381,1
+2023-11-29,Pahang,292,16
+2023-11-29,Perak,479,6
+2023-11-29,Perlis,23,0
+2023-11-29,Pulau Pinang,563,19
+2023-11-29,Sabah,347,27
+2023-11-29,Sarawak,186,8
+2023-11-29,Selangor,2948,480
+2023-11-29,Terengganu,227,23
+2023-11-29,W.P. Kuala Lumpur,1107,30
+2023-11-29,W.P. Labuan,19,1
+2023-11-29,W.P. Putrajaya,495,11
+2023-11-30,Johor,459,3
+2023-11-30,Kedah,197,46
+2023-11-30,Kelantan,119,1
+2023-11-30,Melaka,254,11
+2023-11-30,Negeri Sembilan,332,25
+2023-11-30,Pahang,247,0
+2023-11-30,Perak,476,28
+2023-11-30,Perlis,23,12
+2023-11-30,Pulau Pinang,486,25
+2023-11-30,Sabah,237,24
+2023-11-30,Sarawak,208,46
+2023-11-30,Selangor,2438,67
+2023-11-30,Terengganu,125,0
+2023-11-30,W.P. Kuala Lumpur,920,44
+2023-11-30,W.P. Labuan,39,1
+2023-11-30,W.P. Putrajaya,65,6
+2023-12-01,Johor,406,4
+2023-12-01,Kedah,191,0
+2023-12-01,Kelantan,125,0
+2023-12-01,Melaka,168,3
+2023-12-01,Negeri Sembilan,250,0
+2023-12-01,Pahang,189,1
+2023-12-01,Perak,329,4
+2023-12-01,Perlis,12,0
+2023-12-01,Pulau Pinang,399,27
+2023-12-01,Sabah,144,27
+2023-12-01,Sarawak,81,27
+2023-12-01,Selangor,1687,29
+2023-12-01,Terengganu,181,0
+2023-12-01,W.P. Kuala Lumpur,589,8
+2023-12-01,W.P. Labuan,4,6
+2023-12-01,W.P. Putrajaya,216,1
+2023-12-02,Johor,643,3
+2023-12-02,Kedah,357,2
+2023-12-02,Kelantan,269,6
+2023-12-02,Melaka,275,1
+2023-12-02,Negeri Sembilan,382,8
+2023-12-02,Pahang,285,30
+2023-12-02,Perak,467,1
+2023-12-02,Perlis,23,0
+2023-12-02,Pulau Pinang,437,27
+2023-12-02,Sabah,205,0
+2023-12-02,Sarawak,205,54
+2023-12-02,Selangor,2531,26
+2023-12-02,Terengganu,313,8
+2023-12-02,W.P. Kuala Lumpur,914,21
+2023-12-02,W.P. Labuan,6,0
+2023-12-02,W.P. Putrajaya,888,0
+2023-12-03,Johor,1077,38
+2023-12-03,Kedah,414,5
+2023-12-03,Kelantan,353,0
+2023-12-03,Melaka,586,2
+2023-12-03,Negeri Sembilan,638,0
+2023-12-03,Pahang,601,0
+2023-12-03,Perak,882,3
+2023-12-03,Perlis,29,0
+2023-12-03,Pulau Pinang,933,49
+2023-12-03,Sabah,359,2
+2023-12-03,Sarawak,390,10
+2023-12-03,Selangor,5237,166
+2023-12-03,Terengganu,351,0
+2023-12-03,W.P. Kuala Lumpur,2073,92
+2023-12-03,W.P. Labuan,43,6
+2023-12-03,W.P. Putrajaya,468,0
+2023-12-04,Johor,1380,30
+2023-12-04,Kedah,562,11
+2023-12-04,Kelantan,386,30
+2023-12-04,Melaka,694,10
+2023-12-04,Negeri Sembilan,807,3
+2023-12-04,Pahang,614,0
+2023-12-04,Perak,840,20
+2023-12-04,Perlis,34,0
+2023-12-04,Pulau Pinang,874,28
+2023-12-04,Sabah,554,4
+2023-12-04,Sarawak,396,44
+2023-12-04,Selangor,5402,37
+2023-12-04,Terengganu,372,19
+2023-12-04,W.P. Kuala Lumpur,2158,21
+2023-12-04,W.P. Labuan,54,0
+2023-12-04,W.P. Putrajaya,222,0
+2023-12-05,Johor,1303,69
+2023-12-05,Kedah,475,3
+2023-12-05,Kelantan,377,22
+2023-12-05,Melaka,621,26
+2023-12-05,Negeri Sembilan,857,18
+2023-12-05,Pahang,655,10
+2023-12-05,Perak,913,18
+2023-12-05,Perlis,46,0
+2023-12-05,Pulau Pinang,934,45
+2023-12-05,Sabah,535,37
+2023-12-05,Sarawak,445,16
+2023-12-05,Selangor,5534,327
+2023-12-05,Terengganu,399,21
+2023-12-05,W.P. Kuala Lumpur,2029,38
+2023-12-05,W.P. Labuan,56,0
+2023-12-05,W.P. Putrajaya,207,1
+2023-12-06,Johor,1344,25
+2023-12-06,Kedah,520,7
+2023-12-06,Kelantan,352,5
+2023-12-06,Melaka,626,37
+2023-12-06,Negeri Sembilan,802,26
+2023-12-06,Pahang,541,19
+2023-12-06,Perak,894,23
+2023-12-06,Perlis,37,13
+2023-12-06,Pulau Pinang,845,47
+2023-12-06,Sabah,482,28
+2023-12-06,Sarawak,431,20
+2023-12-06,Selangor,5174,52
+2023-12-06,Terengganu,382,1
+2023-12-06,W.P. Kuala Lumpur,2042,31
+2023-12-06,W.P. Labuan,59,9
+2023-12-06,W.P. Putrajaya,1185,8
