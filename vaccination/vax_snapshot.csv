@@ -7,15 +7,15 @@ Malaysia,12_17,booster1,total,59453.0
 Malaysia,12_17,booster2,total,468.0
 Malaysia,12_17,dose1,total,2900777.0
 Malaysia,12_17,dose2,total,2826698.0
-Malaysia,18_29,booster1,total,4416968.0
-Malaysia,18_29,booster2,total,141948.0
-Malaysia,18_29,dose1,total,6835109.0
-Malaysia,18_29,dose2,total,6771422.0
-Malaysia,30_39,booster1,total,3737544.0
-Malaysia,30_39,booster2,total,181699.0
+Malaysia,18_29,booster1,total,4416980.0
+Malaysia,18_29,booster2,total,141950.0
+Malaysia,18_29,dose1,total,6835110.0
+Malaysia,18_29,dose2,total,6771423.0
+Malaysia,30_39,booster1,total,3737545.0
+Malaysia,30_39,booster2,total,181700.0
 Malaysia,30_39,dose1,total,5405389.0
 Malaysia,30_39,dose2,total,5356399.0
-Malaysia,40_49,booster1,total,2955193.0
+Malaysia,40_49,booster1,total,2955194.0
 Malaysia,40_49,booster2,total,139235.0
 Malaysia,40_49,dose1,total,4042981.0
 Malaysia,40_49,dose2,total,4010315.0
@@ -43,10 +43,10 @@ Malaysia,adolescent,booster1,total,59453.0
 Malaysia,adolescent,booster2,total,468.0
 Malaysia,adolescent,dose1,total,2900777.0
 Malaysia,adolescent,dose2,total,2826698.0
-Malaysia,adult,booster1,total,16286540.0
-Malaysia,adult,booster2,total,832131.0
-Malaysia,adult,dose1,total,23472150.0
-Malaysia,adult,dose2,total,23188409.0
+Malaysia,adult,booster1,total,16286554.0
+Malaysia,adult,booster2,total,832134.0
+Malaysia,adult,dose1,total,23472154.0
+Malaysia,adult,dose2,total,23188410.0
 Malaysia,child,booster1,total,7207.0
 Malaysia,child,booster2,total,33.0
 Malaysia,child,dose1,total,1765645.0
@@ -55,10 +55,10 @@ Malaysia,elderly,booster1,total,2641095.0
 Malaysia,elderly,booster2,total,225940.0
 Malaysia,elderly,dose1,total,3498092.0
 Malaysia,elderly,dose2,total,3474371.0
-Malaysia,total,booster1,total,16353200.0
-Malaysia,total,booster2,total,832632.0
-Malaysia,total,dose1,total,28138572.0
-Malaysia,total,dose2,total,27551144.0
+Malaysia,total,booster1,total,16353214.0
+Malaysia,total,booster2,total,832635.0
+Malaysia,total,dose1,total,28138576.0
+Malaysia,total,dose2,total,27551145.0
 Klang Valley,0_4,booster1,total,0.0
 Klang Valley,0_4,booster2,total,0.0
 Klang Valley,0_4,dose1,total,0.0
@@ -67,12 +67,12 @@ Klang Valley,12_17,booster1,total,21738.0
 Klang Valley,12_17,booster2,total,197.0
 Klang Valley,12_17,dose1,total,709964.0
 Klang Valley,12_17,dose2,total,693107.0
-Klang Valley,18_29,booster1,total,1630477.0
+Klang Valley,18_29,booster1,total,1630478.0
 Klang Valley,18_29,booster2,total,73833.0
-Klang Valley,18_29,dose1,total,2207936.0
-Klang Valley,18_29,dose2,total,2183429.0
+Klang Valley,18_29,dose1,total,2207937.0
+Klang Valley,18_29,dose2,total,2183430.0
 Klang Valley,30_39,booster1,total,1513174.0
-Klang Valley,30_39,booster2,total,98081.0
+Klang Valley,30_39,booster2,total,98082.0
 Klang Valley,30_39,dose1,total,1946840.0
 Klang Valley,30_39,dose2,total,1930345.0
 Klang Valley,40_49,booster1,total,1137254.0
@@ -103,10 +103,10 @@ Klang Valley,adolescent,booster1,total,21738.0
 Klang Valley,adolescent,booster2,total,197.0
 Klang Valley,adolescent,dose1,total,709964.0
 Klang Valley,adolescent,dose2,total,693107.0
-Klang Valley,adult,booster1,total,5911394.0
-Klang Valley,adult,booster2,total,431275.0
-Klang Valley,adult,dose1,total,7460619.0
-Klang Valley,adult,dose2,total,7381146.0
+Klang Valley,adult,booster1,total,5911395.0
+Klang Valley,adult,booster2,total,431276.0
+Klang Valley,adult,dose1,total,7460623.0
+Klang Valley,adult,dose2,total,7381147.0
 Klang Valley,child,booster1,total,2512.0
 Klang Valley,child,booster2,total,12.0
 Klang Valley,child,dose1,total,514466.0
@@ -115,10 +115,10 @@ Klang Valley,elderly,booster1,total,789090.0
 Klang Valley,elderly,booster2,total,107788.0
 Klang Valley,elderly,dose1,total,905883.0
 Klang Valley,elderly,dose2,total,899968.0
-Klang Valley,total,booster1,total,5935644.0
-Klang Valley,total,booster2,total,431484.0
-Klang Valley,total,dose1,total,8685049.0
-Klang Valley,total,dose2,total,8521117.0
+Klang Valley,total,booster1,total,5935645.0
+Klang Valley,total,booster2,total,431485.0
+Klang Valley,total,dose1,total,8685053.0
+Klang Valley,total,dose2,total,8521118.0
 Johor,0_4,booster1,total,0.0
 Johor,0_4,booster2,total,0.0
 Johor,0_4,dose1,total,0.0
@@ -128,7 +128,7 @@ Johor,12_17,booster2,total,61.0
 Johor,12_17,dose1,total,342625.0
 Johor,12_17,dose2,total,334902.0
 Johor,18_29,booster1,total,606463.0
-Johor,18_29,booster2,total,16377.0
+Johor,18_29,booster2,total,16379.0
 Johor,18_29,dose1,total,818470.0
 Johor,18_29,dose2,total,813646.0
 Johor,30_39,booster1,total,482860.0
@@ -164,7 +164,7 @@ Johor,adolescent,booster2,total,61.0
 Johor,adolescent,dose1,total,342625.0
 Johor,adolescent,dose2,total,334902.0
 Johor,adult,booster1,total,2156462.0
-Johor,adult,booster2,total,92099.0
+Johor,adult,booster2,total,92101.0
 Johor,adult,dose1,total,2782581.0
 Johor,adult,dose2,total,2760296.0
 Johor,child,booster1,total,720.0
@@ -176,7 +176,7 @@ Johor,elderly,booster2,total,28256.0
 Johor,elderly,dose1,total,440632.0
 Johor,elderly,dose2,total,438397.0
 Johor,total,booster1,total,2165527.0
-Johor,total,booster2,total,92168.0
+Johor,total,booster2,total,92170.0
 Johor,total,dose1,total,3357307.0
 Johor,total,dose2,total,3303429.0
 Kedah,0_4,booster1,total,0.0
@@ -427,7 +427,7 @@ Pahang,12_17,booster1,total,2271.0
 Pahang,12_17,booster2,total,14.0
 Pahang,12_17,dose1,total,150043.0
 Pahang,12_17,dose2,total,146421.0
-Pahang,18_29,booster1,total,162965.0
+Pahang,18_29,booster1,total,162969.0
 Pahang,18_29,booster2,total,2801.0
 Pahang,18_29,dose1,total,300456.0
 Pahang,18_29,dose2,total,297899.0
@@ -463,7 +463,7 @@ Pahang,adolescent,booster1,total,2271.0
 Pahang,adolescent,booster2,total,14.0
 Pahang,adolescent,dose1,total,150043.0
 Pahang,adolescent,dose2,total,146421.0
-Pahang,adult,booster1,total,634017.0
+Pahang,adult,booster1,total,634021.0
 Pahang,adult,booster2,total,17733.0
 Pahang,adult,dose1,total,1054679.0
 Pahang,adult,dose2,total,1042964.0
@@ -475,7 +475,7 @@ Pahang,elderly,booster1,total,110515.0
 Pahang,elderly,booster2,total,5584.0
 Pahang,elderly,dose1,total,164770.0
 Pahang,elderly,dose2,total,163971.0
-Pahang,total,booster1,total,636467.0
+Pahang,total,booster1,total,636471.0
 Pahang,total,booster2,total,17748.0
 Pahang,total,dose1,total,1280867.0
 Pahang,total,dose2,total,1254415.0
@@ -667,7 +667,7 @@ Sabah,12_17,booster1,total,4786.0
 Sabah,12_17,booster2,total,35.0
 Sabah,12_17,dose1,total,331849.0
 Sabah,12_17,dose2,total,319572.0
-Sabah,18_29,booster1,total,264132.0
+Sabah,18_29,booster1,total,264133.0
 Sabah,18_29,booster2,total,4440.0
 Sabah,18_29,dose1,total,659730.0
 Sabah,18_29,dose2,total,649367.0
@@ -675,7 +675,7 @@ Sabah,30_39,booster1,total,217920.0
 Sabah,30_39,booster2,total,5902.0
 Sabah,30_39,dose1,total,482625.0
 Sabah,30_39,dose2,total,475462.0
-Sabah,40_49,booster1,total,172127.0
+Sabah,40_49,booster1,total,172128.0
 Sabah,40_49,booster2,total,3842.0
 Sabah,40_49,dose1,total,353376.0
 Sabah,40_49,dose2,total,349092.0
@@ -703,7 +703,7 @@ Sabah,adolescent,booster1,total,4786.0
 Sabah,adolescent,booster2,total,35.0
 Sabah,adolescent,dose1,total,331849.0
 Sabah,adolescent,dose2,total,319572.0
-Sabah,adult,booster1,total,936706.0
+Sabah,adult,booster1,total,936708.0
 Sabah,adult,booster2,total,21911.0
 Sabah,adult,dose1,total,2143310.0
 Sabah,adult,dose2,total,2097145.0
@@ -715,7 +715,7 @@ Sabah,elderly,booster1,total,119473.0
 Sabah,elderly,booster2,total,4073.0
 Sabah,elderly,dose1,total,230256.0
 Sabah,elderly,dose2,total,226777.0
-Sabah,total,booster1,total,942271.0
+Sabah,total,booster1,total,942273.0
 Sabah,total,booster2,total,21948.0
 Sabah,total,dose1,total,2616295.0
 Sabah,total,dose2,total,2527154.0
@@ -727,11 +727,11 @@ Sarawak,12_17,booster1,total,6283.0
 Sarawak,12_17,booster2,total,40.0
 Sarawak,12_17,dose1,total,269983.0
 Sarawak,12_17,dose2,total,263321.0
-Sarawak,18_29,booster1,total,430329.0
+Sarawak,18_29,booster1,total,430335.0
 Sarawak,18_29,booster2,total,17846.0
 Sarawak,18_29,dose1,total,521055.0
 Sarawak,18_29,dose2,total,515841.0
-Sarawak,30_39,booster1,total,331789.0
+Sarawak,30_39,booster1,total,331790.0
 Sarawak,30_39,booster2,total,22941.0
 Sarawak,30_39,dose1,total,393611.0
 Sarawak,30_39,dose2,total,389780.0
@@ -763,7 +763,7 @@ Sarawak,adolescent,booster1,total,6283.0
 Sarawak,adolescent,booster2,total,40.0
 Sarawak,adolescent,dose1,total,269983.0
 Sarawak,adolescent,dose2,total,263321.0
-Sarawak,adult,booster1,total,1586954.0
+Sarawak,adult,booster1,total,1586961.0
 Sarawak,adult,booster2,total,101695.0
 Sarawak,adult,dose1,total,1952048.0
 Sarawak,adult,dose2,total,1911110.0
@@ -775,7 +775,7 @@ Sarawak,elderly,booster1,total,264660.0
 Sarawak,elderly,booster2,total,25417.0
 Sarawak,elderly,dose1,total,314712.0
 Sarawak,elderly,dose2,total,312264.0
-Sarawak,total,booster1,total,1595383.0
+Sarawak,total,booster1,total,1595390.0
 Sarawak,total,booster2,total,101738.0
 Sarawak,total,dose1,total,2510983.0
 Sarawak,total,dose2,total,2434397.0
@@ -789,8 +789,8 @@ Selangor,12_17,dose1,total,524564.0
 Selangor,12_17,dose2,total,512121.0
 Selangor,18_29,booster1,total,1152693.0
 Selangor,18_29,booster2,total,43965.0
-Selangor,18_29,dose1,total,1296042.0
-Selangor,18_29,dose2,total,1281789.0
+Selangor,18_29,dose1,total,1296043.0
+Selangor,18_29,dose2,total,1281790.0
 Selangor,30_39,booster1,total,1019104.0
 Selangor,30_39,booster2,total,55239.0
 Selangor,30_39,dose1,total,1097012.0
@@ -825,8 +825,8 @@ Selangor,adolescent,dose1,total,524564.0
 Selangor,adolescent,dose2,total,512121.0
 Selangor,adult,booster1,total,4085358.0
 Selangor,adult,booster2,total,254119.0
-Selangor,adult,dose1,total,4399977.0
-Selangor,adult,dose2,total,4351064.0
+Selangor,adult,dose1,total,4399981.0
+Selangor,adult,dose2,total,4351065.0
 Selangor,child,booster1,total,1769.0
 Selangor,child,booster2,total,9.0
 Selangor,child,dose1,total,339040.0
@@ -837,8 +837,8 @@ Selangor,elderly,dose1,total,580797.0
 Selangor,elderly,dose2,total,576652.0
 Selangor,total,booster1,total,4101179.0
 Selangor,total,booster2,total,254252.0
-Selangor,total,dose1,total,5263581.0
-Selangor,total,dose2,total,5182282.0
+Selangor,total,dose1,total,5263585.0
+Selangor,total,dose2,total,5182283.0
 Terengganu,0_4,booster1,total,0.0
 Terengganu,0_4,booster2,total,0.0
 Terengganu,0_4,dose1,total,0.0
@@ -907,7 +907,7 @@ W.P. Kuala Lumpur,12_17,booster1,total,6191.0
 W.P. Kuala Lumpur,12_17,booster2,total,71.0
 W.P. Kuala Lumpur,12_17,dose1,total,170316.0
 W.P. Kuala Lumpur,12_17,dose2,total,165880.0
-W.P. Kuala Lumpur,18_29,booster1,total,459249.0
+W.P. Kuala Lumpur,18_29,booster1,total,459250.0
 W.P. Kuala Lumpur,18_29,booster2,total,28367.0
 W.P. Kuala Lumpur,18_29,dose1,total,873176.0
 W.P. Kuala Lumpur,18_29,dose2,total,863767.0
@@ -943,7 +943,7 @@ W.P. Kuala Lumpur,adolescent,booster1,total,6191.0
 W.P. Kuala Lumpur,adolescent,booster2,total,71.0
 W.P. Kuala Lumpur,adolescent,dose1,total,170316.0
 W.P. Kuala Lumpur,adolescent,dose2,total,165880.0
-W.P. Kuala Lumpur,adult,booster1,total,1740830.0
+W.P. Kuala Lumpur,adult,booster1,total,1740831.0
 W.P. Kuala Lumpur,adult,booster2,total,168627.0
 W.P. Kuala Lumpur,adult,dose1,total,2923182.0
 W.P. Kuala Lumpur,adult,dose2,total,2895221.0
@@ -955,7 +955,7 @@ W.P. Kuala Lumpur,elderly,booster1,total,244653.0
 W.P. Kuala Lumpur,elderly,booster2,total,40935.0
 W.P. Kuala Lumpur,elderly,dose1,total,316332.0
 W.P. Kuala Lumpur,elderly,dose2,total,314725.0
-W.P. Kuala Lumpur,total,booster1,total,1747645.0
+W.P. Kuala Lumpur,total,booster1,total,1747646.0
 W.P. Kuala Lumpur,total,booster2,total,168701.0
 W.P. Kuala Lumpur,total,dose1,total,3254860.0
 W.P. Kuala Lumpur,total,dose2,total,3173131.0
@@ -1032,7 +1032,7 @@ W.P. Putrajaya,18_29,booster2,total,1501.0
 W.P. Putrajaya,18_29,dose1,total,38718.0
 W.P. Putrajaya,18_29,dose2,total,37873.0
 W.P. Putrajaya,30_39,booster1,total,28739.0
-W.P. Putrajaya,30_39,booster2,total,2814.0
+W.P. Putrajaya,30_39,booster2,total,2815.0
 W.P. Putrajaya,30_39,dose1,total,47630.0
 W.P. Putrajaya,30_39,dose2,total,46942.0
 W.P. Putrajaya,40_49,booster1,total,21793.0
@@ -1064,7 +1064,7 @@ W.P. Putrajaya,adolescent,booster2,total,2.0
 W.P. Putrajaya,adolescent,dose1,total,15084.0
 W.P. Putrajaya,adolescent,dose2,total,15106.0
 W.P. Putrajaya,adult,booster1,total,85206.0
-W.P. Putrajaya,adult,booster2,total,8529.0
+W.P. Putrajaya,adult,booster2,total,8530.0
 W.P. Putrajaya,adult,dose1,total,137460.0
 W.P. Putrajaya,adult,dose2,total,134861.0
 W.P. Putrajaya,child,booster1,total,119.0
@@ -1076,7 +1076,7 @@ W.P. Putrajaya,elderly,booster2,total,855.0
 W.P. Putrajaya,elderly,dose1,total,8754.0
 W.P. Putrajaya,elderly,dose2,total,8591.0
 W.P. Putrajaya,total,booster1,total,86820.0
-W.P. Putrajaya,total,booster2,total,8531.0
+W.P. Putrajaya,total,booster2,total,8532.0
 W.P. Putrajaya,total,dose1,total,166608.0
 W.P. Putrajaya,total,dose2,total,165704.0
 Malaysia,0_4,booster1,daily,0.0
@@ -1087,15 +1087,15 @@ Malaysia,12_17,booster1,daily,0.0
 Malaysia,12_17,booster2,daily,0.0
 Malaysia,12_17,dose1,daily,0.0
 Malaysia,12_17,dose2,daily,0.0
-Malaysia,18_29,booster1,daily,3.0
-Malaysia,18_29,booster2,daily,0.0
-Malaysia,18_29,dose1,daily,0.0
-Malaysia,18_29,dose2,daily,0.0
+Malaysia,18_29,booster1,daily,12.0
+Malaysia,18_29,booster2,daily,2.0
+Malaysia,18_29,dose1,daily,1.0
+Malaysia,18_29,dose2,daily,1.0
 Malaysia,30_39,booster1,daily,1.0
-Malaysia,30_39,booster2,daily,3.0
+Malaysia,30_39,booster2,daily,1.0
 Malaysia,30_39,dose1,daily,0.0
 Malaysia,30_39,dose2,daily,0.0
-Malaysia,40_49,booster1,daily,0.0
+Malaysia,40_49,booster1,daily,1.0
 Malaysia,40_49,booster2,daily,0.0
 Malaysia,40_49,dose1,daily,0.0
 Malaysia,40_49,dose2,daily,0.0
@@ -1123,10 +1123,10 @@ Malaysia,adolescent,booster1,daily,0.0
 Malaysia,adolescent,booster2,daily,0.0
 Malaysia,adolescent,dose1,daily,0.0
 Malaysia,adolescent,dose2,daily,0.0
-Malaysia,adult,booster1,daily,4.0
+Malaysia,adult,booster1,daily,14.0
 Malaysia,adult,booster2,daily,3.0
-Malaysia,adult,dose1,daily,3.0
-Malaysia,adult,dose2,daily,0.0
+Malaysia,adult,dose1,daily,4.0
+Malaysia,adult,dose2,daily,1.0
 Malaysia,child,booster1,daily,0.0
 Malaysia,child,booster2,daily,0.0
 Malaysia,child,dose1,daily,0.0
@@ -1135,10 +1135,10 @@ Malaysia,elderly,booster1,daily,0.0
 Malaysia,elderly,booster2,daily,0.0
 Malaysia,elderly,dose1,daily,0.0
 Malaysia,elderly,dose2,daily,0.0
-Malaysia,total,booster1,daily,4.0
+Malaysia,total,booster1,daily,14.0
 Malaysia,total,booster2,daily,3.0
-Malaysia,total,dose1,daily,3.0
-Malaysia,total,dose2,daily,0.0
+Malaysia,total,dose1,daily,4.0
+Malaysia,total,dose2,daily,1.0
 Klang Valley,0_4,booster1,daily,0.0
 Klang Valley,0_4,booster2,daily,0.0
 Klang Valley,0_4,dose1,daily,0.0
@@ -1149,10 +1149,10 @@ Klang Valley,12_17,dose1,daily,0.0
 Klang Valley,12_17,dose2,daily,0.0
 Klang Valley,18_29,booster1,daily,1.0
 Klang Valley,18_29,booster2,daily,0.0
-Klang Valley,18_29,dose1,daily,0.0
-Klang Valley,18_29,dose2,daily,0.0
+Klang Valley,18_29,dose1,daily,1.0
+Klang Valley,18_29,dose2,daily,1.0
 Klang Valley,30_39,booster1,daily,0.0
-Klang Valley,30_39,booster2,daily,2.0
+Klang Valley,30_39,booster2,daily,1.0
 Klang Valley,30_39,dose1,daily,0.0
 Klang Valley,30_39,dose2,daily,0.0
 Klang Valley,40_49,booster1,daily,0.0
@@ -1184,9 +1184,9 @@ Klang Valley,adolescent,booster2,daily,0.0
 Klang Valley,adolescent,dose1,daily,0.0
 Klang Valley,adolescent,dose2,daily,0.0
 Klang Valley,adult,booster1,daily,1.0
-Klang Valley,adult,booster2,daily,2.0
-Klang Valley,adult,dose1,daily,0.0
-Klang Valley,adult,dose2,daily,0.0
+Klang Valley,adult,booster2,daily,1.0
+Klang Valley,adult,dose1,daily,4.0
+Klang Valley,adult,dose2,daily,1.0
 Klang Valley,child,booster1,daily,0.0
 Klang Valley,child,booster2,daily,0.0
 Klang Valley,child,dose1,daily,0.0
@@ -1196,9 +1196,9 @@ Klang Valley,elderly,booster2,daily,0.0
 Klang Valley,elderly,dose1,daily,0.0
 Klang Valley,elderly,dose2,daily,0.0
 Klang Valley,total,booster1,daily,1.0
-Klang Valley,total,booster2,daily,2.0
-Klang Valley,total,dose1,daily,0.0
-Klang Valley,total,dose2,daily,0.0
+Klang Valley,total,booster2,daily,1.0
+Klang Valley,total,dose1,daily,4.0
+Klang Valley,total,dose2,daily,1.0
 Johor,0_4,booster1,daily,0.0
 Johor,0_4,booster2,daily,0.0
 Johor,0_4,dose1,daily,0.0
@@ -1207,11 +1207,11 @@ Johor,12_17,booster1,daily,0.0
 Johor,12_17,booster2,daily,0.0
 Johor,12_17,dose1,daily,0.0
 Johor,12_17,dose2,daily,0.0
-Johor,18_29,booster1,daily,1.0
-Johor,18_29,booster2,daily,0.0
+Johor,18_29,booster1,daily,0.0
+Johor,18_29,booster2,daily,2.0
 Johor,18_29,dose1,daily,0.0
 Johor,18_29,dose2,daily,0.0
-Johor,30_39,booster1,daily,1.0
+Johor,30_39,booster1,daily,0.0
 Johor,30_39,booster2,daily,0.0
 Johor,30_39,dose1,daily,0.0
 Johor,30_39,dose2,daily,0.0
@@ -1243,9 +1243,9 @@ Johor,adolescent,booster1,daily,0.0
 Johor,adolescent,booster2,daily,0.0
 Johor,adolescent,dose1,daily,0.0
 Johor,adolescent,dose2,daily,0.0
-Johor,adult,booster1,daily,2.0
-Johor,adult,booster2,daily,0.0
-Johor,adult,dose1,daily,3.0
+Johor,adult,booster1,daily,0.0
+Johor,adult,booster2,daily,2.0
+Johor,adult,dose1,daily,0.0
 Johor,adult,dose2,daily,0.0
 Johor,child,booster1,daily,0.0
 Johor,child,booster2,daily,0.0
@@ -1255,9 +1255,9 @@ Johor,elderly,booster1,daily,0.0
 Johor,elderly,booster2,daily,0.0
 Johor,elderly,dose1,daily,0.0
 Johor,elderly,dose2,daily,0.0
-Johor,total,booster1,daily,2.0
-Johor,total,booster2,daily,0.0
-Johor,total,dose1,daily,3.0
+Johor,total,booster1,daily,0.0
+Johor,total,booster2,daily,2.0
+Johor,total,dose1,daily,0.0
 Johor,total,dose2,daily,0.0
 Kedah,0_4,booster1,daily,0.0
 Kedah,0_4,booster2,daily,0.0
@@ -1507,7 +1507,7 @@ Pahang,12_17,booster1,daily,0.0
 Pahang,12_17,booster2,daily,0.0
 Pahang,12_17,dose1,daily,0.0
 Pahang,12_17,dose2,daily,0.0
-Pahang,18_29,booster1,daily,0.0
+Pahang,18_29,booster1,daily,4.0
 Pahang,18_29,booster2,daily,0.0
 Pahang,18_29,dose1,daily,0.0
 Pahang,18_29,dose2,daily,0.0
@@ -1543,7 +1543,7 @@ Pahang,adolescent,booster1,daily,0.0
 Pahang,adolescent,booster2,daily,0.0
 Pahang,adolescent,dose1,daily,0.0
 Pahang,adolescent,dose2,daily,0.0
-Pahang,adult,booster1,daily,0.0
+Pahang,adult,booster1,daily,4.0
 Pahang,adult,booster2,daily,0.0
 Pahang,adult,dose1,daily,0.0
 Pahang,adult,dose2,daily,0.0
@@ -1555,7 +1555,7 @@ Pahang,elderly,booster1,daily,0.0
 Pahang,elderly,booster2,daily,0.0
 Pahang,elderly,dose1,daily,0.0
 Pahang,elderly,dose2,daily,0.0
-Pahang,total,booster1,daily,0.0
+Pahang,total,booster1,daily,4.0
 Pahang,total,booster2,daily,0.0
 Pahang,total,dose1,daily,0.0
 Pahang,total,dose2,daily,0.0
@@ -1747,15 +1747,15 @@ Sabah,12_17,booster1,daily,0.0
 Sabah,12_17,booster2,daily,0.0
 Sabah,12_17,dose1,daily,0.0
 Sabah,12_17,dose2,daily,0.0
-Sabah,18_29,booster1,daily,0.0
+Sabah,18_29,booster1,daily,1.0
 Sabah,18_29,booster2,daily,0.0
 Sabah,18_29,dose1,daily,0.0
 Sabah,18_29,dose2,daily,0.0
 Sabah,30_39,booster1,daily,0.0
-Sabah,30_39,booster2,daily,1.0
+Sabah,30_39,booster2,daily,0.0
 Sabah,30_39,dose1,daily,0.0
 Sabah,30_39,dose2,daily,0.0
-Sabah,40_49,booster1,daily,0.0
+Sabah,40_49,booster1,daily,1.0
 Sabah,40_49,booster2,daily,0.0
 Sabah,40_49,dose1,daily,0.0
 Sabah,40_49,dose2,daily,0.0
@@ -1783,8 +1783,8 @@ Sabah,adolescent,booster1,daily,0.0
 Sabah,adolescent,booster2,daily,0.0
 Sabah,adolescent,dose1,daily,0.0
 Sabah,adolescent,dose2,daily,0.0
-Sabah,adult,booster1,daily,0.0
-Sabah,adult,booster2,daily,1.0
+Sabah,adult,booster1,daily,2.0
+Sabah,adult,booster2,daily,0.0
 Sabah,adult,dose1,daily,0.0
 Sabah,adult,dose2,daily,0.0
 Sabah,child,booster1,daily,0.0
@@ -1795,8 +1795,8 @@ Sabah,elderly,booster1,daily,0.0
 Sabah,elderly,booster2,daily,0.0
 Sabah,elderly,dose1,daily,0.0
 Sabah,elderly,dose2,daily,0.0
-Sabah,total,booster1,daily,0.0
-Sabah,total,booster2,daily,1.0
+Sabah,total,booster1,daily,2.0
+Sabah,total,booster2,daily,0.0
 Sabah,total,dose1,daily,0.0
 Sabah,total,dose2,daily,0.0
 Sarawak,0_4,booster1,daily,0.0
@@ -1807,11 +1807,11 @@ Sarawak,12_17,booster1,daily,0.0
 Sarawak,12_17,booster2,daily,0.0
 Sarawak,12_17,dose1,daily,0.0
 Sarawak,12_17,dose2,daily,0.0
-Sarawak,18_29,booster1,daily,0.0
+Sarawak,18_29,booster1,daily,6.0
 Sarawak,18_29,booster2,daily,0.0
 Sarawak,18_29,dose1,daily,0.0
 Sarawak,18_29,dose2,daily,0.0
-Sarawak,30_39,booster1,daily,0.0
+Sarawak,30_39,booster1,daily,1.0
 Sarawak,30_39,booster2,daily,0.0
 Sarawak,30_39,dose1,daily,0.0
 Sarawak,30_39,dose2,daily,0.0
@@ -1843,7 +1843,7 @@ Sarawak,adolescent,booster1,daily,0.0
 Sarawak,adolescent,booster2,daily,0.0
 Sarawak,adolescent,dose1,daily,0.0
 Sarawak,adolescent,dose2,daily,0.0
-Sarawak,adult,booster1,daily,0.0
+Sarawak,adult,booster1,daily,7.0
 Sarawak,adult,booster2,daily,0.0
 Sarawak,adult,dose1,daily,0.0
 Sarawak,adult,dose2,daily,0.0
@@ -1855,7 +1855,7 @@ Sarawak,elderly,booster1,daily,0.0
 Sarawak,elderly,booster2,daily,0.0
 Sarawak,elderly,dose1,daily,0.0
 Sarawak,elderly,dose2,daily,0.0
-Sarawak,total,booster1,daily,0.0
+Sarawak,total,booster1,daily,7.0
 Sarawak,total,booster2,daily,0.0
 Sarawak,total,dose1,daily,0.0
 Sarawak,total,dose2,daily,0.0
@@ -1867,12 +1867,12 @@ Selangor,12_17,booster1,daily,0.0
 Selangor,12_17,booster2,daily,0.0
 Selangor,12_17,dose1,daily,0.0
 Selangor,12_17,dose2,daily,0.0
-Selangor,18_29,booster1,daily,1.0
+Selangor,18_29,booster1,daily,0.0
 Selangor,18_29,booster2,daily,0.0
-Selangor,18_29,dose1,daily,0.0
-Selangor,18_29,dose2,daily,0.0
+Selangor,18_29,dose1,daily,1.0
+Selangor,18_29,dose2,daily,1.0
 Selangor,30_39,booster1,daily,0.0
-Selangor,30_39,booster2,daily,1.0
+Selangor,30_39,booster2,daily,0.0
 Selangor,30_39,dose1,daily,0.0
 Selangor,30_39,dose2,daily,0.0
 Selangor,40_49,booster1,daily,0.0
@@ -1903,10 +1903,10 @@ Selangor,adolescent,booster1,daily,0.0
 Selangor,adolescent,booster2,daily,0.0
 Selangor,adolescent,dose1,daily,0.0
 Selangor,adolescent,dose2,daily,0.0
-Selangor,adult,booster1,daily,1.0
-Selangor,adult,booster2,daily,1.0
-Selangor,adult,dose1,daily,0.0
-Selangor,adult,dose2,daily,0.0
+Selangor,adult,booster1,daily,0.0
+Selangor,adult,booster2,daily,0.0
+Selangor,adult,dose1,daily,4.0
+Selangor,adult,dose2,daily,1.0
 Selangor,child,booster1,daily,0.0
 Selangor,child,booster2,daily,0.0
 Selangor,child,dose1,daily,0.0
@@ -1915,10 +1915,10 @@ Selangor,elderly,booster1,daily,0.0
 Selangor,elderly,booster2,daily,0.0
 Selangor,elderly,dose1,daily,0.0
 Selangor,elderly,dose2,daily,0.0
-Selangor,total,booster1,daily,1.0
-Selangor,total,booster2,daily,1.0
-Selangor,total,dose1,daily,0.0
-Selangor,total,dose2,daily,0.0
+Selangor,total,booster1,daily,0.0
+Selangor,total,booster2,daily,0.0
+Selangor,total,dose1,daily,4.0
+Selangor,total,dose2,daily,1.0
 Terengganu,0_4,booster1,daily,0.0
 Terengganu,0_4,booster2,daily,0.0
 Terengganu,0_4,dose1,daily,0.0
@@ -1927,7 +1927,7 @@ Terengganu,12_17,booster1,daily,0.0
 Terengganu,12_17,booster2,daily,0.0
 Terengganu,12_17,dose1,daily,0.0
 Terengganu,12_17,dose2,daily,0.0
-Terengganu,18_29,booster1,daily,1.0
+Terengganu,18_29,booster1,daily,0.0
 Terengganu,18_29,booster2,daily,0.0
 Terengganu,18_29,dose1,daily,0.0
 Terengganu,18_29,dose2,daily,0.0
@@ -1963,7 +1963,7 @@ Terengganu,adolescent,booster1,daily,0.0
 Terengganu,adolescent,booster2,daily,0.0
 Terengganu,adolescent,dose1,daily,0.0
 Terengganu,adolescent,dose2,daily,0.0
-Terengganu,adult,booster1,daily,1.0
+Terengganu,adult,booster1,daily,0.0
 Terengganu,adult,booster2,daily,0.0
 Terengganu,adult,dose1,daily,0.0
 Terengganu,adult,dose2,daily,0.0
@@ -1975,7 +1975,7 @@ Terengganu,elderly,booster1,daily,0.0
 Terengganu,elderly,booster2,daily,0.0
 Terengganu,elderly,dose1,daily,0.0
 Terengganu,elderly,dose2,daily,0.0
-Terengganu,total,booster1,daily,1.0
+Terengganu,total,booster1,daily,0.0
 Terengganu,total,booster2,daily,0.0
 Terengganu,total,dose1,daily,0.0
 Terengganu,total,dose2,daily,0.0
@@ -1987,12 +1987,12 @@ W.P. Kuala Lumpur,12_17,booster1,daily,0.0
 W.P. Kuala Lumpur,12_17,booster2,daily,0.0
 W.P. Kuala Lumpur,12_17,dose1,daily,0.0
 W.P. Kuala Lumpur,12_17,dose2,daily,0.0
-W.P. Kuala Lumpur,18_29,booster1,daily,0.0
+W.P. Kuala Lumpur,18_29,booster1,daily,1.0
 W.P. Kuala Lumpur,18_29,booster2,daily,0.0
 W.P. Kuala Lumpur,18_29,dose1,daily,0.0
 W.P. Kuala Lumpur,18_29,dose2,daily,0.0
 W.P. Kuala Lumpur,30_39,booster1,daily,0.0
-W.P. Kuala Lumpur,30_39,booster2,daily,1.0
+W.P. Kuala Lumpur,30_39,booster2,daily,0.0
 W.P. Kuala Lumpur,30_39,dose1,daily,0.0
 W.P. Kuala Lumpur,30_39,dose2,daily,0.0
 W.P. Kuala Lumpur,40_49,booster1,daily,0.0
@@ -2023,8 +2023,8 @@ W.P. Kuala Lumpur,adolescent,booster1,daily,0.0
 W.P. Kuala Lumpur,adolescent,booster2,daily,0.0
 W.P. Kuala Lumpur,adolescent,dose1,daily,0.0
 W.P. Kuala Lumpur,adolescent,dose2,daily,0.0
-W.P. Kuala Lumpur,adult,booster1,daily,0.0
-W.P. Kuala Lumpur,adult,booster2,daily,1.0
+W.P. Kuala Lumpur,adult,booster1,daily,1.0
+W.P. Kuala Lumpur,adult,booster2,daily,0.0
 W.P. Kuala Lumpur,adult,dose1,daily,0.0
 W.P. Kuala Lumpur,adult,dose2,daily,0.0
 W.P. Kuala Lumpur,child,booster1,daily,0.0
@@ -2035,8 +2035,8 @@ W.P. Kuala Lumpur,elderly,booster1,daily,0.0
 W.P. Kuala Lumpur,elderly,booster2,daily,0.0
 W.P. Kuala Lumpur,elderly,dose1,daily,0.0
 W.P. Kuala Lumpur,elderly,dose2,daily,0.0
-W.P. Kuala Lumpur,total,booster1,daily,0.0
-W.P. Kuala Lumpur,total,booster2,daily,1.0
+W.P. Kuala Lumpur,total,booster1,daily,1.0
+W.P. Kuala Lumpur,total,booster2,daily,0.0
 W.P. Kuala Lumpur,total,dose1,daily,0.0
 W.P. Kuala Lumpur,total,dose2,daily,0.0
 W.P. Labuan,0_4,booster1,daily,0.0
@@ -2112,7 +2112,7 @@ W.P. Putrajaya,18_29,booster2,daily,0.0
 W.P. Putrajaya,18_29,dose1,daily,0.0
 W.P. Putrajaya,18_29,dose2,daily,0.0
 W.P. Putrajaya,30_39,booster1,daily,0.0
-W.P. Putrajaya,30_39,booster2,daily,0.0
+W.P. Putrajaya,30_39,booster2,daily,1.0
 W.P. Putrajaya,30_39,dose1,daily,0.0
 W.P. Putrajaya,30_39,dose2,daily,0.0
 W.P. Putrajaya,40_49,booster1,daily,0.0
@@ -2144,7 +2144,7 @@ W.P. Putrajaya,adolescent,booster2,daily,0.0
 W.P. Putrajaya,adolescent,dose1,daily,0.0
 W.P. Putrajaya,adolescent,dose2,daily,0.0
 W.P. Putrajaya,adult,booster1,daily,0.0
-W.P. Putrajaya,adult,booster2,daily,0.0
+W.P. Putrajaya,adult,booster2,daily,1.0
 W.P. Putrajaya,adult,dose1,daily,0.0
 W.P. Putrajaya,adult,dose2,daily,0.0
 W.P. Putrajaya,child,booster1,daily,0.0
@@ -2156,7 +2156,7 @@ W.P. Putrajaya,elderly,booster2,daily,0.0
 W.P. Putrajaya,elderly,dose1,daily,0.0
 W.P. Putrajaya,elderly,dose2,daily,0.0
 W.P. Putrajaya,total,booster1,daily,0.0
-W.P. Putrajaya,total,booster2,daily,0.0
+W.P. Putrajaya,total,booster2,daily,1.0
 W.P. Putrajaya,total,dose1,daily,0.0
 W.P. Putrajaya,total,dose2,daily,0.0
 Malaysia,0_4,booster1,perc,0.0
@@ -2167,15 +2167,15 @@ Malaysia,12_17,booster1,perc,1.9108118531850613
 Malaysia,12_17,booster2,perc,0.015041460435816672
 Malaysia,12_17,dose1,perc,93.2306035868098
 Malaysia,12_17,dose2,perc,90.84971395513274
-Malaysia,18_29,booster1,perc,59.35428732682049
-Malaysia,18_29,booster2,perc,1.9074673797653763
-Malaysia,18_29,dose1,perc,91.8487576763374
-Malaysia,18_29,dose2,perc,90.99294516038002
-Malaysia,30_39,booster1,perc,68.27562018194439
-Malaysia,30_39,booster2,perc,3.319188191881919
+Malaysia,18_29,booster1,perc,59.354448580297515
+Malaysia,18_29,booster2,perc,1.9074942553448808
+Malaysia,18_29,dose1,perc,91.84877111412715
+Malaysia,18_29,dose2,perc,90.99295859816976
+Malaysia,30_39,booster1,perc,68.27563844945381
+Malaysia,30_39,booster2,perc,3.3192064593913266
 Malaysia,30_39,dose1,perc,98.74299441014213
 Malaysia,30_39,dose2,perc,97.8480691242556
-Malaysia,40_49,booster1,perc,76.92209381019313
+Malaysia,40_49,booster1,perc,76.92211983965849
 Malaysia,40_49,booster2,perc,3.6242126086730178
 Malaysia,40_49,dose1,perc,105.23663386954031
 Malaysia,40_49,dose2,perc,104.38635535426101
@@ -2203,10 +2203,10 @@ Malaysia,adolescent,booster1,perc,1.9108118531850613
 Malaysia,adolescent,booster2,perc,0.015041460435816672
 Malaysia,adolescent,dose1,perc,93.2306035868098
 Malaysia,adolescent,dose2,perc,90.84971395513274
-Malaysia,adult,booster1,perc,69.22135990003486
-Malaysia,adult,booster2,perc,3.536738892052941
-Malaysia,adult,dose1,perc,99.76177523142442
-Malaysia,adult,dose2,perc,98.55581387441454
+Malaysia,adult,booster1,perc,69.22141940309926
+Malaysia,adult,booster2,perc,3.536751642709599
+Malaysia,adult,dose1,perc,99.76179223229997
+Malaysia,adult,dose2,perc,98.55581812463342
 Malaysia,child,booster1,perc,0.20298549500070412
 Malaysia,child,booster2,perc,0.0009294465568229827
 Malaysia,child,dose1,perc,49.72947472187016
@@ -2215,10 +2215,10 @@ Malaysia,elderly,booster1,perc,72.37859687585639
 Malaysia,elderly,booster2,perc,6.191833379007948
 Malaysia,elderly,dose1,perc,95.86440120580981
 Malaysia,elderly,dose2,perc,95.21433269388874
-Malaysia,total,booster1,perc,50.07548128890807
-Malaysia,total,booster2,perc,2.5496201438584563
-Malaysia,total,dose1,perc,86.16371937495981
-Malaysia,total,dose2,perc,84.36494361103712
+Malaysia,total,booster1,perc,50.07552415860563
+Malaysia,total,booster2,perc,2.549629330222218
+Malaysia,total,dose1,perc,86.16373162344483
+Malaysia,total,dose2,perc,84.36494667315836
 Klang Valley,0_4,booster1,perc,0.0
 Klang Valley,0_4,booster2,perc,0.0
 Klang Valley,0_4,dose1,perc,0.0
@@ -2227,12 +2227,12 @@ Klang Valley,12_17,booster1,perc,3.02336578581363
 Klang Valley,12_17,booster2,perc,0.027399165507649512
 Klang Valley,12_17,dose1,perc,98.7432545201669
 Klang Valley,12_17,dose2,perc,96.39874826147427
-Klang Valley,18_29,booster1,perc,97.9383109082172
+Klang Valley,18_29,booster1,perc,97.93837097549255
 Klang Valley,18_29,booster2,perc,4.434947140797693
-Klang Valley,18_29,dose1,perc,132.62469966362326
-Klang Valley,18_29,dose2,perc,131.15263094666025
+Klang Valley,18_29,dose1,perc,132.6247597308986
+Klang Valley,18_29,dose2,perc,131.1526910139356
 Klang Valley,30_39,booster1,perc,90.33335323264284
-Klang Valley,30_39,booster2,perc,5.855232523431437
+Klang Valley,30_39,booster2,perc,5.855292221359918
 Klang Valley,30_39,dose1,perc,116.22231508566652
 Klang Valley,30_39,dose2,perc,115.2375977553579
 Klang Valley,40_49,booster1,perc,96.2795462241788
@@ -2263,10 +2263,10 @@ Klang Valley,adolescent,booster1,perc,3.02336578581363
 Klang Valley,adolescent,booster2,perc,0.027399165507649512
 Klang Valley,adolescent,dose1,perc,98.7432545201669
 Klang Valley,adolescent,dose2,perc,96.39874826147427
-Klang Valley,adult,booster1,perc,95.62577242874244
-Klang Valley,adult,booster2,perc,6.9765278721408
-Klang Valley,adult,dose1,perc,120.68683878481995
-Klang Valley,adult,dose2,perc,119.40124235659518
+Klang Valley,adult,booster1,perc,95.62578860526061
+Klang Valley,adult,booster2,perc,6.976544048658967
+Klang Valley,adult,dose1,perc,120.68690349089262
+Klang Valley,adult,dose2,perc,119.40125853311334
 Klang Valley,child,booster1,perc,0.2806390347447213
 Klang Valley,child,booster2,perc,0.0013406323315830633
 Klang Valley,child,dose1,perc,57.47581275835102
@@ -2275,10 +2275,10 @@ Klang Valley,elderly,booster1,perc,95.34678588690188
 Klang Valley,elderly,booster2,perc,13.024166263895602
 Klang Valley,elderly,dose1,perc,109.45903818269696
 Klang Valley,elderly,dose2,perc,108.74432092798455
-Klang Valley,total,booster1,perc,70.5130081493977
-Klang Valley,total,booster2,perc,5.125852360474234
-Klang Valley,total,dose1,perc,103.17480814464588
-Klang Valley,total,dose2,perc,101.2273634441303
+Klang Valley,total,booster1,perc,70.51302002898619
+Klang Valley,total,booster2,perc,5.125864240062724
+Klang Valley,total,dose1,perc,103.17485566299985
+Klang Valley,total,dose2,perc,101.22737532371879
 Johor,0_4,booster1,perc,0.0
 Johor,0_4,booster2,perc,0.0
 Johor,0_4,dose1,perc,0.0
@@ -2288,7 +2288,7 @@ Johor,12_17,booster2,perc,0.01723650748799096
 Johor,12_17,dose1,perc,96.81407177168691
 Johor,12_17,dose2,perc,94.63181689742865
 Johor,18_29,booster1,perc,73.1295068129748
-Johor,18_29,booster2,perc,1.9747980224285544
+Johor,18_29,booster2,perc,1.9750391896780417
 Johor,18_29,dose1,perc,98.69407934402507
 Johor,18_29,dose2,perc,98.11238393826119
 Johor,30_39,booster1,perc,79.20931758530185
@@ -2324,7 +2324,7 @@ Johor,adolescent,booster2,perc,0.01723650748799096
 Johor,adolescent,dose1,perc,96.81407177168691
 Johor,adolescent,dose2,perc,94.63181689742865
 Johor,adult,booster1,perc,78.89302699934147
-Johor,adult,booster2,perc,3.3693934294285506
+Johor,adult,booster2,perc,3.369466598375649
 Johor,adult,dose1,perc,101.7992609936343
 Johor,adult,dose2,perc,100.98397600058536
 Johor,child,booster1,perc,0.17569546120058566
@@ -2336,7 +2336,7 @@ Johor,elderly,booster2,perc,6.341113105924596
 Johor,elderly,dose1,perc,98.8850987432675
 Johor,elderly,dose2,perc,98.38352782764811
 Johor,total,booster1,perc,57.07466659638395
-Johor,total,booster2,perc,2.429181382109536
+Johor,total,booster2,perc,2.429234094143693
 Johor,total,dose1,perc,88.48524063043592
 Johor,total,dose2,perc,87.06523114226978
 Kedah,0_4,booster1,perc,0.0
@@ -2587,7 +2587,7 @@ Pahang,12_17,booster1,perc,1.3203488372093022
 Pahang,12_17,booster2,perc,0.00813953488372093
 Pahang,12_17,dose1,perc,87.2343023255814
 Pahang,12_17,dose2,perc,85.12848837209303
-Pahang,18_29,booster1,perc,41.81806517834231
+Pahang,18_29,booster1,perc,41.819091608929945
 Pahang,18_29,booster2,perc,0.7187580189889659
 Pahang,18_29,dose1,perc,77.09930715935334
 Pahang,18_29,dose2,perc,76.4431614062099
@@ -2623,7 +2623,7 @@ Pahang,adolescent,booster1,perc,1.3203488372093022
 Pahang,adolescent,booster2,perc,0.00813953488372093
 Pahang,adolescent,dose1,perc,87.2343023255814
 Pahang,adolescent,dose2,perc,85.12848837209303
-Pahang,adult,booster1,perc,53.368434343434345
+Pahang,adult,booster1,perc,53.36877104377105
 Pahang,adult,booster2,perc,1.4926767676767678
 Pahang,adult,dose1,perc,88.7776936026936
 Pahang,adult,dose2,perc,87.79158249158249
@@ -2635,7 +2635,7 @@ Pahang,elderly,booster1,perc,55.78748107016658
 Pahang,elderly,booster2,perc,2.8187783947501264
 Pahang,elderly,dose1,perc,83.17516405855628
 Pahang,elderly,dose2,perc,82.77183240787481
-Pahang,total,booster1,perc,37.77924853089571
+Pahang,total,booster1,perc,37.77948596189232
 Pahang,total,booster2,perc,1.053481331987891
 Pahang,total,dose1,perc,76.02938208583132
 Pahang,total,dose2,perc,74.45925090520568
@@ -2827,7 +2827,7 @@ Sabah,12_17,booster1,perc,1.1229469732519943
 Sabah,12_17,booster2,perc,0.008212106992022525
 Sabah,12_17,dose1,perc,77.86227123416236
 Sabah,12_17,dose2,perc,74.98169873298922
-Sabah,18_29,booster1,perc,24.259000734753858
+Sabah,18_29,booster1,perc,24.25909257898604
 Sabah,18_29,booster2,perc,0.40778839088905217
 Sabah,18_29,dose1,perc,60.59239529757531
 Sabah,18_29,dose2,perc,59.640613519470975
@@ -2835,7 +2835,7 @@ Sabah,30_39,booster1,perc,31.827077552212646
 Sabah,30_39,booster2,perc,0.8619833503724259
 Sabah,30_39,dose1,perc,70.48707463122535
 Sabah,30_39,dose2,perc,69.44092303198481
-Sabah,40_49,booster1,perc,41.49638379942141
+Sabah,40_49,booster1,perc,41.49662487945998
 Sabah,40_49,booster2,perc,0.9262295081967212
 Sabah,40_49,dose1,perc,85.19189971070395
 Sabah,40_49,dose2,perc,84.15911282545805
@@ -2863,7 +2863,7 @@ Sabah,adolescent,booster1,perc,1.1229469732519943
 Sabah,adolescent,booster2,perc,0.008212106992022525
 Sabah,adolescent,dose1,perc,77.86227123416236
 Sabah,adolescent,dose2,perc,74.98169873298922
-Sabah,adult,booster1,perc,34.480821615254364
+Sabah,adult,booster1,perc,34.48089523669292
 Sabah,adult,booster2,perc,0.8065596701759553
 Sabah,adult,dose1,perc,78.89678274313479
 Sabah,adult,dose2,perc,77.19741588750644
@@ -2875,7 +2875,7 @@ Sabah,elderly,booster1,perc,47.98112449799197
 Sabah,elderly,booster2,perc,1.63574297188755
 Sabah,elderly,dose1,perc,92.4722891566265
 Sabah,elderly,dose2,perc,91.07510040160642
-Sabah,total,booster1,perc,24.586327462491848
+Sabah,total,booster1,perc,24.58637964774951
 Sabah,total,booster2,perc,0.5726810176125244
 Sabah,total,dose1,perc,68.26601435094585
 Sabah,total,dose2,perc,65.9400913242009
@@ -2887,11 +2887,11 @@ Sarawak,12_17,booster1,perc,2.1725449515905946
 Sarawak,12_17,booster2,perc,0.013831258644536652
 Sarawak,12_17,dose1,perc,93.35511756569848
 Sarawak,12_17,dose2,perc,91.0515214384509
-Sarawak,18_29,booster1,perc,64.29538323621694
+Sarawak,18_29,booster1,perc,64.29627969520394
 Sarawak,18_29,booster2,perc,2.666367847004333
 Sarawak,18_29,dose1,perc,77.85073957866427
 Sarawak,18_29,dose2,perc,77.0717167189601
-Sarawak,30_39,booster1,perc,75.61280765724703
+Sarawak,30_39,booster1,perc,75.6130355515041
 Sarawak,30_39,booster2,perc,5.228122151321787
 Sarawak,30_39,dose1,perc,89.70168641750227
 Sarawak,30_39,dose2,perc,88.82862351868734
@@ -2923,7 +2923,7 @@ Sarawak,adolescent,booster1,perc,2.1725449515905946
 Sarawak,adolescent,booster2,perc,0.013831258644536652
 Sarawak,adolescent,dose1,perc,93.35511756569848
 Sarawak,adolescent,dose2,perc,91.0515214384509
-Sarawak,adult,booster1,perc,76.80915734959586
+Sarawak,adult,booster1,perc,76.80949615217075
 Sarawak,adult,booster2,perc,4.922075407773099
 Sarawak,adult,dose1,perc,94.47984124679347
 Sarawak,adult,dose2,perc,92.49842698804511
@@ -2935,7 +2935,7 @@ Sarawak,elderly,booster1,perc,75.98621877691644
 Sarawak,elderly,booster2,perc,7.2974447315532585
 Sarawak,elderly,dose1,perc,90.35658914728683
 Sarawak,elderly,dose2,perc,89.65374677002585
-Sarawak,total,booster1,perc,56.47973236095869
+Sarawak,total,booster1,perc,56.479980174885824
 Sarawak,total,booster2,perc,3.6017276170920804
 Sarawak,total,dose1,perc,88.89379403122456
 Sarawak,total,dose2,perc,86.1824972563458
@@ -2947,12 +2947,12 @@ Selangor,12_17,booster1,perc,3.02336578581363
 Selangor,12_17,booster2,perc,0.027399165507649512
 Selangor,12_17,dose1,perc,98.7432545201669
 Selangor,12_17,dose2,perc,96.39874826147427
-Selangor,18_29,booster1,perc,97.9383109082172
+Selangor,18_29,booster1,perc,97.93837097549255
 Selangor,18_29,booster2,perc,4.434947140797693
-Selangor,18_29,dose1,perc,132.62469966362326
-Selangor,18_29,dose2,perc,131.15263094666025
+Selangor,18_29,dose1,perc,132.6247597308986
+Selangor,18_29,dose2,perc,131.1526910139356
 Selangor,30_39,booster1,perc,90.33335323264284
-Selangor,30_39,booster2,perc,5.855232523431437
+Selangor,30_39,booster2,perc,5.855292221359918
 Selangor,30_39,dose1,perc,116.22231508566652
 Selangor,30_39,dose2,perc,115.2375977553579
 Selangor,40_49,booster1,perc,96.2795462241788
@@ -2983,10 +2983,10 @@ Selangor,adolescent,booster1,perc,3.02336578581363
 Selangor,adolescent,booster2,perc,0.027399165507649512
 Selangor,adolescent,dose1,perc,98.7432545201669
 Selangor,adolescent,dose2,perc,96.39874826147427
-Selangor,adult,booster1,perc,95.62577242874244
-Selangor,adult,booster2,perc,6.9765278721408
-Selangor,adult,dose1,perc,120.68683878481995
-Selangor,adult,dose2,perc,119.40124235659518
+Selangor,adult,booster1,perc,95.62578860526061
+Selangor,adult,booster2,perc,6.976544048658967
+Selangor,adult,dose1,perc,120.68690349089262
+Selangor,adult,dose2,perc,119.40125853311334
 Selangor,child,booster1,perc,0.2806390347447213
 Selangor,child,booster2,perc,0.0013406323315830633
 Selangor,child,dose1,perc,57.47581275835102
@@ -2995,10 +2995,10 @@ Selangor,elderly,booster1,perc,95.34678588690188
 Selangor,elderly,booster2,perc,13.024166263895602
 Selangor,elderly,dose1,perc,109.45903818269696
 Selangor,elderly,dose2,perc,108.74432092798455
-Selangor,total,booster1,perc,70.5130081493977
-Selangor,total,booster2,perc,5.125852360474234
-Selangor,total,dose1,perc,103.17480814464588
-Selangor,total,dose2,perc,101.2273634441303
+Selangor,total,booster1,perc,70.51302002898619
+Selangor,total,booster2,perc,5.125864240062724
+Selangor,total,dose1,perc,103.17485566299985
+Selangor,total,dose2,perc,101.22737532371879
 Terengganu,0_4,booster1,perc,0.0
 Terengganu,0_4,booster2,perc,0.0
 Terengganu,0_4,dose1,perc,0.0
@@ -3067,12 +3067,12 @@ W.P. Kuala Lumpur,12_17,booster1,perc,3.02336578581363
 W.P. Kuala Lumpur,12_17,booster2,perc,0.027399165507649512
 W.P. Kuala Lumpur,12_17,dose1,perc,98.7432545201669
 W.P. Kuala Lumpur,12_17,dose2,perc,96.39874826147427
-W.P. Kuala Lumpur,18_29,booster1,perc,97.9383109082172
+W.P. Kuala Lumpur,18_29,booster1,perc,97.93837097549255
 W.P. Kuala Lumpur,18_29,booster2,perc,4.434947140797693
-W.P. Kuala Lumpur,18_29,dose1,perc,132.62469966362326
-W.P. Kuala Lumpur,18_29,dose2,perc,131.15263094666025
+W.P. Kuala Lumpur,18_29,dose1,perc,132.6247597308986
+W.P. Kuala Lumpur,18_29,dose2,perc,131.1526910139356
 W.P. Kuala Lumpur,30_39,booster1,perc,90.33335323264284
-W.P. Kuala Lumpur,30_39,booster2,perc,5.855232523431437
+W.P. Kuala Lumpur,30_39,booster2,perc,5.855292221359918
 W.P. Kuala Lumpur,30_39,dose1,perc,116.22231508566652
 W.P. Kuala Lumpur,30_39,dose2,perc,115.2375977553579
 W.P. Kuala Lumpur,40_49,booster1,perc,96.2795462241788
@@ -3103,10 +3103,10 @@ W.P. Kuala Lumpur,adolescent,booster1,perc,3.02336578581363
 W.P. Kuala Lumpur,adolescent,booster2,perc,0.027399165507649512
 W.P. Kuala Lumpur,adolescent,dose1,perc,98.7432545201669
 W.P. Kuala Lumpur,adolescent,dose2,perc,96.39874826147427
-W.P. Kuala Lumpur,adult,booster1,perc,95.62577242874244
-W.P. Kuala Lumpur,adult,booster2,perc,6.9765278721408
-W.P. Kuala Lumpur,adult,dose1,perc,120.68683878481995
-W.P. Kuala Lumpur,adult,dose2,perc,119.40124235659518
+W.P. Kuala Lumpur,adult,booster1,perc,95.62578860526061
+W.P. Kuala Lumpur,adult,booster2,perc,6.976544048658967
+W.P. Kuala Lumpur,adult,dose1,perc,120.68690349089262
+W.P. Kuala Lumpur,adult,dose2,perc,119.40125853311334
 W.P. Kuala Lumpur,child,booster1,perc,0.2806390347447213
 W.P. Kuala Lumpur,child,booster2,perc,0.0013406323315830633
 W.P. Kuala Lumpur,child,dose1,perc,57.47581275835102
@@ -3115,10 +3115,10 @@ W.P. Kuala Lumpur,elderly,booster1,perc,95.34678588690188
 W.P. Kuala Lumpur,elderly,booster2,perc,13.024166263895602
 W.P. Kuala Lumpur,elderly,dose1,perc,109.45903818269696
 W.P. Kuala Lumpur,elderly,dose2,perc,108.74432092798455
-W.P. Kuala Lumpur,total,booster1,perc,70.5130081493977
-W.P. Kuala Lumpur,total,booster2,perc,5.125852360474234
-W.P. Kuala Lumpur,total,dose1,perc,103.17480814464588
-W.P. Kuala Lumpur,total,dose2,perc,101.2273634441303
+W.P. Kuala Lumpur,total,booster1,perc,70.51302002898619
+W.P. Kuala Lumpur,total,booster2,perc,5.125864240062724
+W.P. Kuala Lumpur,total,dose1,perc,103.17485566299985
+W.P. Kuala Lumpur,total,dose2,perc,101.22737532371879
 W.P. Labuan,0_4,booster1,perc,0.0
 W.P. Labuan,0_4,booster2,perc,0.0
 W.P. Labuan,0_4,dose1,perc,0.0
@@ -3187,12 +3187,12 @@ W.P. Putrajaya,12_17,booster1,perc,3.02336578581363
 W.P. Putrajaya,12_17,booster2,perc,0.027399165507649512
 W.P. Putrajaya,12_17,dose1,perc,98.7432545201669
 W.P. Putrajaya,12_17,dose2,perc,96.39874826147427
-W.P. Putrajaya,18_29,booster1,perc,97.9383109082172
+W.P. Putrajaya,18_29,booster1,perc,97.93837097549255
 W.P. Putrajaya,18_29,booster2,perc,4.434947140797693
-W.P. Putrajaya,18_29,dose1,perc,132.62469966362326
-W.P. Putrajaya,18_29,dose2,perc,131.15263094666025
+W.P. Putrajaya,18_29,dose1,perc,132.6247597308986
+W.P. Putrajaya,18_29,dose2,perc,131.1526910139356
 W.P. Putrajaya,30_39,booster1,perc,90.33335323264284
-W.P. Putrajaya,30_39,booster2,perc,5.855232523431437
+W.P. Putrajaya,30_39,booster2,perc,5.855292221359918
 W.P. Putrajaya,30_39,dose1,perc,116.22231508566652
 W.P. Putrajaya,30_39,dose2,perc,115.2375977553579
 W.P. Putrajaya,40_49,booster1,perc,96.2795462241788
@@ -3223,10 +3223,10 @@ W.P. Putrajaya,adolescent,booster1,perc,3.02336578581363
 W.P. Putrajaya,adolescent,booster2,perc,0.027399165507649512
 W.P. Putrajaya,adolescent,dose1,perc,98.7432545201669
 W.P. Putrajaya,adolescent,dose2,perc,96.39874826147427
-W.P. Putrajaya,adult,booster1,perc,95.62577242874244
-W.P. Putrajaya,adult,booster2,perc,6.9765278721408
-W.P. Putrajaya,adult,dose1,perc,120.68683878481995
-W.P. Putrajaya,adult,dose2,perc,119.40124235659518
+W.P. Putrajaya,adult,booster1,perc,95.62578860526061
+W.P. Putrajaya,adult,booster2,perc,6.976544048658967
+W.P. Putrajaya,adult,dose1,perc,120.68690349089262
+W.P. Putrajaya,adult,dose2,perc,119.40125853311334
 W.P. Putrajaya,child,booster1,perc,0.2806390347447213
 W.P. Putrajaya,child,booster2,perc,0.0013406323315830633
 W.P. Putrajaya,child,dose1,perc,57.47581275835102
@@ -3235,7 +3235,7 @@ W.P. Putrajaya,elderly,booster1,perc,95.34678588690188
 W.P. Putrajaya,elderly,booster2,perc,13.024166263895602
 W.P. Putrajaya,elderly,dose1,perc,109.45903818269696
 W.P. Putrajaya,elderly,dose2,perc,108.74432092798455
-W.P. Putrajaya,total,booster1,perc,70.5130081493977
-W.P. Putrajaya,total,booster2,perc,5.125852360474234
-W.P. Putrajaya,total,dose1,perc,103.17480814464588
-W.P. Putrajaya,total,dose2,perc,101.2273634441303
+W.P. Putrajaya,total,booster1,perc,70.51302002898619
+W.P. Putrajaya,total,booster2,perc,5.125864240062724
+W.P. Putrajaya,total,dose1,perc,103.17485566299985
+W.P. Putrajaya,total,dose2,perc,101.22737532371879
